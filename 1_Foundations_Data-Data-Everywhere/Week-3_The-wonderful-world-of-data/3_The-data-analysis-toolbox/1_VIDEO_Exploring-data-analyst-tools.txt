@@ -1,0 +1,80 @@
+I'm looking forward to introducing you to
+some of the tools data analyst use each and every day. There are tons of options out there. But the most common ones you'll
+see analyst use are spreadsheets, query languages and visualization tools. And this video is going to give you
+a quick look at how these tools are being used by data analysts everyday. Believe it or not,
+I was several years into my accounting and finance career before I saw all
+of these tools working together. At that point I was very
+experienced with spreadsheets, and had worked in large data sets with some
+of the traditional database programs. I had the foundational skill
+set to use query languages, and I had dabbled in visualizations, but
+I had never brought them all together. Then I got hired here at Google. And it was so
+eye-opening to come into a place like this with an abundance of
+information everywhere you look. As an analyst at Google, the true power of
+these tools became so much clearer to me. I became more focused on really maximizing
+everything these tools could do, streamlining my reporting and
+just making my work simpler. All of the sudden, I had a lot more time
+and space to dedicate to identifying new problems to solve and
+driving decision-making. Without a doubt, once you've
+learned the power of these tools, you will be well on your way to
+becoming the best data analyst you can possibly be. All right, I hope that story has you
+even more motivated for this course. Let's get started with spreadsheets. Again, there are lots of different
+spreadsheet solutions, but two popular options
+are Microsoft Excel and Google Sheets. To put it simply, a spreadsheet is
+a digital worksheet. It stores, organizes, and sorts data. This is important because the usefulness
+of your data depends on how well it's structured. When you put your data into a spreadsheet,
+you can see patterns, group information and
+easily find the information you need. Spreadsheets also have some really useful
+features called formulas and functions. A formula is a set of instructions
+that performs a specific calculation using the data
+in a spreadsheet. Formulas can do basic things like add,
+subtract, multiply and divide, but they don't stop there. You can also use formulas to find
+the average of a number set. Look up a particular value, return the sum of a set of values that
+meets a particular rule, and so much more. A function is a preset command that
+automatically performs a specific process or
+task using the data in a spreadsheet. That sounds pretty technical,
+I know, so let's break it down. Just think of a function as a simpler, more efficient way of doing something
+that would normally take a lot of time. In other words, functions can
+help make you more efficient. Those are the spreadsheet basics for now. Later on, you'll see them in action and
+start working with spreadsheets yourself. The next data analysis tool
+is called query language. A query language is a computer programming
+language that allows you to retrieve and manipulate data from a database. You'll learn something called
+structured query language, more commonly known as SQL. SQL is a language that lets data
+analysts communicate with a database. A database is a collection of
+data stored in a computer system. SQL is the most widely used structured
+query language for a couple of reasons. It's easy to understand and works very
+well with all kinds of databases. With SQL, data analysts can access
+the data they need by making a query. Although query means question, I like
+to think of it as more of a request. So you're requesting that
+the database do something for you. You can ask it to do a lot of different
+things such as insert, delete, select or update data. Okay, that's a top level look at SQL. In a later video,
+we'll explore it further and use SQL to do some really
+cool things with data. Lastly, let's talk about
+data visualization. You've learned that data visualization
+is the graphical representation of information. Some examples include graphs,
+maps, and tables. Most people process visuals
+more easily than words alone. That's why visualizations are so
+important. They help data analysts communicate their
+insights to others, in an effective and compelling way. When you think about the data analysis
+process, after data is prepared, processed and analyzed, the insights are visualized so
+it can be understood and shared. This makes it easier for
+stakeholders to draw conclusions, make decisions, and
+come up with strategies. Some popular visualization
+tools are Tableau and Looker. Data analysts like using Tableau because
+it helps them create visuals that are very easy to understand. This means that even non-technical users
+can get the information they need. Looker is also popular with data
+analysts because it gives them an easy way to create visuals
+based on the results of a query. With Looker, you can give stakeholders
+a complete picture of your work by showing them visualization data and
+the actual data related to it. All visualization tools have great
+features that are useful in different situations. Soon you will learn how to decide which
+tool to use for a particular job. And that's everything you need to
+know about the data life cycle and the data analysis process. You'll get a chance to
+test out what you know, so you can feel confident moving
+forward in this course. Feel free to take some time to
+re-familiarize yourself with the concepts and when you're ready,
+give it your best shot. If you're ever unsure of an answer,
+you can always go back and review the videos and readings. Then you'll be ready to move
+on to the next set of videos, where we'll continue exploring the data
+analytics tools you've already covered. And you'll get some really fascinating
+insights into exactly how they work. Before long, you'll have the knowledge and
+confidence to start using them yourself. Stay tuned.

@@ -1,0 +1,55 @@
+Welcome back. At this point, you've been introduced
+to the world of data analytics and what data analysts do. You've also learned how this
+course will prepare you for a successful career as an analyst. Coming up, you'll learn all
+the ways data can be used, and you'll discover why data
+analysts are in such high demand. I'm not exaggerating when I say every
+goal and success that my team and I have achieved couldn't
+have been done without data. Here at Google,
+all of our products are built on data and data-driven decision making. From concept to development to launch, we're using data to figure out the best
+way forward. And we're not alone. Countless other organizations also
+see the incredible value in data and, of course, the data analysts
+who help them make use of it. So we know data opens up
+a lot of opportunities. But to help you wrap your head around
+all the ways you can actually use data, let's go over a few examples
+from everyday life. You might not realize it, but
+people analyze data all the time. For instance, I'm a morning person. A long time ago,
+I realized that I'm happier and more productive if I get to bed
+early and wake up early. I came to this conclusion after noticing
+a pattern in my day-to-day experiences. When I got seven hours of sleep and woke
+up at 6:30, I was the most successful. So I thought about the relationship
+between this pattern and my daily life, and I predicted that early to bed early
+to rise would be the right choice for me. And I'm definitely my best self
+when I wake up bright and early. I bet you've identified patterns and
+relationships in your life, too. Maybe about your own sleep cycle or
+how you feel after eating certain foods, or what time of day you like to workout. All of these are great examples of
+real life patterns and relationships that you can use to make predictions
+about the right actions to take, and that is a huge part of
+data analysis right there. Now, let's put this process
+into a business setting. You may remember from an earlier video
+that there's a ton of data out there. And every minute of every hour of
+every day, more data is being created. Businesses need a way to
+control all that data so they can use it to improve processes,
+identify opportunities and trends, launch new products, serve customers,
+and make thoughtful decisions. For businesses to be on
+top of the competition, they need to be on top of their data. That's why these companies hire data
+analysts to control the waves of data they collect every day, makes sense of it, and
+then draw conclusions or make predictions. This is the process of turning
+data into insights, and it's how analysts help businesses
+put all their data to good use. This is actually a good way to think about
+analysis: turning data into insights. As a reminder, the more detailed
+definition you learned earlier is that data analysis is the collection,
+transformation, and organization of data in
+order to draw conclusions, make predictions, and
+drive informed decision-making. So after analysts have created
+insights from data, what happens? Well, a lot. Those insights are shared with others,
+decisions are made, and businesses take action. And here's where it can
+get really exciting. Data analytics can help organizations
+completely rethink something they do or point them in a totally new direction. For example, maybe data leads them to
+a new product or unique service, or maybe it helps them find a new way to
+deliver an incredible customer experience. It's these kinds of aha moments that
+can help businesses reach another level, and that makes data analysts
+vital to any business. Now that you know more of the amazing
+ways data is being used every day, you can see why data analysts
+are in such high demand. We'll continue exploring how analysts can
+transform data into insights that lead to action. And before you know it, you'll be ready
+to help any organization find new and exciting ways to transform their data.

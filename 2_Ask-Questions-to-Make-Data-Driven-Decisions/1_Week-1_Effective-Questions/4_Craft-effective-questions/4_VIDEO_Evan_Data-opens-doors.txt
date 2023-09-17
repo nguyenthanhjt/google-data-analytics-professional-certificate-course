@@ -1,0 +1,44 @@
+[MUSIC]
+Hi, I'm Evan. I'm a learning portfolio
+manager here at Google, and I have one of the coolest
+jobs in the world where I get to look at all the different
+technologies that affect big data and then work them into training courses
+like this one for students to take. I wish I had a course like this
+when I was first coming out of college or high school. It was honestly a data analyst course
+that's geared in the way like this one is if you've already taken
+some of the videos really prepares you to do
+anything you want. It will open all of those doors that you want for any of those roles inside
+of the data curriculum. Well, what are some of those roles? There are so many different career paths
+for someone who's interested in data. Generally, if you're like me, you'll come in through the door as a data
+analyst maybe working with spreadsheets, maybe working with small,
+medium, and large databases, but all you have to remember
+is 3 different core roles. Now there's many in special, whether
+specialties, within each of these different careers, but
+these three are the data analysts, which is generally someone who
+works with SQL, spreadsheets, databases, might work as
+a business intelligence team creating those dashboards. Now where does all that data come from? Generally, a data analyst will
+work with a data engineer to turn that raw data into actionable pipelines. So you have data analysts,
+data engineers, and then lastly, you might have data scientists who
+basically say the data engineers have built these beautiful pipelines. Sometimes the analyst do that too.
+The analysts have provided us with clean and actionable data. Then the data scientists then worked actually to turn
+it into really cool machine learning models or
+statistical inferences that are just well beyond anything you
+could have ever imagined. We'll share a lot of resources in links for
+ways that you can get excited for each of these different roles. And the best part is, if you're like me when I went into school, I didn't
+know what I wanted to do and you don't have to know at the outset
+which path you want to go down. Try 'em all. See what you really, really like. It's very personal. Becoming
+a data analyst is so exciting. Why?
+Because it's not just like a means to an end. It's just taking a career path where so
+many bright people have gone before and have made the tools and technologies
+that much easier for you and me today. For example, when I was starting
+to learn SQL or the structured query language that you're going to
+be learning as part of this course, I was doing it on my local laptop and
+each of the queries would take like 20, 30 minutes to run and
+it was very hard for me to keep track of different SQL
+statements that I was writing or share them with somebody else. That
+was about 10 or 15 years ago. Now, through all
+the different companies and all the different tools that
+are making data analysis tools and technologies easier for you, you're going
+to have a blast creating these insights with a lot less of the overhead that
+I had when I first started out. So I'm really excited to
+hear what you think and what your experience is going to be.

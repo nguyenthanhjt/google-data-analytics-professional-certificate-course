@@ -1,0 +1,846 @@
+WEBVTT
+
+1
+00:00:00.040 --> 00:00:03.880
+Spreadsheets are a big
+part of data analytics.
+
+2
+00:00:03.880 --> 00:00:05.270
+The sooner you make friends
+
+3
+00:00:05.270 --> 00:00:07.205
+with spreadsheets, the better.
+
+4
+00:00:07.205 --> 00:00:09.950
+Trust me, they'll save
+you a lot of time as
+
+5
+00:00:09.950 --> 00:00:13.775
+a data analyst and make
+your whole job easier.
+
+6
+00:00:13.775 --> 00:00:16.400
+This spreadsheet is one example
+
+7
+00:00:16.400 --> 00:00:19.340
+of how an organized
+spreadsheet might look.
+
+8
+00:00:19.340 --> 00:00:21.695
+In this video, we'll
+demonstrate some of
+
+9
+00:00:21.695 --> 00:00:23.750
+the basic spreadsheet
+concepts for
+
+10
+00:00:23.750 --> 00:00:26.195
+all of you who are
+new to this world.
+
+11
+00:00:26.195 --> 00:00:28.220
+This might be a review
+for some of you
+
+12
+00:00:28.220 --> 00:00:30.035
+more experienced
+folks out there,
+
+13
+00:00:30.035 --> 00:00:33.115
+but it never hurts to
+practice what you know.
+
+14
+00:00:33.115 --> 00:00:36.145
+Plus, you might still
+learn a trick or two.
+
+15
+00:00:36.145 --> 00:00:38.035
+I showed you this image earlier.
+
+16
+00:00:38.035 --> 00:00:41.180
+Let's explore it further
+because it's a great example of
+
+17
+00:00:41.180 --> 00:00:44.280
+the three main features
+of a spreadsheet: cells,
+
+18
+00:00:44.280 --> 00:00:46.130
+rows, and columns.
+
+19
+00:00:46.130 --> 00:00:48.080
+They'll be part of
+almost everything
+
+20
+00:00:48.080 --> 00:00:49.790
+you do in a
+spreadsheet for making
+
+21
+00:00:49.790 --> 00:00:53.900
+a simple grocery list to
+analyzing a complex dataset.
+
+22
+00:00:53.900 --> 00:00:56.540
+I use spreadsheets to
+manage everything from
+
+23
+00:00:56.540 --> 00:00:58.490
+my own personal finances to
+
+24
+00:00:58.490 --> 00:01:00.185
+the annual homecoming party
+
+25
+00:01:00.185 --> 00:01:02.025
+my friends and I
+have every year.
+
+26
+00:01:02.025 --> 00:01:03.980
+I'm the planner, so I use
+
+27
+00:01:03.980 --> 00:01:05.795
+a spreadsheet to keep
+things in order,
+
+28
+00:01:05.795 --> 00:01:08.495
+making sure we have
+everything we need.
+
+29
+00:01:08.495 --> 00:01:10.685
+Speaking of keeping
+things in order,
+
+30
+00:01:10.685 --> 00:01:13.640
+columns are organized vertically
+
+31
+00:01:13.640 --> 00:01:17.080
+in a spreadsheet and
+are ordered by letter.
+
+32
+00:01:17.080 --> 00:01:18.740
+And the rows are organized
+
+33
+00:01:18.740 --> 00:01:21.815
+horizontally and are
+ordered by number.
+
+34
+00:01:21.815 --> 00:01:24.470
+So when you talk about
+a specific cell,
+
+35
+00:01:24.470 --> 00:01:26.900
+you name it by combining
+the column letter
+
+36
+00:01:26.900 --> 00:01:29.865
+and the row number where
+the cell is located.
+
+37
+00:01:29.865 --> 00:01:32.419
+For example, in
+this spreadsheet,
+
+38
+00:01:32.419 --> 00:01:36.155
+the word row is in cell D3.
+
+39
+00:01:36.155 --> 00:01:39.425
+Let's get started in
+an actual spreadsheet.
+
+40
+00:01:39.425 --> 00:01:41.660
+You can complete
+all of the steps
+
+41
+00:01:41.660 --> 00:01:44.635
+in just about any
+spreadsheet program.
+
+42
+00:01:44.635 --> 00:01:48.765
+Let's get to know your
+spreadsheet a little better now.
+
+43
+00:01:48.765 --> 00:01:51.860
+We'll start with some
+basic operations.
+
+44
+00:01:51.860 --> 00:01:54.275
+Keep in mind, as an analyst,
+
+45
+00:01:54.275 --> 00:01:56.570
+you won't always create
+your own dataset.
+
+46
+00:01:56.570 --> 00:01:59.060
+But for now, let's do just that.
+
+47
+00:01:59.060 --> 00:02:06.235
+I'll click in cell A2 and
+type my first name like this.
+
+48
+00:02:06.235 --> 00:02:12.010
+Then I'll click in cell
+B2 and type my last name.
+
+49
+00:02:13.850 --> 00:02:17.575
+Don't worry if your name
+doesn't fit in the cell,
+
+50
+00:02:17.575 --> 00:02:20.965
+you can always make columns
+wider if you need to.
+
+51
+00:02:20.965 --> 00:02:23.410
+All you have to do
+is click and drag
+
+52
+00:02:23.410 --> 00:02:26.890
+the right edge of the column
+until your name fits.
+
+53
+00:02:26.890 --> 00:02:30.265
+Or you can use the
+text wrapping feature,
+
+54
+00:02:30.265 --> 00:02:33.010
+which will set cells to
+automatically change
+
+55
+00:02:33.010 --> 00:02:36.040
+their height to allow the
+text in the cell to fit.
+
+56
+00:02:36.040 --> 00:02:37.525
+To use this feature,
+
+57
+00:02:37.525 --> 00:02:39.730
+select the cells, columns,
+
+58
+00:02:39.730 --> 00:02:41.345
+or rows with text,
+
+59
+00:02:41.345 --> 00:02:43.600
+then use the format menu
+
+60
+00:02:43.600 --> 00:02:46.360
+to look at the text
+wrapping options.
+
+61
+00:02:46.360 --> 00:02:48.700
+It is automatically set to allow
+
+62
+00:02:48.700 --> 00:02:51.220
+the text to overflow
+out of the cell.
+
+63
+00:02:51.220 --> 00:02:52.780
+But you can wrap the text
+
+64
+00:02:52.780 --> 00:02:55.665
+instead so all of
+the text is visible.
+
+65
+00:02:55.665 --> 00:02:58.450
+The clip option will
+cut off the text in
+
+66
+00:02:58.450 --> 00:03:02.215
+the cell so only the text
+that fits is visible.
+
+67
+00:03:02.215 --> 00:03:05.565
+There it is. We've added data.
+
+68
+00:03:05.565 --> 00:03:07.520
+Now let's label it.
+
+69
+00:03:07.520 --> 00:03:10.330
+This is important
+for organization.
+
+70
+00:03:10.330 --> 00:03:12.160
+Adding labels to the top of
+
+71
+00:03:12.160 --> 00:03:14.050
+the columns will
+make it easier to
+
+72
+00:03:14.050 --> 00:03:15.940
+reference and find data later
+
+73
+00:03:15.940 --> 00:03:18.395
+on when you're doing analysis.
+
+74
+00:03:18.395 --> 00:03:21.800
+These column labels are
+usually called attributes.
+
+75
+00:03:21.800 --> 00:03:25.000
+An attribute is a
+characteristic or quality of
+
+76
+00:03:25.000 --> 00:03:28.360
+data used to label a
+column in a table.
+
+77
+00:03:28.360 --> 00:03:30.370
+More commonly, attributes are
+
+78
+00:03:30.370 --> 00:03:32.680
+referred to as column names,
+
+79
+00:03:32.680 --> 00:03:34.810
+column labels, headers,
+
+80
+00:03:34.810 --> 00:03:37.250
+or the header row.
+
+81
+00:03:37.580 --> 00:03:40.535
+Let's add some
+headers to our table.
+
+82
+00:03:40.535 --> 00:03:45.920
+I'll click in cell A1 and
+type the words first name.
+
+83
+00:03:48.230 --> 00:03:53.410
+In cell B1 I'll type last name.
+
+84
+00:03:53.900 --> 00:03:58.470
+We'll make these attributes
+bold so they stand out more.
+
+85
+00:03:58.470 --> 00:04:00.735
+Spreadsheets can get really big,
+
+86
+00:04:00.735 --> 00:04:02.790
+so you want to make
+sure your data is
+
+87
+00:04:02.790 --> 00:04:05.190
+clearly labeled
+and easy to find.
+
+88
+00:04:05.190 --> 00:04:07.210
+I can use my cursor to select
+
+89
+00:04:07.210 --> 00:04:09.270
+the cells with the attributes.
+
+90
+00:04:09.270 --> 00:04:12.900
+Then I'll click the bold
+icon to make them bold.
+
+91
+00:04:12.900 --> 00:04:14.765
+Looking good so far.
+
+92
+00:04:14.765 --> 00:04:16.740
+Ready to add some more data?
+
+93
+00:04:16.740 --> 00:04:18.960
+Let's start with
+some new attributes.
+
+94
+00:04:18.960 --> 00:04:22.260
+First, I'll add a column for
+the number of siblings by
+
+95
+00:04:22.260 --> 00:04:26.530
+typing siblings in cell C1.
+
+96
+00:04:27.920 --> 00:04:31.200
+Then I'll add two
+more attributes
+
+97
+00:04:31.200 --> 00:04:32.955
+in the next two columns.
+
+98
+00:04:32.955 --> 00:04:37.215
+Let's go with favorite
+color and favorite dessert.
+
+99
+00:04:37.215 --> 00:04:40.200
+I'll make them bold too.
+
+100
+00:04:40.200 --> 00:04:42.825
+To fit the labels in the cells,
+
+101
+00:04:42.825 --> 00:04:47.050
+I'll adjust the size of the
+columns just like before.
+
+102
+00:04:48.140 --> 00:04:51.075
+Now, keep in mind,
+
+103
+00:04:51.075 --> 00:04:52.770
+there are more ways to adjust
+
+104
+00:04:52.770 --> 00:04:55.410
+the size of the
+columns and rows.
+
+105
+00:04:55.410 --> 00:04:58.260
+If you have questions
+about using spreadsheets,
+
+106
+00:04:58.260 --> 00:04:59.855
+a quick search online will
+
+107
+00:04:59.855 --> 00:05:01.995
+usually help you
+find what you need.
+
+108
+00:05:01.995 --> 00:05:04.080
+We've also included
+a reading with
+
+109
+00:05:04.080 --> 00:05:07.710
+more tips and information
+about spreadsheets.
+
+110
+00:05:07.710 --> 00:05:09.900
+OK, let's get back to it.
+
+111
+00:05:09.900 --> 00:05:13.545
+Now, I can add my own
+data to the dataset.
+
+112
+00:05:13.545 --> 00:05:16.680
+I'll type in how many
+siblings I have and
+
+113
+00:05:16.680 --> 00:05:21.610
+my favorite color and dessert
+in the appropriate cells.
+
+114
+00:05:25.220 --> 00:05:30.070
+Next, I'll add data
+for two more people.
+
+115
+00:05:32.600 --> 00:05:35.820
+We now have three rows of data.
+
+116
+00:05:35.820 --> 00:05:40.650
+In a dataset, a row is also
+called an observation.
+
+117
+00:05:40.650 --> 00:05:43.610
+An observation includes
+all of the attributes
+
+118
+00:05:43.610 --> 00:05:46.760
+for something contained
+in a row of a data table.
+
+119
+00:05:46.760 --> 00:05:50.685
+In this case, row 3
+is an observation
+
+120
+00:05:50.685 --> 00:05:52.640
+of Willa Stein because we
+
+121
+00:05:52.640 --> 00:05:55.650
+see all of her
+attributes in this row.
+
+122
+00:05:55.650 --> 00:05:58.130
+So now we know spreadsheets let
+
+123
+00:05:58.130 --> 00:05:59.915
+you do lots of things with data.
+
+124
+00:05:59.915 --> 00:06:01.640
+You can store and organize
+
+125
+00:06:01.640 --> 00:06:04.195
+data like we've done
+in this spreadsheet.
+
+126
+00:06:04.195 --> 00:06:06.440
+But you can go even further
+
+127
+00:06:06.440 --> 00:06:08.600
+and recognize existing data too.
+
+128
+00:06:08.600 --> 00:06:11.135
+Here, I'll show you how.
+
+129
+00:06:11.135 --> 00:06:14.150
+Let's say we want to
+organize our data
+
+130
+00:06:14.150 --> 00:06:16.950
+by how many siblings
+each person has.
+
+131
+00:06:16.950 --> 00:06:18.660
+There's a simple way to do that.
+
+132
+00:06:18.660 --> 00:06:21.830
+First, we'll need to select
+all of our columns with
+
+133
+00:06:21.830 --> 00:06:25.835
+data so that all of it
+is reorganized together.
+
+134
+00:06:25.835 --> 00:06:29.090
+Then we can go to our data menu.
+
+135
+00:06:29.090 --> 00:06:31.580
+Here we have some options.
+
+136
+00:06:31.580 --> 00:06:34.085
+Let's select sort range.
+
+137
+00:06:34.085 --> 00:06:38.160
+This will let us choose how
+to organize the column.
+
+138
+00:06:39.320 --> 00:06:42.865
+Next, we'll choose A to Z,
+
+139
+00:06:42.865 --> 00:06:44.680
+which will organize
+our numbers in
+
+140
+00:06:44.680 --> 00:06:47.080
+order from smallest to largest.
+
+141
+00:06:47.080 --> 00:06:50.545
+Now, we want to watch
+out for header row,
+
+142
+00:06:50.545 --> 00:06:52.435
+which is the word siblings,
+
+143
+00:06:52.435 --> 00:06:54.390
+the attribute for this column.
+
+144
+00:06:54.390 --> 00:06:56.635
+We'll check this box.
+
+145
+00:06:56.635 --> 00:07:00.770
+This makes sure the word
+siblings stays in place.
+
+146
+00:07:00.770 --> 00:07:03.790
+Now we're ready to sort.
+
+147
+00:07:03.790 --> 00:07:07.000
+Voila, we just reorganized
+
+148
+00:07:07.000 --> 00:07:08.560
+our data by sorting it from
+
+149
+00:07:08.560 --> 00:07:11.095
+the smallest number
+to the largest.
+
+150
+00:07:11.095 --> 00:07:12.820
+As we go further,
+
+151
+00:07:12.820 --> 00:07:14.230
+you discover lots of
+
+152
+00:07:14.230 --> 00:07:16.960
+other ways to work with
+data in a spreadsheet,
+
+153
+00:07:16.960 --> 00:07:19.470
+including functions
+and formulas.
+
+154
+00:07:19.470 --> 00:07:22.375
+Let's finish with a quick
+example of a formula.
+
+155
+00:07:22.375 --> 00:07:24.280
+You can think of formulas as
+
+156
+00:07:24.280 --> 00:07:27.295
+one way of manipulating
+data in a spreadsheet.
+
+157
+00:07:27.295 --> 00:07:31.495
+Formulas are like a
+calculator, but more powerful.
+
+158
+00:07:31.495 --> 00:07:34.960
+A formula is a set of
+instructions that performs
+
+159
+00:07:34.960 --> 00:07:38.465
+a specific action using
+the data in a spreadsheet.
+
+160
+00:07:38.465 --> 00:07:40.600
+To do this, the formula uses
+
+161
+00:07:40.600 --> 00:07:43.795
+cell references for the
+values it's calculating.
+
+162
+00:07:43.795 --> 00:07:47.100
+Let me show you. Here we go.
+
+163
+00:07:47.100 --> 00:07:51.510
+We'll click in the next cell
+in the siblings column.
+
+164
+00:07:51.510 --> 00:07:55.390
+Then we'll type an equal sign.
+
+165
+00:07:55.940 --> 00:07:59.435
+All formulas begin
+with this symbol.
+
+166
+00:07:59.435 --> 00:08:03.585
+Next, we'll type in the cells
+we want to add together.
+
+167
+00:08:03.585 --> 00:08:10.275
+In this case, we'll type
+in C2 plus C3 plus C4.
+
+168
+00:08:10.275 --> 00:08:12.940
+Now we can press "Enter".
+
+169
+00:08:12.980 --> 00:08:16.680
+There it is. The
+formula has given us
+
+170
+00:08:16.680 --> 00:08:20.355
+the total number of siblings
+represented in this dataset.
+
+171
+00:08:20.355 --> 00:08:23.175
+We've just analyzed some data.
+
+172
+00:08:23.175 --> 00:08:26.070
+We'll want to store the
+data for later use.
+
+173
+00:08:26.070 --> 00:08:28.170
+In Google sheets,
+a spreadsheet is
+
+174
+00:08:28.170 --> 00:08:30.885
+automatically saved
+in your Google Drive.
+
+175
+00:08:30.885 --> 00:08:33.435
+For Excel and other
+spreadsheets,
+
+176
+00:08:33.435 --> 00:08:35.445
+you'll save them as a file.
+
+177
+00:08:35.445 --> 00:08:38.610
+Now you know some basics
+for using spreadsheets.
+
+178
+00:08:38.610 --> 00:08:40.620
+Once you're used
+to these concepts,
+
+179
+00:08:40.620 --> 00:08:41.790
+you'll be able to learn even
+
+180
+00:08:41.790 --> 00:08:43.845
+more about spreadsheet tools.
+
+181
+00:08:43.845 --> 00:08:45.480
+Feel free to re-watch
+
+182
+00:08:45.480 --> 00:08:47.745
+this video and
+practice on your own.
+
+183
+00:08:47.745 --> 00:08:50.745
+You can even make your own
+version of the spreadsheet
+
+184
+00:08:50.745 --> 00:08:54.670
+with your own data. Bye for now.

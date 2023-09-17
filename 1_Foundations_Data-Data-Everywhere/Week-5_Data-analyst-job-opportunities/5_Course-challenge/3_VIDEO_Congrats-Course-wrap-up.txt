@@ -1,0 +1,39 @@
+Congratulations on finishing
+this first course. You've already learned a lot and you're ready to
+take what you've learned and move forward and if you ever need a refresher, just remember that
+these videos will still be here whenever you need them. You might remember your
+next instructor from our introduction at the
+beginning of the intro course. Get ready to meet
+my fellow Googler and your instructor for the
+next course, Ximena. She's ready to help you get started on your next step towards finishing this program and
+becoming a data analyst. This next course will build directly on some of the
+topics you've learned so far and give you insight into the things we've
+already talked about. Like any good detective, you learn how to ask
+the right questions and use data to find answers. Employees in every industry needs to become comfortable
+asking questions, but this can especially be
+true for data analysts. A lot of data analysts try
+to make their work perfect the first time even though they might not have
+all the information. Instead of asking questions, they make assumptions that
+can lead to mistakes. It's so much better to be humble and inquisitive and
+to ask questions. I'll show you what I mean. One of the analysts I supervise came into Google with
+no coding experience. He was nervous about leaving
+a great first impression, so he tried to study up on multiple languages by
+himself before he started. When the work actually began, he didn't ask us his team questions or ask us for help when he
+ran into roadblocks. There are a lot of great
+places to find answers, especially online, and his initiative helped them
+find some of those places. But at the end of the day, he forgot to tap into
+his best resource, us, his team, because he was nervous about how he would be perceived
+if he asked us for help. He almost missed out on some great insights
+from his team members. As roadblocks persisted, he realized he needed
+to make a change. He stopped trying to guess
+expectations, processes, and more all on his own and started asking us more questions. As soon as he embraced
+this new approach, he skyrocketed on our team. His learning went straight up the curve like a hockey stick. His impact on the organization, the number of people who
+reached out to him and his career path going for
+it all did the same. The bottom line is, you don't need to know it all. The saying is true, there are no bad questions. Being open to learning is one of the most important qualities
+for a data analyst. Speaking of learning,
+in the next course, we'll go into more
+depth learning about basic spreadsheet skills and
+when you need to use them, you'll discover how to apply structured thinking to data work, and your focus on
+how to best meet stakeholder needs
+and expectations by gathering all the clues. Great work, and good
+luck on the next course.

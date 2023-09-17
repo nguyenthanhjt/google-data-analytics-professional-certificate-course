@@ -1,0 +1,60 @@
+Previously, we learned about
+what a data analyst does and why that work is so valuable. Now, let's look at where data
+analysts actually do their work. You'll learn much more about the industries
+you could work in as a data analyst. And how companies in these fields are
+already using data analytics to do some really cool things. There are so many businesses out
+there that have a big need for the skills you're learning right now. Across industries like technology,
+marketing, finance, health care, and so many more. Real companies are already using data
+analytics to stay ahead of the curve. And the more they use data in their
+business, the more they understand just how important data analyst
+like you are to their success. Let's look at a real life example of
+a brand you'll probably recognize, Coca-Cola. Data is changing the way Coca-Cola
+approaches its marketing strategies. Coca-Cola uses data gathered from
+consumer feedback to create advertising that speaks directly to different
+audiences with different interests. How does this work? You know those high tech Coca-Cola
+vending machines you see at movie theater sometimes? It's always fun getting
+to make your own flavors. Well, those machines have built-in
+artificial intelligence and data analysis tools. This helps Coca-Cola see all the different
+kinds of flavor combinations people are coming up with, which they can then
+use as inspiration for new products. How cool is that? Ever wonder how Google gives you the right
+answer to any question in just seconds? That's powered by data too. We use all kinds of data to
+determine a website's reliability and accuracy to make sure you get the most
+useful results for any search you make. But it isn't just big companies like
+Coca-Cola and Google that use data. Small businesses everywhere are also
+starting to take advantage of data driven insights to improve their
+operations and make better decisions. Small businesses can use data
+to do all kinds of things. They might use data analytics to better
+understand their customers' buying habits, create more effective
+social media messaging, or, in the case of one city zoo and
+aquarium, predict the number of daily visitors
+based on local climate data. City zoo and aquarium realized that, on rainy days, they were seeing
+huge drop offs in attendance, but they had no way to accurately
+predict when those rainy days would hit. This made staffing a real challenge. Some days they found
+themselves overstaffed, other days they were unprepared for
+the rush of visitors. To deal with this, data analyst took
+years of weather records from the zoo and use that data to accurately
+predict future weather patterns. This made it easy for the zoo to know
+how much staff they needed when. Because the zoo could predict and manage
+their staffing needs more accurately, they were able to provide a better
+experience for visitors and dedicate more resources to creating
+a better experience for the animals too. We see a similar thing in
+the healthcare industry. Their data analysts look at clinic
+attendance data to help hospitals and doctors offices predict when rush hours
+will hit so they can be ready for it. Your local city hospital
+is a great example. Let's say they've been getting
+complaints about long wait times. Sometimes an hour or more,
+which made it hard for some patients to get the care they needed. So data analyst use data about the
+hospitals daily foot traffic to help them make more informed decisions about how
+many doctors they need on staff at any given time. This helped reduce wait times,
+improve their patients experience, and make better use of the health
+care worker's time too. Like I said, there are many ways that
+companies in different industries put data to use, but they can only do that if
+they have data analyst they can rely on. So you might be wondering,
+how you fit into the equation? Well, you've got plenty of options, but you don't have to decide what industry
+you want to work in right away. There will be plenty of time to think about that
+as you make your way through this program. By the time you finish this program, you
+have the core skills that will make you valuable in any industry that
+makes data driven decisions. Which, as it turns out,
+is most industries, even zoos. Coming up, we'll check out the business
+task where data can be helpful. And, we'll explore even more how data
+analysts are empowering businesses through data. I'll see you then.

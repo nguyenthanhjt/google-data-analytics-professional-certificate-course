@@ -1,0 +1,7 @@
+# Discovering data skill sets
+
+- Welcome.
+- Now that you have a solid-vửng vàng foundation on the basics of data, it's time to focus on some particular skills and characteristics-đặc trưng that will be key to your future career as a data analyst.
+- We'll begin with `five key skills`, move on to the characteristics of `analytical thinking` and then learn `how data analysts balance their roles and responsibilities`.
+- Along the way, you'll also discover how to tap into `your own natural abilities for strategy`, `technical expertise`, and `data design`. These are incredibly helpful skills to have and you'll learn how to make them even stronger.
+- Finally, you'll be introduced to some fascinating real-world examples of how data is influencing the lives of people all around the world. All right. Let's get started.

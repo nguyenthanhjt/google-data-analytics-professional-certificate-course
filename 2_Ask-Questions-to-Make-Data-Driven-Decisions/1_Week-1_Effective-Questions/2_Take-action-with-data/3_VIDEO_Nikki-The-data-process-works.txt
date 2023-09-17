@@ -1,0 +1,36 @@
+I'm Nikki and I
+manage the education, evaluation, assessment,
+and research team. My favorite part of the data
+analysis process is finding the hardest problem and asking a million questions about it and seeing if it's even
+possible to get an answer. One of the problems that
+we've tackled here at Google is our Noogler
+onboarding program, which is how we
+onboard new hires. One of the things that we've
+done is ask the question, how do we know whether or not Nooglers are
+onboarding faster through our new
+onboarding program than our old onboarding program
+where we used to lecture them. We worked really closely with
+the content providers to understand just exactly what does it mean to onboard
+someone faster? Once we asked all the questions, what we did is we prepared the data by understanding who was the population of the new
+hires that we were examining. We prepared our data by going through and understanding
+who our populations were, by understanding who
+our sample set was, who our control group was, who our experiment group was, where were our data sources, and make sure that it
+was in a set, in a format that was clean and digestible for us to write the
+proper scripts for. So the next step for us was to process the data to
+make sure that it was in a format that we could
+actually analyze in SQL, making sure that was
+in the right format, in the right columns, and in the right tables for us. To analyze the data, we wrote scripts in SQL and
+in R to correlate the data to the control group or
+the experiment group and interpret the
+data to understand, were there any changes in the behavioral
+indicators that we saw? Once we analyze all the data, we want to report on it in a way that our stakeholders
+could understand. Depending on who our
+stakeholders were, we prepared reports, dashboards and presentations, and shared
+that information out. Once all of our
+reports were complete, we saw really positive
+results and decided to act on it by continuing our project-based learning
+onboarding program. It was really satisfying to
+know that we have the data to support it and that
+it really, really worked. And not just that the data was there, but that we knew
+that our students were learning and that
+they were more productive, faster back on their jobs.

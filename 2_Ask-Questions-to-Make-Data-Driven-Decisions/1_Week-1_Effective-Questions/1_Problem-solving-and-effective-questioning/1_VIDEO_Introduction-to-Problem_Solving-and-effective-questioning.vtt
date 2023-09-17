@@ -1,0 +1,231 @@
+WEBVTT
+
+1
+00:00:01.140 --> 00:00:05.030
+Welcome to the second course in
+the Google Data Analytics certificate.
+
+2
+00:00:05.030 --> 00:00:08.850
+If you completed Course One,
+we met briefly at the beginning,
+
+3
+00:00:08.850 --> 00:00:11.515
+but for
+those of you who are just joining us,
+
+4
+00:00:11.515 --> 00:00:14.990
+my name is Ximena, and
+I'm a Google Finance data analyst.
+
+5
+00:00:14.990 --> 00:00:18.173
+I think it's really wonderful
+that you're here with me
+
+6
+00:00:18.173 --> 00:00:21.637
+learning about the fascinating
+field of data analytics.
+
+7
+00:00:21.637 --> 00:00:25.350
+Learning and education have
+always been very important to me.
+
+8
+00:00:25.350 --> 00:00:29.274
+When I was young, my mom always said,
+"I can't leave you an inheritance, but
+
+9
+00:00:29.274 --> 00:00:31.030
+I can give you an education that
+
+10
+00:00:31.030 --> 00:00:34.606
+opens doors."
+That always pushed me to keep learning, and
+
+11
+00:00:34.606 --> 00:00:39.260
+that education gave me the confidence
+to apply for my job at Google.
+
+12
+00:00:39.260 --> 00:00:42.760
+Now I get to do really
+meaningful work every day.
+
+13
+00:00:42.760 --> 00:00:46.950
+Just recently I worked as an analyst
+on a team called Verily Life Sciences.
+
+14
+00:00:46.950 --> 00:00:51.650
+We were helping to get life-saving medical
+supplies to those who need it most.
+
+15
+00:00:51.650 --> 00:00:56.244
+To do this, we forecasted what health
+care professionals would need on hand and
+
+16
+00:00:56.244 --> 00:00:58.860
+then shared that information with networks.
+
+17
+00:00:58.860 --> 00:01:01.300
+The information that my
+team provided helped make
+
+18
+00:01:01.300 --> 00:01:05.040
+data driven decisions that
+actually saved lives.
+
+19
+00:01:05.040 --> 00:01:08.250
+I'm thrilled to be your instructor for
+this course.
+
+20
+00:01:08.250 --> 00:01:11.721
+We're going to talk about
+the difference between effective and
+
+21
+00:01:11.721 --> 00:01:15.449
+ineffective questions and
+learn how to ask great questions that lead
+
+22
+00:01:15.449 --> 00:01:18.483
+to insights that can help
+you solve business problems.
+
+23
+00:01:18.483 --> 00:01:23.942
+You will discover that effective questions
+help you to make the most of all
+
+24
+00:01:23.942 --> 00:01:29.580
+the data analysis phases. You may
+remember that these phases include ask,
+
+25
+00:01:29.580 --> 00:01:33.125
+prepare, process, analyze, share, and act.
+
+26
+00:01:33.125 --> 00:01:36.471
+In the ask step,
+we define the problem we're solving and
+
+27
+00:01:36.471 --> 00:01:40.250
+make sure that we fully understand
+stakeholder expectations.
+
+28
+00:01:40.250 --> 00:01:43.484
+This will help keep you
+focused on the actual problem,
+
+29
+00:01:43.484 --> 00:01:46.030
+which leads to more successful outcomes.
+
+30
+00:01:46.030 --> 00:01:49.963
+So we'll begin this course by
+talking about problem solving and
+
+31
+00:01:49.963 --> 00:01:54.890
+some of the common types of business
+problems that data analysts help solve.
+
+32
+00:01:54.890 --> 00:01:59.720
+And because this course focuses on
+the ask phase, you'll learn how to craft
+
+33
+00:01:59.720 --> 00:02:05.020
+effective questions that help you collect
+the right data to solve those problems.
+
+34
+00:02:05.020 --> 00:02:08.758
+Next, we'll talk about the many
+different types of data.
+
+35
+00:02:08.758 --> 00:02:11.840
+You'll learn how and
+when each is the most useful.
+
+36
+00:02:11.840 --> 00:02:15.965
+You'll also get a chance to explore
+spreadsheets further and discover
+
+37
+00:02:15.965 --> 00:02:19.688
+how they can help make your data
+analysis even more effective.
+
+38
+00:02:19.688 --> 00:02:22.830
+And then we'll start learning
+about structured thinking.
+
+39
+00:02:22.830 --> 00:02:27.920
+Structured thinking is the process of
+recognizing the current problem or
+
+40
+00:02:27.920 --> 00:02:31.509
+situation, organizing
+available information,
+
+41
+00:02:31.509 --> 00:02:36.280
+revealing gaps and opportunities,
+and identifying the options.
+
+42
+00:02:36.280 --> 00:02:41.525
+In this process, you address a vague, complex
+problem by breaking it down into smaller
+
+43
+00:02:41.525 --> 00:02:46.619
+steps, and then those steps lead you to
+a logical solution. We'll work together
+
+44
+00:02:46.619 --> 00:02:51.810
+to be sure you fully understand how to
+use structured thinking and data analysis.
+
+45
+00:02:51.810 --> 00:02:56.730
+Finally, we'll learn some proven strategies
+for communicating with others effectively.
+
+46
+00:02:56.730 --> 00:03:00.655
+I can't wait to share more about my
+passion for data analytics with you, so
+
+47
+00:03:00.655 --> 00:03:01.790
+let's get started.

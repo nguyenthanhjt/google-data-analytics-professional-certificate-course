@@ -1,0 +1,59 @@
+Here's a question for you. When you think about a life cycle,
+what's the first thing that comes to mind? Now I'm not a mind reader, but
+I know whatever you're thinking is right. There's actually no wrong answer
+because everything has a life cycle. One of the most well known examples
+of a life cycle is a butterfly. Butterflies begin as eggs, hatch into
+caterpillars and then become a chrysalis. That's where the real magic happens. Data has a life cycle of its own too. In this video, we're going to talk about
+each of the stages in that life cycle to help you understand the individual
+phases data goes through. The life cycle of data is plan,
+capture, manage, analyze, archive and destroy. Let's start with the first phase,
+planning. This actually happens well before
+starting an analysis project. During planning, a business decides
+what kind of data it needs, how it will be managed
+throughout its life cycle, who will be responsible for
+it, and the optimal outcomes. For example, let's say an electricity
+provider wanted to gain insights into how to save people energy. In the planning phase, they might decide
+to capture information on how much electricity its customers use each year, what types of buildings are being powered,
+and what types of devices are being powered
+inside of them. The electricity company would also decide which team members will
+be responsible for collecting, storing, and sharing that data.
+All of this happens during planning, and it helps set up the rest of the project.
+The next phase is when you capture data. This is where data is collected from
+a variety of different sources and brought into the organization. With so much data being created everyday, the ways to collect
+it are truly endless. One common method is getting data
+from outside resources. For example, if you were doing data analysis on weather
+patterns, you'd probably get data from a publicly available dataset like
+the National Climatic Data Center. Another way to get data is from
+a company's own documents and files, which are usually stored inside a
+database. While we've mentioned databases before, we haven't gone into too
+much detail about what they are. A database is a collection of
+data stored in a computer system. In the case of our electricity provider,
+the business would probably measure data usage among its customers within
+a database that it owns. As a quick note, when you maintain a database of customer
+information, ensuring data integrity, credibility, and
+privacy are all important concerns. You'll learn a lot more
+about that later on. Now that we've captured our data, we'll move on to the next phase of
+the data life cycle, manage. Here we're talking about how we care for
+our data, how and where it's stored, the tools used to keep it safe and
+secure, and the actions taken to make sure
+that it's maintained properly. This phase is very important to data
+cleansing, which we'll cover later on. Next it's time to analyze your data.
+This is where data analysts really shine. In this phase, the data is used to solve
+problems, make great decisions, and support business goals. For example, one of our electricity
+company's goals might be to find ways to help customers save energy. Moving along the data life cycle
+now evolves to the archive phase. Archiving means storing data in a place
+where it's still available, but may not be used again. During analysis,
+analysts handle huge amounts of data. Can you imagine if we had to sort through
+all of the available data that's out there, even if it was no longer useful and
+relevant to our work? It makes way more sense to archive
+it than to keep it around. And finally, the last step of the data
+life cycle, the destroy phase. Yes, it sounds sad, but when you
+destroy data, it won't hurt a bit. So let's get back to our
+electricity provider example. They would have data stored
+on multiple hard drives. To destroy it, the company would
+use a secure data erasure software. If there were any paper files,
+they would be shredded too. This is important for protecting
+a company's private information, as well as private data about its customers. And there you have it,
+the data life cycle. And now that you understand the different
+phases data goes through during its life cycle, you can better understand how
+to approach the data analysis process, which we'll talk about soon.

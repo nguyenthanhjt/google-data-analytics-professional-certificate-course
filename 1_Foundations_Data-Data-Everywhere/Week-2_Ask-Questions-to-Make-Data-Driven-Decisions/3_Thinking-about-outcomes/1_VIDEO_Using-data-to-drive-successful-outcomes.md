@@ -1,0 +1,63 @@
+# Using data to drive successful outcomes
+
+- In an earlier video, you learned about five essential analytical skills.
+- As a reminder, they're
+  - Curiosity
+  - Understanding context
+  - Having a technical mindset
+  - Data design
+  - Data strategy.
+- In the next couple of videos, we'll explore how `these abilities all become part of data-driven decision-making`.
+- But first, let's look at the `concept of data-driven decision-making` and why it's `more likely to lead to successful outcomes`.
+- You might remember that `data-driven decision-making involved using facts to guide business strategy`.
+- Data analysts can tap into the power of data to do all kinds of amazing things.
+- With data, they can
+  - gain valuable insights,
+  - verify their theories or assumptions,
+  - better understand opportunities and challenges,
+  - support an objective,
+  - help make a plan, and much more.
+- In business, `data-driven decision-making can improve the results in a lot of different ways`.
+- For example
+  - say a dairy farmer wants to start making and selling ice cream.
+  - They could guess what flavors customers would like, but there's a better way to get the information.
+  - The farmer could survey people and ask them what flavors they prefer.
+  - This gives the farmer the data they need to pick ice cream flavors people will enjoy.
+- Here's another example.
+  - Let's say the president of an organization is curious about what perks employees value most.
+  - She asked the human resources director who says people value casual dress code - người nói rằng mọi người coi trọng mã trang phục thông thường.
+  - It's a gut feeling, but the HR director backs it up with the fact that he sees a lot of people wearing jeans and t-shirts
+  - But what if this company were to use a more structured employee feedback process, such as a survey?
+  - It might reveal that employees actually enjoy free public transportation cards the most.
+  - The human resources director just didn't realize that because he drives to work.
+- These are just some of the benefits of data-driven decision-making.
+- It gives you greater confidence about your choice and your abilities to address business challenges.
+- It helps you become more proactive when an opportunity presents itself, and it saves you time and effort when working towards a goal - Nó giúp bạn trở nên chủ động hơn khi một cơ hội thể hiện chính nó, và nó giúp bạn tiết kiệm thời gian và công sức khi làm việc hướng tới một mục tiêu
+- Now let's learn more about how these `five skills` help you tap into all the potential of data-driven decision-making.
+- First, think about curiosity and context.
+  - The more you learn about the power of data, the more curious you're likely to become - Bạn càng tìm hiểu về sức mạnh của dữ liệu, bạn càng có khả năng trở nên tò mò.
+  - You'll start to see patterns and relationships in everyday life, whether you're reading the news, watching a movie, or going to an appointment across town.
+  - The analysts take their thinking a step further by using context to make predictions, research answers, and eventually draw conclusions about what they've discovered - Các nhà phân tích tiến thêm suy nghĩ của họ bằng cách sử dụng bối cảnh để đưa ra dự đoán, câu trả lời nghiên cứu và cuối cùng rút ra kết luận về những gì họ đã phát hiện ra.
+  - This natural process is a great first step in becoming more data-driven.
+- `Having a technical mindset` comes next.
+  - Everyone has instincts, or as in the case of our **human resources director example**, `gut feelings`.
+  - Data analysts are no different. They have gut feelings too.
+  - But they've trained themselves to `build on those feelings and use a more technical approach to explore them`.
+  - They do this by always seeking out the facts - Họ làm điều này bằng cách luôn tìm kiếm sự thật, putting them to work through analysis, and using the insights they gain to make informed decisions - putting them to work through analysis, and using the insights they gain to make informed decisions.
+- Next, we come to `data design`
+  - which has `a strong connection to data-driven decision-making`.
+  - To put it simply, designing your data so that it is organized in a logical way makes it easy for data analysts to access, understand, and make the most of available information.
+  - And it's important to keep in mind that data design doesn't just apply to databases.
+  - This kind of thinking can work with all sorts of real-life situations too.
+  - The basic idea is this:
+    - If you make decisions that are informed by data, you are more likely to make more informed and effective decisions - Nếu bạn đưa ra quyết định dựa trên dữ liệu, bạn có nhiều khả năng đưa ra quyết định sáng suốt và hiệu quả hơn.
+- The final ability is `data strategy`
+  - which `[incorporates - kết hợp] the people, processes, and tools used to solve a problem`.
+  - This is a big one to remember because data strategy gives you a high-level view of the path you need to take to achieve your goals.
+- Also, data-driven decision-making isn't a one-person job.
+- It's much more likely to be successful if everyone is on board and on the same page - Sẽ có nhiều khả năng thành công hơn nếu mọi người tham gia và trên cùng một trang
+- so it's important to make sure specific procedures are in place and that your technology being used is aligned with your data-driven strategy -vì vậy, điều quan trọng là phải đảm bảo các quy trình cụ thể được áp dụng và công nghệ bạn đang sử dụng phù hợp với chiến lược dựa trên dữ liệu của bạn.
+- Now you know how these `five essential analytical skills work towards making better, data-driven decisions`.
+- So far, many of the examples you've heard are hypothetical.
+- That means they could be true in theory, but aren't specific real-world cases.
+- Next, we'll look at some real examples. I can't wait to share how data analysts put data to work for amazing results.

@@ -1,0 +1,110 @@
+Spreadsheets are a big
+part of data analytics. The sooner you make friends with spreadsheets, the better. Trust me, they'll save
+you a lot of time as a data analyst and make
+your whole job easier. This spreadsheet is one example of how an organized
+spreadsheet might look. In this video, we'll
+demonstrate some of the basic spreadsheet
+concepts for all of you who are
+new to this world. This might be a review
+for some of you more experienced
+folks out there, but it never hurts to
+practice what you know. Plus, you might still
+learn a trick or two. I showed you this image earlier. Let's explore it further
+because it's a great example of the three main features
+of a spreadsheet: cells, rows, and columns. They'll be part of
+almost everything you do in a
+spreadsheet for making a simple grocery list to
+analyzing a complex dataset. I use spreadsheets to
+manage everything from my own personal finances to the annual homecoming party my friends and I
+have every year. I'm the planner, so I use a spreadsheet to keep
+things in order, making sure we have
+everything we need. Speaking of keeping
+things in order, columns are organized vertically in a spreadsheet and
+are ordered by letter. And the rows are organized horizontally and are
+ordered by number. So when you talk about
+a specific cell, you name it by combining
+the column letter and the row number where
+the cell is located. For example, in
+this spreadsheet, the word row is in cell D3. Let's get started in
+an actual spreadsheet. You can complete
+all of the steps in just about any
+spreadsheet program. Let's get to know your
+spreadsheet a little better now. We'll start with some
+basic operations. Keep in mind, as an analyst, you won't always create
+your own dataset. But for now, let's do just that. I'll click in cell A2 and
+type my first name like this. Then I'll click in cell
+B2 and type my last name. Don't worry if your name
+doesn't fit in the cell, you can always make columns
+wider if you need to. All you have to do
+is click and drag the right edge of the column
+until your name fits. Or you can use the
+text wrapping feature, which will set cells to
+automatically change their height to allow the
+text in the cell to fit. To use this feature, select the cells, columns, or rows with text, then use the format menu to look at the text
+wrapping options. It is automatically set to allow the text to overflow
+out of the cell. But you can wrap the text instead so all of
+the text is visible. The clip option will
+cut off the text in the cell so only the text
+that fits is visible. There it is. We've added data. Now let's label it. This is important
+for organization. Adding labels to the top of the columns will
+make it easier to reference and find data later on when you're doing analysis. These column labels are
+usually called attributes. An attribute is a
+characteristic or quality of data used to label a
+column in a table. More commonly, attributes are referred to as column names, column labels, headers, or the header row. Let's add some
+headers to our table. I'll click in cell A1 and
+type the words first name. In cell B1 I'll type last name. We'll make these attributes
+bold so they stand out more. Spreadsheets can get really big, so you want to make
+sure your data is clearly labeled
+and easy to find. I can use my cursor to select the cells with the attributes. Then I'll click the bold
+icon to make them bold. Looking good so far. Ready to add some more data? Let's start with
+some new attributes. First, I'll add a column for
+the number of siblings by typing siblings in cell C1. Then I'll add two
+more attributes in the next two columns. Let's go with favorite
+color and favorite dessert. I'll make them bold too. To fit the labels in the cells, I'll adjust the size of the
+columns just like before. Now, keep in mind, there are more ways to adjust the size of the
+columns and rows. If you have questions
+about using spreadsheets, a quick search online will usually help you
+find what you need. We've also included
+a reading with more tips and information
+about spreadsheets. OK, let's get back to it. Now, I can add my own
+data to the dataset. I'll type in how many
+siblings I have and my favorite color and dessert
+in the appropriate cells. Next, I'll add data
+for two more people. We now have three rows of data. In a dataset, a row is also
+called an observation. An observation includes
+all of the attributes for something contained
+in a row of a data table. In this case, row 3
+is an observation of Willa Stein because we see all of her
+attributes in this row. So now we know spreadsheets let you do lots of things with data. You can store and organize data like we've done
+in this spreadsheet. But you can go even further and recognize existing data too. Here, I'll show you how. Let's say we want to
+organize our data by how many siblings
+each person has. There's a simple way to do that. First, we'll need to select
+all of our columns with data so that all of it
+is reorganized together. Then we can go to our data menu. Here we have some options. Let's select sort range. This will let us choose how
+to organize the column. Next, we'll choose A to Z, which will organize
+our numbers in order from smallest to largest. Now, we want to watch
+out for header row, which is the word siblings, the attribute for this column. We'll check this box. This makes sure the word
+siblings stays in place. Now we're ready to sort. Voila, we just reorganized our data by sorting it from the smallest number
+to the largest. As we go further, you discover lots of other ways to work with
+data in a spreadsheet, including functions
+and formulas. Let's finish with a quick
+example of a formula. You can think of formulas as one way of manipulating
+data in a spreadsheet. Formulas are like a
+calculator, but more powerful. A formula is a set of
+instructions that performs a specific action using
+the data in a spreadsheet. To do this, the formula uses cell references for the
+values it's calculating. Let me show you. Here we go. We'll click in the next cell
+in the siblings column. Then we'll type an equal sign. All formulas begin
+with this symbol. Next, we'll type in the cells
+we want to add together. In this case, we'll type
+in C2 plus C3 plus C4. Now we can press "Enter". There it is. The
+formula has given us the total number of siblings
+represented in this dataset. We've just analyzed some data. We'll want to store the
+data for later use. In Google sheets,
+a spreadsheet is automatically saved
+in your Google Drive. For Excel and other
+spreadsheets, you'll save them as a file. Now you know some basics
+for using spreadsheets. Once you're used
+to these concepts, you'll be able to learn even more about spreadsheet tools. Feel free to re-watch this video and
+practice on your own. You can even make your own
+version of the spreadsheet with your own data. Bye for now.

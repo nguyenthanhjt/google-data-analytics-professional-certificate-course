@@ -1,0 +1,59 @@
+Într-un filmuleț anterior, ați aflat despre
+cinci abilități analitice esențiale. Ca o reamintire, acestea sunt
+curiozitatea, înțelegerea contextului, a avea o mentalitate tehnică, designul
+de date și strategia de date. În următoarele două videoclipuri,
+vom explora modul în care toate aceste abilități devin parte a procesului
+decizional bazat pe date. Dar, mai întâi, să analizăm conceptul de
+luare a deciziilor bazate pe date și motivul pentru care este mai probabil să
+conducă la rezultate de succes. Poate vă amintiți că procesul decizional
+bazat pe date implică utilizarea datelor pentru a ghida strategia de afaceri. Analiștii de date pot profita de puterea datelor
+pentru a face tot felul de lucruri uimitoare. Cu ajutorul datelor, ei pot obține informații valoroase,
+își pot verifica teoriile sau ipotezele, pot înțelege
+mai bine oportunitățile și provocările, pot susține un obiectiv,
+pot ajuta la realizarea unui plan și multe altele. În afaceri, procesul decizional bazat pe date
+poate îmbunătăți rezultatele într-o mulțime de moduri diferite. De exemplu, să spunem că un fermier de lactate
+vrea să înceapă să producă și să vândă înghețată. Ar putea ghici ce arome
+le-ar plăcea clienților, dar există o modalitate
+mai bună de a obține informațiile. Fermierul ar putea să facă un
+sondaj de opinie și să îi întrebe pe oameni ce arome preferă. Acest lucru îi oferă fermierului
+datele de care are nevoie pentru a alege arome de înghețată care să le placă oamenilor. Iată un alt exemplu: Să spunem că președintele unei organizații este curios
+să afle ce avantaje apreciază cel mai mult angajații. Îl întreabă pe directorul de resurse umane
+care spune că oamenii apreciază codul vestimentar casual. Este o bănuială, dar directorul de resurse umane
+o susține prin faptul că vede mulți oameni purtând blugi și tricouri. Dar ce s-ar întâmpla dacă această
+companie ar folosi un proces mai structurat de feedback al angajaților, cum ar fi un sondaj? Acesta ar putea dezvălui că angajații se
+bucură cel mai mult de cardurile gratuite de transport public. Directorul de resurse umane pur și simplu
+nu și-a dat seama de acest lucru pentru că el merge cu mașina la serviciu. Acestea sunt doar câteva dintre beneficiile
+procesului decizional bazat pe date. Vă oferă o mai mare încredere
+în ceea ce privește alegerea și abilitățile voastre de a aborda
+provocările de afaceri. Vă ajută să deveniți mai proactivi atunci
+când se prezintă o oportunitate și vă economisește timp și efort atunci când
+lucrați pentru atingerea unui obiectiv. Acum să aflăm mai multe despre modul în care
+aceste cinci abilități vă ajută să valorificați întregul potențial al procesului decizional bazat pe date. În primul rând, gândiți-vă la curiozitate și context. Cu cât învățați mai multe despre
+puterea datelor, cu atât mai curios vei deveni. Veți începe să vedeți tipare și
+relații în viața de zi cu zi, fie că citiți știrile, vă uitați la un film sau mergeți la o întâlnire în celălalt capăt al orașului. Analiștii își împing gândirea cu un pas mai departe,
+folosind contextul pentru a face predicții a căuta răspunsuri și, în cele din urmă, a trage concluzii
+despre ceea ce au descoperit. Acest proces natural este un prim pas
+excelent pentru a deveni mai orientați către date. A avea o mentalitate tehnică este următorul pas. Toată lumea are instincte sau, ca în cazul exemplului directorului nostru
+de resurse umane, instincte. Analiștii de date nu sunt diferiți. Și ei au instincte. Dar ei s-au antrenat să se bazeze pe
+aceste sentimente și să folosească o abordare
+mai tehnică pentru a le explora. Ei fac acest lucru căutând întotdeauna faptele,
+punându-le la lucru prin analiză și folosind informațiile pe care le
+obțin pentru a lua decizii în cunoștință de cauză. În continuare, ajungem la designul de date, care are o legătură puternică cu
+procesul decizional bazat pe date. Pentru a simplifica, designul datelor voastre, astfel încât să fie organizate într-un mod logic,
+facilitează accesul, înțelegerea și valorificarea la maximum a informațiilor
+disponibile de către analiștii de date. Și este important să rețineți că
+proiectarea datelor nu se aplică doar bazelor de date. Acest tip de gândire poate funcționa și cu
+tot felul de situații din viața reală. Ideea de bază este următoarea. Dacă luați decizii care sunt
+fundamentate pe date, aveți mai multe șanse să luați decizii
+mai fundamentate și mai eficiente. Ultima abilitate este strategia de date, care
+încorporează oamenii, procesele și instrumentele utilizate pentru a rezolva o problemă. Este important de reținut, deoarece strategia
+de date vă oferă o viziune la nivel înalt a căii pe care trebuie să o
+urmați pentru a vă atinge obiectivele. De asemenea, procesul decizional bazat pe date
+nu este treaba unei singure persoane. Este mult mai probabil să aibă succes
+dacă toată lumea este la bord și pe aceeași lungime de undă, așa că este important să vă asigurați că
+există proceduri specifice și că tehnologia utilizată este aliniată cu
+strategia voastră bazată pe date. Acum știți cum aceste cinci abilități analitice
+esențiale lucrează pentru a lua decizii mai bune, bazate pe date. Până acum, multe dintre exemplele pe care
+le-ați auzit sunt ipotetice. Asta înseamnă că ar putea fi adevărate în teorie,
+dar nu sunt cazuri specifice din lumea reală. În continuare, ne vom uita la câteva exemple reale. Abia aștept să vă împărtășesc modul în care analiștii
+de date pun datele la treabă pentru rezultate uimitoare.

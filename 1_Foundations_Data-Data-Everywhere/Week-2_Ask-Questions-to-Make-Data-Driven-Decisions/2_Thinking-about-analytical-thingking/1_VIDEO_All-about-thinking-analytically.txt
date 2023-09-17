@@ -1,0 +1,81 @@
+Now that you know
+the five essential skills of a data analyst, you're ready to learn more about what it means to
+think analytically. People don't often
+think about thinking. Thinking is second nature to us. It just happens automatically, but there are actually many
+different ways to think. Some people think creatively, some think critically, and some people think
+in abstract ways. Let's talk about
+analytical thinking. Analytical thinking
+involves identifying and defining a problem and then solving it by using data in an organized, step-by-step manner. As data analysts, how do
+we think analytically? Well, to answer that question, we will now talk about
+a second set of five. The five key aspects to
+analytical thinking. They are visualization,
+strategy, problem-orientation, correlation, and finally, big-picture and
+detail-oriented thinking. Let's start with visualization. In data analytics, visualization is the graphical
+representation of information. Some examples include graphs, maps, or other design elements. Visualization is important
+because visuals can help data analysts understand and explain information
+more effectively. Think about it like this. If you are trying to explain
+the Grand Canyon to someone, using words would be much more challenging than
+showing them a picture. A visualization of the
+Grand Canyon would help you make your
+point much quicker. Now let's talk about
+the second part of analytical thinking,
+being strategic. With so much data available, having a strategic mindset is key to staying
+focused and on track. Strategizing helps data
+analysts see what they want to achieve with the data
+and how they can get there. Strategy also helps improve the quality and usefulness
+of the data we collect. By strategizing, we
+know all our data is valuable and can help us
+accomplish our goals. Next step on the analytical
+thinking checklist: being problem-oriented. Data analysts use a problem- oriented approach in
+order to identify, describe, and solve problems. It's all about keeping
+the problem top of mind throughout the
+entire project. For example, say a data
+analyst is told about the problem of a warehouse constantly running
+out of supplies. They would move forward with different strategies
+and processes. But the number one
+goal would always be solving the problem of keeping
+inventory on the shelves. Data analysts also ask
+a lot of questions. This helps improve
+communication and saves time while
+working on a solution. An example of that would be surveying customers about
+their experiences using a product and
+building insights from those questions to
+improve their product. This leads us to
+the fourth quality of analytical thinking: being able to identify a correlation between two
+or more pieces of data. A correlation is
+like a relationship. You can find all kinds
+of correlations in data. Maybe it's the relationship
+between the length of your hair and the amount
+of shampoo you need. Or maybe you notice a
+correlation between a rainier season leading to a high number of
+umbrellas being sold. But as you start identifying
+correlations in data, there's one thing you always
+want to keep in mind: Correlation does not
+equal causation. In other words, just
+because two pieces of data are both trending
+in the same direction, that doesn't necessarily
+mean they are all related. We'll learn more
+about that later. Now the final piece of the analytical thinking
+puzzle: big-picture thinking. This means being able to see the big picture as
+well as the details. A jigsaw puzzle is a great
+way to think about this. Big-picture thinking is like looking at a complete puzzle. You can enjoy the
+whole picture without getting stuck on every tiny piece that went into making it. If you only focus on
+individual pieces, you wouldn't be able
+to see past that, which is why big-picture
+thinking is so important. It helps you zoom out and see possibilities
+and opportunities. This leads to exciting
+new ideas or innovations. On the flip side, detail-oriented
+thinking is all about figuring out all of the aspects that will help you
+execute a plan. In other words, the pieces
+that make up your puzzle. There are all kinds
+of problems in the business world
+that can benefit from employees who have
+both a big-picture and a detail-oriented
+way of thinking. Most of us are naturally
+better at one or the other. But you can always develop the skills to fit
+both pieces together. Now that you know
+the five aspects of analytical thinking, visualization, strategy,
+problem-orientation, correlation, and big-picture and
+detail-oriented thinking, you can put them to work for you when you're
+working with data. As you continue through this
+course, you'll learn how.

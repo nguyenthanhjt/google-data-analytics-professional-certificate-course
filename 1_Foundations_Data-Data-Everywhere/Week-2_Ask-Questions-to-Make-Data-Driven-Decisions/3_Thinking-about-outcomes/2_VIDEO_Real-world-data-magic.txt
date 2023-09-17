@@ -1,0 +1,88 @@
+In this video, I'm going to share some case studies that highlight the incredible
+work data analysts do. Each of these scenarios
+shows off the power of data-driven decision-making
+in unexpected ways. The first story is about Google. As I mentioned a little
+while back, here at Google, our mission is to organize the world's information
+and make it universally accessible
+and useful. All of our products, from idea to
+development to launch, are built on data and
+data-driven decision-making. There are tons of examples
+here at Google of people using facts to
+create business strategy. But one of the most famous ones has to do with Google's
+human resources. Here's how it went.
+The HR department wanted to know if there was
+value in having managers. Were their contributions
+worthwhile? Or should everyone just be
+an individual contributor? To answer that question, Google's people
+analytics team looked at past performance reviews
+and employee surveys. The data they found
+was plotted on a graph because as
+you've learned, visuals are extremely helpful when trying to understand
+a problem or concept. The graph revealed that Googlers had positive feelings
+about their managers, but the data was pretty general and the team wanted
+to learn more. So they dug deeper and split
+the data into quartiles. A quartile divides
+data points into four equal parts or quarters. Here's where the really cool
+stuff started happening. The data analysts discovered that there was a big difference between the very top and
+the very bottom quartiles. As it turned out, the teams with the best managers were
+significantly happier, more productive, and more likely to want to keep
+working at Google. This confirmed that managers were valued and make a big difference. Therefore, the idea of having only individual contributors
+was not implemented. But there was still
+more work to do. Just knowing that
+great managers create great results doesn't lead
+to actionable insights. You have to identify what
+exactly makes a great manager, so the team took two additional steps
+to collect more data. First, they launched
+an awards program where employees could nominate
+their favorite managers. For every submission you
+had to provide examples or data about what makes
+that manager great. The second step involved interviewing managers
+who were graphed on the top and bottom quartiles. This helped the analytics
+team see the differences between successful and less successful management behaviors. The best behaviors
+were identified as were the most common reasons for a manager needing improvement. The final step was sharing these insights and
+putting a procedure in place for evaluating managers with these
+qualities in mind. This data-driven decision
+continues to create an exceptional
+company culture for my colleagues and
+me. Thanks, data. Another interesting example comes from the nonprofit sector. Nonprofits are organizations
+dedicated to advancing a social cause or advocating
+for a particular effort, such as food security, education or the arts. In this case, data analysts researched how journalists can make a more meaningful impact for the nonprofits
+they would write about. Because journalists
+write for newspapers, magazines, and
+other news outlets, they can help nonprofits
+reach readers like you and me, who then take action to help nonprofits
+reach their goals. For instance, say you
+read about the problem of climate change in
+an online magazine. If the article is effective, you'll learn more about the
+cause and might even be compelled to make greener choices in your day-to-day life, volunteer for a nonprofit, or make a donation. That's an example of the journalist's work
+bringing about awareness, understanding, and engagement.
+So, back to the story. The data analysts used a tracker
+to monitor story topics, clicks, web traffic,
+comments, shares and more. Then they evaluated the
+information to make recommendations for
+how the journalists could do their jobs even better. In the end, they came up with some great ideas for
+how nonprofits and journalists can motivate people everywhere to work together and make the world
+a better place. There's really no end to what you can do as a data analyst. As you progress
+through this program, you'll discover even
+more possibilities. Great job following along with the topics of these
+past few videos. You learned all about
+analytical skills and the five key characteristics
+of data analysts. You probably even
+learned that you are a pro at most
+of these already. Next, you discovered what it
+means to think analytically and the specific
+skills data analysts develop to help them do it. You explored tools and processes that enable
+data analysts to pinpoint a problem and ask the right questions in
+order to solve them. Finally, some real-world
+stories helped illustrate why data-driven
+decision-making is usually more successful
+than other methods. You're building a
+wonderful foundation for your career as
+a data analyst. With every video, your skills
+will continue to expand, and your understanding
+of key data analytics concepts will only get stronger. Soon, you'll have a chance to test out everything
+you've learned. This is a really useful
+opportunity to check your understanding of all the
+concepts we've discussed, and if you're ever
+unsure about a question, you can review the videos and readings to find the answer. This is another awesome way
+to practice collecting data. Keep up the great work.

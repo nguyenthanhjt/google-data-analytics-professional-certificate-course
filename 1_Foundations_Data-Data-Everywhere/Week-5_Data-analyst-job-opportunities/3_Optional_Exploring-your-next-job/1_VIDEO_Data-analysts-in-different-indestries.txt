@@ -1,0 +1,101 @@
+By now, we know that
+there are all kinds of jobs in different industries
+available for data analysts. But now it's time to think about something
+just as important, how can you tell if a
+job is a good fit for you and your career
+goals? Tough one. Don't worry, that's exactly what we'll cover in this video. There's a lot of
+important factors to think about when searching
+for your dream job. Let's talk about some of the
+most common factors first, industry, tools, location,
+travel, and culture. Data is already being used by countless industries in all
+kinds of different ways, tech, marketing,
+finance, health care, the list goes on. But one thing that's
+important to keep in mind, every industry has
+specific data needs that have to be addressed differently by their
+data analysts. The same revenue
+data can be used in three different ways by data analysts in three
+different industries, financial services,
+Telecom, and tech. For example, a finance analyst at a bank post public
+revenue data of Telecom company X to
+create a forecast that predicts where
+revenues will be in the future to recommend
+the stock price. The business analyst
+at Telecom company X uses that same data to
+advise the sales team. Then a data analyst
+at the company who created a customer
+management tool for Telecom company X will use that revenue data to determine how efficiently the
+software is performing. Finance, telecom, and tech, all use data differently, so they need analysts who
+have different skills. It all comes down to what the
+needs of the industry are. Those needs will determine
+what task you'll be given, the questions you'll
+be answering and even how you'll
+approach job searching. If you're just starting out, a great way to guide
+your search is to think first about what
+you're interested in. Does helping people get healthier sound
+meaningful to you? Maybe you want to focus on using data to improve
+hospital admissions. What about helping people
+save for a happy retirement? You might want a job
+that uses data to determine risk factors in
+financial investments. Or maybe you're
+interested in helping journalism grow in your city. A job using data to help find your local news website find more subscribers could be
+the perfect role for you. The key is to think about your interests early
+in your job search. That'll lead you in
+the right direction, and it will help you
+in interviews too. Potential employers
+will want to know why you're interested
+in their company, and how you can
+address their needs, so if you can speak about your motivation to work in data analytics during interviews, you'll make yourself
+stand out in a great way. You'll have options
+when it comes to where you work and
+who you work for. But remember, you want
+to enjoy what you do, so it's a good idea to think about how you want
+to use your skills. Then search for jobs that
+allow you to do that. Next on the list
+of things to think about, location and travel. When you start your job search, you need to make some decisions about where you want to live, so it helps to ask
+yourself some questions, does your preferred industry have opportunities in your area? Are you trying to stay local or would you be happy relocating? How long are you willing to
+commute to work every day? Will you drive to work, walk, take public transport? Is that possible year-round? How do you feel about
+working remotely? Does working from home
+excite you or bore you? Of course, you'll want to
+consider cost of living, and whether or not you want the convenience of city living
+or a quiet suburban home, and it's not just about
+where you'll be based, some jobs may ask you to travel, which could be an
+exciting chance to see the world or a deal-breaker. It's all about what you
+want out of this job, so start asking yourself
+some of these questions. Figuring out the
+answers can help you narrow down your
+search even further, so you're only looking at
+jobs you'd actually accept. Once you've answered
+enough questions, you'll be able to identify some specific companies
+that fit your needs. At this point, it's a
+good time to think about your values and what company culture is
+a good fit for you. Ready, here comes
+some more questions, do you work best in a
+team or by yourself? Do you like to have a
+set routine or do you enjoy taking a new project
+and trying new things? Do your values match
+the company's values? You'll want to pay attention
+to these things during your job search and
+interview process, so you can be sure you fully invested in the
+company you work for. That's the best way
+to start building an exciting and
+fulfilling career. This program will help you learn the core skills for data
+analytics in any setting, it's up to you where
+you want to take them, whether that means starting
+in a completely new industry, or moving into an
+analyst position in an industry you already
+have experience in. Hopefully what we've
+covered here has helped you get on track for
+your future job search. After this, you have a
+few activities to do, and then you'll be
+able to move on to the next part of this course. We learned a lot so far, like what opportunities
+are out there for data analysts in
+different industries. How data analysts help businesses
+make better decisions. The importance of fairness
+and data analytics, and the potential
+questions you can start asking yourself before
+your future job search, and you can always look back at these lessons if
+you want to review. In an upcoming course, we'll look at the skills all
+successful data analysts have and you'll learn how you can start
+practicing them too. But before that, you'll
+have an assessment. Good luck, and I'll
+see you later.

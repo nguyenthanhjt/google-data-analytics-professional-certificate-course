@@ -1,0 +1,30 @@
+Hey. It's great to have you back. We've talked a little bit about the data analysis process. As a quick refresher, the data analysis process phases are ask, prepare, process, analyze, share, and act. You might remember
+me saying earlier that this entire program is
+modeled after these steps. Now, we're going
+to really dig in and explore how each of
+these phases work together. But I'm getting a
+little ahead of myself. First, let's spend a little time understanding the data life cycle. No, data isn't actually alive, but it does have a life cycle. How do data analysts bring data to life? Well, it starts with the
+right data analysis tool. These include
+spreadsheets, databases, query languages, and
+visualization software. Don't worry if you don't
+know how these work, or even what they are. At one point, every data analyst has been right where
+you are right now, and they probably had a
+lot of the same questions. I remember when I first started learning about spreadsheets. I was a young intern, and the company I
+was working for was in the middle of
+a big systems change. That meant, we had
+to move tons of reports from the old
+system to the new one. After a few weeks, I noticed that even the people who were further
+in their careers were not as technically
+minded as I was. That became a great opportunity
+for me to add value. My aha spreadsheet moment came when I started
+researching shortcuts that I could use to work with the spreadsheets
+more efficiently. This would really
+streamline the process of getting those reports moved
+over to the new system. Once everything started flowing, I remember getting emails from other finance analysts
+at the company. They were so grateful that someone had come in and fixed a problem
+that no one else could. That inspired me to
+go even further and learn how to
+use spreadsheets in all sorts of incredible ways. As you continue
+through this course, I bet you'll be just
+as impressed as I was. And before you know
+it, you'll bring data to life too. Let's get started.

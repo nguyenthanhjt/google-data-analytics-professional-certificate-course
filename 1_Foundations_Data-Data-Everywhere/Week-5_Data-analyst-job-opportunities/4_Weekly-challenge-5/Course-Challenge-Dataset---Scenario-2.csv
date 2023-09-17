@@ -1,0 +1,100 @@
+Patient ID,Gender,Marital Status,City,State,Zip Code,Age,Procedure,Follow-up Attended?
+11234,M,Married,Allison,CO,81137,62,Extraction,Yes
+15620,F,Single,Allison,CO,81137,94,Extraction,No
+19622,M,Divorced,Allison,CO,81137,90,Extraction,No
+21829,F,Widowed,Allison,CO,81137,81,Crown,No
+21962,F,Single,Allison,CO,81137,45,Extraction,Yes
+26513,F,Partnership,Allison,CO,81137,43,Emergency Surgery,Yes
+29489,M,Married,Allison,CO,81137,85,Crown,No
+34918,T,Widowed,Allison,CO,81137,81,Extraction,No
+34952,F,Single,Allison,CO,81137,35,Implant,Yes
+35329,M,Widowed,Allison,CO,81137,86,Emergency Surgery,No
+39606,F,Married,Allison,CO,81137,69,Extraction,No
+40614,NC,Married,Allison,CO,81137,49,Crown,No
+41371,F,Married,Allison,CO,81137,82,Crown,No
+42305,M,Married,Southern Ute,CO,81137,57,Crown,Yes
+43854,F,Married,Allison,CO,81137,72,Emergency Surgery,Yes
+43891,F,Widowed,Allison,CO,81137,78,Extraction,No
+44606,F,Divorced,Southern Ute,CO,81137,51,Crown,No
+46218,M,Single,Allison,CO,81137,72,Extraction,Yes
+47060,F,Widowed,Allison,CO,81137,90,Crown,No
+47587,M,Married,Allison,CO,81137,71,Emergency Surgery,No
+48482,F,Widowed,Allison,CO,81137,86,Extraction,No
+49035,M,Single,Southern Ute,CO,81137,52,Extraction,No
+51921,M,Single,Allison,CO,81137,82,Extraction,No
+51959,T,Single,Southern Ute,CO,81137,66,Implant,No
+52494,F,Divorced,Allison,CO,81137,47,Extraction,No
+53110,M,Single,Southern Ute,CO,81137,43,Emergency Surgery,No
+55725,F,Partnership,Southern Ute,CO,81137,34,Emergency Surgery,Yes
+56884,M,Single,Southern Ute,CO,81137,38,Crown,Yes
+58912,F,Divorced,Southern Ute,CO,81137,42,Extraction,Yes
+60596,M,Widowed,Allison,CO,81137,79,Extraction,No
+61921,F,Partnership,Southern Ute,CO,81137,70,Extraction,No
+63936,M,Married,Allison,CO,81137,96,Implant,No
+64868,F,Widowed,Allison,CO,81137,83,Implant,No
+68643,F,Divorced,Allison,CO,81137,68,Extraction,Yes
+69479,F,Divorced,Allison,CO,81137,25,Extraction,Yes
+71946,F,Divorced,Allison,CO,81137,75,Extraction,No
+72264,F,Divorced,Southern Ute,CO,81137,47,Extraction,Yes
+73112,F,Widowed,Allison,CO,81137,89,Crown,No
+73564,M,Widowed,Allison,CO,81137,78,Extraction,No
+75025,F,Single,Southern Ute,CO,81137,30,Crown,No
+75350,F,Married,Southern Ute,CO,81137,70,Extraction,No
+76242,F,Married,Southern Ute,CO,81137,32,Extraction,Yes
+80514,M,Divorced,Allison,CO,81137,74,Extraction,No
+82530,M,Single,Southern Ute,CO,81137,25,Extraction,Yes
+85807,F,Divorced,Allison,CO,81137,46,Implant,Yes
+93916,M,Single,Allison,CO,81137,44,Extraction,Yes
+94837,M,Single,Allison,CO,81137,54,Extraction,Yes
+97170,NC,Divorced,Allison,CO,81137,76,Implant,No
+98249,M,Single,Allison,CO,81137,62,Crown,Yes
+98812,M,Single,Allison,CO,81137,93,Extraction,No
+123775,T,Single,Allison,CO,81137,83,Extraction,No
+124991,M,Single,Southern Ute,CO,81137,30,Crown,Yes
+139014,F,Married,Southern Ute,CO,81137,50,Extraction,Yes
+152926,F,Divorced,Southern Ute,CO,81137,34,Extraction,No
+155033,M,Partnership,Allison,CO,81137,27,Crown,Yes
+195910,F,Widowed,Allison,CO,81137,96,Extraction,No
+203722,M,Widowed,Allison,CO,81137,84,Emergency Surgery,Yes
+209390,F,Widowed,Allison,CO,81137,82,Crown,No
+241715,F,Single,Southern Ute,CO,81137,52,Extraction,Yes
+252754,F,Married,Allison,CO,81137,81,Crown,Yes
+264637,F,Married,Southern Ute,CO,81137,24,Crown,Yes
+288316,M,Married,Allison,CO,81137,83,Extraction,No
+336825,F,Divorced,Allison,CO,81137,78,Extraction,Yes
+343690,M,Single,Allison,CO,81137,36,Implant,Yes
+386755,F,Single,Southern Ute,CO,81137,63,Extraction,Yes
+387202,M,Widowed,Allison,CO,81137,97,Implant,Yes
+423999,F,Married,Allison,CO,81137,80,Extraction,No
+441218,M,Single,Allison,CO,81137,44,Veneers,Yes
+441392,F,Partnership,Southern Ute,CO,81137,81,Crown,No
+453944,M,Widowed,Allison,CO,81137,79,Implant,Yes
+456589,F,Partnership,Allison,CO,81137,48,Extraction,Yes
+483272,F,Divorced,Allison,CO,81137,64,Crown,Yes
+487269,M,Widowed,Allison,CO,81137,88,Implant,No
+517266,F,Married,Allison,CO,81137,85,Extraction,No
+552159,M,Single,Southern Ute,CO,81137,40,Extraction,Yes
+563422,M,Partnership,Allison,CO,81137,35,Extraction,Yes
+564625,F,Widowed,Allison,CO,81137,85,Extraction,No
+592579,M,Divorced,Allison,CO,81137,43,Implant,Yes
+642523,M,Married,Allison,CO,81137,75,Extraction,Yes
+659462,F,Widowed,Allison,CO,81137,71,Crown,No
+708029,M,Divorced,Allison,CO,81137,84,Extraction,Yes
+709760,F,Married,Allison,CO,81137,37,Extraction,No
+727724,M,Married,Southern Ute,CO,81137,40,Extraction,Yes
+737846,F,Divorced,Allison,CO,81137,47,Crown,Yes
+761156,M,Married,Allison,CO,81137,68,Crown,Yes
+764005,NC,Married,Allison,CO,81137,39,Implant,Yes
+777142,F,Married,Allison,CO,81137,102,Extraction,Yes
+782301,M,Married,Allison,CO,81137,95,Crown,No
+795762,P,Divorced,Allison,CO,81137,63,Implant,Yes
+798810,M,Widowed,Allison,CO,81137,69,Extraction,No
+804094,F,Widowed,Allison,CO,81137,74,Extraction,Yes
+823733,F,Married,Allison,CO,81137,38,Extraction,Yes
+840298,M,Single,Southern Ute,CO,81137,57,Extraction,Yes
+860962,M,Single,Southern Ute,CO,81137,71,Emergency Surgery,No
+909853,T,Widowed,Allison,CO,81137,78,Extraction,No
+915871,F,Partnership,Allison,CO,81137,36,Emergency Surgery,Yes
+923490,M,Single,Allison,CO,81137,38,Extraction,Yes
+934101,F,Single,Allison,CO,81137,39,Emergency Surgery,Yes
+936597,M,Single,Allison,CO,81137,27,Extraction,Yes
