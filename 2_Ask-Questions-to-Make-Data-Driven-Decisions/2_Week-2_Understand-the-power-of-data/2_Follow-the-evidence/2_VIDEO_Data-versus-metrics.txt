@@ -1,0 +1,44 @@
+In the last video, we learned how you can
+visualize your data using reports and dashboards to show off your
+findings in interesting ways. In one of our examples, the company wanted to see the sales
+revenue of each salesperson. That specific measurement of
+data is done using metrics. Now, I want to tell you a little bit more
+about the difference between data and metrics. And how metrics can be used to
+turn data into useful information. A metric is a single, quantifiable type
+of data that can be used for measurement. Think of it this way. Data starts as a collection of raw facts,
+until we organize them into individual metrics that
+represent a single type of data. Metrics can also be combined
+into formulas that you can plug your numerical data into. In our earlier sales revenue example
+all that data doesn't mean much unless we use a specific
+metric to organize it. So let's use revenue by individual
+salesperson as our metric. Now we can see whose sales
+brought in the highest revenue. Metrics usually involve simple math. Revenue, for example, is the number of
+sales multiplied by the sales price. Choosing the right metric is key. Data contains a lot of raw details
+about the problem we're exploring. But we need the right metrics
+to get the answers we're looking for. Different industries will use all kinds of
+metrics to measure things in a data set. Let's look at some more ways businesses
+in different industries use metrics. So you can see how you might apply
+metrics to your collected data. Ever heard of ROI? Companies use this metric all the time. ROI, or Return on Investment is
+essentially a formula designed using metrics that let a business know
+how well an investment is doing. The ROI is made up of two metrics, the net profit over a period of time and
+the cost of investment. By comparing these two metrics, profit and
+cost of investment, the company can analyze the data they have to see
+how well their investment is doing. This can then help them decide
+how to invest in the future and which investments to prioritize. We see metrics used in marketing too. For example, metrics can be used to
+help calculate customer retention rates, or a company's ability to
+keep its customers over time. Customer retention rates can help the
+company compare the number of customers at the beginning and the end of a period
+to see their retention rates. This way the company knows how successful
+their marketing strategies are and if they need to research new
+approaches to bring back more repeat customers. Different industries use all
+kinds of different metrics. But there's one thing
+they all have in common: they're all trying to meet
+a specific goal by measuring data. This metric goal is a measurable goal set
+by a company and evaluated using metrics. And just like there are a lot
+of possible metrics, there are lots of possible goals too. Maybe an organization wants to meet
+a certain number of monthly sales, or maybe a certain percentage
+of repeat customers. By using metrics to focus on
+individual aspects of your data, you can start to see the story
+your data is telling. Metric goals and formulas are great
+ways to measure and understand data. But they're not the only ways. We'll talk more about how to interpret and
+understand data throughout this course.

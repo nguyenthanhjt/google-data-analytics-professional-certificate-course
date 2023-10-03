@@ -1,0 +1,56 @@
+So far, you've learned a lot about
+how to think like a data analyst. We've explored a few
+different ways of thinking. And now, I want to take that one step
+further by using a mathematical approach to problem-solving. Mathematical thinking is a powerful skill
+you can use to help you solve problems and see new solutions. So, let's take some time to talk about
+what mathematical thinking is, and how you can start using it. Using a mathematical approach doesn't mean
+you have to suddenly become a math whiz. It means looking at a problem and
+logically breaking it down step-by-step, so you can see the relationship
+of patterns in your data, and use that to analyze your problem. This kind of thinking can also help you
+figure out the best tools for analysis because it lets us see the different
+aspects of a problem and choose the best logical approach. There are a lot of factors to consider
+when choosing the most helpful tool for your analysis. One way you could decide which tool to
+use is by the size of your dataset. When working with data, you'll find
+that there's big and small data. Small data can be really small. These kinds of data tend to be made up
+of datasets concerned with specific metrics over a short,
+well defined period of time. Like how much water you drink in a day. Small data can be useful for
+making day-to-day decisions, like deciding to drink more water. But it doesn't have a huge impact
+on bigger frameworks like business operations. You might use spreadsheets to organize and analyze smaller datasets
+when you first start out. Big data on the other hand has larger, less specific datasets covering
+a longer period of time. They usually have to be
+broken down to be analyzed. Big data is useful for looking at large-
+scale questions and problems, and they help companies make big decisions. When you're working with data on this
+larger scale, you might switch to SQL. Let's look at an example of how a data
+analyst working in a hospital might use mathematical thinking to solve
+a problem with the right tools. The hospital might find that they're
+having a problem with over or under use of their beds. Based on that, the hospital could
+make bed optimization a goal. They want to make sure that beds are
+available to patients who need them, but not waste hospital resources like space or
+money on maintaining empty beds. Using mathematical thinking, you can break
+this problem down into a step-by-step process to help you find
+patterns in their data. There's a lot of variables
+in this scenario. But for now, let's keep it simple and
+focus on just a few key ones. There are metrics that are related to this
+problem that might show us patterns in the data: for example,
+maybe the number of beds open and the number of beds used
+over a period of time. There's actually already a formula for
+this. It's called the bed occupancy rate, and it's calculated using the total
+number of inpatient days, and the total number of available
+beds over a given period of time. What we want to do now is take our key
+variables and see how their relationship to each other might show us patterns that
+can help the hospital make a decision. To do that, we have to choose the tool
+that makes sense for this task. Hospitals generate a lot of patient
+data over a long period of time. So logically, a tool that's capable
+of handling big datasets is a must. SQL is a great choice. In this case, you discover that
+the hospital always has unused beds. Knowing that, they can choose to get rid
+of some beds, which saves them space and money that they can use to buy and
+store protective equipment. By considering all of the individual
+parts of this problem logically, mathematical thinking helped us see new
+perspectives that led us to a solution. Well, that's it for now. Great job. You've covered a lot of material already. You've learned about how empowering
+data can be in decision-making, the difference between quantitative and
+qualitative analysis, using reports and dashboards for
+data visualization, metrics, and using a mathematical
+approach to problem-solving. Coming up next,
+we'll be tackling spreadsheet basics. You'll get to put what you've
+learned into action and learn a new tool to help you
+along the data analysis process. See you soon.
