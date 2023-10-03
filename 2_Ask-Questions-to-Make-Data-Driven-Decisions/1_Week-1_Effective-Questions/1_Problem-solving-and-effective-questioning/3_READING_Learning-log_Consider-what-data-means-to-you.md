@@ -6,9 +6,9 @@ This course is all about asking good questions and planning out data analysis pr
 
 ## Data and problem-solving
 
-Pause for a moment and think about the word “data.” What does it mean to you? 
+Pause for a moment and think about the word “data.” What does it mean to you?
 
-Although it’s clear that data is a major part of a data analyst’s job, it’s only part of the big picture. The other part is problem solving. Being a successful data analyst means understanding that each problem is unique and working methodically to solve that problem with data. 
+Although it’s clear that data is a major part of a data analyst’s job, it’s only part of the big picture. The other part is problem solving. Being a successful data analyst means understanding that each problem is unique and working methodically to solve that problem with data.
 
 By definition, most new problems data analysts face start in unknown territory. It’s up to the data analyst and their problem solving skills to think strategically, ask good questions, and use data to come up with solutions to these problems.
 
@@ -25,7 +25,7 @@ If you don’t have a Google account, you can download the template directly fro
 
 ## Reflection
 
-In your learning log template, write 3-5 sentences (60-100 words) reflecting on what data means to you. Here are some questions to help you get started: 
+In your learning log template, write 3-5 sentences (60-100 words) reflecting on what data means to you. Here are some questions to help you get started:
 
 - How would you describe “data” to someone who is unfamiliar with the word?
 - What does data represent?

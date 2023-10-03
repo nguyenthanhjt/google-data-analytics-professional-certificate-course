@@ -14,11 +14,11 @@ You are three weeks into your new job as a junior data analyst. The company you 
 
 As a refresher, SMART questions are:
 
-- `Specific questions` are simple, significant and focused on a single topic or a few closely related ideas.
-- Measurable questions can be quantified and assessed.
-- Action-oriented questions encourage change.
-Relevant questions matter, are important and have significance to the problem you're trying to solve.
-- Time-bound questions specify the time to be studied.
+- `Specific` questions are simple, significant and focused on a single topic or a few closely related ideas.
+- `Measurable` questions can be quantified and assessed.
+- `Action-oriented` questions encourage change.
+- `Relevant` questions matter, are important and have significance to the problem you're trying to solve.
+- `Time-bound` questions specify the time to be studied.
 
 Next, you will use the SMART framework to ask effective questions about the scenario above. Then, you will reflect on the topics your SMART questions should address.
 

@@ -12,4 +12,4 @@ To help you decide if you’re a good match for the speed track for this course:
 - Refer to the scoring guide to determine if you’re a good fit for the speed track. A score of 90% or higher is the target goal for someone on the speed track.
 - Based on your individual score, follow the recommendations in the scoring guide for your next steps.
 
-`Important reminder`: If you’re eligible for the speed track, you’re still responsible to complete all graded activities. In order to earn your certificate, you will need an overall score of 80% or higher on all graded materials in the program.
+> `Important reminder`: If you’re eligible for the speed track, you’re still responsible to complete all graded activities. In order to earn your certificate, you will need an overall score of 80% or higher on all graded materials in the program.
