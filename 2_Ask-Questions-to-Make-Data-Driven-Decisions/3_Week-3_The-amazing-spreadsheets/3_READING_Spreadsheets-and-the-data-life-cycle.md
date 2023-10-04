@@ -2,7 +2,7 @@
 
 To better understand the benefits of using spreadsheets in data analytics, let’s explore how they relate to each phase of the data life cycle: `plan`, `capture`, `manage`, `analyze`, `archive`, and `destroy`.
 
-![x](./img-1_spread-sheet-and-the-data-life-cycle.png)
+![x](./img/img-1_spread-sheet-and-the-data-life-cycle.png)
 
 - `Plan` for the users who will work within a spreadsheet by developing organizational standards. This can mean formatting your cells, the headings you choose to highlight, the color scheme, and the way you order your data points. When you take the time to set these standards, you will improve communication, ensure consistency, and help people be more efficient with their time.
 
