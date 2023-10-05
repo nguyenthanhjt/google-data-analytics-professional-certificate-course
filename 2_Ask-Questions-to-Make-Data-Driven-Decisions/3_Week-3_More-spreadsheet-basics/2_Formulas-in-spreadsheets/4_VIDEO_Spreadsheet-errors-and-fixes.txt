@@ -1,0 +1,91 @@
+Hi and welcome back. Recently we've been
+learning about formulas. Sometimes data
+analysts encounter a problem with our formulas
+and we get an error. We've all been there and
+it can be frustrating. But there are solutions, that's what we're going
+to explore in this video. One error you may encounter
+is the DIV error. The DIV error happens when a
+formula is trying to divide a value in a cell by zero
+or by an empty cell. In this spreadsheet, the percentage
+Complete values in column C are calculated by dividing the values in the Tasks Completed column by the values in the
+Required Tasks column. Notice that column C is already formatted
+as a percentage. The DIV error is in
+cell C4 because we're dividing by zero the
+value in cell A4. To avoid this problem, we can have this spreadsheet automatically enter
+not applicable whenever a cell in column A contains a zero that
+would cause the error. To do this, we'll use
+the IFERROR function. If it encounters a DIV error caused by a cell that
+contains the zero, the phrase "Not applicable"
+will be inserted. We can also copy the formula
+to the rest of the cells in column C so it checks for any other cells that
+contain a zero. Now let's move on to ERROR. In Google Sheets, ERROR tells us the formula can't be interpreted as it is input. This is also known
+as a parsing error. Say we want to
+tally the number of total tasks in column B and C, we use the SUM function, but the formula
+equal sum B2 to B6, C2 to C6 causes an error. Examining it more closely, we see that a comma
+is missing between the cell ranges B2
+to B6 and C2 to C6. We can fix this by inserting
+a comma between the cell ranges to indicate the
+end of each data item. This is called a delimiter, which you will learn
+more about soon. Now, the formula can correctly calculate the total
+number of tasks as 25. Another type of error is N/A. The N/A error tells
+you that the data in your formula can't be
+found by the spreadsheet. Generally, this means
+the data doesn't exist. This error most often occurs when using functions
+such as VLOOKUP, which searches for a
+certain value in a column to return a corresponding
+piece of information. Here, we see a master list
+of nuts and their prices. Using VLOOKUP, the spreadsheet
+finds prices in the list, then calculates the prices for each store using the
+assigned markup. But we have a N/A error
+in cells B49 and C49. The VLOOKUP formula is correct, so what's going on? Well, if we look carefully
+at the name of the nut, "almond" has no match
+in the lookup table, the lookup table uses the
+plural "almonds" instead. So we change almond to almonds, and with that typo fixed, the right prices are filled in. Speaking of typos, sometimes a typo can cause a NAME error. A NAME error can happen when a formula's name isn't
+recognized or understood. Suppose we see a NAME error in the nut prices spreadsheet. If we look carefully, the VLOOKUP function in cell
+B21 is spelled incorrectly, it has one extra O; this causes a NAME error for both the price and the resulting markup
+calculation for the store. To fix this error, we can delete the
+extra O in VLOOKUP. Perfect. Sometimes an error is caused by inconsistent
+or wrong data. For instance, the NUM
+error tells us that a formula's calculation can't be performed as
+specified by the data. The data doesn't make sense
+for that calculation. Here's what I mean. Suppose we're working on a large construction
+project using a spreadsheet to track how many months it takes
+to reach key milestones. We can use the
+DATEDIF function to calculate the number of months between start and end dates. The function requires
+the start date to be in the first cell referenced and the end date to be in the second
+cell referenced. In our case, cells B2
+and C2 respectively. The M represents months, as we want this spreadsheet
+to calculate the number of months between our
+start and end dates. But we get a NUM
+error in cell D6. We notice that the end date
+comes before the start date, so the DATEDIF function can't calculate the
+number of months between. It's likely the
+start and end dates were interchanged by accident. We can request verification
+of the data to make sure. In the meantime, let's
+reverse the order of the cells in the formula to temporarily get
+around the error. Now, the result is nine months. What if the client's
+name was accidentally inserted into the start
+date in the spreadsheet? You guessed it, we get an error. The VALUE error can indicate a problem with a formula
+or referenced cells. It's often not clear right
+away what the problem is, so this error might take a
+little more effort to fix. In this case, John Welty was
+input as the start date, making the calculation
+impossible for the DATEDIF function
+in the cell D6. We just replace the
+text, John Welty, with the correct start date
+of September 1st, 2016. Last is the REF error, which often comes
+up when cells being referenced in a formula
+have been deleted, thus making the formula unable to perform the calculation. Here's a spreadsheet
+used to calculate the number of seats available
+for a company lunch. Let's say the company decided not to run
+the second floor, so we delete row 4. This results in a REF error when calculating the total seats
+available in cell B5. To fix this, we can
+change the formula to add the values in
+cells B2 and B3. Also, in this case, we could have prevented the REF error by using
+the SUM function and a range of cells
+instead of adding the cell value by
+direct reference. Now, if we delete row 10, the SUM function
+calculates the total seats available. There you go. We've now fixed some of the most common
+spreadsheet errors. When you see them again, you'll know what they mean. Troubleshooting is a big
+part of data analysis, so being able to find solutions is a key skill for
+data analysts.
