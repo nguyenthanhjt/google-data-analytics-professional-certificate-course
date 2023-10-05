@@ -1,0 +1,98 @@
+Hi there and welcome to this guided project about using
+formulas and Google Sheets.
+My name is Harrison Kong.
+I'm a data analyst who's been working in the industry
+for the past 20 years using Google Sheets.
+It's a part of my work each day and for the past 10 years
+I've been lucky enough to teach learners around the world
+about how to use Google sheets to help with tasks both
+at work and with their personal lives.
+So I can't wait to guide you through this project today.
+Before we begin, let me introduce you to this new interface.
+The screen is divided into two sides.
+On one side is your virtual desktop where you will follow
+along and on the other side is the instructional video
+that will guide you through this project.
+Your virtual desktop will be shown when you need to interact
+with it.
+If you would like to use it at any other time, drag the bar
+on the left side of the instructors video to expand
+the virtual machine, feel free to pause this video to get
+familiar with the layout.
+In this guided project, we are going to practice using
+formulas in Google Sheets, but we're not just going to go
+through a random set of steps.
+We are going to learn about using formula through solving
+a problem.
+That's right.
+We are going to use formulas to develop a spending budget
+for a client, David. As a business intelligence professional,
+you often use data analytic skills to review a company's
+financial. Today,
+we will review a client's financials to help them create
+a spending budget.
+Our goal will be to develop a spending budget to help David
+make informed decisions about his spending.
+David has collected the necessary data to create a budget.
+We will use this data to make informed decisions about his
+spending.
+David wants to make sure he's spending his money responsibly.
+He feels like he might be overspending, but he's not sure.
+Your role for this project is to help him develop a spending
+budget to help him identify where exactly his money
+is being spent and how much money he should set aside
+for each spending category in the future.
+David has provided us data about several categories
+of expenses, including rent, utilities, from internet, food
+and entertainment.
+He has been collecting this data for the last four months.
+Let's use this data to figure out three things where is
+the total amount David spends each month?
+How much does he spend on average in each category?
+And what percentage of his total spending is spent in each
+of these categories.
+This will help him make data driven decisions about how much
+to set aside for different expenses each month.
+By the end of this guided project, we will create a budget
+sheet. Like the file here.
+The spreadsheets clarified the total amount David spends
+each month, How much he spends in each category for each
+of those months and how much he spends on average on each
+of those categories. In this task,
+we're going to begin by logging into your google account
+to access the spreadsheet.
+We're going to work in.
+I say we because you are going to follow along and work
+on your virtual desktop to follow along with this guided
+project. Log into your google account by inputting your
+login information into a secure virtual workspace.
+You might have to verify your identity in order to log
+into your account. After logging in.
+Some users may receive an email of a suspicious login
+but that's because the virtual workspace is far from your
+physical location.
+Note that while taking this guided project only you
+will have access to this workspace.
+If you're inactive for 15 minutes, you'll be logged out
+and will have to enter your login information again to access
+your virtual workspace.
+After you complete this project.
+The workspace is completely disposed of and we do not save
+any of your personal information so go ahead and pause
+this instructional video and log in. Play the video again
+when you're done.
+Once you've done that, click the button to make a copy.
+Nice work.
+Right. Let's summarize what we did in this first task.
+The goal was to log into your google account to access
+David's budget spreadsheet in the process.
+You learn that Google Sheet is a spreadsheet application
+that can be used for importing, manipulating analyzing
+and visualizing data among other purposes.
+You also learned that Google Sheets can be used to construct
+more tangible artifacts such as a personal spending budget
+By the end of this task, we access David's budget spreadsheet
+now that we have the necessary data and Google Sheet.
+To help David complete his budget.
+In the next task, we will write and edit our first formula.
+Let's go to the next task.

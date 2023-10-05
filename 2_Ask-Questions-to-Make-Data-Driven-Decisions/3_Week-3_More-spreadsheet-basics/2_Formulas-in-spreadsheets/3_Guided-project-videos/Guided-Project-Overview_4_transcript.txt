@@ -1,0 +1,81 @@
+Welcome back in this task, we're going to continue helping
+our client David develop a spending budget.
+In the last task we covered how to use the AutoFill feature
+to automatically apply formulas to different cells.
+In this task, we are going to write a formula to determine
+the average of a range of cells.
+David ultimately wants to know how much money he should set
+aside each month for each of his spending categories.
+We can help him find that out if we calculate the average
+amount of money he spends in each category.
+That way he gets a good idea of how much to budget or set
+aside for each category moving forward, we have totals
+for each month and for each category.
+So let's determine the averages for the past four months.
+We will start by selecting cell G1 to type our column header,
+we will type Average within cell G1.
+and press enter now that we have our column header.
+It is time to construct our formulas to calculate
+some averages because we want to know the averages of rent
+for the range B2 through E2.
+We will be using a simple algebraic expression within our
+formula.
+An average is the sum of a set of numbers divided by how many
+numbers there are in the list.
+In this case there are four months.
+So to find the average we will add up the rent values for all
+four months and divide by the number of values
+for let's write that out as a formula.
+Select cell G2, type equals Open parenthesis B2 plus C2.
+plus.
+D2 plus E2.
+close parenthesis forward slash 4.
+Notice that we use parentheses within our formula.
+That's because there is a proper order of operations.
+Whatever is within the parentheses is carried out.
+first, numbers in the range B two through E two are first added
+together, Then the result is divided by 4 which is
+outside the parenthesis.
+Now press enter.
+Let's close this for now.
+Nice work.
+You just calculated the average amount of money David spent
+on rent in the last four months, continue averaging the other
+categories in the range B three through E three.
+If you would like to proceed by yourself you can pause
+the video at this point and complete the remaining formulas
+in the range G3 to G8.
+If not let's move along together. To save us time, we will use
+the AutoFill feature instead of manually writing out
+the formula To do this.
+Select cell G2 drag down the handle to to cell G8 and release
+the selection.
+We just populated all the cells with the same formula created
+within cell G2. As you know, with AutoFill,
+It is a best practice to double check the calculated values
+to make sure the results are correct.
+Nice work.
+Now let's summarize what we did in the last task.
+Our goal was to write a formula to determine the average
+amount David spent in each category from January to April.
+During this task, you learn that an average is the sum of a
+set of numbers divided by how many numbers there are
+in the set.
+For example, to find the average of four values, add the
+four values and divide by the number of values four. By the end
+of this task,
+we were able to use a formula and the AutoFill function
+to determine the average amount David spent in each category
+from January through April, David can now use the averages
+of these categories to estimate future expenses for example,
+instead of guessing how much he spends on food per month, he
+now has a more realistic number based on the average monthly
+cost of food.
+This data enables David to make data driven decisions
+about his budgeting for all categories overall.
+David now knows how much to set aside to cover his main
+expenses, but there was another value
+he wanted to know, percentages.
+Specifically, he asked about the percent of his total
+spending in each category. To find that out,
+let's continue on to the final task of this project.

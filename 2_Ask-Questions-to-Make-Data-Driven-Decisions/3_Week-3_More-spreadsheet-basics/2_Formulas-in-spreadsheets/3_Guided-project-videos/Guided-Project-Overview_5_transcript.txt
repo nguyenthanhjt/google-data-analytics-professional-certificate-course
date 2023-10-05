@@ -1,0 +1,116 @@
+Welcome back. In this task, we're going to finish helping our
+client David develop a spending budget.
+In the last task we covered how to calculate averages.
+Using a formula in this task, we are going to answer David's
+final question.
+What percentage of his total spending is used
+in each category.
+This information can help him decide if he should adjust his
+spending patterns.
+For example, if more than 40% of his spending is used
+on entertainment, he might consider adjusting his spending
+in that category.
+Let's help David answer this question.
+To do that.
+We will need to explore absolute references using the AutoFill
+function.
+In previous task we found that references change when
+formulas are copied into other cells.
+This was called relative referencing.
+But what if we want a reference to remain constant when
+it is copied? With absolute referencing, references remained
+constant no matter where they are copied.
+Let me show you what I mean.
+To answer the question of what percentage of David total
+spending is used for each category.
+We will start by examining column F.
+The total amount of money spent on each category over the
+four month period.
+We will need a formula to determine the category percentage
+of the overall total.
+The overall total Is the amount of money David spent on all
+expenses.
+And it can be found in cell F8.
+Let's use column H
+for our percentages. Create a column header, select cell H1
+and type percent of total spending then press center. And create a custom
+formula.
+To determine what percent of David total spending was spent
+on rent.
+With cell H2 still selected type
+the following formula equals F2
+forward slash F8 and press enter. It looks
+like 65% of David's spending is going towards his rent.
+Now let us find out the percentage of its total spending
+for each of the remaining categories.
+Let's use the AutoFill feature with H2
+selected, drag the handle To cell H7 and release
+the selection.
+Let's close this dialog box for now.
+We have an error.
+That's okay.
+Troubleshooting is a big part of being a data analytics
+professional.
+So let's figure out what we can do to resolve the error.
+Division by zero.
+We know that division by zero occurred when a formula
+is trying to divide a value in a cell by zero or an empty
+cell. If we select cell H3 we find that cell F8 is
+no longer in the formula.
+But we need cell F8 to stay in the formula
+because each category total has to be divided by the value
+in cell F8.
+This is an example of why it's important to review AutoFill
+results, turns out the AutoFill feature worked as intended.
+It adjusted which cells were reference just
+like before but we don't want cell F8
+to adjust so we will need to fix the cell location
+or reference within the formula.
+Instead of using relative referencing for cell F8.
+We will use absolute referencing an absolute reference is
+a reference within a function that is locked so that rows
+and columns won't change if the function is copied, absolute
+references are used when you want to fix a cell location
+within a formula.
+As you're learning these cells references are preceded
+by dollar signs.
+Let's start over and fix the formula in cell H2.
+Don't worry about the errors that are currently in range
+from cell H3
+to H7
+We will adjust those later. Select cell H2
+In the formula bar, insert a dollar sign before the F
+and before the 8 press enter.
+The correct result is shown within H2
+Now let's use AutoFill again.
+We corrected the referencing issue and now each of the cells
+in our percent of total spending column is taking the value
+from column F
+and dividing it by the specific value and cell F8.
+Great work.
+Now let's summarize what we did in this last task.
+Our goal for this task was to determine the percentage of
+David's total spending used in each category.
+During this task you learned that with absolute referencing,
+the cells referenced by a formula remained constant no matter
+where they copy.
+He also learned that absolute references are used when you
+want to fix a cell location within the formula.
+Finally to fix a cell location and the formula at a dollar
+sign before the row and column of a cell's name.
+By the end of this task, we were able to use absolute
+referencing to calculate how much David spends in each
+category as the percentage of his overall spending.
+Congratulations.
+You have completed all the tasks in this guided project.
+You helped David by writing formulas using auto fill and
+applying absolute references.
+David now has more data to make informed decisions about his
+budget and spending.
+You can now understand how creating a budget and spending
+plan for your business or personal use can help identify and
+predict spending.
+This is the end of the guided project.
+You can return to your course by clicking the leave session
+button.
+Best of luck with the rest of your course. Bye now.

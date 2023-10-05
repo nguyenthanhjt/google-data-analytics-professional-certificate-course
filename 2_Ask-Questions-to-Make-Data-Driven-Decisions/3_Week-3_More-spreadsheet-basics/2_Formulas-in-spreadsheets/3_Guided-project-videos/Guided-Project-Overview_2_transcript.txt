@@ -1,0 +1,58 @@
+Welcome back. In this task, we're going to start helping our
+client David develop a spending budget.
+In the first task you were introduced to this guided projects
+scenario of helping David create a spending budget.
+Our goal is to help him decide how much money he should set
+aside for each spending category in the future.
+In this next task, we are going to start by using a formula
+to figure out how much David spent in January to determine
+the total amount spent each month.
+We will add the values vertically in each month
+column.
+In other words we will add up values separately in column B,
+column C, column D,
+and column E. Let's get started. First,
+we'll find an area to place those column totals.
+We will use row 8.
+So let's enter the text Total within cell A8. To do this,
+select cell A8 type total then press enter. To determine the total
+for all the values within column B.
+We will write a formula within cell B8.
+Select Cell B8.
+A formula is a set of instructions used to perform
+a calculation using the data in a spreadsheet.
+The calculations include addition, subtraction,
+multiplication, and division.
+We want to know the total for adding up all the values
+within the range of cell B2 to B7.
+So we need to write a formula that adds the value
+of these cells together.
+Let's begin constructing this formula.
+We do this by typing an equal sign.
+B2
+plus B3 plus B4 plus B5 plus B6 plus B7
+and press the enter key.
+You have just written your first formula.
+Now we have the total among David spent in January
+across all categories.
+Great, you have now completed the second task.
+Let's summarize what we did in this last task.
+Our goal for this task was to use a formula to determine
+the total amount David spends in the month of january.
+During this task you learned that a formula is a set
+of instructions used to perform a calculation.
+Using the data in a spreadsheet.
+You also learned that to use a formula, first determined
+the cell.
+You want to place the result value in.
+Then begin your formula by typing an equal sign.
+By the end of this task we wrote and edited a formula
+to determine the total amount David spent in january.
+This is a great use of a formula when there's only a few
+months of data.
+But what if we had two years worth of data, it would be very
+time consuming and error prone to type everything out.
+Let's proceed to the next task to discover how to use
+an efficient feature within Google Sheets.
+To save us valuable time when creating formulas. Let's move
+on to the next task.

@@ -1,0 +1,99 @@
+Welcome back in this task, we're going to continue helping
+our client David develop a spending budget.
+In the last task we found David total spending for the month
+of January.
+Now let's continue creating formulas for February, March,
+and April.
+We could use the same approach as we did for cell B8t,
+manually typing the formula, but that's time intensive
+and prone to errors.
+So instead we're going to use a special feature called AutoFill
+AutoFill is a function in spreadsheet programs
+that pre-fills a field automatically.
+A function is a preset command that automatically performs
+a specific process or task using the data in the spreadsheet.
+Now let's use the AutoFill feature to assist us
+in calculating the totals for the remaining months
+because we want to copy the same formula in cell B8.
+Select cell B8.
+Notice the cell is highlighted.
+Next hover over the small blue box located on the bottom
+right corner of the highlighted cell, until your cursor
+converts to a cross hair, select the blue box and drag
+over the cell E8, then release it.
+You just use the auto filled feature to automatically apply
+the formula that adds up the values in the column to the
+remaining three columns of the spreadsheet.
+That's great.
+But here's a pro tip to keep in mind.
+It is a best practice to check to confirm the formulas
+are working as you intend.
+Here's an example, Let's select cell E8.
+The range of cells within the formula in this case cells E2
+through E7 has automatically been copied using auto
+fill. That's exactly what we wanted to happen.
+We wanted to sell E8 to add up the values for that range.
+The adjustment of the formula is based on relative
+referencing. By default,
+a cell reference is a relative reference which means
+that the reference is relative to the location of the cell.
+So within a relative reference changes its formula when
+copied elsewhere.
+Okay now back to our scenario.
+David also wants to know the total money he spent
+in each category after all four months.
+This will make it easier for him to identify where he's
+spending the most money overall by category.
+Let's go to column F.
+If you would like to create the formulas within column F
+by yourself.
+You can pause the video at this point.
+If not follow along with me and we'll find the totals
+for row 2 through 7 together.
+Let's start by creating an appropriate column header
+for column F.
+Select cell F1
+Type total.
+Now click on Cell F2.
+Well, first determined the total cost for rent from January
+through april or to put it in spreadsheet terms
+from the range B2 to E2 type equals B2 plus C2
+plus D2
+plus E2
+press enter.
+Let's close this for now.
+Great. You have just written a formula that totals the range
+B2 through E2 looks like David spent $5600 in total for rent
+in those four months.
+Next let's use the AutoFill feature to add up the category
+total for the other rows.
+Select cell F2. Using the handle, drag down to cell F8.
+Then release the selection. The cells populate with the same
+formula created within cell F2. Notice that we also total
+row 8 total within cell F8.
+We will use this result
+later in this guided project, you have successfully applied
+the auto fill feature to the spreadsheet.
+Now let's summarize what we did in this last task.
+Your goal for this task was to use AutoFill to determine
+the total amont David spent each month from February
+through April.
+In the process of accomplishing this goal, you learn
+that AutoFill is a function in spreadsheet programs
+that pre-fills a field automatically.
+You also learned that to use the auto field function hover
+over the small blue box located in the bottom right hand
+corner of a selected cell, select the blue box and drag it
+over to other cells.
+Finally, when using AutoFill, it is a best practice
+to check to confirm that the formulas are working
+as you intend. By the end of this task, we successfully
+applied the AutoFill feature to determine the total amount
+David spend each month from February through April.
+This helps David van is total spending per month
+and for each category.
+Now will help David final, his average spending per category.
+This is going to give him a better sense of his spending
+habits.
+Let's move on to the next task to calculate some averages
+within the spreadsheet.
