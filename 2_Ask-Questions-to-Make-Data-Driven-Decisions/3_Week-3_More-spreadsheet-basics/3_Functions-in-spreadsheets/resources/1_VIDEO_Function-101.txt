@@ -1,0 +1,81 @@
+Formulas are a
+great way to become more efficient when
+using spreadsheets, especially when you add shortcuts like copying and
+pasting, into the mix. As you progress as
+a data analyst, you'll most likely learn more shortcuts to
+help your process. But now it's time to
+move on to functions. While they're closely
+related to formulas, they're not exactly the same. By the end of this video, you'll understand
+the difference and know when to use them both. In the world of spreadsheets a function is a
+preset command that automatically performs
+a specific process or task using the data. You might remember
+some of the shortcuts we learned that can be
+used with formulas. Think of functions as the
+most useful of the shortcuts. The good news is a lot of spreadsheet functions have names that tell you what they do. There are tons of
+functions out there. As you continue to work
+with spreadsheets, you'll find that you
+use certain ones a lot, and others, rarely or not at all. For now, let's take a look at some of the
+functions that we can apply to our sales data
+from the previous video. We'll start with total sales. Let's use the SUM function
+for this in cell F2. The first steps are pretty similar to what we did
+in the last video. First, we'll select the cell where we want the
+calculation to appear. Type equals, then add the
+word SUM as our function. One of the great
+things about functions is they don't always
+need operators, like a plus sign for addition. In this case, after
+the open parentheses, you can go ahead and select the range of cells you're adding. A colon between the
+cell references shows that you're using a range. In this case, the range includes
+cells from the same row. After the closed
+parentheses, we press Enter. Just like that, our total
+sales number appears. Just like the formula
+we used before, functions can be
+copied and pasted into other cells in
+the same column. But let's undo that
+step so that you can see another way to copy
+a function or formula. Spreadsheets have something
+called a fill handle. It's a little box that appears in the lower right-hand corner
+when you click on a cell. If you rest your
+cursor on the box, you can then drag
+the fill handle to the other boxes in the
+same row or column. Any formula or function
+in that cell will automatically be added to
+the cells you fill plus, the fill handle will
+update the formula so the cell references match the row of the columns
+of the cells you fill. This means the formula
+is calculated based on the data in each
+separate row or column. Filling won't work
+for every situation, but it's still a
+pretty great trick. Now let's find the
+average sale for each month using the
+AVERAGE function. Different functions perform
+different calculations, but they work in the same way. Keep in mind, not
+every calculation you'll come across has its
+own function to help you. For example, to find the percent change in sales
+between June and July, you'd use the same formula
+you used in an earlier video. Let's say you're asked to find the lowest monthly
+sales in this data set. There's a function for that. It's called the MIN function, which stands for minimum. Here's how it works. Say you need to find the
+lowest monthly sales for the whole set. All you have to do is
+set up the function. Then after the open parenthesis, select the values
+from all three rows. This might be
+important information for your stake holders. Let's add color to the
+cell with that value, in your data set to
+make it stand out. In this case, click on cell
+D2 and then fill color icon, which looks like a paint can, then choose a color. I'll use yellow here. You can follow the same steps for the highest sales by using the, wait for it, MAX function. Looks like we have
+an error message. What could be wrong? We forgot to include an open parentheses
+after the function. No worries, it's a quick fix. But this is a good reminder
+to continually check the format of your functions and formulas as you use them. We'll learn more
+about Error messages and how to work with them later. That's better. Now we'll add color to the cell with
+the highest sales too. This is just one way
+to highlight key data. You'll find out about
+some others later. You've now had a peek
+at some ways you can add and organize
+data in a spreadsheet. You've also seen how
+powerful formulas and functions can be when
+applied to real world data. As a data analyst, this is just the beginning of your experience
+with spreadsheets. You'll soon find out how much more spreadsheets
+have to offer. In the meantime, you're free to practice some of these formulas, functions, and other
+processes on your own. It can be fun to experiment, and see all that
+spreadsheets can do. Soon, you will switch from spreadsheets to
+structured thinking. The data analytics pieces are
+starting to fit together. Exciting stuff is coming
+right up. So stick around.
