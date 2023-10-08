@@ -53,3 +53,6 @@ There are a lot more functions that can help you make the most of your data. Thi
 
 Keyboard shortcuts
 You can save these functions for future reference. Feel free to download a PDF version of the functions below:
+
+[DAC2-Keyboard-functions-1.pdf](./resources/DAC2-Keyboard-functions-1.pdf)
+[DAC2-Keyboard-functions-2.pdf](./resources/DAC2-Keyboard-functions-2.pdf)
