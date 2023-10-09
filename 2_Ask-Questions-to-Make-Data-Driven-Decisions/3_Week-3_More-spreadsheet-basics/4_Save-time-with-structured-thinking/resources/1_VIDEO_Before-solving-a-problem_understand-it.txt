@@ -1,0 +1,34 @@
+Albert Einstein once
+said," If I were given one hour to
+save the planet, I would spend 59 minutes defining the problem and one
+minute resolving it." Now, that might seem extreme, but it does show us just
+how important it is to define the problems
+before trying to solve them. A lot of times, teams jump right into data
+analysis before realizing a few months later
+that they are either solving the wrong problem or they don't have
+the right data. In this video, we will
+learn how to develop a structured approach to
+defining the problem domain. This is important
+because if you define the problem clearly
+from the start, it'll be easier to solve, which saves a lot of time,
+money, and resources. In the data world, we call this first piece
+the problem domain: the specific area of
+analysis that encompasses every activity affecting or
+affected by the problem. Before we can do anything else, we need to understand the problem domain
+and all of its parts and relationships so that we can discover the whole story. Actually calling it the first piece makes me think
+of a jigsaw puzzle. Say you have a puzzle. Let's think of that puzzle
+as our problem domain. You have all 500 pieces
+but you lost the box. So you don't know what
+image the puzzle will reveal. Will it be an animal? A waterfall? A bowl of oranges? Whatever it is, it's going
+to be tough trying to put it together without an
+image you can refer to. Even the greatest puzzler
+in the galaxy would need a new process and lots of time to
+complete that puzzle. Data analysts face the same kinds of challenges too. You might remember that
+data analysts aren't always given the
+complete picture at the start of a project. A big part of their
+job is to develop a structured approach and use critical thinking to
+find the best solution. That starts with understanding
+the problem domain. This is where structured
+thinking comes into play. To successfully solve a
+problem as a data analyst, you need to train your brain
+to think structurally. That's exactly what you'll learn coming up. See you there.
