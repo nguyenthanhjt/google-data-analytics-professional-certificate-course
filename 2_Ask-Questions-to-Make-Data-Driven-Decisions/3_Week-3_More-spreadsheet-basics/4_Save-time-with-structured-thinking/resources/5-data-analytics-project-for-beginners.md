@@ -21,3 +21,9 @@ As an aspiring data analyst, you’ll want to demonstrate a few key skills in yo
 While you’ll find no shortage of excellent (and free) public data sets on the internet, you might want to show prospective employers that you’re able to find and scrape your own data as well. Plus, knowing how to scrape web data means you can find and use data sets that match your interests, regardless of whether or not they’ve already been compiled.
 
 If you know some [Python](https://www.coursera.org/articles/what-is-python-used-for-a-beginners-guide-to-using-python), you can use tools like Beautiful Soup or Scrapy to crawl the web for interesting data. If you don’t know how to code, don’t worry. You’ll also find several tools that automate the process (many offer a free trial), like Octoparse or ParseHub.
+
+If you’re unsure where to start, here are some websites with interesting data options to inspire your project:
+
+- Reddit
+- Wikipedia
+- Job portals
