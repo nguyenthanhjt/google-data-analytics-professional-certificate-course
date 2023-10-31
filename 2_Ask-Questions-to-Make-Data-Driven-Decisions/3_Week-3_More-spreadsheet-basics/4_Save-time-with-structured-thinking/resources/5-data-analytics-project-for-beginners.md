@@ -29,3 +29,17 @@ If you’re unsure where to start, here are some websites with interesting data 
 > Tip: Anytime you’re scraping data from the internet, remember to respect and abide by each website’s terms of service. Limit your scraping activities so as not to overwhelm a company’s servers, and always cite your sources when you present your data findings in your portfolio.
 
 **Example web scraping project**: Todd W. Schneider of [Wedding Crunchers](https://toddwschneider.com/posts/when-harvard-met-sally-n-gram-analysis-of-the-new-york-times-weddings-section/) scraped some 60,000 New York Times wedding announcements published from 1981 to 2016 to measure the frequency of specific phrases. 
+
+### 2. Data cleaning
+
+A significant part of your role as a data analyst is cleaning data to make it ready to analyze. Data cleaning (also called data scrubbing) is the process of removing incorrect and duplicate data, managing any holes in the data, and making sure the formatting of data is consistent.
+
+As you look for a data set to practice cleaning, look for one that includes multiple files gathered from multiple sources without much curation. Some sites where you can find “dirty” data sets to work with include:
+
+- CDC Wonder
+- Data.gov
+- World Bank
+- Data.world
+- /r/datasets
+
+**Example data cleaning project**: [This Medium article](https://medium.com/@raahimkhan_85173/data-cleaning-and-exploratory-data-analysis-with-pandas-on-trending-you-tube-video-statistics-e06d7cd08710) outlines how data analyst Raahim Khan cleaned a set of daily-updated statistics on trending YouTube videos.
