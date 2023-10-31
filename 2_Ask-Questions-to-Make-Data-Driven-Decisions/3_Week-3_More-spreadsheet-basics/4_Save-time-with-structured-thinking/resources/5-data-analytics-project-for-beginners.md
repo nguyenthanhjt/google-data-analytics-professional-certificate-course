@@ -23,7 +23,9 @@ While you’ll find no shortage of excellent (and free) public data sets on the 
 If you know some [Python](https://www.coursera.org/articles/what-is-python-used-for-a-beginners-guide-to-using-python), you can use tools like Beautiful Soup or Scrapy to crawl the web for interesting data. If you don’t know how to code, don’t worry. You’ll also find several tools that automate the process (many offer a free trial), like Octoparse or ParseHub.
 
 If you’re unsure where to start, here are some websites with interesting data options to inspire your project:
+    - Reddit
+    - Wikipedia
+    - Job portals
+> Tip: Anytime you’re scraping data from the internet, remember to respect and abide by each website’s terms of service. Limit your scraping activities so as not to overwhelm a company’s servers, and always cite your sources when you present your data findings in your portfolio.
 
-- Reddit
-- Wikipedia
-- Job portals
+**Example web scraping project**: Todd W. Schneider of [Wedding Crunchers](https://toddwschneider.com/posts/when-harvard-met-sally-n-gram-analysis-of-the-new-york-times-weddings-section/) scraped some 60,000 New York Times wedding announcements published from 1981 to 2016 to measure the frequency of specific phrases. 
