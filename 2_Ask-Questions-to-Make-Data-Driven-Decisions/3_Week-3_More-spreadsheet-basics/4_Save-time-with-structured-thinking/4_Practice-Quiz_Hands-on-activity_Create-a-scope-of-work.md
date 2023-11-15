@@ -97,3 +97,23 @@ timelines, milestones, and reports?
 
 >What do you think?
 Your answer cannot be more than 10000 characters.
+
+## My Responses
+
+### 1. How did you identify and formalize the project’s requirements?
+
+- In identifying and formalizing the project's requirements, I considered the specific goals of the data analysis project, the data sources required, and the expected outcomes. I focused on detailing the deliverables, milestones, and timelines to ensure a clear understanding of the project's scope and objectives.
+
+- The identification and formalization of project requirements involved a structured approach. First, an in-depth understanding of the client's goals and challenges was obtained. This was followed by breaking down the project into key activities, such as process study, hot-spot identification, and update recommendations. The requirements were formalized by specifying deliverables, milestones, and a detailed schedule, ensuring a comprehensive scope of work.
+
+### 2. What questions did you ask in order to define the foundational boundaries and pieces of your analytical content, which may include descriptions of your deliverables, timelines,  milestones, and reports?
+
+- I asked questions related to the scope of the project, such as what specific data needed to be analyzed, the desired format and frequency of progress reports, the key milestones marking project progress, and the expected timeline for completion. These questions aimed to define the boundaries and provide clarity on the analytical content, ensuring alignment with stakeholders' expectations.
+- To define foundational boundaries, questions were directed towards understanding the client's expectations and limitations. Key questions included:
+  - What are the primary goals of the project?
+  - What specific processes or areas need improvement?
+  - Are there any limitations or exclusions for this project?
+- For analytical content, questions focused on:
+  - What deliverables would best address the client's needs?
+  - How can milestones be set to ensure progress?
+  - What is the preferred format and frequency for status reports?
