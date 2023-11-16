@@ -45,4 +45,4 @@
   - To make data-driven decisions
   - To ensure calculations are accurate
   - `To put information into context`: true
-  - To create compelling graphs
+  - To create compelling graphs.
