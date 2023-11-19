@@ -16,7 +16,12 @@ For example, you might find yourself working with the vice president of human re
 
 But you don’t have to tackle that by yourself. Your project manager will be overseeing the progress of the entire team, and you will be giving them more regular updates than someone like the vice president of HR. They are able to give you what you need to move forward on a project, including getting approvals from the busy executive team. Working closely with your project manager can help you pinpoint the needs of the executive stakeholders for your project, so don’t be afraid to ask them for guidance.
 
-![x](../resources/img/img-2.png)
+> Key points:
+    > - Role: Provides strategic and operational leadership to the company, setting goals and ensuring effective > strategy execution.
+    > - Characteristics: Interested in high-level project information, less focused on details due to time > constraints.
+    > - Communication Approach: Lead presentations with answers to their questions, keep detailed information for > the appendix or project documentation.
+
+![x](./resources/img/img-2.png)
 
 ## Customer-facing team
 
@@ -24,13 +29,23 @@ The customer-facing team includes anyone in an organization who has some level o
 
 Let’s say a customer-facing team is working with you to build a new version of a company’s most popular product. Part of your work might involve collecting and sharing data about consumers’ buying behavior to help inform product features. Here, you want to be sure that your analysis and presentation focuses on what is actually in the data-- not on what your stakeholders hope to find.
 
-![x](../resources/img/img-3.png)
+> Key points:
+    > - Role: Includes individuals who interact with customers, gather information, set expectations, and communicate customer feedback internally.
+    > - Characteristics: Have their own objectives and may come with specific requests.
+    > - Communication Approach: Focus on letting data tell the story, avoid being swayed by stakeholder requests that may not align with actual data findings.
+
+![x](./resources/img/img-3.png)
 
 ## Data science team
 
 Organizing data within a company takes teamwork. There's a good chance you'll find yourself working with other data analysts, data scientists, and data engineers. For example, maybe you team up with a company's data science team to work on boosting company engagement to lower rates of employee turnover. In that case, you might look into the data on employee productivity, while anot> her analyst looks at hiring data. Then you share those findings with the data scientist on your team, who uses them to predict how new processes could boost employee productivity and engagement. When you share what you found in your individual analyses, you uncover the bigger story. A big part of your job will be collaborating with other data team members to find new angles of the data to explore. Here's a view of how  different roles on a typical data science team support different functions:
 
-![x](../resources/img/img-4.png)
+![x](./resources/img/img-4.png)
+
+> Key points:
+    > - Role: Comprises data analysts, data scientists, and data engineers working together to organize data within the company.
+    > - Collaboration: Team members collaborate to explore different angles of data and uncover the bigger story.
+    > - Communication Approach: Collaboration with team members is essential to reveal new insights from individual analyses.
 
 ## Working effectively with stakeholders
 
@@ -40,14 +55,22 @@ When you're working with each group of stakeholders- from the executive team, to
 
 **Feel empowered to say “no.”** Let’s say you are approached by a marketing director who has a “high-priority” project and needs data to back up their hypothesis. They ask you to produce the analysis and charts for a presentation by tomorrow morning. Maybe you realize their hypothesis isn’t fully formed and you have helpful ideas about a better way to approach the analysis. Or maybe you realize it will take more time and effort to perform the analysis than estimated. Whatever the case may be, don’t be afraid to push back when you need to.
 
-![x](../resources/img/img-5.png)
+![x](./resources/img/img-5.png)
 
-Stakeholders don’t always realize the time and effort that goes into collecting and analyzing data. They also might not know what they actually need. You can help stakeholders by asking about their goals and determining whether you can deliver what they need. If you can’t, have the confidence to say “no,” and provide a respectful explanation. If there’s an option that would be more helpful, point the stakeholder toward those resources. If you find that you need to prioritize other projects first, discuss what you can prioritize and when. When your stakeholders understand what needs to be done and what can be accomplished in a given timeline, they will usually be comfortable resetting their expectations. You should feel empowered to say no-- just remember to give context so others understand why. 
+Stakeholders don’t always realize the time and effort that goes into collecting and analyzing data. They also might not know what they actually need. You can help stakeholders by asking about their goals and determining whether you can deliver what they need. If you can’t, have the confidence to say “no,” and provide a respectful explanation. If there’s an option that would be more helpful, point the stakeholder toward those resources. If you find that you need to prioritize other projects first, discuss what you can prioritize and when. When your stakeholders understand what needs to be done and what can be accomplished in a given timeline, they will usually be comfortable resetting their expectations. You should feel empowered to say no-- just remember to give context so others understand why.
 
 **Plan for the unexpected**. Before you start a project, make a list of potential roadblocks. Then, when you discuss project expectations and timelines with your stakeholders, give yourself some extra time for problem-solving at each stage of the process.
 
-**Know your project.** Keep track of your discussions about the project over email or reports, and be ready to answer questions about how certain aspects are important for your organization. Get to know how your project connects to the rest of the company and get involved in providing the most insight possible. If you have a good understanding about why you are doing an analysis, it can help you connect your work with other goals and be more effective at solving larger problems. 
+**Know your project.** Keep track of your discussions about the project over email or reports, and be ready to answer questions about how certain aspects are important for your organization. Get to know how your project connects to the rest of the company and get involved in providing the most insight possible. If you have a good understanding about why you are doing an analysis, it can help you connect your work with other goals and be more effective at solving larger problems.
 
 **Start with words and visuals.** It is common for data analysts and stakeholders to interpret things in different ways while assuming the other is on the same page. This illusion of agreement* has been historically identified as a cause of projects going back-and-forth a number of times before a direction is finally nailed down. To help avoid this, start with a description and a quick visual of what you are trying to convey. Stakeholders have many points of view and may prefer to absorb information in words or pictures. Work with them to make changes and improvements from there. The faster everyone agrees, the faster you can perform the first analysis to test the usefulness of the project, measure the feedback, learn from the data, and implement changes.
 
 **Communicate often**. Your stakeholders will want regular updates on your projects. Share notes about project milestones, setbacks, and changes. Then use your notes to create a shareable report. Another great resource to use is a change-log, which is a tool that will be explored further throughout the program. For now, just know that a change-log is a file containing a chronologically ordered list of modifications made to a project. Depending on the way you set it up, stakeholders can even pop in and view updates whenever they want.
+
+> Key points:
+    > - Discuss Goals: Engage stakeholders in discussions about project goals, helping to set expectations and plan next steps.
+    > - Feel Empowered to Say “No”: Don't hesitate to push back if stakeholders make unrealistic requests, and provide a respectful explanation. Clearly communicate what can and cannot be accomplished.
+    > - Plan for the Unexpected: Anticipate potential roadblocks before starting a project and allocate extra time for problem-solving.
+    > - Know Your Project: Keep track of project discussions, understand how it connects to the company's goals, and provide valuable insights.
+    > - Start with Words and Visuals: Use both descriptions and visuals to convey information, reducing the chances of misunderstandings.
+    > - Communicate Often: Provide regular updates to stakeholders on project milestones, setbacks, and changes. Use shareable reports and change-logs for effective communication.
