@@ -1,6 +1,6 @@
 # Communicating with your team
 
-[VIDEO](../resources/1_VIDEO_Communicating-with-your-team.mp4) and [transcript](../resources/1_VIDEO_Communicating-with-your-team.txt)
+[VIDEO](./resources/1_VIDEO_Communicating-with-your-team.mp4) and [transcript](./resources/1_VIDEO_Communicating-with-your-team.txt)
 
 - Hey, welcome back.
 - So far you've learned about things like spreadsheets, analytical thinking skills, metrics, and mathematics.

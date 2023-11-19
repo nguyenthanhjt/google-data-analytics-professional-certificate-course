@@ -1,6 +1,6 @@
 # Balancing needs and expectations across your team
 
-[VIDEO](./resources/1_Before-solving-a-problem_Understand-it.mp4) and [transcript](./resources/1_Before-solving-a-problem_Understand-it.txt)
+[VIDEO](./resources/2_VIDEO-Balancing-needs-and-expectations-across-your-team.mp4) and [transcript](./resources/2_VIDEO-Balancing-needs-and-expectations-across-your-team.txt)
 
 - As a data analyst, you'll be required to focus on a lot of different things, And your stakeholders' expectations are one of the most important.
 - We're going to talk about why stakeholder expectations are so important to your work and look at some examples of stakeholder needs on a project.
