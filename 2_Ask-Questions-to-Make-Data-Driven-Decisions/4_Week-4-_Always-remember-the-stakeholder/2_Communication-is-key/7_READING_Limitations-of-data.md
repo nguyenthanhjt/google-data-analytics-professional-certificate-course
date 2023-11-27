@@ -24,3 +24,29 @@ blog: Occam's Razor .Below are some of the best practices he recommends for good
 ![x](./resources/img/img-11.png)
 In any organization, a big part of a data analyst’s role is making sound judgments. When you know the limitations of your data, you can make judgment calls that help people make better decisions supported by the data. Data is an extremely powerful tool for decision-making, but if it is incomplete, misaligned, or hasn’t been cleaned, then it can be misleading. Take the necessary steps to make sure that your data is complete and consistent. Clean the data before you begin your analysis to save yourself and possibly others a great amount of time and effort.
 
+## key points covered
+
+- Incomplete or Nonexistent Data:
+  - Lack of sufficient data may lead to the realization that conclusions cannot be drawn.
+  - Example scenario: Discovering incomplete certification records when looking for employees with a - particular certificate.
+  - Emphasis on making the limitations of the analysis clear and transparent.
+- Differences in Business Rules:
+  - When collecting data from different teams or using existing spreadsheets, variations in business - rules can arise.
+  - Standardizing measurement methods early on ensures greater reliability and accuracy.
+  - Example scenario: Teams defining and measuring metrics differently, such as counting all registrants - vs. only those who completed a program.
+- Dirty Data and Data Cleaning:
+  - Dirty data, containing errors, can lead to productivity loss, unnecessary spending, and poor - decision-making.
+  - Data cleaning involves fixing or removing incorrect, corrupted, or incomplete data within a dataset.
+  - A clean data set is crucial to avoid potential disasters in data analysis.
+- Best Practices for Data Storytelling:
+  - Tips from Avinash Kaushik for effective data storytelling:
+    - Compare the same types of data to avoid mix-ups in visualization.
+    - Visualize with care and set the Y-axis to 0 for clarity.
+    - Prefer tables over unnecessary graphs for better audience understanding.
+    - Test for statistical significance to verify differences between datasets.
+    - Pay attention to sample size; gather lots of data to ensure robust results.
+- Role of a Data Analyst in Sound Judgments:
+  - Data analysts play a significant role in making sound judgments based on an awareness of data - limitations.
+  - Emphasis on the importance of complete, consistent, and cleaned data for informed decision-making.
+  - Acknowledgment that data, if incomplete or misaligned, can be misleading.
+Understanding the limitations of data is crucial for data analysts to provide meaningful insights and support effective decision-making.

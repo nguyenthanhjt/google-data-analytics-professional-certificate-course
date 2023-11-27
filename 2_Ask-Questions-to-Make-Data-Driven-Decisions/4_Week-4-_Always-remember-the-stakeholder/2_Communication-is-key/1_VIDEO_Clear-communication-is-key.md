@@ -40,3 +40,28 @@
 - That's important because those relationships are key to the project's success and your own too.
 - When you're getting ready to send an e-mail, organize some meeting, or put together a presentation, think about who your audience is, what they already know, what they need to know and how you can communicate that effectively to them.
 - Next up, we'll talk more about communicating at work and you'll learn some useful tips to make sure you get your message across clearly.
+
+## Key points include
+
+- Understanding Your Audience:
+  - Identifying who your audience is.
+  - Considering what they already know.
+  - Determining what they need to know.
+- Communication Strategy:
+  - Choosing the best way to communicate based on your audience and the nature of the information.
+  - Example: Instead of a lengthy email, scheduling a meeting to address a critical issue in the project.
+- Case Example:
+  - Illustrating a scenario where online sales data is missing.
+  - Highlighting the importance of considering who needs to be informed (fellow data analysts, project manager, VP of sales).
+  - Emphasizing the need for a thoughtful and targeted communication approach.
+- Building Relationships:
+  - Stressing that clear communication builds better relationships and trust with team members and stakeholders.
+  - Acknowledging the significance of relationships in project success.
+- Guiding Principles:
+  - Before sending an email, organizing a meeting, or creating a presentation, consider:
+  - Who your audience is.
+  - What they already know.
+  - What they need to know.
+  - How to effectively communicate the information.
+
+The next topic will delve deeper into communication at work and provide practical tips for ensuring clear and effective communication.

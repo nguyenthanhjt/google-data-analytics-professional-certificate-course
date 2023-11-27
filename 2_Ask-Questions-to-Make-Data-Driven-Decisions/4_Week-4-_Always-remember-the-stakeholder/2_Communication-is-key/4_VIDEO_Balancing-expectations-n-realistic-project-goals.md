@@ -40,3 +40,28 @@
 - This will help stakeholders understand the timeline and have confidence in your ability to achieve those goals.
 - So we know communication is key and we have some good rules to follow for our professional communication.
 - Coming up we'll talk even more about answering stakeholder questions, delivering data and communicating with your team.
+
+## key point
+
+- Introduction:
+  - Reiterates the limitations of data, such as unavailability or uncleanliness, and how it can impact both analysis and communication with stakeholders.
+- Balancing Expectations:
+  - Emphasizes the need to balance stakeholders' expectations with the actual possibilities of a project.
+  - Highlights the dependency of various decisions on data analysis results and the importance of keeping - stakeholders informed.
+- Real-Life Example:
+  - Presents a scenario where a data analyst is working on a project for an insurance company, aiming to identify common causes of minor car accidents for developing educational materials on safer driving.
+- Communication with Stakeholders:
+  - Discusses the importance of early communication with stakeholders to address key questions, establish - a realistic timeline, and set expectations.
+  - Advises against overpromising and emphasizes the benefits of setting expectations early in terms of productivity and meeting deadlines.
+- Handling Problems:
+  - Illustrates a situation where a problem arises in the project, such as discrepancies in the data - about phone usage in cars.
+  - Emphasizes the importance of promptly notifying the project manager and working out a new timeline to - inform stakeholders.
+- Managing Stakeholder Requests:
+  - Discusses how to handle stakeholder requests to add new variables, providing insights into the - potential impact on the project timeline and model.
+  - Recommends preparing a report outlining the pros and cons of such changes to assist stakeholders in - making informed decisions.
+- Balance and Objectivity:
+  - Stresses the need for balance in managing stakeholder expectations, project resources, and - limitations.
+  - Highlights the importance of being realistic and objective in communication to build stakeholder - confidence in the project's goals.
+- Upcoming Topics:
+  - Teases upcoming discussions on answering stakeholder questions, delivering data, and enhancing communication with the team.
+By providing a real-life example and practical advice, this section aims to guide data analysts in navigating challenges, setting realistic goals, and maintaining effective communication with stakeholders throughout a project.

@@ -39,3 +39,28 @@ After the next report is completed, you can also send out a project update offer
 
 Good communication keeps stakeholders updated on progress and ultimately helps prevent problems. Carefully worded responses are key. Whether you gather and address feedback using email, meetings, or reports, everyone you work with will know what to expect. As a result, they will be able to better manage their own schedules, resources, and teams.
 
+## Keypoints
+
+- Communication Strategies:
+  - Highlighted as a crucial skill for data analysts, including listening, speaking, presenting, and writing skills.
+  - Emphasizes the significance of knowing your audience when communicating analysis and recommendations.
+- Four Important Questions:
+  - Advises data analysts to consider four questions related to their audience:
+    - Who is your audience?
+    - What do they already know?
+    - What do they need to know?
+  - How can you best communicate what they need to know?
+- Project Example:
+  - Illustrates a scenario where a data analyst, working in a mobile app development company, receives an email from Kiri, the Product Development - Project Manager.
+- Answering Audience Questions for the Project Example:
+  - Identifies Kiri as the audience and provides details about what she already knows and needs to know.
+  - Recognizes that Kiri needs an update on the project's progress and approval changes made by the executive team.
+- Email Samples:
+  - Offers an example of an email to Kiri, updating her on the project's timeline changes due to the addition of a new variable.
+  - Emphasizes the importance of clear and carefully worded responses to keep stakeholders informed and prevent potential issues.
+- Follow-Up Email Sample:
+  - Suggests sending a project follow-up email after completing the next report to provide additional information and keep stakeholders updated.
+- Importance of Communication:
+  - Stresses that good communication helps stakeholders manage their schedules, resources, and teams more effective
+
+By providing a practical example and email samples, this section aims to guide data analysts in effectively communicating with stakeholders and addressing common scenarios in a professional manner.
