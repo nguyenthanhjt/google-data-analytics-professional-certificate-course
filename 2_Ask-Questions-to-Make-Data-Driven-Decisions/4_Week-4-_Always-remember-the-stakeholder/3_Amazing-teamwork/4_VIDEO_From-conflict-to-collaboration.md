@@ -33,3 +33,32 @@
 - Hopefully now you understand how important communication is to the success of a data analyst.
 - These communication skills might feel a little different from some of the other skills you've been learning in this program, but they're also an important part of your data analyst toolkit and your success as a professional data analyst.
 - Just like all of the other skills you're learning right now, your communication skills will grow with practice and experience.
+
+## Key takeaways
+
+1. Normality of Conflict:
+   - Conflict is a normal part of work life.
+   - Managing expectations and effective communication can help avoid conflicts, but they may still arise.
+2. Causes of Conflict:
+   - Conflicts can arise from various reasons such as stakeholder misunderstandings, different work styles among team members, or approaching deadlines causing tension.
+   - Mismatched expectations and miscommunications are common causes of conflicts.
+3. Objective Approach:
+   - It's important to avoid taking conflicts personally and stay focused on team goals.
+   - Tense moments can be opportunities for re-evaluating and improving projects.
+4. Re-framing Problems:
+   - Shift the situation from problematic to productive by re-framing the problem.
+   - Instead of blaming, focus on finding solutions and ask, "How can I help you reach your goal?"
+5. Communication in Conflict Resolution:
+   - Discussion is crucial for conflict resolution.
+   - Start conversations and ask questions to fully understand concerns.
+   - If emotional, take time to cool off before engaging in a conversation or drafting emails.
+6. Understanding Context:
+   - If unclear about a team member's request, seek to understand the context.
+   - Ask about their end goal, the story they want to tell with data, or the big picture.
+7. Opportunities for Collaboration:
+   - Turn potential conflict moments into opportunities to collaborate and move forward.
+   - Reframe statements positively and work together to find the best path forward.
+8. End of the Section:
+   - Successfully working with new team members is a significant challenge, but the skills learned in these videos provide a strong foundation.
+   - Recap of the skills covered, emphasizing the importance of communication for a data analyst's success.
+   - Communication skills, like other skills, improve with practice and experience.
