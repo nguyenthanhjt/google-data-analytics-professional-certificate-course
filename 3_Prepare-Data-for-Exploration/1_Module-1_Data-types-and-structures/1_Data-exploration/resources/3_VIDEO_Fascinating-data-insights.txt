@@ -1,0 +1,53 @@
+Healthcare is just a really
+fascinating place in the US. It's a really incredible
+industry to work in because it is so
+historically traditional, and healthcare companies,
+unlike other tech companies, just really have not used
+data to inform decisions. When I was in college, I had a professor who didn't want us to have
+textbooks because he just said the healthcare
+industry was changing so rapidly, and it wouldn't make
+sense to have a textbook, which is just a
+static piece of text when things were just
+really evolving. So I would say healthcare
+and data and the two together is a newer
+concept using big data, using machine learning, and artificial intelligence to help the healthcare
+industries. I started analyzing large
+sums of patient data. That was the first
+time I had really worked with such huge datasets, and I found it really
+fascinating that we can take all of
+these datasets and synthesize them and
+allow us to really deliver some cool insights and trends to our
+hospital systems. That was the first time I started thinking about data analysis, data analytics, as a
+possible career for me. That's really what brought me to this analytical lead role at
+Google where I could take that knowledge and
+that skill set of analyzing datasets and do
+that on a daily basis, so that really, every
+conversation I was having with the client was a
+data-informed conversation. I work within the
+healthcare vertical. We have companies who market on our platforms, like Google
+Search and YouTube. We help them understand the healthcare industry
+so that they can better market to the audience that they're trying to reach. Whether you're a
+healthcare insurer or you're a health care provider, maybe a hospital system, they all have different needs
+on how they want to reach their audience using
+Google's platforms. We help them optimize
+their marketing spend, but we also do a lot of research in the
+healthcare industry. Some user research, some understanding of how
+users are really just searching on Google
+to give them a sense of what's really happening in the industry and how they
+can market effectively. I would say that my technical skills with data
+analytics came with time. The most important skill I found, which has also come with
+time and grown with me, is just the creativity
+side of data analysis. I mean, you can really learn a lot of the SQL skills and R, and I know some of that
+is within the course. But really, the
+creativity side is something that just
+comes with experience. When you're looking at a dataset, you might look at it one way
+and analyze it one way and then have someone else look at it or look at it a week later, and then all of a
+sudden the trend that you're seeing is
+completely different. You have to take a
+lot of these pieces of information, these nuggets, I like to call them,
+and just piece together a really nice
+narrative using data. That skill set is something I learned when I was
+working in consulting, and I've taken that to Google and really been able to polish a lot of those skills and some of the more
+technical skills. Technical and the creative side are what I've grown to love. My name is Hallie. I'm
+an analytical lead at Google working specifically
+in the healthcare vertical.
