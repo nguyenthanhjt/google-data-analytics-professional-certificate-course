@@ -1,0 +1,21 @@
+Now that you're done,
+you're officially ready to take on the next course. Awesome job. But before I tell you
+about what's ahead, let's take a moment to think
+about what we've covered so far in the first step of
+the data analysis process. In this course, we explored
+effective questions and we learned how to use quantitative and
+qualitative data, metrics and math to
+connect the dots. We also covered
+spreadsheet basics, how to apply structured thinking and key communication skills for working with stakeholders and
+team members. That's a lot! Now it's time to take what you learned into the next course, where you'll tackle
+the next step of the data analysis process,
+prepare your data. Hallie is going to
+take over from here. You might remember her from the beginning of
+the first course! She'll guide you as you
+learn new important tools for your work, like data
+types and data structures; bias and credibility
+in analytics; databases; organizing and
+protecting your data; and the data community. Thanks for sticking with
+me through this course. When you're ready, you can go ahead to the first video
+in the next course. Good luck. You're
+going to do great.
