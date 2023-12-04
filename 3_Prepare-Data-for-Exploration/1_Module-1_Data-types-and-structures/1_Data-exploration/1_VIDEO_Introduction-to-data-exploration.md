@@ -51,3 +51,44 @@ The key here is patience.
 - I'll show you how to do both and apply it to your own analysis.
 - I'm so excited to help you write your own personal story as you continue exploring the world of data analytics.
 - So let's do it.
+
+## Keypoints
+
+- Importance of Data Preparation:
+  - After asking the right questions and defining problems, the next crucial step is preparing the data correctly.
+  - Understanding different data types and structures is essential for using the right data to answer specific questions.
+- Practical Skills in Data Handling:
+  - Gain practical skills in extracting, using, organizing, and protecting data.
+  - These skills are vital for effective data analysis and storytelling.
+- Course Introduction:
+  - Hallie, an analytical lead at Google, welcomes participants to the course.
+  - The course focuses on building skills to work with the right data for telling compelling and informative stories.
+- Instructor's Background:
+  - Hallie shares her background, working in healthcare analytics for about five years.
+  - Highlights the excitement of using data to drive change in a significant industry.
+- Data as a Powerful Storyteller:
+  - Data can be the main character in a powerful story, and the course emphasizes using analysis to tell compelling stories.
+  - Real-life Example:
+  - Hallie shares a real-life example of analyzing Medicare enrollment data to understand the role of Google searches in decision-making.
+- Data Relevance, Validity, and Privacy:
+  - Emphasis on ensuring data relevance, validity, and addressing privacy concerns in data analysis.
+- Data Analysis Process Steps:
+  - Overview of the data analysis process steps: Ask, Prepare, Process, Analyze, Share, and Act.
+- Focus on Data Preparation:
+  - The course specifically delves into the "Prepare" step, teaching how to identify data generation and collection methods.
+- Data Formats and Structures:
+  - Exploration of different data formats, types, and structures to choose and use data effectively.
+- Analysis for Bias and Credibility:
+  - Learning to analyze data for potential bias and credibility issues.
+- Understanding Clean Data:
+  - Exploring the concept of clean data and its importance in effective analysis.
+- Introduction to Databases:
+  - Understanding what databases are and how analysts use them for data extraction.
+- Data Extraction Tools:
+  - Learning to extract data from databases using familiar tools like spreadsheets and SQL.
+- Patience and Practice:
+  - Emphasis on patience and practice in developing data preparation skills.
+- Data Organization and Protection:
+  - Basics of data organization and the importance of protecting data in the analysis process.
+- Excitement for the Course:
+  - Hallie expresses excitement about helping participants write their own stories in the world of data analytics.
