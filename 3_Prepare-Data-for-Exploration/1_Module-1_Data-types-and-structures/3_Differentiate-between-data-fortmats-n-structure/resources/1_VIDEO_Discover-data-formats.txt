@@ -1,0 +1,83 @@
+I don't know about you, but when I'm choosing a movie to watch, I sometimes get stuck
+between a couple of choices. If I'm in the mood for
+excitement or suspense, I might go for a thriller, but if I need a good laugh, I'll choose a comedy. If I really can't decide
+between two movies, I might even use some of
+my data analysis skills to compare and contrast them. Come to think of it,
+there really needs to be more movies about data analysts. I'd watch that, but since we can't watch a
+movie about data, at least not yet, we'll do the next best thing:
+watch data about movies! We're going to take a look at this spreadsheet with movie data. We know we can compare different
+movies and movie genres. Turns out, you can
+do the same with data and data formats. Let's use our movie
+data spreadsheet to understand how that works. We'll start with quantitative
+and qualitative data. If we check out column A, we'll
+find titles of the movies. This is qualitative data
+because it can't be counted, measured, or easily
+expressed using numbers. Qualitative data is
+usually listed as a name, category, or description. In our spreadsheet,
+the movie titles and cast members are
+qualitative data. Next up is quantitative data, which can be measured or counted and then
+expressed as a number. This is data with a certain
+quantity, amount, or range. In our spreadsheet here, the last two columns
+show the movies's budget and box office revenue. The data in these columns
+is listed in dollars, which can be counted, so we know that data
+is quantitative. We can go even deeper
+into quantitative data and break it down into
+discrete or continuous data. Let's check out
+discrete data first. This is data that's counted and has a limited
+number of values. Going back to our spreadsheet, we'll find each movie's budget and box office returns
+in columns M and N. These are both examples of discrete data that can be counted and have a
+limited number of values. For example, the amount of money a movie makes can
+only be represented with exactly two digits after the decimal to represent cents. There can't be anything
+between one and two cents. Continuous data can be
+measured using a timer, and its value can be shown as a
+decimal with several places. Let's imagine a movie
+about data analysts that I'm definitely going
+to star in someday. You could express that
+movie's run time as 110.0356 minutes. You could even add
+fractional data after the decimal point
+if you needed to. There's also nominal
+and ordinal data. Nominal data is a type of qualitative data that's
+categorized without a set order. In other words, this data
+doesn't have a sequence. Here's a quick example. Let's say you're collecting
+data about movies. You ask people if they've
+watched a given movie. Their responses would be in
+the form of nominal data. They could respond "Yes," "No," or "Not sure." These choices don't have
+a particular order. Ordinal data, on the other hand, is a type of qualitative data
+with a set order or scale. If you asked a group of people to rank a movie from 1 to 5, some might rank it as a 2, others a 4, and so on. These rankings are in order of how much each person
+liked the movie. Now let's talk about
+internal data, which is data that lives within
+a company's own systems. For example, if a movie
+studio had compiled all of the data in the spreadsheet using only their own
+collection methods, then it would be
+their internal data. The great thing about
+internal data is that it's usually more reliable
+and easier to collect, but in this spreadsheet, it's more likely that
+the movie studio had to use data owned or shared by other studios and sources because it includes
+movies they didn't make. That means they'd be
+collecting external data. External data is, you guessed it, data that lives and is generated outside
+of an organization. External data becomes
+particularly valuable when your analysis depends on
+as many sources as possible. A great thing about this data
+is that it's structured. Structured data is data that's organized in
+a certain format, such as rows and columns. Spreadsheets and
+relational databases are two examples of software that can store data
+in a structured way. You might remember our
+earlier exploration of structured thinking, which helps you add a
+framework to a problem so that you can solve it in an
+organized and logical manner. You can think of structured
+data in the same way. Having a framework for
+the data makes the data easily searchable and
+more analysis-ready. As a data analyst, you'll work with a lot
+of structured data, which will usually
+be in the form of a table, spreadsheet or
+relational database, but sometimes you'll come
+across unstructured data. This is data that
+is not organized in any easily identifiable manner. Audio and video files are
+examples of unstructured data because there's no clear way to identify or organize
+their content. Unstructured data might
+have internal structure, but the data doesn't
+fit neatly in rows and columns like structured
+data. And there you have it! Hopefully you're now
+more familiar with data formats and how you
+might use them in your work. In just a bit, you'll continue to explore
+structured data and learn even more about the data you'll use most often as an analyst. Coming soon to a screen near you.
