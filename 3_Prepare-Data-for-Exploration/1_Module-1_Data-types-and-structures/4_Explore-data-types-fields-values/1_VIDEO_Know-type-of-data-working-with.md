@@ -5,7 +5,7 @@
 - By now you've learned a lot about data.
 - From generated data, to collected data, to data formats, it's good to know as much as you can about the data you'll use for analysis.
 - In this video, we'll talk about another way you can describe data: the data type.
-- A data type is a specific kind of data attribute that tells what kind of value the data is.
+- `A data type is a specific kind of data attribute that tells what kind of value the data is.`
 - In other words, a data type tells you what kind of data you're working with.
 - Data types can be different depending on the query language you're using.
 - For example, SQL allows for different data types depending on which database you're using.
