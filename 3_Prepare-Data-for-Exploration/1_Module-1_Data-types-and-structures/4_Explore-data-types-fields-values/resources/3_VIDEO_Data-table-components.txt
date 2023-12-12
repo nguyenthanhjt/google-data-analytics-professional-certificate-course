@@ -1,0 +1,29 @@
+Here's a riddle for you. What do a music playlist, a calendar
+agenda, and an email inbox have in common? I'll give you a hint. It's not a weekly jam session. The answer is they're
+all arranged in tables. Go ahead and check out your email inbox or
+a favorite playlist, or look at your calendar agenda. There's tables in every one! A data table, or tabular data,
+has a very simple structure. It's arranged in rows and columns. You can call the rows "records"
+and the columns "fields." They basically mean the same thing, but records and fields can be used for
+any kind of data table, while rows and columns are usually reserved for
+spreadsheets. When talking about structured databases, people in data analytics usually
+go with "records" and "fields." Sometimes a field can also
+refer to a single piece of data, like the value in a cell. In any case, you'll hear both versions of these terms
+used throughout this program and your job. Let's go back to our playlist example. We'll use the new terms
+we just introduced. So each song is a record. Each record has the same fields as
+the other records in the same order. In other words, the playlist has
+the same information about each song. Each song characteristic,
+like the title and the artist, is a field. Each separate field has
+the same data type, but different fields can have different types. Let me show you what I mean. For the song list, the song titles
+are a text or string type, while the song's length could be a number type
+if you're using it for calculations. Or it could be a date and time type. The column for favorites is Boolean since it has two possible values:
+favorite or not favorite. We can view spreadsheets in the same way. The records in a spreadsheet might
+be about all sorts of things: clients, products, invoices,
+or anything else. Each record has several fields, which reveal more about
+the clients, products, or invoices. The value in every cell contains
+a specific piece of data, like the address of a client or
+the dollar amount of an invoice. As a data analyst, lots of data will
+come your way, and records, fields, and values in data tables will
+help you navigate analysis. Understanding the structures of the tables
+you're working with is a part of that. And hopefully, while you're
+working hard on your analysis and those tables, you can have a little
+fun with a different data table: the one with your favorite playlist!
