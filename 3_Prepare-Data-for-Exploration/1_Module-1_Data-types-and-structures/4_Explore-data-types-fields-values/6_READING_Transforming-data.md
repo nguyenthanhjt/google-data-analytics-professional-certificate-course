@@ -37,7 +37,7 @@ To make it easier to create charts, you may also need to transform long data to 
 - **Long data example: Stock prices**
 ![x](./resources/img-08.png)
 
-**Wide data** is data where each row contains multiple data points for the particular items identified in the columns. 
+**Wide data** is data where each row contains multiple data points for the particular items identified in the columns.
 
 - **Wide data example: Stock prices**
 ![x](./resources/img-09.png)
