@@ -1,1 +1,31 @@
 # Step for ethical data use
+
+[VIDEO](./resources/3_VIDEO_Andrew_Steps-for-ethical-data-use.mp4) and [transcript](./resources/3_VIDEO_Andrew_Steps-for-ethical-data-use.txt)
+
+- My name is Andrew
+- I am a Senior Developer Advocate on the ethical AI research group at Google
+- As an analyst, there's quite a few things you can do as you're evaluating your dataset in order to ensure that you're looking at it through the various ethical lenses
+- One of it is being to self-reflect and understand what it is that you're doing and the impact that it has
+- The best way to challenge that is to question who we are
+- We being, like, okay, we in this team are trying to build this because we think that that's going to help improve this product or that's going to help inform decisions about what we want to do next
+- Think about not just those that sit laterally next to you, but also think about those that are represented in this dataset and those that aren't represented in this dataset, and then use that intuition to then continue to question the integrity, the quality, the representation that is present in that dataset
+- And then also, think about the various harms and risks associated with the work that you're doing
+- For example, if you think that you'll benefit from keeping the dataset longer, you may want to also understand what's the risk of holding onto this dataset? What's the potential harm that could arise if you continue to look at the dataset and continue to store it and continue to retrieve this data? And going beyond that, also understanding what's the consent process like
+- Are you informing those that you're collecting data from how it's going to be used? What's the communication channel like? Putting on the various ethical lenses, taking a more nuanced approach to your analysis, being cognizant of all the possible risks and harms that can arise when not just analyzing your dataset, but also presenting your dataset
+- How you portray the results, how they're being used in the decision-making process, whether you are presenting this to management, or presenting this to executives, or presenting this to a larger audience
+- All of that matters in the responsible use of the dataset
+- But as a data analyst, you stand in the intersection between the very people that will stand to benefit from the technology that's being developed and those in your organization that are trying to make a more informed decision as to whether or not to move forward with the productionization of the technology
+- It may feel like there's a lot of weight there, and there is, but it's also very pivotal, and it speaks to the volume of the impact of your work.
+
+## Keypoints
+
+- Self-reflection is crucial for ethical data use, understanding the impact of your work.
+- Question the purpose and impact of the project, considering how it contributes to product improvement or decision-making.
+- Consider representation in the dataset, including those represented and those not represented.
+- Evaluate the integrity, quality, and representation within the dataset based on intuition and critical thinking.
+- Assess potential harms and risks associated with the dataset, especially if considering keeping it longer.
+- Understand the consent process, ensuring those providing data are informed about its use.
+- Use various ethical lenses for a nuanced approach to analysis, being aware of possible risks and harms.
+- Pay attention to how results are portrayed and used in decision-making processes when presenting to different audiences.
+- Data analysts play a pivotal role in the intersection between technology development, benefiting end-users, and organizational decision-making.
+- While the role may feel weighty, it is crucial and speaks to the significant impact of the work.
