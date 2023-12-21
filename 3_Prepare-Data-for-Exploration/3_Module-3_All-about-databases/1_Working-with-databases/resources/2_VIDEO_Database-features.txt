@@ -1,0 +1,46 @@
+Databases are essential tools for
+data analysts. I use them constantly. Just about all of the data I
+access is stored within databases. Databases store and
+organize data, making it much easier for data analysts to manage and
+access information. They help us get insights faster, make
+data-driven decisions, and solve problems. You've already heard a bit
+about what databases are and how they're used by data analysts. Now let's learn more about
+database features and components. Here's a simple database structure. It contains tables with information
+from a car manufacturer. The top level includes car dealerships,
+product details, and repair parts. Then if you drill down to the next
+level by selecting one of those tables, you'll find more specific
+details about each item. This is called a relational database. A relational database is a database
+that contains a series of related tables that can be connected
+via their relationships. For two tables to have a relationship,
+one or more of the same fields must
+exist inside both tables. For example, here, branch ID
+exists in this table and this one. If a field exists within both tables, we
+can use it to connect the tables together. The branch ID field is the key
+to connecting these tables. There are two types of keys. A primary key is an identifier that
+references a column in which each value is unique. You can think of it as a unique
+identifier for each row in a table. For our dealership table with information
+about the different dealership branches, branch ID is the primary key. Similarly, for the product details table
+about each car, VIN is our primary key. As an analyst you may
+need to create tables. If you do decide to include a primary key,
+it should be unique, meaning no two rows can
+have the same primary key. Also, it cannot be null or blank. There are also foreign keys. A foreign key is a field within a table
+that's a primary key in another table. In other words, a foreign key is how
+one table can be connected to another. Because our repair parts table contains
+information about each car part, the primary key is part ID. Each row in our repair parts
+table represents one unique part. All the other keys in this table, such as
+the VIN, are the foreign keys that allow the repair parts table to be
+connected to the other tables. As you can see,
+a table can only have one primary key but it can have multiple foreign keys. Understanding primary and
+foreign keys can be tricky, so you'll have more opportunities
+to practice coming up. But as a general summary, a primary key is used to ensure data
+in a specific column is unique. It uniquely identifies a record
+in a relational database table. Only one primary key is
+allowed in a table and they cannot contain null or blank values. And a foreign key is a column or group of
+columns in a relational database table that provides a link between the data and
+two tables. It refers to the field in a table that's
+the primary key of another table. Lastly, it's important to note that
+more than one foreign key is allowed to exist in a table. Feel free to rewatch this video to
+be sure you understand primary and foreign keys clearly. And coming up,
+you'll begin practicing how to access and analyze data from actual databases. That will be a great opportunity to
+improve your understanding of primary and foreign keys, database organization and how you might use databases in
+your future analytics career.

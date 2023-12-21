@@ -1,0 +1,30 @@
+Hello again. So far, you've seen how
+data can be gathered and analyzed to solve all
+kinds of problems. Next step, we're going to learn all
+about databases. As a refresher, a database is a collection of data
+stored in a computer system, but storage is just the beginning. You'll discover how databases
+make it possible to find the exact piece of information
+you need for your analysis. You'll also learn how to sort data in
+order to zoom in on what you need to generate insightful reports
+and much more. Then we'll go even deeper, and
+I mean really, really deep. I'm talking about metadata. You've probably heard someone say,
+wow that's so meta. Usually they're talking about something
+referencing back to itself or being completely self aware. For example if a character in a book
+knows she's in a book, that's meta. If you make a documentary about making
+documentaries, that's also meta. And here at Google, I constantly
+analyze how I analyze data. That's definitely meta. I do that to give my work a quality
+check to make sure my methods are fair. And to be certain that I'm paying
+attention to any biases that might affect the outcome. As an analyst, you should do this too. Sometimes we get a little
+too close to our data. So stepping back and asking ourselves
+if our processes make sense is key. But let's back up just a bit and
+define metadata. Metadata is data about data. Like I said: deep. Metadata is extremely important
+when working with databases. Think of it like a reference guide. Without the guide all you have is a bunch of data with
+no context explaining what it means. Metadata tells you where the data comes
+from, when and how it was created, and what it's all about. Up next, you'll learn how to take data
+from a database or another source and bring it into a spreadsheet. You'll do this either by
+importing it directly or by using SQL to generate the request. And once you have data in a spreadsheet,
+the possibilities are endless. Everything we're about to cover is a very
+important part of the prepare phase of the data analysis process. It's how data analysts figure out
+which kind of data is going to be most helpful to them. If you have the right data, you're much more likely to be able to
+solve your business problems successfully. So, ready to tap into
+the incredible power of databases? Let's go!
