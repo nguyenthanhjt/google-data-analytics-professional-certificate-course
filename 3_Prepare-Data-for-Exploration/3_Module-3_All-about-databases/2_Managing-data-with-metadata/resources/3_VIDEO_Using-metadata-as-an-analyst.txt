@@ -1,0 +1,67 @@
+Now that you know
+what metadata is, it's time to explore why
+data analysts use it. You already know that
+data needs to be identified and described before it can help you solve a problem or make an effective
+business decision. Putting data into
+context is probably the most valuable thing
+that metadata does, but there are still many more
+benefits of using metadata. Here's one. Metadata creates a
+single source of truth by keeping things
+consistent and uniform. We data analysts
+love consistency. We always aim for this kind of uniformity in our data
+and our databases. After all, data that's
+uniform can be organized, classified, stored, accessed,
+and used effectively. Plus, when a database
+is consistent, it's so much easier to discover relationships between the data inside it and the data elsewhere. Metadata also makes data
+more reliable by making sure it's accurate,
+precise, relevant, and timely. This also
+makes it easier for data analysts to identify the root causes of any
+problems that might pop up. The bottom line is, when the data we work with is high quality, it makes things easier
+and improves our results. One of the ways
+data analysts make sure their data is consistent and reliable is by using something called a
+metadata repository. A metadata repository is a database specifically
+created to store metadata. Metadata repositories
+can be stored in a physical location, or
+they can be virtual, like data that
+exists in the cloud. These repositories describe
+where metadata came from, keep it in an
+accessible form so it can be used quickly and easily, and keep it in a
+common structure for everyone who
+may need to use it. Metadata repositories
+make it easier and faster to bring together multiple
+sources for data analysis. They do this by describing the state and location
+of the metadata, the structure of
+the tables inside, and how data flows
+through the repository. They even keep track of who accesses the metadata and when. Here's a real-world example. As a health care
+analyst at Google, I use second and
+third party data. As you learned, second party
+data is data that's collected by a group directly from
+its audience and then sold. Third party data comes
+from outside sources, which are not the original
+collectors of that data. They get it from websites or
+programs that pull the data from the various platforms where it was
+originally generated. It's a bit complex, but the main thing
+to remember is that third party data doesn't come from inside your own business. If my team needs to work with data that wasn't
+created at Google, that means we sometimes
+don't know very much about its quality
+and credibility, but we need to be certain
+that our data can be trusted and was
+collected responsibly. After all, if the data is unreliable, our results
+can be unreliable too. That's why understanding
+the metadata of the external database
+is so important. It lets us confirm that
+the data is clean, accurate, relevant, and timely. This is particularly important if the data comes from
+another organization. One other important
+step when working with external data is confirming
+that we're allowed to use it. We'll often reach out
+to the owner to make sure we can access
+or purchase it. To sum up, metadata repositories are useful for all these reasons. Plus, they help ensure
+that my team is pulling the right content for the particular project and
+using it appropriately. We can confirm this because
+the metadata clearly describes how and when
+the data was collected, how it's organized,
+and much more. Soon you'll learn
+even more about using metadata in data analytics, and if you're finding metadata
+particularly fascinating, you'll discover some really
+exciting career choices that focus on
+metadata. Stay tuned.

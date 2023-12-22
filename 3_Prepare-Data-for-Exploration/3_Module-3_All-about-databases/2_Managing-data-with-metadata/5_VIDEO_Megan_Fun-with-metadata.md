@@ -1,0 +1,22 @@
+# Megan: Fun with metadata
+
+[VIDEO](./resources/5_VIDEO_Megan_Fun-with-metadata.mp4) and [transcript](./resources/5_VIDEO_Megan_Fun-with-metadata.txt)
+
+- My name is Megan, and I am an agency measurement lead here at Google
+- Basically, I help to demystify measurement and analytics for advertising agencies
+- So people that are tasked with executing media plans for advertisers but also people that are interested in measuring the impact that media is having for their clients
+- So I've been doing this for about 17 years now and have seen a lot of evolution in the space from data availability, from different modeling techniques becoming more advanced but also more accessible, and it's just been a really cool journey to see how it's evolved, how analytics has become more mainstream, and how people are getting more excited about it
+- Metadata is basically the key to your larger data set
+- It helps describe what's in the rows and the columns of the data that you'll be working with
+- Metadata is kind of a shorthand or a CliffsNotes version of a much more complex set of information
+- It can be helpful in just kind of helping you get a handle on what's in a single data set that you may have access to.
+Play video starting at :1:15 and follow transcript1:15
+It's an important part of the discovery process of any analytics project as you're working with either a client or a vendor to understand the resources that you'll have to address a problem and what might be missing
+- It just gives you the keys to unlock that data in a really simple and straightforward way and is a great communication tool
+- When I was working for an advertiser, one of the things that we were trying to do was build something called a data lake
+- So essentially, this is bringing together all of the sources of data that you might want to use in an analysis into one place, which can be really, really tricky
+- One of the benefits of metadata was figuring out where we had sources that may overlap, where we had data sources that had things in common
+- And what the unique pieces of information were that we were getting from each of those data sets
+- So as we thought about tackling this really huge and important project, we were able to use metadata to quickly and easily get to the basic constructs that we were trying to tackle
+- When you're working with people who maybe don't have analytics as their day job, getting that "aha" moment, helping them understand how measurement and analytics are tools that can help them achieve their goals, is really important
+- And just getting to that idea of you made something that was previously inaccessible a little bit more accessible for that team and something they feel comfortable putting into practice is really important and really kind of a great way to come out of a partnership.

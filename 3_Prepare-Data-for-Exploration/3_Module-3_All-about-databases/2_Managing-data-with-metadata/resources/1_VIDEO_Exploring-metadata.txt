@@ -1,0 +1,65 @@
+Now that you understand
+the different ways to organize data in a database, let's talk about how you
+can describe that data. In this video, we'll start
+exploring metadata, which is a very important aspect
+of database management. Metadata is an abstract
+concept, though. Let's kick things off with
+a simple, everyday example. Did you know that every time a photo is taken
+with a smartphone, data is automatically collected and stored within that photo? Take a look. Choose any
+photo on your computer. Here's a cute shot of my
+friend's dogs, Rudy and Matilda. On your photo, right-click
+on "Get Info" or "Properties." This will give you
+the photo's metadata, which may tell you the
+type of file it is; the date and time it was taken; the geolocation, or
+where it was taken; what kind of device was used to take
+the photo; and much more. Pretty amazing, right? Here's
+another example. Every time you send
+or receive an email, metadata is sent right
+along with that message. You can find it by clicking on "Show Original" or "View
+Message Details." An email message's metadata
+includes its subject, who it's from, who it's to, and the date and
+time it was sent. The metadata even
+knows how quickly it was delivered after
+the sender pressed, "Send." Metadata is information
+that's used to describe the data that's
+contained in something, like a photo or an email. Keep in mind that metadata
+is not the data itself. Instead, it's data
+about the data. In data analytics, metadata
+helps data analysts interpret the contents of
+the data within a database. That's why metadata is so important when working
+with databases. It tells an analyst what
+the data is all about. That makes it possible
+to put the data to work solving problems and making
+data-driven decisions. As a data analyst, there are three common types of metadata that you'll come across: descriptive, structural,
+and administrative. Descriptive metadata is metadata that describes a piece of data and can be used to identify it at a
+later point in time. For instance, the
+descriptive metadata of a book in a
+library would include the code you see on
+its spine, known as a unique International
+Standard Book Number, also called the ISBN. It would also include the
+book's author and title. Next is structural metadata, which is metadata that
+indicates how a piece of data is organized and
+whether it's part of one or more than
+one data collection. Let's head back to the library. An example of structural data
+would be how the pages of a book are put together to
+create different chapters. It's important to note
+that structural metadata also keeps track of the
+relationship between two things. For example, it can show us
+that the digital document of a book manuscript was actually the original version
+of a now printed book. Finally, we have
+administrative metadata. Administrative metadata
+is metadata that indicates the technical
+source of a digital asset. When we looked at the
+metadata inside the photo, that was administrative metadata. It shows you the
+type of file it was, the date and time it was
+taken, and much more. Here's one final thought to
+help you understand metadata. If you're on your way to the
+library to pick out a book, you could research
+a book's title, author, length, and
+number of chapters. That's all metadata, and it can tell you a lot
+about the book, but you have to actually read the book to know
+what it's all about. Likewise, you can read
+about data analytics, but you have to take
+this course to earn the Google Data
+Analytics certificate. Keep moving forward to
+gain that new perspective.
