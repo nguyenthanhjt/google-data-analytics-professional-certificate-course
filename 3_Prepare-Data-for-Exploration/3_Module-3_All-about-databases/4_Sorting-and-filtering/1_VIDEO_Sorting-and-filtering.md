@@ -26,3 +26,19 @@ Link to template: [Sales Rep Cities, States, and Parts](https://docs.google.com/
 OR If you don't have a Google account, you can download the spreadsheet directly from the attachment [Sales-Rep-Cities-States-and-Parts](./resources/Sales-Rep-Cities-States-and-Parts.xlsx):
 
 - The menu option has slightly changed. Select Data and Sort range, and then choose Advanced range sorting options to view the dialog box shown.
+
+## Keypoints
+
+- Sorting:
+  - Sorting arranges data in a meaningful order to make it easier to understand, analyze, and visualize.
+  - It can be done in ascending or descending order, alphabetically or numerically.
+  - Freezing the header row is essential when sorting to keep column labels visible while scrolling.
+- Multiple Criteria Sorting:
+  - Sorting can be done based on multiple variables, providing a more detailed and refined organization of data.
+- Filtering:
+  - Filtering shows only the data that meets specific criteria, hiding the rest.
+  - Filters simplify a spreadsheet by displaying only the necessary information.
+  - Filtering allows for isolating specific pieces of information based on set conditions.
+- Applying Filters:
+  - Filters can be applied to columns to show only data that meets certain criteria.
+  - The filtered data is temporarily hidden, and the filter can be turned off to view the entire dataset.
