@@ -1,3 +1,49 @@
 # Setting up BigQuery, including sandbox and billing options
 
-[VIDEO](./resources/1_VIDEO_Sorting-and-filtering.mp4) and [transcript](./resources/1_VIDEO_Sorting-and-filtering.txt)
+[VIDEO](./resources/1_VIDEO_Setting-up-BigQuery-including-sandbox-and-billing-options.mp4) and [transcript](./resources/1_VIDEO_Setting-up-BigQuery-including-sandbox-and-billing-options.txt)
+
+- Hi.
+- Welcome back.
+- Throughout this course, you've seen how BigQuery can be used to view and analyze data from tons of sources.
+- Now we're going to explore the different account tiers that BigQuery offers, so you know how to choose the right one for your needs, and how you can access them.
+- BigQuery is offered to you at no charge.
+- There are paid options available, but we won't need them for the activities in this course.
+- Instead, we're going to talk about two account types: sandbox, and free trial.
+- A Sandbox account is available at no charge and anyone with a Google account can log in and use it.
+- There are a couple of limitations to this account type.
+- For example, you get a maximum of 12 projects at a time.
+- This means that if you want to make a 13th project, you'll have to delete one of your original 12.
+- It also doesn't allow you to insert new records to a database or update the field values of existing records.
+- These Data Manipulation Language or DML operations aren't supported in the sandbox.
+- However, you won't need to do this in course activities.
+- You can read more about the limitations of a sandbox account in the BigQuery documentation.
+- This is the account type we'll use for most of our activities.
+- It's simple to set up.
+- So, later in this video we'll walk through the steps required to create an account.
+- Before that though, we should talk about the other way to use BigQuery without charges.
+- The Google Cloud free trial.
+- The free trial gives you access to more of what BigQuery has to offer with fewer overall limitations.
+- The free trial offers $300 in credit for use in Google Cloud during the first 90 days.
+- You won't get anywhere near that spending limit if you just use the BigQuery console to practice SQL queries.
+- After you spend the $300 credit or after 90 days, your free trial will expire and you will need to personally select to upgrade to a paid account to keep working in Google Cloud.
+- Your method of payment will not be automatically charged after your free trial ends.
+- The free trial does require that you set up a payment option with Google Cloud.
+- But unless you choose to opt-in for an account upgrade, it won't charge you.
+- However, it does require you to enter a payment type.
+- So, we understand if you don't feel comfortable with this option.
+- This is one reason the BigQuery sandbox account exists, so you don't have to enter any payment information.
+- With either type of account, you can upgrade to a paid account at anytime and retain all of your existing projects.
+- If you set up a free trial account but choose not to upgrade to a paid account when your trial period ends, you can set up a free sandbox account at that time.
+- However, projects from your trial won't transfer to your sandbox.
+- It would be like starting from scratch.
+- Just something to keep in mind.
+- Now we're going to set up your sandbox account, which you can change into a free trial or upgrade to a paid account if you choose.
+- First, we'll go to the BigQuery sandbox documentation page.
+- Then go to the upper right corner and log in to whichever Google account you want to use for the BigQuery sandbox account.
+- Then we'll select the "Go to BigQuery" button on the documentation page.
+- This gives us a drop-down to select a country and to read the terms of service agreement.
+- This will bring us to the SQL workspace, which we'll be using an upcoming activities.
+- Choose "Create Project" and name the project and give it an ID.
+- Choose "Create," and then "Done." There we have it.
+- In the next video, we'll explore what each part of the SQL workspace does and how we'll use it in future activities.
+- See you there.
