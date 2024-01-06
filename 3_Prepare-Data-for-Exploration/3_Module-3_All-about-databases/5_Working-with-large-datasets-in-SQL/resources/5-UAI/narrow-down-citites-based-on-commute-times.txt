@@ -1,0 +1,49 @@
+Welcome back in this task.
+We are going to continue helping our clients decide where
+to purchase office space for their business.
+In the last task we selected cities within a specific
+temperature range.
+By the end of this task, we will learn how to narrow down
+your search further by adding another selection criteria
+to our SQL
+query. More specifically, we will filter out our results
+by considering the average commute time in each city.
+So let's get started let's say our client only wants to move
+to a city with an average commute time of less than an hour.
+How would we do this?
+We should first note that the commute time requirement is
+an additional condition and conditions are specified in the
+where clause.
+Even though we already have one where class, it is possible
+to add more than one condition as you have learned.
+When you add multiple column names in the select clause,
+you separate them with commas.
+However, when you add additional criteria in the where clause,
+they are separated by AND.
+So let's add this additional condition to our where clause:
+and average underscore commute the less than sign and then
+60 notice we started a new line and indentation. Average
+commute is a column in the cities table that stores
+the average commute time in each city in minutes
+and we'll use the symbol less than sign.
+Now run this query.
+You just narrow down the potential cities for clients to move
+to even further.
+You'll notice that all the cities in our results have commute
+times less than 60 minutes.
+In addition to the temperature range between 45 and 65°F.
+Well done.
+Now. To summarize in this task, our goal was to narrow down
+the list of cities by adding an average commute time
+requirement to your SQL query.
+In the process, we learned that it is possible to add more
+than one condition in a where clause and when we added
+additional criteria in the where clause, those criteria are
+separated by the word AND.
+By the end of this task, we have identified eight cities that
+match our clients ideal temperature and average commute time
+requirements.
+In the next task, we will finish up the query by adding the
+final criteria.
+Happiness ranking.
+Let's go to the next task.

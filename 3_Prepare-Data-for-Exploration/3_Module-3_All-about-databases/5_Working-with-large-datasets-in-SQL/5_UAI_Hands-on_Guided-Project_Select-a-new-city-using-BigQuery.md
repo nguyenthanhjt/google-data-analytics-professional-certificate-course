@@ -14,8 +14,8 @@ Please refer to the [Coursera Help Center](https://www.coursera.support/s/articl
 
 This course uses a third-party app, Hands-on Guided Project: Select a New City Using BigQuery, to enhance your learning experience. The app will reference basic information like your name, email, and Coursera ID.
 
-[1.Overview and Import Data into BigQuery](./resources/5-select-a-new-city-using-bigquery/overview-and-import-data-into-bigquery.mp4) and [transcript](./resources/5-select-a-new-city-using-bigquery/overview-and-import-data-into-bigquery.txt)
-[2.Identify Cities That Match the Temperature Requirements](./resources/5-select-a-new-city-using-bigquery/identify-cities-that-match-the-temperature-requirements.mp4) and [transcript](./resources/5-select-a-new-city-using-bigquery/identify-cities-that-match-the-temperature-requirements.txt)
-[3.Narrow Down Cities Based on Commute Times](./resources/5-select-a-new-city-using-bigquery/identify-cities-that-match-the-temperature-requirements.mp4) and [transcript](./resources/5-select-a-new-city-using-bigquery/identify-cities-that-match-the-temperature-requirements.txt)
-[4.Narrow Down Results Using Happiness Rankings](./resources/5-select-a-new-city-using-bigquery/Narrow-Down-Results-Using-Happiness-Rankings.mp4) and [transcript](./resources/5-select-a-new-city-using-bigquery/Narrow-Down-Results-Using-Happiness-Rankings.txt)
-[5.Narrow Down Results Using Happiness Rankings](./resources
+- [1.Overview and Import Data into BigQuery](./resources/5-UAI/overview-and-import-data-into-bigquery.mp4) and [transcript](./resources/5-UAI/overview-and-import-data-into-bigquery.txt)
+- [2.Identify Cities That Match the Temperature Requirements](./resources/5-UAI/identify-cities-that-match-the-temperature-requirements.mp4) and [transcript](./resources/5-UAI/identify-cities-that-match-the-temperature-requirements.txt)
+- [3.Narrow Down Cities Based on Commute Times](./resources/5-UAI/identify-cities-that-match-the-temperature-requirements.mp4) and [transcript](./resources/5-UAI/identify-cities-that-match-the-temperature-requirements.txt)
+- [4.Narrow Down Results Using Happiness Rankings](./resources/5-UAI/Narrow-Down-Results-Using-Happiness-Rankings.mp4) and [transcript](./resources/5-UAI/Narrow-Down-Results-Using-Happiness-Rankings.txt)
+- [5.Narrow Down Results Using Happiness Rankings](./resources/5-UAI/Narrow-Down-Results-Using-Happiness-Rankings.mp4) and [transcipt](./resources/5-UAI/Narrow-Down-Results-Using-Happiness-Rankings.txt)

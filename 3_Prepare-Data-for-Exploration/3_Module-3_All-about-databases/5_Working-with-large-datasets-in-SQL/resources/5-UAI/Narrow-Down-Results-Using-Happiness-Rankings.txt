@@ -1,0 +1,61 @@
+Welcome back in this task We're going to finish helping our
+client decide where to purchase office space for their
+business.
+In the last task we added a second selection criteria to the
+where clause.
+By the end of this task we will add a third criteria to our
+SQL statement.
+We will narrow down our results even further by selecting
+cities based on their happiness ranking.
+Our client wants to move to a city that is in the top
+15 happiest cities in the world.
+Let's help them out with that.
+This time you're going to work on your own so you can apply
+what you've learned so far to solve a problem.
+But before you do, note that the values in the happiness
+ranking our interviews with one being the happiest. Your
+client wants to be in the top 15 happiest cities.
+So that means these cities have a happiness ranking
+of 15 or less.
+You can always check the schema which is the structure
+of the table.
+To confirm the name of the column
+you will want to use in your SQL statement.
+Now pause the instructional video and add this new happiness
+condition to your SQL statement.
+When you're done, resume the video and we will go
+over the solution together.
+Welcome back,  the column
+we're interested in the one that specifies the happiness
+ranking is titled happiness underscore ranking.
+We can simply add another criteria to our wear clause to do
+this. Press into then begin with the keyword AND happiness
+underscore ranking less than equals 15. Notice we use
+less than and equal to because we want to include cities that
+are ranked number 15 and all the values that are less than 15.
+Now you're ready to run this query for us to run option.
+Way to go!
+We have narrowed our candidates even further.
+Our results now only show cities that match our client's
+requirements around temperature commute times and happiness.
+Now let's summarize what we did in this last task.
+Our goal for this task was to narrow down our results even
+further by selecting cities based on the happiness ranking.
+In the process we learned that to further narrow
+down the number of cities in our search, we needed to add
+another criterion to our where clause as a result by the end
+of this task we identified two cities that match our clients
+ideal temperature requirements, commute time requirements
+and happiness ranking criteria that would have taken a lot
+of time to build manually but it was made so much easier
+with the use of SQL and BigQuery.
+That is why for data analyst role, SQL continues to be
+one of the most in-demand skills. With that,
+I hope you enjoyed this project. With this new found SQL
+skills, you are now one step closer to a career as a data
+analyst.
+There is an optional practice task after this task.
+If you choose not to participate this is the end
+of the guided project you can return to your course
+by clicking the leave session button.
+Best of luck with the rest of your experience.
