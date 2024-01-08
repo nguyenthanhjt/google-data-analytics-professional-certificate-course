@@ -1,0 +1,42 @@
+Hey again. So you've heard
+me mention the idea of using meaningful and logical file names to help organize your data. But using consistent
+file names can also streamline or even automate
+your analysis process, saving you time and
+energy in the long run. When you use
+consistent guidelines that describe the content, date, or version of
+a file and its name, you're using file
+naming conventions. As we've already discovered, these file naming conventions
+help us organize, access, process, and
+analyze our data. So here are some general
+tips on creating file naming conventions that are
+both logical and functional. Here's some quick
+file naming Do's. Work out your conventions
+early to avoid having to spend time
+redoing it later. Align your file naming with
+your team and make sure your file names are meaningful with references to
+the project name, creation date, revision version, or any other useful information needed to understand
+what's in that file. Now, there's some other
+simple things you can do to make sure your file naming
+conventions are on point. First of all, you want to keep your file name short and sweet. They're supposed to be quick reference points that
+tell you what's in a file. From earlier videos, we know
+that we want to include dates and revision
+numbers in our file names. I recommend formatting
+it by year, month, and day because that follows the international
+date standard. Different countries have
+different date conventions, so keep that in mind. When you include
+revision numbers in a file name, lead with a zero, so that if you run into
+double digits of revisions, it's already built
+into your conventions. Another good rule
+is to use hyphens, underscores, or
+capitalized letters instead of using spaces. Spaces and special characters might not be recognized
+by your software. Plus avoiding spaces definitely makes it easier to work in SQL. My last bit of advice: create a text file that lays out all your naming
+conventions on a project. This is really helpful if
+someone new joins your team, or if you just need
+a quick reminder while you're working
+on something. We talked about this earlier
+when we covered metadata, which is data about data. It helps explain what data there is and how it's being organized. When you use consistent, meaningful file naming conventions
+throughout your project, your data will be
+easy to find and use, and you can save
+yourself time, too. Up next, we'll keep looking at spreadsheets and we'll talk about security features and how you can use them to
+protect your data now that it's organized.
+See you there.
