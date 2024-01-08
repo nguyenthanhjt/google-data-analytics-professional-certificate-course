@@ -2,7 +2,7 @@
 
 ## Definitions, Acronyms and Abbreviations
 
-- LL: Learning Log.
+- LL/ll: Learning Log.
 - TPL/tpl: template.
 - PQ/pq: Practice Quiz.
 - UP/up: Ungraded Plugin.
