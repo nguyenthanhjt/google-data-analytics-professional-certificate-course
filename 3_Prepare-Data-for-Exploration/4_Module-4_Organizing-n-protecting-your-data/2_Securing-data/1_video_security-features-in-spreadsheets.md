@@ -1,0 +1,71 @@
+# Security features in spreadsheets
+
+[VIDEO](./resources/1_video_security-features-in-spreadsheets.mp4) and [transcript](./resources/1_video_security-features-in-spreadsheets.txt)
+
+- You're back
+- Okay, now that our data's organized and easy to find, it's time to start thinking about how to protect it
+- The good news is that spreadsheets come with security features already built in
+- In this video, we'll look at different spreadsheet programs and how their security features, like sheet protections and access control, are similar
+- When I say "security features," you might be imagining ways to protect data from other people
+- But that's just one kind of security
+- Security features can be designed to keep unauthorized users from viewing certain files, or just lock your worksheets so that you don't accidentally break your formulas
+- This is called data security
+- Data security means protecting data from unauthorized access or corruption by adopting safety measures
+- Whatever spreadsheet program you're using will have similar security measures built in
+- As a data analyst, you'll run into Google Sheets and Excel a lot
+- Let's talk about what they have in common
+- First, both programs have features that let you protect your spreadsheets or parts of your spreadsheets from being edited, from the entire worksheet down to single cells in a table
+- If you're collaborating with other users, you can easily lock down your formulas so that they aren't accidentally broken
+- Speaking of collaborating, Excel and Google Sheets both have access control features like password protection and user permissions
+- This gives you more control over who can do what to your spreadsheet
+- Because these programs are located in different places, these features are slightly different
+- For Excel spreadsheets, you can encrypt files and worksheets with passwords before emailing them to other users
+- In Google Sheets, these settings are found under the sharing menu, which allows you to control who can see or edit the sheet online
+- Google Sheets can also be copied so that users can work with that data without altering the original
+- Tabs can also be hidden and unhidden in Sheets and Excel, allowing you to change what data is being viewed
+- But remember, even hidden tabs can be unhidden by someone else, so be sure you're okay with those tabs still being accessible
+- As a data analyst, data security will be a priority
+- But no matter which program you use to create spreadsheets, there's security features to help you keep your work safe and secure
+- There are some other basic best practices you can take to keep your data more secure overall, which we'll cover later in a reading
+- You've made it to the end of this module
+- Congrats
+- In these videos, we've covered strategies for organizing data for personal and work use, how to develop functional file naming conventions, and some security measures you can take advantage of in spreadsheets
+- Before you move on to the next step in the data analysis lifecycle
+- It's important that you make sure your data is prepared, and that includes organizing and securing it
+- As usual after this video, you'll have your weekly challenge
+- I know you've got this
+- Then after the weekly challenge, there's some optional material all about connecting to the online data community
+- As you start building your career in data analytics, it'll be really valuable to connect with others, learn about new trends in the field and share your own work
+- I think you'll get a lot out of those videos
+- That'll help you develop a professional online presence and find ways to communicate with people in your field, which is key as networking becomes more and more online and remote work opportunities become the norm
+- But if you feel pretty confident about your online presence, you can move into the course challenge instead
+- Good luck on this weekly challenge, and I'll see you soon!
+
+## Keypoints
+
+- Data Security Measures:
+  - Spreadsheets come with built-in security features designed to protect data.
+  - Security features aim to prevent unauthorized access, corruption, and accidental data manipulation.
+- Common Security Features:
+  - Both Google Sheets and Excel, common spreadsheet programs, offer similar security measures.
+  - These include protection for the entire worksheet or specific parts, such as single cells in a table.
+- Formula Protection:
+  - Collaboration tools in both Google Sheets and Excel allow the protection of formulas to prevent accidental alterations when working with others.
+- Access Control Features:
+  - Both programs provide access control features such as password protection and user permissions.
+  - These features allow you to control who can view or edit the spreadsheet.
+- Differences Between Programs:
+  - While the features are similar, the implementation may differ between Excel and Google Sheets.
+  - Excel allows encryption with passwords for file and worksheet protection, while Google Sheets has sharing settings under the sharing menu.
+- Additional Features:
+  - Google Sheets allows copying of sheets for collaborative work without altering the original.
+  - Both Sheets and Excel allow hiding and unhiding tabs to control the visibility of data.
+- Hidden Tabs Consideration:
+  - Hidden tabs in spreadsheets can be unhidden by others, so caution is needed when relying on this feature for data security.
+- Data Analyst Priority:
+  - Data security is a priority for data analysts to ensure the integrity and confidentiality of the data they work with.
+- Basic Best Practices:
+  - The section emphasizes that, in addition to built-in security features, there are basic best practices for overall data security that will be covered in later readings.
+- Conclusion of Module:
+  - The module covers strategies for organizing data, developing functional file naming conventions, and utilizing security measures in spreadsheets.
+  - It stresses the importance of preparing data through organization and security before moving on in the data analysis lifecycle.

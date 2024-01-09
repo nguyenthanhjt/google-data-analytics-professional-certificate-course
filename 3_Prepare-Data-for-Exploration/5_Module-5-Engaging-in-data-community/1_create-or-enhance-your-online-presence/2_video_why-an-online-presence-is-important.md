@@ -1,0 +1,75 @@
+# Why an online presence is important
+
+[VIDEO](./resources/1_video-managing-your-presence-as-a-data-analyst.mp4) and [transcript](./resources/1_video-managing-your-presence-as-a-data-analyst.txt)
+
+- Hey again
+- Today, a lot of us spend a lot of time connecting with people online
+- We stay in touch with family and friends we can't see everyday, or post about what we're doing, eating, and watching on social media
+- But our presence online goes beyond the personal
+- A consistent and professional online presence is an important tool in building a career in data analytics
+- A professional online presence is important for a few key reasons
+- First, it can help potential employers find you
+- Second, it lets you make connections with other data analysts in your field, learn and share data findings, and maybe even participate in community events
+- Keep in mind that a lot of networking happens online now
+- If you aren't keeping up your online presence, you might be missing out on great opportunities without even knowing it
+- There are lots of different professional sites that you can take advantage of as you start building your own online presence
+- For now though, we'll focus on LinkedIn and GitHub
+- LinkedIn is specifically designed to help people make connections with other people in their field
+- It's a great way to follow trends in your industry, learn from industry leaders, and stay engaged with the wider professional community
+- And if you're actively looking for a new job, LinkedIn has job boards that you can search
+- You can even narrow down your location to see who's hiring near you
+- Plus, job recruiters frequently use LinkedIn to find potential data analysts for new projects
+- It's always a good idea to keep your LinkedIn profile up to date with your resume
+- You might find yourself being recruited
+- LinkedIn also lets you connect with people and build a network
+- You can share exciting things happening in your professional life and keep up with where your connections go
+- You never know when you might end up working with someone again
+- With LinkedIn, you can be endorsed for having job skills or endorse other people
+- If you impress someone at a previous job, they can let other people know just how awesome you are to work with
+- GitHub, the other website I mentioned earlier, is a little different
+- GitHub is part code-sharing site, part social media
+- It has an active community collaborating and sharing insights to build resources
+- You can talk with other GitHub users on the forum, use the community-driven wikis, or even use it to manage team projects
+- GitHub also hosts community events where you can meet other people in the field and learn some new things
+- GitHub has a lot of features for you to check out
+- The best way to learn more about it is to check it out for yourself
+- We'll also be talking more about GitHub later in the program
+- Sometimes if you're looking for a new career, finding someone who has something in common with you, like shared interests or the same hometown, and reaching out to them, can help a lot
+- Just a 15-minute conversation with someone could set you on the path to a new career, whether that's on a professional networking site like LinkedIn, or at a community event hosted by GitHub
+- LinkedIn has become one of the standard professional social media sites, so it's a good starting place for building your online presence
+- GitHub offers a lot of really great tools for data analysts in the community
+- If you don't already have accounts on these sites, challenge yourself to set them up now
+- Connect with other people
+- Share some updates about what you're working on right now
+- If you're already using LinkedIn and GitHub, great news: we're going to talk more about how to enhance your existing social media presence next time
+- See you soon.
+
+## Keypoints
+
+- Importance of Professional Online Presence:
+  - A consistent and professional online presence is crucial for building a successful career in data analytics.
+  - It goes beyond personal social media use and becomes a tool for professional growth.
+- Reasons for a Professional Online Presence:
+  - Helps potential employers find you.
+  - Facilitates connections with other data analysts for learning, sharing insights, and participating in community events.
+  - Networking increasingly happens online, making it important to maintain an active online presence.
+- Focus on LinkedIn and GitHub:
+  - LinkedIn is designed for professional connections, industry trends, and job searches.
+  - It's a platform for showcasing your skills, connecting with industry leaders, and staying engaged in the professional - community.
+  - GitHub, a code-sharing and social media platform, fosters collaboration, insights sharing, and community-driven projects.
+- LinkedIn Benefits:
+  - Job boards for job searches and opportunities.
+  - Recruiters frequently use LinkedIn to find potential candidates.
+  - Networking, endorsements, and skill recognition are integral to the platform.
+- GitHub Features:
+  - Code-sharing, collaboration, and social media aspects.
+  - Active community for sharing insights and building resources.
+  - Forums, wikis, and events for engaging with other data analysts.
+- Networking and Career Opportunities:
+  - Building connections through platforms like LinkedIn and GitHub can open up new opportunities.
+  - A 15-minute conversation with someone who shares common interests can be impactful for your career.
+- Setting Up LinkedIn and GitHub Accounts:
+  - Encourages viewers to set up accounts on LinkedIn and GitHub.
+  - Emphasizes connecting with others, sharing updates, and enhancing existing social media presence.
+- Future Content:
+  - Teases upcoming content on enhancing social media presence on LinkedIn and GitHub.
