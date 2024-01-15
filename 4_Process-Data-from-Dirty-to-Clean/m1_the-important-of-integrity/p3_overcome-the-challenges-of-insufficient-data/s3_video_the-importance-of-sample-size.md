@@ -1,0 +1,61 @@
+# The importance of sample size
+
+[VIDEO](./resources/s3_video_the-importance-of-sample-size.mp4) and [transcript](./resources/s3_video_the-importance-of-sample-size.txt)
+
+- Okay, earlier we talked about having the right kind of data to meet your business objective and the importance of having the right amount of data to make sure your analysis is as accurate as possible
+- You might remember that for data analysts, a population is all possible data values in a certain dataset
+- If you're able to use 100 percent of a population in your analysis, that's great
+- But sometimes collecting information about an entire population just isn't possible
+- It's too time-consuming or expensive
+- For example, let's say a global organization wants to know more about pet owners who have cats
+- You're tasked with finding out which kinds of toys cat owners in Canada prefer
+- But there's millions of cat owners in Canada, so getting data from all of them would be a huge challenge
+- Fear not! Allow me to introduce you to..
+- sample size! When you use sample size or a sample, you use a part of a population that's representative of the population
+- The goal is to get enough information from a small group within a population to make predictions or conclusions about the whole population
+- The sample size helps ensure the degree to which you can be confident that your conclusions accurately represent the population
+- For the data on cat owners, a sample size might contain data about hundreds or thousands of people rather than millions
+- Using a sample for analysis is more cost-effective and takes less time
+- If done carefully and thoughtfully, you can get the same results using a sample size instead of trying to hunt down every single cat owner to find out their favorite cat toys
+- There is a potential downside, though
+- When you only use a small sample of a population, it can lead to uncertainty
+- You can't really be 100 percent sure that your statistics are a complete and accurate representation of the population
+- This leads to sampling bias, which we covered earlier in the program
+- Sampling bias is when a sample isn't representative of the population as a whole
+- This means some members of the population are being overrepresented or underrepresented
+- For example, if the survey used to collect data from cat owners only included people with smartphones, then cat owners who don't have a smartphone wouldn't be represented in the data
+- Using random sampling can help address some of those issues with sampling bias
+- Random sampling is a way of selecting a sample from a population so that every possible type of the sample has an equal chance of being chosen
+- Going back to our cat owners again, using a random sample of cat owners means cat owners of every type have an equal chance of being chosen
+- Cat owners who live in apartments in Ontario would have the same chance of being represented as those who live in houses in Alberta
+- As a data analyst, you'll find that creating sample sizes usually takes place before you even get to the data
+- But it's still good for you to know that the data you are going to analyze is representative of the population and works with your objective
+- It's also good to know what's coming up in your data journey
+- In the next video, you'll have an option to become even more comfortable with sample sizes
+- See you there.
+
+## Keypoints
+
+- Population vs. Sample:
+  - A population refers to all possible data values in a specific dataset.
+  - It's not always feasible to collect data from an entire population due to factors like time and cost constraints.
+- Introduction to Sample Size:
+  - Sample size involves using a representative part of a population for analysis.
+  - The aim is to gather enough information from this smaller group to make predictions or draw conclusions about the entire population.
+- Benefits of Sample Size:
+  - Using a sample size is more practical, cost-effective, and time-efficient compared to collecting data from the entire population.
+  - Hundreds or thousands of individuals in a sample can provide insights similar to analyzing millions.
+- Uncertainty and Sampling Bias:
+  - There is a potential downside to using a small sample size—uncertainty.
+  - Sampling bias may occur, where the sample doesn't accurately represent the entire population, leading to overrepresentation or underrepresentation of certain groups.
+- Random Sampling to Address Bias:
+  - Random sampling is a technique where every type within a population has an equal chance of being selected.
+  - It helps reduce bias and ensures that various subgroups are adequately represented.
+- Addressing Sampling Bias:
+  - If a survey, for instance, only includes cat owners with smartphones, it introduces bias by excluding those without smartphones.
+  - Random sampling helps mitigate such bias, ensuring fair representation of different types within the population.
+- Data Analyst's Role:
+  - Data analysts often determine sample sizes before delving into the data analysis process.
+  - Ensuring that the sample is representative of the population and aligns with the analysis objective is crucial.
+- Upcoming Content:
+  - The next video will delve deeper into the concept of sample sizes, providing further insights and understanding.

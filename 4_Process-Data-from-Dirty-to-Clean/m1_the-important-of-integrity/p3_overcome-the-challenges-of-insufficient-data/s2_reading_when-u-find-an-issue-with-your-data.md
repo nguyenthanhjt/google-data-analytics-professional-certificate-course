@@ -30,7 +30,7 @@ Consider the following data issues and suggestions on how to work around them.
 
 **Use the following decision tree as a reminder of how to deal with data errors or not enough data:**
 
-![This illustration is a decision tree showing four possible decisions to make in order to work around data issues.](./resources/img-1.png)
+![This illustration is a decision tree showing four possible decisions to make in order to work around data issues.](./resources/img-1-a-decision-tree-showing-4-possible-decisions-to-make-in-order-to-work-around-data-issues.png)
 
 ## Keypoints
 
