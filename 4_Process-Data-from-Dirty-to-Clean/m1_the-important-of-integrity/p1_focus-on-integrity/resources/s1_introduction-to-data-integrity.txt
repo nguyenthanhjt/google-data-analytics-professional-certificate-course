@@ -1,0 +1,54 @@
+Hi! Good to see you! My name is Sally, and I'm here to
+teach you all about processing data. I'm a measurement and
+analytical lead at Google. My job is to help advertising agencies and
+companies measure success and analyze their data, so I get to meet with lots of
+different people to show them how data analysis helps
+with their advertising. Speaking of analysis, you did great
+earlier learning how to gather and organize data for analysis. It's definitely an important step in
+the data analysis process, so well done! Now let's talk about how to make sure
+that your organized data is complete and accurate. Clean data is the key to making sure your
+data has integrity before you analyze it. We'll show you how to make sure
+your data is clean and tidy. Cleaning and processing data is one part
+of the overall data analysis process. As a quick reminder,
+that process is Ask, Prepare, Process, Analyze, Share, and Act. Which means it's time for
+us to explore the Process phase, and I'm here to guide you the whole way. I'm very familiar with
+where you are right now. I'd never heard of data analytics until
+I went through a program similar to this one. Once I started making progress, I realized
+how much I enjoyed data analytics and the doors it could open. And now I'm excited to help
+you open those same doors! One thing I realized as I worked for different companies, is that clean
+data is important in every industry. For example, I learned early in my career
+to be on the lookout for duplicate data, a common problem that analysts
+come across when cleaning. I used to work for a company that had
+different types of subscriptions. In our data set, each user would have
+a new row for each subscription type they bought, which meant users would
+show up more than once in my data. So if I had counted the number of users
+in a table without accounting for duplicates like this, I would have
+counted some users twice instead of once. As a result, my analysis would have been
+wrong, which would have led to problems in my reports and for the stakeholders
+relying on my analysis. Imagine if I told the CEO that we
+had twice as many customers as we actually did!? That's why clean data is so important. So the first step in processing data
+is learning about data integrity. You will find out what
+data integrity is and why it is important to maintain it
+throughout the data analysis process. Sometimes you might not even
+have the data that you need, so you'll have to create it yourself. This will help you learn how sample size
+and random sampling can save you time and effort. Testing data is another important
+step to take when processing data. We'll share some guidance on how to
+test data before your analysis officially begins. Just like you'd clean your clothes and
+your dishes in everyday life, analysts clean their data all the time,
+too. The importance of clean data
+will definitely be a focus here. You'll learn data cleaning techniques for
+all scenarios, along with some pitfalls to watch out for
+as you clean. You'll explore data cleaning in
+both spreadsheets and databases, building on what you've already
+learned about spreadsheets. We'll talk more about SQL and
+how you can use it to clean data and do other useful things, too. When analysts clean their data, they do
+a lot more than a spot check to make sure it was done correctly. You'll learn ways to verify and
+report your cleaning results. This includes documenting your
+cleaning process, which has lots of benefits that we'll explore. It's important to remember that processing
+data is just one of the tasks you'll complete as a data analyst. Actually, your skills with cleaning data
+might just end up being something you highlight on your resume
+when you start job hunting. Speaking of resumes, you'll be able
+to start thinking about how to build your own from the perspective
+of a data analyst. Once you're done here, you'll have
+a strong appreciation for clean data and how important it is in
+the data analysis process. So let's get started!
