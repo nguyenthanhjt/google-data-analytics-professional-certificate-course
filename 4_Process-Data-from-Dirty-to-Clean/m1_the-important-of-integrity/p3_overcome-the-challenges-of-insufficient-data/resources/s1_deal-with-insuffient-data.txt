@@ -1,0 +1,53 @@
+Every analyst has been in a situation
+where there is insufficient data to help with their business objective. Considering how much data is generated
+every day, it may be hard to believe, but it's true. So let's discuss what you can do
+when you have insufficient data. We'll cover how to set limits for
+the scope of your analysis and what data you should include. At one point,
+I was a data analyst at a support center. Every day, we received customer questions,
+which were logged in as support tickets. I was asked to forecast the number of
+support tickets coming in per month to figure out how many additional
+people we needed to hire. It was very important that we had
+sufficient data spanning back at least a couple of years because I had to account
+for year-to-year and seasonal changes. If I just had the current
+year's data available, I wouldn't have known that
+a spike in January is common and has to do with people asking for
+refunds after the holidays. Because I had sufficient data, I was able to suggest we hire more
+people in January to prepare. Challenges are bound to come up, but the good news is that once
+you know your business objective, you'll be able to recognize
+whether you have enough data. And if you don't, you'll be able to deal
+with it before you start your analysis. Now, let's check out some of those
+limitations you might come across and how you can handle different
+types of insufficient data. Say you're working in
+the tourism industry, and you need to find out which travel
+plans are searched most often. If you only use data
+from one booking site, you're limiting yourself to
+data from just one source. Other booking sites might show different
+trends that you would want to consider for your analysis. If a limitation like this impacts
+your analysis, you can stop and go back to your stakeholders
+to figure out a plan. If your data set keeps updating,
+that means the data is still incoming and might not be complete. So if there's a brand new tourist
+attraction that you're analyzing interest and attendance for, there's probably not
+enough data for you to determine trends. For example, you might want to
+wait a month to gather data. Or you can check in with the stakeholders
+and ask about adjusting the objective. For example, you might analyze trends from
+week to week instead of month to month. You could also base your analysis on
+trends over the past three months and say, "Here's what attendance at the attraction
+for month four could look like." You might not have enough data to know
+if this number is too low or too high. But you would tell stakeholders that it's
+your best estimate based on the data that you currently have. On the other hand, your data could
+be older and no longer be relevant. Outdated data about customer satisfaction
+won't include the most recent responses. So you'll be relying on the ratings for
+hotels or vacation rentals that might
+no longer be accurate. In this case, your best bet might be
+to find a new data set to work with. Data that's geographically-limited
+could also be unreliable. If your company is global, you wouldn't
+want to use data limited to travel in just one country. You would want
+a data set that includes all countries. So that's just a few of the most common
+limitations you'll come across and some ways you can address them. You can identify trends with the available
+data or wait for more data if time allows; you can talk with stakeholders and
+adjust your objective; or you can look for a new data set. The need to take these steps will
+depend on your role in your company and possibly the needs of the wider industry. But learning how to deal with insufficient
+data is always a great way to set yourself up for success. Your data analyst powers are growing
+stronger. And just in time. After you learn more about limitations and
+solutions, you'll learn about statistical power,
+another fantastic tool for you to use. See you soon!
