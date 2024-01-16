@@ -51,3 +51,47 @@
 - Knowing sample size and how to find it will help you when you work with data.
 - We've got more useful knowledge coming your way, including learning about margin of error.
 - See you soon!
+
+## Question
+
+To use the sample size calculator spreadsheet, click the link below and select “Use Template.”
+
+- Link to template: [Sample Size Calculator](https://docs.google.com/spreadsheets/d/1kBTvnpH2qOLJx4XWjUG1v-GF4LPmOhequy_9VRyslJ8/template/preview)
+
+- OR If you don’t have a Google account, you can download the spreadsheet directly from the attachment [sample-size-calculator.xlsx](./resources/sample-size-calculator.xlsx).
+
+Fill in the blank: When calculating sample size using an online calculator, it’s necessary to input the _____. Select all that apply.
+
+- `margin of error`
+- `confidence level`
+- `population size`
+- statistical power
+
+> To calculate sample size using an online calculator, it’s necessary to input the confidence level, margin of error, and population size.
+
+## Keypoints
+
+- Sample Size Definition:
+  - Sample size is a subset of a population that is representative of the entire population.
+  - It's a cost-effective and time-efficient way to analyze data without examining the entire dataset.
+- Importance of Sample Size:
+  - Analyzing an entire population can be impractical, expensive, and time-consuming.
+  - Sample size provides valid and useful findings when properly chosen.
+  - Online Calculators for Sample Size:
+  - Online calculators help determine sample size by considering the confidence level, population size, and margin of error.
+  - Confidenc`e level represents the probability that the sample accurately reflects the population.
+- Confidence Level:
+  - The confidence level is the probability that the sample results align with the greater population.
+  - A higher confidence level, like 90% or 95%, is generally desired. Industries like pharmaceuticals aim for even higher confidence levels.
+- Margin of Error:
+  - Margin of error indicates how close the sample size results are to what they would be if the entire population were surveyed.
+  - It's a crucial factor in determining the accuracy of the study.
+- Sample Size Calculation Example:
+  - Using a hypothetical example of a middle school candy preference study:
+  - Population size: 500 students
+  - Confidence level: 95%
+  - Margin of error: 5%
+  - Resulting in a calculated sample size of about 218 students.
+- Independence of Confidence Level and Margin of Error:
+  - Confidence level and margin of error are independent of each other.
+  - Adjusting one may require compensatory adjustments in the other to maintain the study's validity.
