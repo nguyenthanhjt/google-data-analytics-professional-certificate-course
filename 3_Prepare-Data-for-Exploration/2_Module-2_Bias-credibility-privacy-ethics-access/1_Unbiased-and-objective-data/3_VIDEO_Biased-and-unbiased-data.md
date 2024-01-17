@@ -27,7 +27,7 @@
 
 ### Question 1:An unbiased sample is representative of the population being measured. Which of the following helps ensure unbiased sampling?
 
-- `Using random sampling during data collection`: Using random sampling during data collection helps ensure unbiased sampling. 
+- `Using random sampling during data collection`: Using random sampling during data collection helps ensure unbiased sampling.
 - Skewing results in a certain direction
 - Storing data in a spreadsheet
 - Writing survey questions that encourage specific responses

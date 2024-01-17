@@ -19,7 +19,7 @@ In order to use a sample size calculator, you need to have the population size, 
 
 After you have plugged your information into one of these calculators, it will give you a recommended sample size. Keep in mind, the calculated sample size is the minimum number to achieve what you input for confidence level and margin of error. If you are working with a survey, you will also need to think about the estimated response rate to figure out how many surveys you will need to send out. For example, if you need a sample size of 100 individuals and your estimated response rate is 10%, you will need to send your survey to 1,000 individuals to get the 100 responses you need for your analysis.
 
-Now that you have the basics, try some calculations using the sample size calculators and refer back to this reading if you need a refresher on the definitions. 
+Now that you have the basics, try some calculations using the sample size calculators and refer back to this reading if you need a refresher on the definitions.
 
 ## Key Points
 
