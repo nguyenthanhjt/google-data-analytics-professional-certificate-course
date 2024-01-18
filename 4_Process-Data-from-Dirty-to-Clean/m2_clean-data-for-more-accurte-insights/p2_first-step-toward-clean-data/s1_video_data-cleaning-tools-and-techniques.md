@@ -1,6 +1,6 @@
 # Data-cleaning tools and techniques
 
-VIDEO transcript
+VIDEO transcript.
 
 - Hi.
 - Now that you're familiar with some of the most common types of dirty data, it's time to clean them up.

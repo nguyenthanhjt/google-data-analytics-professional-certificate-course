@@ -1,5 +1,7 @@
 # Clean data from multiple sources
 
+Video transcript
+
 - Welcome back.
 - So far you've learned a lot about dirty data and how to clean up the most common errors in a dataset.
 - Now we're going to take that a step further and talk about cleaning up multiple datasets.
