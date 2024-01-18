@@ -1,4 +1,4 @@
-# Process Data from Dirty to Clean
+# Course 4: Process Data from Dirty to Clean
 
 This course is part of Google Data Analytics Professional Certificate
 
