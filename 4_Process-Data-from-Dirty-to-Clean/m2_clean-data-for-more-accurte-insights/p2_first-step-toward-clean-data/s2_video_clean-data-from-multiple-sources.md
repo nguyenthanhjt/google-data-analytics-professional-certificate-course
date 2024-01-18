@@ -41,7 +41,7 @@
 - As a final note, programming languages like R are also very useful for cleaning data.
 - You'll learn more about how to use R and other concepts we covered soon.
 
-## In this section, the focus is on cleaning data from multiple sources, particularly in the context of organizations merging or combining datasets. Here are the key points:
+## In this section, the focus is on cleaning data from multiple sources, particularly in the context of organizations merging or combining datasets. Here are the key points
 
 - Introduction to Cleaning Multiple Datasets:
   - Data analysts often deal with the challenge of cleaning data from multiple sources, which is common in scenarios like mergers between organizations.
