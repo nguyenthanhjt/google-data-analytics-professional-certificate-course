@@ -1,0 +1,3 @@
+# The importance of integrity
+
+Data integrity is critical to successful analysis. In this part of the course, you’ll explore methods and steps that analysts take to check their data for integrity. This includes knowing what to do when you don’t have enough data. You’ll also learn...

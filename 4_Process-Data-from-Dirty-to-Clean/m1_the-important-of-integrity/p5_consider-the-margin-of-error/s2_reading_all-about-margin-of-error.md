@@ -4,7 +4,7 @@
 
 ## Margin of error in baseball
 
-![An image of a baseball batter hitting a baseball with an umpire kneeling behind him](./resources/img-1-a-baseball-batter-hitting-a-baseball-with-an-umpire-kneeling-behind.png)
+![An image of a baseball batter hitting a baseball with an umpire kneeling behind him](./resources/img-1.png)
 
 Imagine you are playing baseball and that you are up at bat. The crowd is roaring, and you are getting ready to try to hit the ball. The pitcher delivers a fastball traveling about 90-95mph, which takes about 400 milliseconds (ms) to reach the catcher’s glove. You swing and miss the first pitch because your timing was a little off. You wonder if you should have swung slightly earlier or slightly later to hit a home run. That time difference can be considered the margin of error, and it tells us how close or far your timing was from the average home run swing.
 

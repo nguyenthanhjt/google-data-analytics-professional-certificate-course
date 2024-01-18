@@ -1,0 +1,75 @@
+# Why data cleaning is critical
+
+- Clean data is incredibly important for effective analysis.
+- If a piece of data is entered into a spreadsheet or database incorrectly, or if it's repeated, or if a field is left blank, or if data formats are inconsistent, the result is dirty data.
+- Small mistakes can lead to big consequences in the long run.
+- I'll be completely honest with you, data cleaning is like brushing your teeth.
+- It's something you should do and do properly because otherwise it can cause serious problems.
+- For teeth, that might be cavities or gum disease.
+- For data, that might be costing your company money, or an angry boss.
+- But here's the good news.
+- If you keep brushing twice a day, every day, it becomes a habit.
+- Soon, you don't even have to think about it.
+- It's the same with data.
+- Trust me, it will make you look great when you take the time to clean up that dirty data.
+- As a quick refresher, dirty data is incomplete, incorrect, or irrelevant to the problem you're trying to solve.
+- It can't be used in a meaningful way, which makes analysis very difficult, if not impossible.
+- On the other hand, clean data is complete, correct, and relevant to the problem you're trying to solve.
+- This allows you to understand and analyze information and identify important patterns, connect related information, and draw useful conclusions.
+- Then you can apply what you learn to make effective decisions.
+- In some cases, you won't have to do a lot of work to clean data.
+- For example, when you use internal data that's been verified and cared for by your company's data engineers and data warehouse team, it's more likely to be clean.
+- Let's talk about some people you'll work with as a data analyst.
+- Data engineers transform data into a useful format for analysis and give it a reliable infrastructure.
+- This means they develop, maintain, and test databases, data processors and related systems.
+- Data warehousing specialists develop processes and procedures to effectively store and organize data.
+- They make sure that data is available, secure, and backed up to prevent loss.
+- When you become a data analyst, you can learn a lot by working with the person who maintains your databases to learn about their systems.
+- If data passes through the hands of a data engineer or a data warehousing specialist first, you know you're off to a good start on your project.
+- There's a lot of great career opportunities as a data engineer or a data warehousing specialist.
+- If this kind of work sounds interesting to you, maybe your career path will involve helping organizations save lots of time, effort, and money by making sure their data is sparkling clean.
+- But even if you go in a different direction with your data analytics career and have the advantage of working with data engineers and warehousing specialists, you're still likely to have to clean your own data.
+- It's important to remember** no dataset is perfect.
+- It's always a good idea to examine and clean data before beginning analysis.
+- Here's an example.
+- Let's say you're working on a project where you need to figure out how many people use your company's software program.
+- You have a spreadsheet that was created internally and verified by a data engineer and a data warehousing specialist.
+- Check out the column labeled "Username." It might seem logical that you can just scroll down and count the rows to figure out how many users you have.
+- But that won't work because one person sometimes has more than one username.
+- Maybe they registered from different email addresses, or maybe they have a work and personal account.
+- In situations like this, you would need to clean the data by eliminating any rows that are duplicates.
+- Once you've done that, there won't be any more duplicate entries.
+- Then your spreadsheet is ready to be put to work.
+- So far we've discussed working with internal data.
+- But data cleaning becomes even more important when working with external data, especially if it comes from multiple sources.
+- Let's say the software company from our example surveyed its customers to learn how satisfied they are with its software product.
+- But when you review the survey data, you find that you have several nulls.
+- A null is an indication that a value does not exist in a data set.
+- Note that it's not the same as a zero.
+- In the case of a survey, a null would mean the customers skipped that question.
+- A zero would mean they provided zero as their response.
+- To do your analysis, you would first need to clean this data.
+- Step one would be to decide what to do with those nulls.
+- You could either filter them out and communicate that you now have a smaller sample size, or you can keep them in and learn from the fact that the customers did not provide responses.
+- There's lots of reasons why this could have happened.
+- Maybe your survey questions weren't written as well as they could be.
+- Maybe they were confusing or biased, something we learned about earlier.
+- We've touched on the basics of cleaning internal and external data, but there's lots more to come.
+- Soon, we'll learn about the common errors to be aware of to ensure your data is complete, correct, and relevant.
+- See you soon!
+
+## Keypoints
+
+- **Importance of Clean Data** Clean data is crucial for effective analysis. Errors such as incorrect entries, repetitions, blank fields, or inconsistent formatting result in dirty data.
+- **Cost of Data Errors** Small mistakes in data can lead to significant consequences in the long run, costing companies money or causing issues with supervisors.
+- **Analogy to Brushing Teeth** Data cleaning is likened to brushing teeth—a necessary and regular task to avoid serious problems, drawing parallels between dental hygiene and maintaining data quality.
+- **Impact of Dirty Data** Dirty data (incomplete, incorrect, or irrelevant) hinders meaningful analysis, making it difficult or impossible to derive accurate insights.
+- **Definition of Clean Data** Clean data is complete, correct, and relevant to the problem at hand. It facilitates understanding, analysis, identification of patterns, connection of information, and drawing useful conclusions.
+- **Role of Data Engineers and Warehousing Specialists** Data engineers and data warehousing specialists play crucial roles in transforming and organizing data. They ensure data reliability, availability, security, and backup.
+- **Career Opportunities** Data engineering and warehousing offer promising career paths. Opportunities include helping organizations save time, effort, and money by ensuring data cleanliness.
+- **Examination and Cleaning of Data** No dataset is perfect, and it's essential to examine and clean data before analysis. Even with the support of data engineers or warehousing specialists, data analysts may need to clean their own data.
+- **Example Scenario** Illustration of a project involving a company's software users, emphasizing the need for data cleaning, particularly when dealing with duplicate entries.
+- **Importance of Cleaning External Data** External data, especially from multiple sources, requires thorough cleaning. Survey data with null values is discussed, emphasizing the need to decide how to handle nulls before analysis.
+- **Nulls vs. Zeros** Explanation of the difference between nulls (indicating skipped questions) and zeros (indicating a response of zero) in a survey dataset.
+- **Decision on Nulls** Data analysts need to decide whether to filter out nulls, reducing the sample size, or keep them in and acknowledge that customers did not provide responses.
+- **Upcoming Topics** A preview of upcoming discussions on common errors to be aware of during data cleaning to ensure completeness, correctness, and relevance.
