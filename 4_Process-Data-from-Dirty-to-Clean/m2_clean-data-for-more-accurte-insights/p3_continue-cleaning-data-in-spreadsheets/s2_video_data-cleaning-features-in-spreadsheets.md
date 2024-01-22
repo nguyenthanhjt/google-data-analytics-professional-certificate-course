@@ -1,0 +1,100 @@
+# Data-cleaning features in spreadsheets
+
+VIDEO transcript 
+- Hi again.
+- As you learned earlier, there's a lot of different ways to clean up data.
+- I've shown you some examples of how you can clean data manually, such as searching for and fixing misspellings or removing empty spaces and duplicates.
+- We also learned that lots of spreadsheet applications have tools that help simplify and speed up the data cleaning process.
+- There's a lot of great efficiency tools that data analysts use all the time, such as conditional formatting, removing duplicates, formatting dates, fixing text strings and substrings, and splitting text to columns.
+- We'll explore those in more detail now.
+- The first is something called conditional formatting.
+- Conditional formatting is a spreadsheet tool that changes how cells appear when values meet specific conditions.
+- Likewise, it can let you know when a cell does not meet the conditions you've set.
+- Visual cues like this are very useful for data analysts, especially when we're working in a large spreadsheet with lots of data.
+- Making certain data points standout makes the information easier to understand and analyze.
+- For cleaning data, knowing when the data doesn't follow the condition is very helpful.
+- Let's return to the logistics association spreadsheet to check out conditional formatting in action.
+- We'll use conditional formatting to highlight blank cells.
+- That way, we know where there's missing information so we can add it to the spreadsheet.
+- To do this, we'll start by selecting the range we want to search.
+- For this example we're not focused on address 3 and address 5.
+- The fields will include all the columns in our spreadsheets, except for F and H.
+- Next, we'll go to Format and choose Conditional formatting.
+- Great.
+- Our range is automatically indicated in the field.
+- The format rule will be to format cells if the cell is empty.
+- Finally, we'll choose the formatting style.
+- I'm going to pick a shade of bright pink, so my blanks really stand out.
+- Then click "Done," and the blank cells are instantly highlighted.
+- The next spreadsheet tool removes duplicates.
+- As you've learned before, it's always smart to make a copy of the data set before removing anything.
+- Let's do that now.
+- Great, now we can continue.
+- You might remember that our example spreadsheet has one association member listed twice.
+- To fix that, go to Data and select "Remove duplicates." "Remove duplicates" is a tool that automatically searches for and eliminates duplicate entries from a spreadsheet.
+- Choose "Data has header row" because our spreadsheet has a row at the very top that describes the contents of each column.
+- Next, select "All" because we want to inspect our entire spreadsheet.
+- Finally, "Remove duplicates."
+- You'll notice the duplicate row was found and immediately removed.
+- Another useful spreadsheet tool enables you to make formats consistent.
+- For example, some of the dates in this spreadsheet are in a standard date format.
+- This could be confusing if you wanted to analyze when association members joined, how often they renewed their memberships, or how long they've been with the association.
+- To make all of our dates consistent, first select column J, then go to "Format," select "Number," then "Date." Now all of our dates have a consistent format.
+- Before we go over the next tool, I want to explain what a text string is.
+- In data analytics, a text string is a group of characters within a cell, most often composed of letters.
+- An important characteristic of a text string is its length, which is the number of characters in it.
+- You'll learn more about that soon.
+- For now, it's also useful to know that a substring is a smaller subset of a text string.
+- Now let's talk about Split.
+- Split is a tool that divides a text string around the specified character and puts each fragment into a new and separate cell.
+- Split is helpful when you have more than one piece of data in a cell and you want to separate them out.
+- This might be a person's first and last name listed together, or it could be a cell that contains someone's city, state, country, and zip code, but you actually want each of those in its own column.
+- Let's say this association wanted to analyze all of the different professional certifications its members have earned.
+- To do this, you want each certification separated out into its own column.
+- Right now, the certifications are separated by a comma.
+- That's the specified text separating each item, also called the delimiter.
+- Let's get them separated.
+- Highlight the column, then select "Data," and "Split text to columns."
+- This spreadsheet application automatically knew that the comma was a delimiter and separated each certification.
+- But sometimes you might need to specify what the delimiter should be.
+- You can do that here.
+- Split text to columns is also helpful for fixing instances of numbers stored as text.
+- Sometimes values in your spreadsheet will seem like numbers, but they're formatted as text.
+- This can happen when copying and pasting from one place to another or if the formatting's wrong.
+- For this example, let's check out our new spreadsheet from a cosmetics maker.
+- If a data analyst wanted to determine total profits, they could add up everything in column F.
+- But there's a problem; one of the cells has an error.
+- If you check into it, you learn that the "707" in this cell is text and can't be changed into a number.
+- When the spreadsheet tries to multiply the cost of the product by the number of units sold, it's unable to make the calculation.
+- But if we select the orders column and choose "Split text to columns,"the error is resolved because now it can be treated as a number.
+- Coming up, you'll learn about a tool that does just the opposite.
+- CONCATENATE is a function that joins multiple text strings into a single string.
+- Spreadsheets are a very important part of data analytics.
+- They save data analysts time and effort and help us eliminate errors each and every day.
+- Here, you've learned about some of the most common tools that we use.
+- But there's a lot more to come.
+- Next, we'll learn even more about data cleaning with spreadsheet tools.
+- Bye for now!
+
+## Keypoints
+
+- **Conditional Formatting**:
+  - Tool that changes cell appearance based on specific conditions.
+  - Useful for highlighting data points or identifying missing information.
+  - Example: Highlighting blank cells in the logistics association spreadsheet to indicate missing data.
+- **Remove Duplicates**:
+  - Tool to automatically search and eliminate duplicate entries.
+  - Essential to make a copy of the dataset before removing duplicates.
+  - Example: Removing duplicate entries in the association memberships dataset.
+- **Consistent Date Formatting**:
+  - Ensures all dates in a column follow a consistent format.
+  - Improves analysis by avoiding confusion in date-related insights.
+  - Example: Formatting dates in the dataset to have a consistent format.
+- **Split Text to Columns**:
+  - Divides a text string around a specified character (delimiter) into separate cells.
+  - Useful for separating different pieces of data within a cell.
+  - Example: Splitting certifications listed in a column separated by commas into individual columns.
+- **Fixing Numbers Stored as Text**:
+  - Addresses issues where numeric values are formatted as text.
+  - Using "Split text to columns" can resolve errors and treat the values as numbers.
+  - Example: Resolving errors in a cosmetics dataset where a numeric value was stored as text.
