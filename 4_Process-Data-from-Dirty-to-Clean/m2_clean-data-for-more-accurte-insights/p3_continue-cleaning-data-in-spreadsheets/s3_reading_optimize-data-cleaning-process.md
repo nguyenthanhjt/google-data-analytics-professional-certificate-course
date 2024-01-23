@@ -96,3 +96,28 @@ Conditional formatting is a spreadsheet tool that changes how cells appear when 
 - Select cell L1, and enter Trim.
 - In cell L2, enter =TRIM(C2) to remove any leading, trailing, or repeated spaces.
 - Double-click the fill handle and to automatically populate the rest of this column.
+
+## Keypoints
+
+- COUNTIF Function:
+  - COUNTIF returns the number of cells within a range that match a specified value.
+  - Example: Using COUNTIF to find members with dues less than $100 and those with dues - higher than $500.
+- LEN Function:
+  - LEN returns the length of a specified piece of information in a cell.
+  - Example: Using LEN to determine the length of Member IDs in the dataset.
+- Conditional Formatting:
+  - Changes cell appearance based on specific conditions.
+  - Example: Highlighting cells in column B where the length is not equal to 6.
+- LEFT and RIGHT Functions:
+  - LEFT returns a set number of characters from the left side of a text string.
+  - RIGHT returns a set number of characters from the right side of a text string.
+  - Example: Using LEFT to extract the first five characters and RIGHT to extract the - last four characters.
+- MID Function:
+  - MID returns a segment from the middle of a text string.
+  - Example: Extracting a two-letter state code from the middle of a cell in the dataset.
+- CONCATENATE Function:
+  - CONCATENATE joins together two or more text strings.
+  - Example: Combining values from columns H and I.
+- TRIM Function:
+  - TRIM removes leading, trailing, and repeated spaces in data.
+  - Example: Using TRIM to clean and standardize data in a specific column.
