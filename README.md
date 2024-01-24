@@ -1,5 +1,8 @@
 # README: Google Data Analytics Professional Certificate
 
+- This repository written for reference and self-documentation purpose
+- Please feel free to contribute!
+
 ## What you'll learn
 
 - Gain an immersive understanding of the practices and processes used by a junior or associate data analyst in their day-to-day job
@@ -87,17 +90,3 @@
 ### Google Data Analytics Capstone: Complete a Case Study
 
 > Course 8•8 hours•4.8(13,180 ratings)
-
-## Definitions, Acronyms and Abbreviations
-
-- Folder Structure by numbering prefix
-  - m - module: Each course is broken into modules
-    - p - part
-      - s: section
-      - resources folder: contains all the related resources of the part
-
-- LL/ll - Learning Log.
-- TPL/tpl - template.
-- PQ/pq - Practice Quiz.
-- UP/up - Ungraded Plugin.
-- UAI/uai - Ungraded App Item.
