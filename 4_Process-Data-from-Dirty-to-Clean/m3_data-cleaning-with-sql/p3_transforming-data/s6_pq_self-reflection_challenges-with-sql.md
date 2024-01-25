@@ -1,0 +1,6 @@
+- section 1:upload the store transaction dataset to bigquery
+- section 2:advanced data cleaning functions part 1
+- section 3:advanced data cleaning functions part 2
+- section 4: debug sql code
+- section 5:data cleaning with sql functions
+- section 6:pq self reflection challenges with sql
