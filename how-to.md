@@ -15,3 +15,4 @@
 - UAI/uai - Ungraded App Item.
 - R/r - Reading
 - V/v - Video
+- A/a - Hands-on Activity
