@@ -44,12 +44,5 @@ Learners who complete this certificate program will be equipped to apply for int
 
 ### TODO
 
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+- [ ] Optional: Add data to your resume
+- [ ] Course 4 Wrap up
