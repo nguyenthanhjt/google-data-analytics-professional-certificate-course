@@ -7,7 +7,7 @@
 - `Adaptable for multiple database programs`
 - Insertable images and text formatting
 
-> SQL can handle huge amounts of data, can be adapted and used for multiple database programs, and offers powerful tools for cleaning data. 
+> SQL can handle huge amounts of data, can be adapted and used for multiple database programs, and offers powerful tools for cleaning data.
 
 ## Question 2:Which SQL function cleans string variables by extracting a substring from a string variable?
 
