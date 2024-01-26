@@ -41,3 +41,15 @@ Learners who complete this certificate program will be equipped to apply for int
   - Use basic SQL functions to clean and transform data.
   - Verify the results of cleaning data.
   - Write an effective data cleaning report
+
+### TODO
+
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
