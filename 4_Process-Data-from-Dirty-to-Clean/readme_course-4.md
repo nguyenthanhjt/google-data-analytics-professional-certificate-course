@@ -11,13 +11,9 @@ This course is part of Google Data Analytics Professional Certificate
 
 ## Skills you'll gain
 
-- Category: Data Analysis
 - Data Analysis
-- Category: SQL
 - SQL
-- Category: Spreadsheet Software
 - Spreadsheet Software
-- Category: General Statistics
 - General Statistics
 
 ## Overview
