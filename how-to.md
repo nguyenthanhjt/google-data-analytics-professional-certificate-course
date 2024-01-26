@@ -13,3 +13,5 @@
 - PQ/pq - Practice Quiz.
 - UP/up - Ungraded Plugin.
 - UAI/uai - Ungraded App Item.
+- R/r - Reading
+- V/v - Video
