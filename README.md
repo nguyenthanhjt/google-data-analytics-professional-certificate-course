@@ -57,49 +57,27 @@ Professional Certificate - 8 course series
 
 ## Skills you'll gain
 
-- Category: Data Analysis
 - Data Analysis
-- Category: Creating case studies
 - Creating case studies
-- Category: Data Visualization
 - Data Visualization
-- Category: Data Cleansing
 - Data Cleansing
-- Category: Developing a portfolio
 - Developing a portfolio
-- Category: Data Collection
 - Data Collection
-- Category: Spreadsheet
 - Spreadsheet
-- Category: Metadata
 - Metadata
-- Category: SQL
 - SQL
-- Category: Data Ethics
 - Data Ethics
-- Category: Data Aggregation
 - Data Aggregation
-- Category: Data Calculations
 - Data Calculations
-- Category: R Markdown
 - R Markdown
-- Category: R Programming
 - R Programming
-- Category: Rstudio
 - Rstudio
-- Category: Tableau Software
 - Tableau Software
-- Category: Presentation
 - Presentation
-- Category: Data Integrity
 - Data Integrity
-- Category: Sample Size Determination
 - Sample Size Determination
-- Category: Decision-Making
 - Decision-Making
-- Category: Problem Solving
 - Problem Solving
-- Category: Questioning
 - Questioning
 
 ## Contributions
