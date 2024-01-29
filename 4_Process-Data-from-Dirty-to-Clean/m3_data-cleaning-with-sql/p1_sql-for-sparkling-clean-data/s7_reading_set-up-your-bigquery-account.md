@@ -6,7 +6,7 @@ If you haven’t taken Courses 3,5 (refer: [1_VIDEO_Setting-up-BigQuery-includin
 
 As you’ve been learning, BigQuery is a database you can use to access, explore, and analyze data from many sources. Now, you’ll begin using BigQuery, which will help you gain SQL knowledge by typing out commands and troubleshooting errors. This reading will guide you through the process of setting up your very own BigQuery account.
 
-Note: Working with BigQuery is not a requirement of this program. Additional resources for other SQL database platforms are also provided at the end of this reading if you choose to use them instead.  
+**Note**: Working with BigQuery is not a requirement of this program. Additional resources for other SQL database platforms are also provided at the end of this reading if you choose to use them instead.  
 
 ## BigQuery account options
 
