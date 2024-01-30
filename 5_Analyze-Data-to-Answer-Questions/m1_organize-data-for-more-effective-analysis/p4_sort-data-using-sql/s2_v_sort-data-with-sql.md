@@ -1,0 +1,108 @@
+# Sort data with SQL
+
+Video transcript
+
+- Hello there! If you're hoping to learn about sorting—in SQL this time— you've definitely come to the right place.
+- So far, we've sorted spreadsheets through the menu and with a written function.
+- Which brings us to the next part of our learning: more sort functions, but this time in SQL.
+- Data analysts love playing with the way data is presented.
+- Sorting is a useful way to rearrange data because it can help you understand the data you have in a different light.
+- As you've probably already noticed, a lot of things you can do in spreadsheets can also be done in SQL.
+- Sorting is one of those things.
+- We've talked about using SQL with large datasets before.
+- When a spreadsheet has too much data, you can get error messages, or it can cause your program to crash.
+- That's definitely something we want to avoid.
+- SQL shortens processes that would otherwise take a very long time or be impossible to complete in a spreadsheet.
+- Personally, I use SQL to pull and combine different data tables.
+- It's much quicker than a spreadsheet, and that usually comes in handy.
+- Here's something pretty helpful you can do with SQL.
+- You can use the ORDER BY clause to sort results returned in a query.
+- Let's go back to our movie spreadsheet to get a better idea of how this works.
+- Feel free to follow along in a SQL tool of your choice as we go.
+- As a quick refresher, we have a database of movies listed with data like release date, director, and more.
+- We can sort this table in lots of different ways using the ORDER BY function.
+- For this example, let's sort by release date.
+- First, we have the SELECT function and an asterisk.
+- Keep in mind that the asterisk means all columns are selected.
+- Then we have FROM and the name of the database and table we're in right now.
+- Now let's check out the next line.
+- It's empty, but that's where we'll write our ORDER BY function.
+- The ORDER BY command is usually the last clause in your query.
+- Back to the actual sorting! We'll type ORDER BY with the space.
+- With this clause, you can choose to order data by fields in a certain column.
+- Because we want to sort by release date, we'll type Release_Date.
+- By default, the ORDER BY clause sorts data in ascending order.
+- If you run the query as it is right now, the movies will be sorted from oldest to the most recent release dates.
+- Let's run the query and see what we've got.
+- You can also sort the release dates in the reverse order from the most recent dates to the oldest.
+- To do this, just specify the descending order in the ORDER BY command written as DESC, D-E-S-C.
+- Let's run this query.
+- As you'll notice, the most recently released films are now at the top of the database.
+- In spreadsheets, you can combine sorts and filters to display information differently.
+- You can do something similar in SQL too.
+- You might remember that while sorting puts data in a specific order, filters narrow down data, so you only see data that fits the filter.
+- For example, let's say we want to filter movies by genre so that we're only working with comedies.
+- But we still want release dates to be sorted in descending order, from most recent to oldest films.
+- We can do this with the WHERE clause.
+- Let's try that now.
+- First, we'll check that the ORDER BY clause is always the last line.
+- That makes sure that all the results of the query you're running are sorted by that clause.
+- Then, we'll add a new line for the WHERE clause after FROM and before ORDER BY.
+- Here's what we've got so far.
+- From there, we want to type the column we're filtering for.
+- In this case, we want to filter the database for comedies.
+- After the WHERE clause, we'll type the column list's name as Genre.
+- Now, we'll add an equal sign after Genre because we only want to include genres that match what we're filtering for.
+- In this case, we're filtering for comedy, so we'll type Comedy between two apostrophes.
+- Now, if you check out the entire query as a whole, you'll notice that we're selecting all columns, and we know it's all columns because that's what an asterisk means.
+- The FROM clause specifies the name of the movie database we're using, and the WHERE clause filters the data to include entries whose genre is specified as comedy.
+- Then in the last line, we have the ORDER BY clause, which will sort the data we've chosen to filter by release dates in descending order.
+- This means when we run the query, we'll only have comedy movies listed from newest releases to oldest releases.
+- Let's run it and figure out if that's the case.
+- Cool.
+- Check out all those comedy movies and the way those dates are sorted.
+- Now, let's take this query a step further.
+- We'll filter for two conditions at once using the AND filter.
+- Working off the query we've been using, we'll add a second condition in the WHERE clause.
+- We'll keep the sorting the same.
+- Let's say you wanted to filter by comedy movies and movies that earned over 300 million in the box office.
+- In this case, after the AND function, you'd add the revenue condition by typing Revenue.
+- From there, you'll specify that you only want to return films with revenues over $300 million.
+- To do that, type the greater than sign and then the complete number of 300 million without commas.
+- Now let's run the query.
+- Here, the data only shows comedy movies with revenues of over $300 million, and it's sorted in descending order by release date.
+- It looks really good.
+- You just filtered and sorted a database like it's your job.
+- And with practice, one day it can be.
+- Just like that, you've finished another step in your data analyst journey.
+- By now, you really dug and learned about the analysis process with a special emphasis on how organization can change how you go through your data.
+- You also learned about both spreadsheets and SQL, and how to sort and filter data in both types of programs.
+- To help you get more comfortable using spreadsheet and SQL features, you'll be getting some materials you can use as a resource.
+- Coming up, we'll check out how an organizational mindset can take your analytical skills even further.
+- We'll also cover converting, formatting, and adjusting data to combine information in a way that makes sense.
+- Learning those skills early on can make your work as a data analyst much more efficient and effective in the long run.
+- See you soon.
+
+## Keypoints
+
+- Introduction to SQL Sorting:
+  - Emphasizes the importance of learning sorting in SQL as a continuation from spreadsheets.
+  - Highlights SQL's efficiency in handling large datasets compared to spreadsheets.
+- ORDER BY Clause in SQL:
+  - Explains the use of the ORDER BY clause to sort query results.
+  - Demonstrates sorting movies by release date in ascending and descending order.
+- Combining Sorting and Filtering in SQL:
+  - Draws parallels between sorting and filtering in spreadsheets and SQL.
+  - Introduces the WHERE clause in SQL for filtering data.
+- Filtering by Genre in SQL:
+  - Demonstrates filtering movies by genre (comedy) while maintaining sorting by release date in descending order.
+  - Highlights the structure of an SQL query with the SELECT, FROM, WHERE, and ORDER BY clauses.
+- Filtering with Multiple Conditions using AND Operator:
+  - Extends the example by adding a second condition using the AND operator.
+  - Filters comedy movies with revenues over $300 million and maintains the descending order sorting.
+- Practical Application and Hands-on Practice:
+  - Encourages viewers to follow along using a SQL tool of their choice.
+  - Highlights the ability to efficiently filter and sort databases with SQL.
+- Conclusion and Next Steps:
+  - Wraps up the section by emphasizing the completion of another step in the data analyst journey.
+  - Teases upcoming topics, including an organizational mindset, converting, formatting, and adjusting data.
