@@ -152,16 +152,16 @@ You’ve now successfully used both `ORDER BY` (sort) and `WHERE` (filter) claus
 
 ## Reflection
 
-The last query you ran returned births in three counties, sorted by year and county. Now, you want to identify the lowest number of births in Erie, Chautauqua, or Niagara counties between 2016 and 2018. Modify the previous query to order the data by Births in descending order to make this easy to identify. How many births occurred in the county with the highest number of births in one year?
+## Question 1: The last query you ran returned births in three counties, sorted by year and county. Now, you want to identify the lowest number of births in Erie, Chautauqua, or Niagara counties between 2016 and 2018. Modify the previous query to order the data by Births in descending order to make this easy to identify. How many births occurred in the county with the highest number of births in one year?
 
-- 9916
+- `9916`: correct
 - 2114
 - 1299
 - 9870
 
-2.
-Question 2
-In this activity, you practiced sorting data using SQL queries with `ORDER BY` and filtering data with `WHERE` clauses. In the text box below, write 2-3 sentences (40-60 words) in response to each of the following questions:
+> A total of 9,916 births occurred in Erie County in 2016. To arrive at this answer, you needed to sort by birth instead of county and year. Adding DESC to the ORDER BY clause would sort the Births column in descending order to make this information easier to identify.
+
+## Question 2:In this activity, you practiced sorting data using SQL queries with `ORDER BY` and filtering data with `WHERE` clauses. In the text box below, write 2-3 sentences (40-60 words) in response to each of the following questions
 
 How can the `ORDER BY` clause help you organize and structure your data?
 
@@ -171,3 +171,15 @@ Describe a business question that you could answer using the `ORDER BY` and `WHE
 
 What do you think?
 Your answer cannot be more than 10000 characters.
+
+### My response
+
+The ORDER BY clause is like a magic wand in SQL that helps organize data by sorting it based on chosen columns. It's super handy when I want to see data in a particular order, like dates or numerical values, making it much easier to understand and analyze.
+
+Using ORDER BY and WHERE together is like having a double filter for my data exploration. With WHERE, I can focus on specific conditions, and then, with ORDER BY, I can sort the results to get a detailed view. It's like zooming in on exactly what I need and then organizing that information for a clearer picture.
+
+Imagine working for an online store and wanting to know the best-selling products during a special sale. The WHERE clause helps me focus on the sale period, and then, with ORDER BY, I can arrange products based on sales. This approach lets me quickly identify the top performers, guiding decisions on inventory and future promotions.
+
+> An effective response would include that sorting the data you return in your queries is a crucial tool for analyzing and understanding data.
+>
+> You can also answer business questions by sorting the dataset according to a given metric. For instance, a store may want to know which products they sell the most or least. Sorting helps you answer business questions that involve phrases such as “how much,” “how many,” “best,” or “worst”—which will be a valuable skill in your career as a data analyst.
