@@ -1,6 +1,6 @@
-# README: Google Data Analytics Professional Certificate
+# README: [Google Data Analytics Professional Certificate] documentation
 
-Welcome to my learning repository for the Google Data Analytics Professional Certificate. This repository is created to document and track my progress as I journey through the courses. Whether you're a fellow learner, potential employer, or someone interested in data analytics, feel free to explore the content and contribute.
+Welcome to my learning repository for the Google Data Analytics Professional Certificate. This repository is created to document and track my progress as I journey through the courses. Whether you're a fellow learner, a potential employer, or someone interested in data analytics, feel free to explore the content and contribute.
 
 ## Purpose
 
@@ -14,7 +14,7 @@ This repository serves several purposes:
 
 ## Table of Contents
 
-Professional Certificate - 8 course series
+Professional Certificate - 8-course series
 
 ### Foundations: Data, Data, Everywhere
 
@@ -88,7 +88,7 @@ To contribute:
 
 1. Fork the repository.
 2. Create a new branch: `git checkout -b feature/new-feature`.
-3. Make your changes and commit them: `git commit -m 'Add a new feature'`.
+3. Make and commit your changes: `git commit -m 'Add a new feature'`.
 4. Push to the branch: `git push origin feature/new-feature`.
 5. Open a pull request.
 
