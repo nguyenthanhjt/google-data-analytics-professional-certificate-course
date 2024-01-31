@@ -27,6 +27,9 @@
 - `Sorting enables data analysts to rank data based on a specific metric.`
 - `Filtering is effective at reducing the amount of data that is displayed.`
 - Sorting can be performed with SQL, but not in spreadsheets.
+- `Data professionals sort data to make it easier to understand, analyze, and visualize.`
+- `Filtering involves showing data that meets a specified criteria while hiding the rest.`
+- `Sorting can be used to group similar data together by a classification.`
 
 ## Question 5:Fill in the blank: During an analysis project, _____ might involve creating new columns in order to prepare the dataset for analysis
 
@@ -37,7 +40,7 @@
 
 ## Question 5.1: Fill in the blank: During an analysis project, _____ might involve merging or splitting datasets in order to prepare them for analysis
 
-- formatting and adjusting data
+- `formatting and adjusting data`
 - organizing data
 - getting input from others
 - transforming data
