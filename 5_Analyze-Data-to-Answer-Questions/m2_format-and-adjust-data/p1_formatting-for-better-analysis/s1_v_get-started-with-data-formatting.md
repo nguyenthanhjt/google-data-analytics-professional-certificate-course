@@ -12,3 +12,15 @@ Video transcript
 - A big piece of being an analyst is troubleshooting and problem-solving.
 - You're as good of an analyst as your ability to ask the right questions, which is why we'll spend some time learning about problem- solving strategies you can use during analysis.
 - So whenever you're ready to start learning about data formatting and solving problems, head to the next video, and we'll get started.
+
+## Keypoints
+
+- Overview of the Section:
+  - The section focuses on the final steps needed for data analysis, particularly in terms of formatting and adjusting data.
+  - It emphasizes the importance of proper data formatting for smooth analysis.
+- Topics Covered:
+  - Converting and formatting data.
+  - Using data validation in spreadsheets.
+  - Applying conditional formatting.
+  - Combining multiple pieces of data.
+  - Seeking support during analysis and finding resources.
