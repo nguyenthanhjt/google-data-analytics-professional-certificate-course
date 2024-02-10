@@ -1,4 +1,4 @@
-# Layla: All about the analyze stage
+# Video - Layla: All about the analyze stage
 
 Video transcript
 
@@ -25,3 +25,33 @@ Video transcript
 - My favorite part of working in a spreadsheet is when you finally have that data that you want cleaned up and exported from your SQL query.
 - Then you get to turn it into a pivot table and chart out exactly the cut of data that you were interested in looking at in the first place and explore the trends that are happening there.
 - When you get to do that, you basically unlock a whole world of information and you get to pick what story that you actually want to tell with your data without just saying, "This is the largest number; that's the smallest number." Here, you have to show what is happening over time potentially or what you should expect to see in the future.
+
+## Key Points
+
+- Introduction to Layla:
+  - Layla is an analytical lead at Google, specializing in helping advertisers understand the value of their advertising investments.
+  - Her role involves analyzing datasets and conveying insights to individuals with varying levels of data expertise.
+- Analyst's Skill Set:
+  - Analytical leads need to interpret datasets, identify growth drivers, and communicate actionable insights.
+  - The ability to tell a compelling story based on data is crucial.
+- Analyze Stage Analogy:
+  - The analyze stage is likened to preparing and tasting a fabulous meal.
+  - It follows the cleaning and preparation of data, allowing analysts to assess if the outcomes align with expectations.
+  - Analogous to tasting a dish to ensure it's delicious and matches expectations.
+- Data Preparation:
+  - The analyze stage begins after data cleaning to ensure accurate and meaningful analysis.
+  - Eliminating blank fields and duplicate entries is essential.
+- Expertise in Dataset:
+  - During analysis, analysts become experts on the dataset, understanding fields, averages, medians, and variations between rows.
+  - Confidence is gained to explain findings to an audience with varying data expertise.
+- Tools for Analysis:
+  - Layla uses SQL and spreadsheets for data analysis.
+  - These tools facilitate sorting, understanding entry frequency, filtering relevant data, and applying conditional formatting in spreadsheets.
+- Crucial Role of SQL and Spreadsheets:
+  - SQL and spreadsheets play a crucial role in formatting datasets for digestibility during the analyze phase.
+  - Analysts can use these tools to craft a compelling narrative with the data.
+- Visualization with Pivot Tables:
+  - Layla's favorite part is turning cleaned and exported data into pivot tables and charts.
+  - This unlocks a world of information, allowing analysts to explore trends and present a nuanced narrative beyond simple numerical comparisons.
+- Storytelling with Data:
+  - The goal is to move beyond stating the largest and smallest numbers and instead present a narrative about what is happening over time and what to expect in the future.
