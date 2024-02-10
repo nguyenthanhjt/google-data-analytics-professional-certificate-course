@@ -31,7 +31,7 @@ Video transcript
 
 ## Notes
 
-**Note**: If the units of measurement in the timestamp columns are expressed in hours, adding 1 (day) to the formula would incorrectly calculate the results as a negative value, thus causing an error in the cell. 
+**Note**: If the units of measurement in the timestamp columns are expressed in hours, adding 1 (day) to the formula would incorrectly calculate the results as a negative value, thus causing an error in the cell.
 
 **Update**: Since 1 day = 24 hours, you could substitute the number "24" to satisfy the following statement:
 
