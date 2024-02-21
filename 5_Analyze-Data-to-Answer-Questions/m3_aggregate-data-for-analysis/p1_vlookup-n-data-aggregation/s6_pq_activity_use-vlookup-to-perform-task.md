@@ -195,10 +195,12 @@ Be sure to save a copy of the spreadsheet template you used to complete this act
 
 ### Question 1: One of your employees,  Alexis Sanchez, asks you to confirm her hourly pay rate. Assuming you have access to Sheet1 and Sheet2 in the `VLOOKUP` Practice Sheet, but not the pivot table, which `VLOOKUP` function would return her hourly pay rate from Sheet2?
 
-- =`VLOOKUP`(**B17**, **B15**:**J19**, 9, false)
+- `=`VLOOKUP`(**B17**, **B15**:**J19**, 9, false)`
 - =`VLOOKUP`(**B20**, **B15**:**J19**, 8, true)
 - =`VLOOKUP`(**B17**, **B15**-**J19**, 9, false)
 - =`VLOOKUP`(**B17**, **B15**:**J19**, 8, false)
+
+> The VLOOKUP function =VLOOKUP(B17, B15:J19, 9, false) would return the value 150, which is Alexis Sanchez’s hourly pay rate. 
 
 ### Question 2
 
@@ -206,3 +208,10 @@ In this activity, you used the `VLOOKUP` function to find values within a spread
 
 - Why is it important to clean and label data when using `VLOOKUP` and pivot tables?
 - What are some other ways that you might use `VLOOKUP` with the data in this table?
+
+- Cleaning and labeling data is crucial when using VLOOKUP and pivot tables to ensure accurate and meaningful results. Clean data eliminates errors and inconsistencies, while labels help maintain organization and clarity, making it easier to interpret and analyze information.
+- Other Uses of VLOOKUP: With this data table, we might use VLOOKUP to find other information associated with each employee, such as employee ID or date of hire. Additionally, we could use VLOOKUP to cross-reference data from different sheets, providing a comprehensive view of employee details.
+
+> A successful response might include how VLOOKUP can be used to query and trim data, convert text data to numeric data, and create a summary table from queried information.
+>
+> If you are analyzing hours worked, you could use VLOOKUP to query your clean and well-labeled dataset to assess employee status and determine who is full-time, part-time, or on leave. You could also use it to analyze the relationships between pay rates and hire date or status. VLOOKUP is an extremely helpful tool that you can use to analyze data in many situations.
