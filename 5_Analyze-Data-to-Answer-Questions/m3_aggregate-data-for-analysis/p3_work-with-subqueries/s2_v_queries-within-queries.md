@@ -39,7 +39,7 @@ Video transcript
 - We'll use AS to tell it how we want the table labeled, and FROM to tell it where we're pulling data from.
 - But before we finish that query, we'll add a subquery.
 - We'll put our parenthesis here and then SELECT the start_station_id.
-- Then we can tell it to COUNT the number_of _rides FROM the trip data and group it by the start_station_id.
+- Then we can tell it to COUNT the number_of_rides FROM the trip data and group it by the start_station_id.
 - After that, we'll close the subquery with a parenthesis so that we can continue building the outer query.
 - We'll use AS again and then use INNER JOIN and ON to join it with the station ID data.
 - Finally we'll tell it to put it in descending order.
