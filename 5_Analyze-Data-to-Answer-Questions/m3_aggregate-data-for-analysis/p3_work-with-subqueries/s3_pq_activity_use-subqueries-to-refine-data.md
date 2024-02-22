@@ -164,9 +164,10 @@ Take some time to examine the query results. In this case, there are 882 lines o
 
 The last query you ran returned every record from only the top five stations with the highest average trip durations. How would you modify the previous query to find all the records from the five stations with the lowest average trip durations?
 
-1 point
-
-Change DESC to ASC in line 17
+- `Change DESC to ASC in line 17` - Correct
+- Change AVG(tripduration) AS avg_duration to MIN(tripduration) AS min_duration in line 13
+- Change top_five to bottom_five in line 16
+- Change 5 to -5 in line 18
 
 ### Question 2
 
@@ -179,3 +180,11 @@ Subqueries allow you to break down complex tasks into smaller, manageable steps.
 **Which other ways could you use subqueries to analyze data?**
 
 Subqueries can be used for various analytical purposes, such as calculating percentages, identifying outliers, or comparing trends over time. They are valuable for tasks like finding correlations, filtering data based on specific conditions, or performing calculations on aggregated results. Additionally, subqueries enable the analysis of relationships between different subsets of data, providing a versatile tool for in-depth data exploration.
+
+> In this activity, you created queries and subqueries to compare and analyze specific sections of a large dataset. Effective responses to the reflection questions might include:
+>
+> - Learning how to create queries and subqueries is a key component of an analyst’s ability to research and deliver useful findings to leadership or team members.
+> - Subqueries help you identify and work with smaller sections of data from a large dataset.
+> - Subqueries can be used to complete multiple operations at one time rather than creating multiple queries.  They can be used to compare, sort, order, group, and aggregate, among many others.
+>
+> Subqueries can be challenging—they take practice and repetition to execute well. Now that you have a starting point, take some time to practice working with different datasets within the bigquery-public-data database and building out your own subqueries.
