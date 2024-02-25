@@ -105,5 +105,3 @@ Video transcript
 6. **Conclusion:**
    - Concludes by emphasizing the power of subqueries, HAVING, and CASE for data aggregation.
    - Encourages the audience to explore and experiment with more complex queries in SQL.
-
-### End of Section 5
