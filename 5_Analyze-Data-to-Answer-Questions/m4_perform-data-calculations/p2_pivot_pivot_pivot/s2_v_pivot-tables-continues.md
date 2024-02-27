@@ -70,3 +70,19 @@ Video transcript
 - The function in the calculated field
 
 > A calculated field within a pivot table is used to carry out calculations based on the values of other fields. The calculated field is added as an additional row or column in a pivot table.
+
+## Section 2 Summary
+
+In this video, we continued our exploration of pivot tables by applying filters and creating calculated fields. The goal was to further analyze movie data and revenue calculations. Here are the key points:
+
+1. **Purpose of Pivot Tables:** Pivot tables are powerful tools for analyzing data, offering the ability to view data in different ways to identify trends and insights.
+
+2. **Filtering Data:** Filters in pivot tables help narrow down the data to specific conditions. In this case, the filter was applied to show movies with revenue less than $10 million.
+
+3. **Calculated Fields:** A calculated field is a new field within a pivot table that performs calculations based on the values of other fields. In the video, a calculated field was created to calculate the average revenue of movies under $10 million.
+
+4. **Verification:** The calculated field was used to verify the accuracy of the data before proceeding with the analysis. This step ensures the reliability of the information being used.
+
+5. **Percentage Calculation:** A new column was added to calculate the percentage of movies earning less than $10 million relative to the total number of movies for each year.
+
+6. **Conclusion:** The analysis revealed that 2015 had a higher percentage of movies earning less than $10 million, providing a possible explanation for the lower average revenue in that year.

@@ -39,3 +39,25 @@ Now they know that the Toys department generated the most revenue!
 ## Key takeaways
 
 Pivot tables are an effective tool for data analysts working with spreadsheets because they highlight key insights from the spreadsheet data without having to make changes to the spreadsheet. Coming up, you will create your own pivot table to analyze data and identify trends that will be highly valuable to stakeholders.
+
+## Section 3 Summary
+
+This reading focuses on the elements of a pivot table and how data analysts use them to summarize data and answer questions. Here are the key points:
+
+1. **Purpose of Pivot Tables:**
+   - Pivot tables are tools used for sorting, reorganizing, grouping, counting, totaling, or averaging data in spreadsheets.
+   - They allow for multiple views of data to identify insights and trends.
+
+2. **Four Basic Parts of a Pivot Table:**
+   - **Rows:** Organize and group data horizontally. In the provided movie data example, Release Date values were used to create rows grouped by year.
+   - **Columns:** Organize and display values vertically. Columns can be pulled directly from the data set or created using values. Values are used for calculations, counting, and creating calculated fields.
+   - **Values:** Input variables to measure and perform calculations. Calculated fields are new fields within a pivot table that carry out certain calculations based on the values of other fields.
+   - **Filters:** Enable the application of filters based on specific criteria to focus on relevant data.
+
+3. **Using Pivot Tables for Analysis:**
+   - Pivot tables are useful for answering specific questions about a dataset without modifying the original spreadsheet data.
+   - An example is given where a data analyst determines total sales for each department, the number of products sold, and identifies the department generating the most revenue using a pivot table.
+
+4. **Key Takeaways:**
+   - Pivot tables highlight key insights from spreadsheet data without making changes to the spreadsheet.
+   - They are valuable for data analysts to quickly share answers with stakeholders.
