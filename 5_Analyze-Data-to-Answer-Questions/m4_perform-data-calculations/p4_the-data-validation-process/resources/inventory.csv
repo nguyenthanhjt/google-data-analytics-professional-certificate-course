@@ -1,0 +1,1001 @@
+ProductId,StoreId,StoreName,Address,neighborhood,QuantityAvailable
+1,85123,National Stores,9 Springview Point,Bolton Hill,11
+2,71053,Family Dollar,5434 Daystar Circle,Ashburton,1
+3,84406,BJ's Wholesale Club,3 Darwin Drive,Morrell Park,11
+4,84029,Ocean State Job Lot,684 Bunting Lane,Fells Point,1
+5,37444,Ollie's Bargain Outlet,50162 John Wall Drive,Charles Village,3
+6,84406,BJ's Wholesale Club,8 Fordem Pass,Morrell Park,9
+7,84406,BJ's Wholesale Club,89058 Monument Hill,Morrell Park,4
+8,22752,Costco,1 Clarendon Way,Baltimore Highlands,3
+9,21730,Fred's,629 Crescent Oaks Center,Pulaski Industrial Area,8
+10,22633,Big Lots,175 Kim Place,Brooklyn,7
+11,22632,HomeGoods,689 Vera Pass,Hunting Ridge,4
+12,22632,HomeGoods,78107 Logan Plaza,Hunting Ridge,2
+13,84879,Ben Franklin,28413 Knutson Park,Bridgeview/Greenlawn,9
+14,37444,Ollie's Bargain Outlet,828 Iowa Parkway,Charles Village,11
+15,22745,Burlington Coat Factory,28352 Tennyson Court,Upton,1
+16,84029,Ocean State Job Lot,0 Cottonwood Pass,Fells Point,5
+17,22748,Renys,14 Mayfield Alley,Port Covington,5
+18,22749,Gabe's,010 Lunder Avenue,Oliver,9
+19,22310,Meijer,0 Dryden Park,Ellwood Park/Monument,4
+20,22632,HomeGoods,92 Heffernan Trail,Hunting Ridge,5
+21,84969,Dd's Discounts,634 Jackson Parkway,Canton,2
+22,37444,Ollie's Bargain Outlet,5 Warner Parkway,Charles Village,4
+23,22623,Gordmans,353 Blackbird Avenue,Hampden,3
+24,22622,Target,4496 Killdeer Court,Hoes Heights,3
+25,71053,Family Dollar,4 Charing Cross Plaza,Ashburton,1
+26,21730,Fred's,5995 Merchant Trail,Pulaski Industrial Area,11
+27,21754,Ross Stores,023 Coleman Place,Better Waverly,2
+28,21755,Tuesday Morning,84269 Crescent Oaks Way,Belair-Edison,10
+29,21777,Walmart,2 Laurel Drive,Sabina-Mattfeldt,5
+30,48187,Dollar General,42385 Lighthouse Bay Hill,Glen Oaks,12
+31,84879,Ben Franklin,9 Melvin Way,Bridgeview/Greenlawn,11
+32,84969,Dd's Discounts,4416 Barby Terrace,Canton,7
+33,84879,Ben Franklin,496 Cambridge Plaza,Bridgeview/Greenlawn,7
+34,84969,Dd's Discounts,375 Bellgrove Point,Canton,3
+35,22960,Harbor Freight Tools,40020 Morningstar Crossing,Loch Raven,8
+36,71053,Family Dollar,39 Graceland Place,Ashburton,5
+37,85123,National Stores,8 Hudson Crossing,Bolton Hill,4
+38,22749,Gabe's,55 Bonner Lane,Oliver,9
+39,22748,Renys,24 American Ash Plaza,Port Covington,4
+40,48187,Dollar General,5657 Daystar Way,Glen Oaks,7
+41,22960,Harbor Freight Tools,25036 Division Terrace,Loch Raven,9
+42,22913,Stein Mart,8668 Lakewood Gardens Road,Gay Street,6
+43,22623,Gordmans,4621 Burrows Hill,Hampden,10
+44,22912,Marshalls,00189 Jana Plaza,Central Park Heights,5
+45,22745,Burlington Coat Factory,1 Drewry Circle,Upton,3
+46,22913,Stein Mart,42543 Chinook Road,Gay Street,9
+47,22914,Five Below,7329 Esch Avenue,Washington Village,11
+48,84969,Dd's Discounts,2 Morrow Avenue,Canton,11
+49,21756,Roses,0 4th Pass,Frankford,8
+50,22728,HomeSense,737 Caliangt Road,Glenham-Belford,6
+51,22632,HomeGoods,41 Knutson Court,Hunting Ridge,7
+52,22912,Marshalls,25554 Laurel Alley,Central Park Heights,1
+53,22727,Fred Meyer,1538 Steensland Park,Charles Village,10
+54,22726,Shopko,421 Randy Lane,Millhill,6
+55,22752,Costco,9 Dwight Plaza,Baltimore Highlands,10
+56,85123,National Stores,54321 Waxwing Crossing,Bolton Hill,2
+57,21754,Ross Stores,71 Dayton Plaza,Better Waverly,6
+58,22633,Big Lots,868 Atwood Park,Brooklyn,10
+59,71053,Family Dollar,7 Ronald Regan Park,Ashburton,9
+60,22748,Renys,8 Melvin Drive,Port Covington,6
+61,84969,Dd's Discounts,645 Pierstorff Terrace,Canton,5
+62,21755,Tuesday Morning,709 6th Circle,Belair-Edison,7
+63,22748,Renys,6553 Maryland Center,Port Covington,2
+64,21724,Kmart,89062 Eggendart Avenue,Cherry Hill,12
+65,22310,Meijer,8 Clove Center,Ellwood Park/Monument,12
+66,48187,Dollar General,23 6th Drive,Glen Oaks,9
+67,22912,Marshalls,2 Lawn Terrace,Central Park Heights,4
+68,21756,Roses,82 Golf Plaza,Frankford,2
+69,21777,Walmart,6 Ridgeway Hill,Sabina-Mattfeldt,6
+70,84406,BJ's Wholesale Club,2 Brown Plaza,Morrell Park,12
+71,37444,Ollie's Bargain Outlet,0317 Pond Hill,Charles Village,1
+72,22622,Target,4 4th Terrace,Hoes Heights,11
+73,22960,Harbor Freight Tools,88199 Golf Course Center,Loch Raven,4
+74,21883,Bi-Mart,2 Nelson Alley,Washington Village,1
+75,84406,BJ's Wholesale Club,9565 Arkansas Plaza,Morrell Park,8
+76,22912,Marshalls,9 Iowa Terrace,Central Park Heights,12
+77,22726,Shopko,02074 North Center,Millhill,2
+78,22310,Meijer,8132 High Crossing Street,Ellwood Park/Monument,10
+79,10002,T.J. Maxx,4591 Crownhardt Place,Seton Business Park,9
+80,22622,Target,93 Basil Trail,Hoes Heights,2
+81,84879,Ben Franklin,2373 Derek Plaza,Bridgeview/Greenlawn,8
+82,22632,HomeGoods,85 Hayes Crossing,Hunting Ridge,8
+83,22727,Fred Meyer,90 Dawn Point,Charles Village,8
+84,22912,Marshalls,96 Crownhardt Court,Central Park Heights,5
+85,21756,Roses,165 Moland Pass,Frankford,2
+86,85123,National Stores,7588 Hudson Hill,Bolton Hill,12
+87,10002,T.J. Maxx,19077 Service Drive,Seton Business Park,10
+88,37444,Ollie's Bargain Outlet,08032 Pennsylvania Avenue,Charles Village,3
+89,21754,Ross Stores,666 Helena Parkway,Better Waverly,3
+90,22960,Harbor Freight Tools,01238 Sugar Parkway,Loch Raven,1
+91,22727,Fred Meyer,07 Nobel Pass,Charles Village,2
+92,22752,Costco,26220 Gale Place,Baltimore Highlands,11
+93,22623,Gordmans,07 Carpenter Place,Hampden,3
+94,22633,Big Lots,6086 Spenser Plaza,Brooklyn,10
+95,22623,Gordmans,86944 Darwin Plaza,Hampden,9
+96,22913,Stein Mart,65 School Alley,Gay Street,11
+97,10002,T.J. Maxx,46172 Marquette Park,Seton Business Park,1
+98,22745,Burlington Coat Factory,00 Crescent Oaks Circle,Upton,9
+99,21724,Kmart,82984 Northridge Junction,Cherry Hill,1
+100,84969,Dd's Discounts,7 Gina Street,Canton,7
+101,84406,BJ's Wholesale Club,9 Kipling Road,Morrell Park,11
+102,22632,HomeGoods,6286 Knutson Alley,Hunting Ridge,12
+103,21756,Roses,92300 Granby Point,Frankford,10
+104,22310,Meijer,98 Arkansas Crossing,Ellwood Park/Monument,6
+105,22749,Gabe's,46564 Dixon Drive,Oliver,11
+106,22726,Shopko,0301 Melody Crossing,Millhill,3
+107,71053,Family Dollar,3 Transport Circle,Ashburton,1
+108,10002,T.J. Maxx,285 Evergreen Circle,Seton Business Park,12
+109,22623,Gordmans,7 Cardinal Terrace,Hampden,10
+110,22745,Burlington Coat Factory,7788 Sommers Avenue,Upton,5
+111,22914,Five Below,57326 Thierer Center,Washington Village,7
+112,71053,Family Dollar,368 Mallory Plaza,Ashburton,4
+113,84029,Ocean State Job Lot,69 Iowa Center,Fells Point,1
+114,84879,Ben Franklin,7 Shoshone Hill,Bridgeview/Greenlawn,7
+115,21756,Roses,1 Marquette Crossing,Frankford,6
+116,22310,Meijer,13456 Hayes Avenue,Ellwood Park/Monument,7
+117,84879,Ben Franklin,7124 Dovetail Trail,Bridgeview/Greenlawn,1
+118,21756,Roses,9 Prentice Place,Frankford,10
+119,21883,Bi-Mart,7 Rockefeller Parkway,Washington Village,3
+120,22726,Shopko,571 Clarendon Park,Millhill,12
+121,22727,Fred Meyer,17010 Schiller Pass,Charles Village,4
+122,48187,Dollar General,13538 Ryan Lane,Glen Oaks,1
+123,21756,Roses,2 Longview Drive,Frankford,1
+124,22914,Five Below,47 Claremont Junction,Washington Village,3
+125,21756,Roses,9404 Arizona Court,Frankford,12
+126,71053,Family Dollar,47136 Sundown Avenue,Ashburton,12
+127,22912,Marshalls,13 Melody Avenue,Central Park Heights,12
+128,21791,Dollar Tree,805 Eggendart Plaza,Mondawmin,3
+129,84969,Dd's Discounts,60609 Wayridge Junction,Canton,2
+130,22633,Big Lots,947 Kingsford Parkway,Brooklyn,2
+131,21791,Dollar Tree,83 South Place,Mondawmin,7
+132,22728,HomeSense,943 South Drive,Glenham-Belford,4
+133,37444,Ollie's Bargain Outlet,23 Esch Center,Charles Village,5
+134,21035,Bargain Hunt,517 David Park,Mount Holly,2
+135,22310,Meijer,9 Nelson Hill,Ellwood Park/Monument,9
+136,71053,Family Dollar,2 Harper Way,Ashburton,1
+137,22914,Five Below,83 Michigan Circle,Washington Village,6
+138,22633,Big Lots,4 Hayes Crossing,Brooklyn,1
+139,22726,Shopko,72026 Evergreen Drive,Millhill,11
+140,10002,T.J. Maxx,73083 Darwin Park,Seton Business Park,4
+141,21756,Roses,1 Dakota Drive,Frankford,11
+142,71053,Family Dollar,05873 Dovetail Parkway,Ashburton,8
+143,84406,BJ's Wholesale Club,2 Fairfield Court,Morrell Park,11
+144,22749,Gabe's,35 Evergreen Drive,Oliver,4
+145,21724,Kmart,81 Forest Run Hill,Cherry Hill,6
+146,21756,Roses,0524 Anhalt Lane,Frankford,7
+147,21754,Ross Stores,44 Drewry Street,Better Waverly,12
+148,84969,Dd's Discounts,0 Corscot Point,Canton,2
+149,22728,HomeSense,15 Kipling Court,Glenham-Belford,1
+150,21883,Bi-Mart,58468 Armistice Drive,Washington Village,1
+151,84969,Dd's Discounts,3 Burrows Crossing,Canton,12
+152,71053,Family Dollar,8 Mockingbird Court,Ashburton,4
+153,22632,HomeGoods,14852 Jenna Avenue,Hunting Ridge,1
+154,21754,Ross Stores,8566 Clove Hill,Better Waverly,9
+155,22745,Burlington Coat Factory,0200 Westport Circle,Upton,3
+156,71053,Family Dollar,260 Kinsman Street,Ashburton,11
+157,84879,Ben Franklin,12375 Almo Junction,Bridgeview/Greenlawn,6
+158,22633,Big Lots,46 Schlimgen Hill,Brooklyn,9
+159,21883,Bi-Mart,43 Spohn Crossing,Washington Village,12
+160,22633,Big Lots,3440 Mcbride Court,Brooklyn,3
+161,21777,Walmart,9630 Dahle Hill,Sabina-Mattfeldt,3
+162,22913,Stein Mart,68257 Bellgrove Way,Gay Street,9
+163,22752,Costco,1497 Cordelia Point,Baltimore Highlands,2
+164,22310,Meijer,49695 Quincy Alley,Ellwood Park/Monument,8
+165,84029,Ocean State Job Lot,84 Bellgrove Lane,Fells Point,3
+166,22622,Target,17 Kim Circle,Hoes Heights,3
+167,37444,Ollie's Bargain Outlet,00109 Forest Run Point,Charles Village,1
+168,22749,Gabe's,35736 Lukken Drive,Oliver,1
+169,21756,Roses,76813 Hoffman Crossing,Frankford,3
+170,22728,HomeSense,688 Hanover Road,Glenham-Belford,2
+171,21777,Walmart,2514 Summit Court,Sabina-Mattfeldt,3
+172,22749,Gabe's,8 Milwaukee Way,Oliver,7
+173,21035,Bargain Hunt,72321 Stuart Road,Mount Holly,4
+174,22622,Target,22 Mifflin Junction,Hoes Heights,3
+175,84879,Ben Franklin,8425 Mandrake Point,Bridgeview/Greenlawn,11
+176,21756,Roses,40477 Caliangt Center,Frankford,11
+177,22748,Renys,17793 Chinook Parkway,Port Covington,7
+178,10002,T.J. Maxx,0124 Kingsford Hill,Seton Business Park,1
+179,21755,Tuesday Morning,26176 Acker Pass,Belair-Edison,1
+180,84029,Ocean State Job Lot,581 Buhler Parkway,Fells Point,7
+181,21777,Walmart,82167 Russell Junction,Sabina-Mattfeldt,12
+182,71053,Family Dollar,1 Canary Center,Ashburton,1
+183,84879,Ben Franklin,6 Westend Plaza,Bridgeview/Greenlawn,11
+184,37444,Ollie's Bargain Outlet,4 Cascade Terrace,Charles Village,4
+185,21035,Bargain Hunt,5 Autumn Leaf Pass,Mount Holly,4
+186,84406,BJ's Wholesale Club,82 Trailsway Junction,Morrell Park,3
+187,22726,Shopko,3 Bashford Park,Millhill,2
+188,22745,Burlington Coat Factory,65 Melvin Court,Upton,4
+189,22726,Shopko,417 Ilene Lane,Millhill,1
+190,22726,Shopko,595 Sugar Street,Millhill,1
+191,37444,Ollie's Bargain Outlet,8 Vidon Place,Charles Village,10
+192,21777,Walmart,655 Union Center,Sabina-Mattfeldt,1
+193,21791,Dollar Tree,0 Merry Hill,Mondawmin,9
+194,21756,Roses,13 Chinook Way,Frankford,5
+195,84029,Ocean State Job Lot,3627 Elka Center,Fells Point,2
+196,21777,Walmart,57004 Sauthoff Avenue,Sabina-Mattfeldt,12
+197,22748,Renys,71593 Macpherson Way,Port Covington,10
+198,21724,Kmart,7022 Toban Crossing,Cherry Hill,1
+199,22752,Costco,45038 Commercial Avenue,Baltimore Highlands,4
+200,22914,Five Below,68 Jenna Parkway,Washington Village,8
+201,22727,Fred Meyer,223 Old Gate Trail,Charles Village,9
+202,22912,Marshalls,79174 Eliot Plaza,Central Park Heights,9
+203,21755,Tuesday Morning,5428 Judy Hill,Belair-Edison,5
+204,37444,Ollie's Bargain Outlet,33113 Arizona Avenue,Charles Village,7
+205,84029,Ocean State Job Lot,052 Di Loreto Circle,Fells Point,12
+206,10002,T.J. Maxx,308 Forest Run Pass,Seton Business Park,12
+207,37444,Ollie's Bargain Outlet,303 Atwood Way,Charles Village,10
+208,84029,Ocean State Job Lot,86009 Summer Ridge Alley,Fells Point,8
+209,37444,Ollie's Bargain Outlet,125 Lakewood Gardens Trail,Charles Village,1
+210,21730,Fred's,677 David Alley,Pulaski Industrial Area,9
+211,21756,Roses,2457 Northfield Circle,Frankford,3
+212,22310,Meijer,16 Welch Avenue,Ellwood Park/Monument,1
+213,22726,Shopko,09 Reindahl Drive,Millhill,11
+214,22728,HomeSense,56979 Goodland Court,Glenham-Belford,10
+215,21883,Bi-Mart,95 Clove Court,Washington Village,11
+216,21791,Dollar Tree,80659 Crownhardt Junction,Mondawmin,11
+217,22912,Marshalls,35 Thackeray Road,Central Park Heights,2
+218,84406,BJ's Wholesale Club,8 Bobwhite Road,Morrell Park,9
+219,22749,Gabe's,4 Lerdahl Circle,Oliver,12
+220,22745,Burlington Coat Factory,2629 Pennsylvania Lane,Upton,7
+221,22622,Target,06038 Talisman Park,Hoes Heights,7
+222,22623,Gordmans,60 Dennis Crossing,Hampden,6
+223,84029,Ocean State Job Lot,14 Mariners Cove Alley,Fells Point,10
+224,84879,Ben Franklin,8 Monica Alley,Bridgeview/Greenlawn,11
+225,22752,Costco,084 Starling Crossing,Baltimore Highlands,3
+226,22913,Stein Mart,8 Pleasure Drive,Gay Street,3
+227,22749,Gabe's,131 Everett Circle,Oliver,5
+228,22633,Big Lots,96660 Arapahoe Road,Brooklyn,8
+229,21730,Fred's,4844 Valley Edge Park,Pulaski Industrial Area,7
+230,22748,Renys,9 Knutson Point,Port Covington,2
+231,22748,Renys,935 Delladonna Way,Port Covington,11
+232,84879,Ben Franklin,447 Barnett Place,Bridgeview/Greenlawn,12
+233,21035,Bargain Hunt,4 Lawn Lane,Mount Holly,7
+234,10002,T.J. Maxx,494 Artisan Junction,Seton Business Park,2
+235,71053,Family Dollar,2 Sullivan Pass,Ashburton,3
+236,22727,Fred Meyer,84 Aberg Crossing,Charles Village,7
+237,22913,Stein Mart,9957 Gerald Alley,Gay Street,1
+238,22752,Costco,0826 Sachs Way,Baltimore Highlands,3
+239,71053,Family Dollar,9 Vahlen Pass,Ashburton,5
+240,22745,Burlington Coat Factory,7752 Barby Center,Upton,1
+241,10002,T.J. Maxx,0 Montana Court,Seton Business Park,9
+242,22960,Harbor Freight Tools,1 Londonderry Park,Loch Raven,7
+243,22633,Big Lots,81811 Debra Pass,Brooklyn,10
+244,22960,Harbor Freight Tools,1 Fulton Hill,Loch Raven,4
+245,22745,Burlington Coat Factory,2 Express Pass,Upton,7
+246,22728,HomeSense,6 3rd Junction,Glenham-Belford,3
+247,22914,Five Below,22 Northland Plaza,Washington Village,5
+248,21724,Kmart,7330 John Wall Place,Cherry Hill,2
+249,85123,National Stores,26 Straubel Hill,Bolton Hill,3
+250,84969,Dd's Discounts,1 Grover Trail,Canton,11
+251,22914,Five Below,55750 Village Way,Washington Village,5
+252,22960,Harbor Freight Tools,58626 Morning Pass,Loch Raven,8
+253,22913,Stein Mart,37754 La Follette Avenue,Gay Street,9
+254,21754,Ross Stores,03 Debs Crossing,Better Waverly,5
+255,84406,BJ's Wholesale Club,904 Mockingbird Junction,Morrell Park,10
+256,22726,Shopko,613 Gerald Trail,Millhill,8
+257,85123,National Stores,925 Pennsylvania Parkway,Bolton Hill,8
+258,22913,Stein Mart,10 Burning Wood Parkway,Gay Street,5
+259,84879,Ben Franklin,06 Mcbride Junction,Bridgeview/Greenlawn,3
+260,22727,Fred Meyer,50607 Schurz Junction,Charles Village,11
+261,22749,Gabe's,5 Ohio Junction,Oliver,2
+262,10002,T.J. Maxx,7905 Eastwood Crossing,Seton Business Park,4
+263,22912,Marshalls,256 Grover Lane,Central Park Heights,5
+264,85123,National Stores,60899 Westport Way,Bolton Hill,7
+265,21724,Kmart,70933 Heffernan Street,Cherry Hill,8
+266,22912,Marshalls,4 Crownhardt Crossing,Central Park Heights,3
+267,84879,Ben Franklin,462 Sunbrook Drive,Bridgeview/Greenlawn,6
+268,22752,Costco,99 Evergreen Parkway,Baltimore Highlands,3
+269,48187,Dollar General,769 Meadow Ridge Junction,Glen Oaks,9
+270,22748,Renys,3 Upham Park,Port Covington,1
+271,22745,Burlington Coat Factory,727 Goodland Center,Upton,2
+272,22623,Gordmans,73345 Briar Crest Point,Hampden,2
+273,21724,Kmart,4 Derek Alley,Cherry Hill,12
+274,22622,Target,0 Lakeland Junction,Hoes Heights,3
+275,22752,Costco,50689 La Follette Alley,Baltimore Highlands,10
+276,22727,Fred Meyer,8407 Manitowish Alley,Charles Village,7
+277,21777,Walmart,1830 Forest Dale Parkway,Sabina-Mattfeldt,5
+278,10002,T.J. Maxx,2613 Shoshone Drive,Seton Business Park,1
+279,21724,Kmart,36 Brickson Park Hill,Cherry Hill,4
+280,22749,Gabe's,09471 1st Circle,Oliver,5
+281,22914,Five Below,23 Doe Crossing Center,Washington Village,2
+282,22749,Gabe's,6 Chinook Alley,Oliver,12
+283,22728,HomeSense,589 Norway Maple Park,Glenham-Belford,7
+284,22749,Gabe's,175 Melby Terrace,Oliver,3
+285,84969,Dd's Discounts,87927 Riverside Parkway,Canton,6
+286,21777,Walmart,881 Eagan Way,Sabina-Mattfeldt,3
+287,10002,T.J. Maxx,31187 Maywood Trail,Seton Business Park,11
+288,22748,Renys,93957 Kim Avenue,Port Covington,2
+289,22914,Five Below,9 Harbort Alley,Washington Village,5
+290,22745,Burlington Coat Factory,15 Pawling Alley,Upton,12
+291,22727,Fred Meyer,31 Mcguire Road,Charles Village,9
+292,85123,National Stores,73 Mcbride Way,Bolton Hill,4
+293,84879,Ben Franklin,946 Waywood Pass,Bridgeview/Greenlawn,7
+294,22912,Marshalls,59345 Dryden Court,Central Park Heights,9
+295,84406,BJ's Wholesale Club,9616 6th Circle,Morrell Park,4
+296,22749,Gabe's,02 Rieder Road,Oliver,9
+297,22727,Fred Meyer,5804 Summit Lane,Charles Village,1
+298,22727,Fred Meyer,019 Utah Pass,Charles Village,2
+299,22960,Harbor Freight Tools,59902 Fisk Road,Loch Raven,11
+300,21754,Ross Stores,98 American Alley,Better Waverly,11
+301,21791,Dollar Tree,88 Almo Junction,Mondawmin,3
+302,84879,Ben Franklin,1879 Aberg Drive,Bridgeview/Greenlawn,8
+303,21724,Kmart,9 Melby Crossing,Cherry Hill,6
+304,22310,Meijer,3647 Hermina Road,Ellwood Park/Monument,12
+305,22745,Burlington Coat Factory,17985 Anderson Terrace,Upton,7
+306,84029,Ocean State Job Lot,05 Atwood Drive,Fells Point,10
+307,37444,Ollie's Bargain Outlet,15 Mesta Alley,Charles Village,2
+308,84406,BJ's Wholesale Club,95130 Columbus Terrace,Morrell Park,8
+309,21730,Fred's,8 Lunder Terrace,Pulaski Industrial Area,5
+310,22728,HomeSense,8072 Aberg Alley,Glenham-Belford,1
+311,85123,National Stores,2183 Paget Terrace,Bolton Hill,12
+312,22728,HomeSense,1 Del Mar Way,Glenham-Belford,6
+313,22745,Burlington Coat Factory,2 Roth Park,Upton,8
+314,22914,Five Below,795 Sloan Avenue,Washington Village,3
+315,22632,HomeGoods,49989 Lerdahl Center,Hunting Ridge,10
+316,22913,Stein Mart,7774 Eliot Junction,Gay Street,8
+317,22745,Burlington Coat Factory,2 Oak Circle,Upton,3
+318,21730,Fred's,2399 Artisan Junction,Pulaski Industrial Area,8
+319,22726,Shopko,060 Merry Pass,Millhill,10
+320,71053,Family Dollar,74 Aberg Trail,Ashburton,10
+321,48187,Dollar General,28505 Farragut Way,Glen Oaks,7
+322,10002,T.J. Maxx,36 Main Pass,Seton Business Park,11
+323,22913,Stein Mart,0966 Mayfield Street,Gay Street,12
+324,10002,T.J. Maxx,7480 Main Drive,Seton Business Park,6
+325,84969,Dd's Discounts,9609 Menomonie Lane,Canton,6
+326,22752,Costco,7 Arapahoe Court,Baltimore Highlands,11
+327,22749,Gabe's,71705 Brown Alley,Oliver,8
+328,48187,Dollar General,79768 Hudson Terrace,Glen Oaks,9
+329,22745,Burlington Coat Factory,3 Hayes Court,Upton,9
+330,22749,Gabe's,9270 2nd Way,Oliver,12
+331,84879,Ben Franklin,9449 Mallory Street,Bridgeview/Greenlawn,12
+332,37444,Ollie's Bargain Outlet,22711 Shelley Park,Charles Village,3
+333,21754,Ross Stores,36 Little Fleur Lane,Better Waverly,6
+334,21756,Roses,63 Briar Crest Drive,Frankford,1
+335,22622,Target,25 Toban Road,Hoes Heights,3
+336,21755,Tuesday Morning,66727 Dixon Street,Belair-Edison,9
+337,22726,Shopko,0 Hallows Hill,Millhill,2
+338,84879,Ben Franklin,633 Arrowood Way,Bridgeview/Greenlawn,10
+339,22726,Shopko,24 Oak Valley Alley,Millhill,1
+340,22632,HomeGoods,32 Bluestem Park,Hunting Ridge,8
+341,22913,Stein Mart,8402 Luster Parkway,Gay Street,3
+342,22749,Gabe's,799 Johnson Crossing,Oliver,1
+343,22749,Gabe's,35426 Armistice Point,Oliver,6
+344,21754,Ross Stores,277 Loftsgordon Plaza,Better Waverly,5
+345,37444,Ollie's Bargain Outlet,8753 Autumn Leaf Circle,Charles Village,4
+346,84406,BJ's Wholesale Club,6 Green Junction,Morrell Park,6
+347,37444,Ollie's Bargain Outlet,7 Merchant Way,Charles Village,2
+348,37444,Ollie's Bargain Outlet,038 Hovde Junction,Charles Village,12
+349,37444,Ollie's Bargain Outlet,0 Truax Crossing,Charles Village,1
+350,21035,Bargain Hunt,28 Dennis Pass,Mount Holly,12
+351,21791,Dollar Tree,1 Fordem Way,Mondawmin,10
+352,22960,Harbor Freight Tools,4310 Hollow Ridge Street,Loch Raven,5
+353,22728,HomeSense,2 Calypso Park,Glenham-Belford,9
+354,21730,Fred's,710 Summerview Parkway,Pulaski Industrial Area,8
+355,22310,Meijer,41 Scott Parkway,Ellwood Park/Monument,10
+356,22912,Marshalls,6965 School Point,Central Park Heights,9
+357,21730,Fred's,05547 Mendota Plaza,Pulaski Industrial Area,5
+358,84406,BJ's Wholesale Club,8 Redwing Way,Morrell Park,3
+359,22960,Harbor Freight Tools,75 Haas Trail,Loch Raven,10
+360,21754,Ross Stores,22 Barby Point,Better Waverly,1
+361,10002,T.J. Maxx,7908 Lukken Hill,Seton Business Park,8
+362,84879,Ben Franklin,22 Mariners Cove Crossing,Bridgeview/Greenlawn,9
+363,21777,Walmart,51591 Morning Trail,Sabina-Mattfeldt,7
+364,22912,Marshalls,3516 Bay Pass,Central Park Heights,11
+365,21730,Fred's,0055 Annamark Terrace,Pulaski Industrial Area,12
+366,22960,Harbor Freight Tools,863 Rockefeller Park,Loch Raven,12
+367,84029,Ocean State Job Lot,208 Barnett Junction,Fells Point,2
+368,22748,Renys,10134 Luster Park,Port Covington,10
+369,84969,Dd's Discounts,4309 Grayhawk Park,Canton,7
+370,22623,Gordmans,313 Transport Court,Hampden,8
+371,84879,Ben Franklin,12 Northwestern Court,Bridgeview/Greenlawn,1
+372,21777,Walmart,2 Texas Lane,Sabina-Mattfeldt,3
+373,71053,Family Dollar,91558 Dawn Parkway,Ashburton,7
+374,85123,National Stores,5787 Dexter Hill,Bolton Hill,12
+375,21791,Dollar Tree,5193 Moland Hill,Mondawmin,2
+376,22310,Meijer,26030 Green Lane,Ellwood Park/Monument,3
+377,21777,Walmart,47909 John Wall Avenue,Sabina-Mattfeldt,2
+378,21730,Fred's,7 Moland Avenue,Pulaski Industrial Area,4
+379,21756,Roses,4891 School Trail,Frankford,10
+380,22752,Costco,3 Arapahoe Avenue,Baltimore Highlands,11
+381,22913,Stein Mart,545 Division Point,Gay Street,3
+382,22752,Costco,24 Florence Terrace,Baltimore Highlands,12
+383,21754,Ross Stores,4193 Clove Crossing,Better Waverly,12
+384,84879,Ben Franklin,88 Sunfield Trail,Bridgeview/Greenlawn,7
+385,84879,Ben Franklin,0 Bartelt Point,Bridgeview/Greenlawn,2
+386,22749,Gabe's,10155 Mifflin Center,Oliver,8
+387,22960,Harbor Freight Tools,7356 South Drive,Loch Raven,8
+388,10002,T.J. Maxx,0 North Place,Seton Business Park,1
+389,10002,T.J. Maxx,9152 Fremont Alley,Seton Business Park,12
+390,21791,Dollar Tree,586 Ruskin Park,Mondawmin,6
+391,71053,Family Dollar,9773 Glacier Hill Terrace,Ashburton,11
+392,21730,Fred's,04 Sheridan Street,Pulaski Industrial Area,11
+393,21777,Walmart,25 Corscot Road,Sabina-Mattfeldt,10
+394,71053,Family Dollar,4 South Road,Ashburton,5
+395,22914,Five Below,1 Barby Way,Washington Village,8
+396,22632,HomeGoods,542 Browning Place,Hunting Ridge,6
+397,21756,Roses,11 Bellgrove Junction,Frankford,10
+398,48187,Dollar General,9680 Ronald Regan Hill,Glen Oaks,8
+399,22622,Target,5 Armistice Hill,Hoes Heights,2
+400,48187,Dollar General,56 Trailsway Place,Glen Oaks,5
+401,21724,Kmart,608 Pennsylvania Crossing,Cherry Hill,9
+402,37444,Ollie's Bargain Outlet,75 Rieder Avenue,Charles Village,7
+403,71053,Family Dollar,0 Spenser Road,Ashburton,2
+404,22727,Fred Meyer,23 Beilfuss Street,Charles Village,2
+405,71053,Family Dollar,0 Bartillon Pass,Ashburton,7
+406,22310,Meijer,31 Upham Park,Ellwood Park/Monument,10
+407,21777,Walmart,1062 Brickson Park Pass,Sabina-Mattfeldt,7
+408,22728,HomeSense,47 Garrison Drive,Glenham-Belford,10
+409,48187,Dollar General,560 Sunbrook Place,Glen Oaks,7
+410,84879,Ben Franklin,6634 6th Street,Bridgeview/Greenlawn,10
+411,21777,Walmart,53066 Sycamore Pass,Sabina-Mattfeldt,12
+412,22745,Burlington Coat Factory,12 Jana Point,Upton,2
+413,21883,Bi-Mart,5 Merrick Way,Washington Village,8
+414,22752,Costco,3 South Park,Baltimore Highlands,1
+415,22745,Burlington Coat Factory,76 Golden Leaf Trail,Upton,9
+416,21724,Kmart,6877 Hooker Hill,Cherry Hill,1
+417,84879,Ben Franklin,88110 Walton Street,Bridgeview/Greenlawn,1
+418,22623,Gordmans,521 Pierstorff Pass,Hampden,2
+419,22726,Shopko,7537 Maywood Place,Millhill,7
+420,21724,Kmart,6423 Vahlen Court,Cherry Hill,3
+421,22912,Marshalls,4633 Marquette Way,Central Park Heights,9
+422,48187,Dollar General,01 Brickson Park Center,Glen Oaks,11
+423,48187,Dollar General,21952 Hagan Alley,Glen Oaks,1
+424,84029,Ocean State Job Lot,8 Westerfield Hill,Fells Point,11
+425,21730,Fred's,211 Hovde Terrace,Pulaski Industrial Area,6
+426,85123,National Stores,4 Fallview Trail,Bolton Hill,10
+427,10002,T.J. Maxx,9 Morningstar Crossing,Seton Business Park,8
+428,21777,Walmart,7 Mayfield Crossing,Sabina-Mattfeldt,6
+429,22914,Five Below,496 Heffernan Park,Washington Village,5
+430,22912,Marshalls,3 Trailsway Trail,Central Park Heights,11
+431,21754,Ross Stores,8 Roxbury Parkway,Better Waverly,7
+432,21724,Kmart,8 Burrows Circle,Cherry Hill,5
+433,21756,Roses,00 Clemons Street,Frankford,4
+434,84879,Ben Franklin,693 Shasta Center,Bridgeview/Greenlawn,12
+435,22623,Gordmans,2474 Upham Plaza,Hampden,1
+436,48187,Dollar General,590 Cottonwood Park,Glen Oaks,9
+437,84879,Ben Franklin,66509 Porter Hill,Bridgeview/Greenlawn,1
+438,22749,Gabe's,23 American Circle,Oliver,10
+439,21791,Dollar Tree,52658 Doe Crossing Crossing,Mondawmin,5
+440,21724,Kmart,6742 Lillian Center,Cherry Hill,5
+441,21777,Walmart,329 Blackbird Crossing,Sabina-Mattfeldt,2
+442,21035,Bargain Hunt,51 Twin Pines Point,Mount Holly,7
+443,22726,Shopko,8710 Lillian Point,Millhill,8
+444,21724,Kmart,070 Thierer Alley,Cherry Hill,8
+445,10002,T.J. Maxx,69567 Loomis Plaza,Seton Business Park,3
+446,84969,Dd's Discounts,4763 Northport Center,Canton,10
+447,21754,Ross Stores,591 Continental Drive,Better Waverly,3
+448,22623,Gordmans,4 Elka Street,Hampden,3
+449,22914,Five Below,8 Boyd Court,Washington Village,2
+450,37444,Ollie's Bargain Outlet,25 Scoville Crossing,Charles Village,8
+451,22752,Costco,10025 Kenwood Park,Baltimore Highlands,12
+452,22749,Gabe's,6 Glendale Terrace,Oliver,5
+453,22623,Gordmans,6339 Village Green Street,Hampden,1
+454,71053,Family Dollar,476 Sauthoff Park,Ashburton,10
+455,84879,Ben Franklin,743 Continental Terrace,Bridgeview/Greenlawn,3
+456,22745,Burlington Coat Factory,7 Mallard Pass,Upton,6
+457,21777,Walmart,7140 Springview Pass,Sabina-Mattfeldt,9
+458,22960,Harbor Freight Tools,79408 Grover Drive,Loch Raven,10
+459,22310,Meijer,74 Dryden Trail,Ellwood Park/Monument,10
+460,21035,Bargain Hunt,2183 Ryan Avenue,Mount Holly,11
+461,22748,Renys,6814 Corscot Park,Port Covington,5
+462,21756,Roses,1 Drewry Crossing,Frankford,10
+463,84879,Ben Franklin,51695 Northland Court,Bridgeview/Greenlawn,12
+464,22748,Renys,304 Charing Cross Park,Port Covington,2
+465,21791,Dollar Tree,6 Portage Lane,Mondawmin,10
+466,21777,Walmart,0855 Eagan Lane,Sabina-Mattfeldt,8
+467,22748,Renys,93 Meadow Ridge Lane,Port Covington,5
+468,21035,Bargain Hunt,48292 Stoughton Avenue,Mount Holly,11
+469,22726,Shopko,704 Garrison Road,Millhill,4
+470,21791,Dollar Tree,4 Kedzie Parkway,Mondawmin,4
+471,84406,BJ's Wholesale Club,98 Monterey Drive,Morrell Park,3
+472,84879,Ben Franklin,2 Summit Terrace,Bridgeview/Greenlawn,1
+473,21730,Fred's,551 Nancy Way,Pulaski Industrial Area,1
+474,10002,T.J. Maxx,1 Schmedeman Crossing,Seton Business Park,2
+475,22914,Five Below,59 Westridge Hill,Washington Village,5
+476,21755,Tuesday Morning,6 Comanche Place,Belair-Edison,9
+477,21035,Bargain Hunt,197 Mayer Avenue,Mount Holly,5
+478,22748,Renys,173 Riverside Pass,Port Covington,6
+479,21755,Tuesday Morning,5 Cottonwood Crossing,Belair-Edison,9
+480,22749,Gabe's,36 Homewood Trail,Oliver,5
+481,22728,HomeSense,057 Vernon Plaza,Glenham-Belford,4
+482,84029,Ocean State Job Lot,2 Iowa Avenue,Fells Point,6
+483,22632,HomeGoods,10883 West Way,Hunting Ridge,3
+484,48187,Dollar General,3798 Homewood Park,Glen Oaks,7
+485,84029,Ocean State Job Lot,76237 Lien Center,Fells Point,6
+486,84969,Dd's Discounts,548 Jana Terrace,Canton,10
+487,84029,Ocean State Job Lot,0 Cambridge Trail,Fells Point,3
+488,84879,Ben Franklin,05700 Eagle Crest Circle,Bridgeview/Greenlawn,12
+489,22727,Fred Meyer,51 Springview Plaza,Charles Village,12
+490,21756,Roses,05870 Hintze Circle,Frankford,8
+491,71053,Family Dollar,7535 Dawn Road,Ashburton,1
+492,37444,Ollie's Bargain Outlet,81 Petterle Trail,Charles Village,4
+493,21791,Dollar Tree,7311 Southridge Avenue,Mondawmin,12
+494,85123,National Stores,4 Dixon Junction,Bolton Hill,11
+495,84969,Dd's Discounts,67754 Fallview Junction,Canton,10
+496,22745,Burlington Coat Factory,1 Alpine Avenue,Upton,10
+497,22622,Target,1737 Hudson Hill,Hoes Heights,9
+498,21754,Ross Stores,82744 Bonner Terrace,Better Waverly,4
+499,22748,Renys,34927 Algoma Point,Port Covington,12
+500,22912,Marshalls,26230 Nova Hill,Central Park Heights,3
+501,22310,Meijer,0969 Menomonie Drive,Ellwood Park/Monument,8
+502,21754,Ross Stores,900 Johnson Terrace,Better Waverly,2
+503,21755,Tuesday Morning,7 Westend Circle,Belair-Edison,1
+504,22310,Meijer,9327 Eastwood Avenue,Ellwood Park/Monument,10
+505,71053,Family Dollar,2 Clyde Gallagher Street,Ashburton,4
+506,21756,Roses,88 Stephen Terrace,Frankford,2
+507,22727,Fred Meyer,60 Magdeline Plaza,Charles Village,7
+508,22310,Meijer,6 Dwight Way,Ellwood Park/Monument,6
+509,21754,Ross Stores,95 Mccormick Center,Better Waverly,9
+510,85123,National Stores,9 Spaight Road,Bolton Hill,12
+511,21777,Walmart,985 West Road,Sabina-Mattfeldt,5
+512,22748,Renys,59 8th Lane,Port Covington,9
+513,84029,Ocean State Job Lot,67664 Atwood Court,Fells Point,6
+514,10002,T.J. Maxx,6 Stang Circle,Seton Business Park,10
+515,22912,Marshalls,2076 Esch Avenue,Central Park Heights,6
+516,21777,Walmart,4 Anniversary Plaza,Sabina-Mattfeldt,3
+517,21035,Bargain Hunt,46 Myrtle Pass,Mount Holly,7
+518,22914,Five Below,0 Fairview Junction,Washington Village,2
+519,22728,HomeSense,994 Monument Junction,Glenham-Belford,1
+520,22310,Meijer,058 Fairfield Place,Ellwood Park/Monument,5
+521,22726,Shopko,6 Summit Avenue,Millhill,1
+522,21724,Kmart,8 Hoard Point,Cherry Hill,6
+523,22914,Five Below,680 Ramsey Road,Washington Village,3
+524,71053,Family Dollar,81 Corscot Avenue,Ashburton,12
+525,84029,Ocean State Job Lot,5 Pankratz Way,Fells Point,12
+526,22632,HomeGoods,38 Leroy Park,Hunting Ridge,11
+527,22914,Five Below,55 Hoepker Road,Washington Village,5
+528,22912,Marshalls,84326 Texas Parkway,Central Park Heights,7
+529,22912,Marshalls,53 Mitchell Way,Central Park Heights,6
+530,22748,Renys,7484 Valley Edge Way,Port Covington,2
+531,22913,Stein Mart,8946 Crescent Oaks Center,Gay Street,3
+532,21791,Dollar Tree,70523 Dixon Parkway,Mondawmin,6
+533,22912,Marshalls,47963 Bartelt Point,Central Park Heights,5
+534,21754,Ross Stores,70990 Oxford Crossing,Better Waverly,10
+535,37444,Ollie's Bargain Outlet,818 Farwell Trail,Charles Village,12
+536,22728,HomeSense,4489 Heath Alley,Glenham-Belford,6
+537,22633,Big Lots,0462 Iowa Lane,Brooklyn,5
+538,22960,Harbor Freight Tools,632 Petterle Junction,Loch Raven,10
+539,84879,Ben Franklin,997 Dunning Way,Bridgeview/Greenlawn,7
+540,21754,Ross Stores,38 Lakewood Gardens Hill,Better Waverly,1
+541,22633,Big Lots,351 Pawling Hill,Brooklyn,12
+542,22623,Gordmans,5169 Waywood Court,Hampden,3
+543,22913,Stein Mart,63 Marcy Crossing,Gay Street,12
+544,22623,Gordmans,2386 Raven Junction,Hampden,11
+545,22960,Harbor Freight Tools,83 Melrose Terrace,Loch Raven,7
+546,22310,Meijer,51152 Independence Alley,Ellwood Park/Monument,1
+547,22752,Costco,4 Gale Drive,Baltimore Highlands,3
+548,21730,Fred's,62920 Kings Lane,Pulaski Industrial Area,4
+549,22914,Five Below,0 Starling Pass,Washington Village,5
+550,71053,Family Dollar,04830 Sloan Way,Ashburton,5
+551,22752,Costco,27 Menomonie Hill,Baltimore Highlands,4
+552,22748,Renys,678 Evergreen Lane,Port Covington,12
+553,10002,T.J. Maxx,0385 Rockefeller Plaza,Seton Business Park,9
+554,22914,Five Below,10759 Homewood Avenue,Washington Village,6
+555,37444,Ollie's Bargain Outlet,730 Buell Way,Charles Village,10
+556,22745,Burlington Coat Factory,14 Lotheville Avenue,Upton,12
+557,84879,Ben Franklin,8435 Tony Place,Bridgeview/Greenlawn,7
+558,84029,Ocean State Job Lot,35 Division Park,Fells Point,3
+559,37444,Ollie's Bargain Outlet,84871 Union Crossing,Charles Village,9
+560,21754,Ross Stores,686 Swallow Terrace,Better Waverly,10
+561,21777,Walmart,81058 Goodland Place,Sabina-Mattfeldt,2
+562,22749,Gabe's,32 Dunning Circle,Oliver,6
+563,21883,Bi-Mart,29216 Fisk Place,Washington Village,1
+564,22752,Costco,80622 Center Drive,Baltimore Highlands,2
+565,85123,National Stores,96 Marquette Court,Bolton Hill,12
+566,22745,Burlington Coat Factory,6172 Pennsylvania Park,Upton,3
+567,84879,Ben Franklin,34790 Menomonie Place,Bridgeview/Greenlawn,11
+568,21755,Tuesday Morning,3332 Oxford Park,Belair-Edison,4
+569,22633,Big Lots,7756 Bay Street,Brooklyn,10
+570,10002,T.J. Maxx,3 Hollow Ridge Court,Seton Business Park,6
+571,22726,Shopko,49 Mockingbird Drive,Millhill,7
+572,22752,Costco,747 Basil Pass,Baltimore Highlands,1
+573,22728,HomeSense,8 Nobel Avenue,Glenham-Belford,5
+574,21724,Kmart,65 Daystar Court,Cherry Hill,9
+575,22745,Burlington Coat Factory,04 Superior Junction,Upton,4
+576,84969,Dd's Discounts,68 Tennyson Place,Canton,12
+577,84879,Ben Franklin,90992 Forest Drive,Bridgeview/Greenlawn,1
+578,22960,Harbor Freight Tools,61 Corscot Alley,Loch Raven,12
+579,22749,Gabe's,4 Debra Court,Oliver,1
+580,21730,Fred's,3 Laurel Terrace,Pulaski Industrial Area,9
+581,84969,Dd's Discounts,256 Vera Terrace,Canton,9
+582,22728,HomeSense,78595 Southridge Drive,Glenham-Belford,2
+583,22726,Shopko,915 Crowley Circle,Millhill,12
+584,22632,HomeGoods,68 Hoffman Park,Hunting Ridge,12
+585,21730,Fred's,57 Gerald Street,Pulaski Industrial Area,11
+586,21035,Bargain Hunt,1642 Mccormick Trail,Mount Holly,6
+587,22912,Marshalls,5 Moulton Junction,Central Park Heights,12
+588,21755,Tuesday Morning,326 Waubesa Alley,Belair-Edison,8
+589,22633,Big Lots,2282 Waxwing Point,Brooklyn,8
+590,21883,Bi-Mart,718 Merchant Center,Washington Village,12
+591,22745,Burlington Coat Factory,23 Novick Crossing,Upton,6
+592,21791,Dollar Tree,6 Commercial Trail,Mondawmin,12
+593,21756,Roses,96 Gateway Parkway,Frankford,11
+594,84969,Dd's Discounts,8613 Arapahoe Terrace,Canton,3
+595,21777,Walmart,0 Cambridge Court,Sabina-Mattfeldt,4
+596,84879,Ben Franklin,24 Burning Wood Point,Bridgeview/Greenlawn,8
+597,21035,Bargain Hunt,15 Harbort Road,Mount Holly,3
+598,84029,Ocean State Job Lot,68 Di Loreto Park,Fells Point,5
+599,22748,Renys,6 Stone Corner Street,Port Covington,6
+600,22752,Costco,75 Waxwing Plaza,Baltimore Highlands,1
+601,22748,Renys,9 Kingsford Terrace,Port Covington,9
+602,22726,Shopko,64671 Hintze Center,Millhill,8
+603,37444,Ollie's Bargain Outlet,26 Sutherland Place,Charles Village,1
+604,22748,Renys,3767 Lotheville Pass,Port Covington,8
+605,22726,Shopko,4 Carioca Court,Millhill,1
+606,71053,Family Dollar,73 Jackson Street,Ashburton,8
+607,22752,Costco,86 Lakeland Trail,Baltimore Highlands,3
+608,22914,Five Below,6 Bunker Hill Park,Washington Village,1
+609,22623,Gordmans,93903 Maple Parkway,Hampden,4
+610,48187,Dollar General,498 Marquette Point,Glen Oaks,12
+611,21755,Tuesday Morning,0 Morningstar Street,Belair-Edison,1
+612,22727,Fred Meyer,40 Transport Alley,Charles Village,10
+613,21730,Fred's,5712 Portage Junction,Pulaski Industrial Area,6
+614,21730,Fred's,45 Forest Run Circle,Pulaski Industrial Area,11
+615,22748,Renys,4 Arizona Terrace,Port Covington,1
+616,21791,Dollar Tree,146 Dunning Avenue,Mondawmin,2
+617,21724,Kmart,9153 Luster Lane,Cherry Hill,10
+618,22726,Shopko,906 Melody Avenue,Millhill,5
+619,22623,Gordmans,7103 Truax Crossing,Hampden,2
+620,48187,Dollar General,09 Haas Drive,Glen Oaks,8
+621,22752,Costco,7 Starling Junction,Baltimore Highlands,2
+622,22748,Renys,0540 6th Street,Port Covington,6
+623,21791,Dollar Tree,927 Namekagon Center,Mondawmin,8
+624,22727,Fred Meyer,4440 Melrose Junction,Charles Village,4
+625,71053,Family Dollar,32352 Pond Pass,Ashburton,11
+626,22727,Fred Meyer,59550 Kim Park,Charles Village,6
+627,22749,Gabe's,4 Village Center,Oliver,3
+628,21724,Kmart,96 Amoth Hill,Cherry Hill,11
+629,22310,Meijer,1 Hovde Junction,Ellwood Park/Monument,11
+630,71053,Family Dollar,55 Ohio Street,Ashburton,1
+631,21777,Walmart,92 Del Sol Alley,Sabina-Mattfeldt,8
+632,22728,HomeSense,1857 Kennedy Alley,Glenham-Belford,10
+633,22310,Meijer,3375 Muir Street,Ellwood Park/Monument,4
+634,22913,Stein Mart,88 Oxford Hill,Gay Street,4
+635,22622,Target,9 Randy Road,Hoes Heights,12
+636,84969,Dd's Discounts,6362 Eastwood Court,Canton,11
+637,21883,Bi-Mart,02135 Lake View Pass,Washington Village,7
+638,22622,Target,831 Oxford Way,Hoes Heights,4
+639,21756,Roses,62 Park Meadow Point,Frankford,12
+640,22913,Stein Mart,52504 Northwestern Court,Gay Street,7
+641,22632,HomeGoods,29 7th Place,Hunting Ridge,1
+642,22960,Harbor Freight Tools,9404 Orin Circle,Loch Raven,4
+643,22913,Stein Mart,05 Upham Road,Gay Street,1
+644,22632,HomeGoods,2188 Fieldstone Park,Hunting Ridge,1
+645,21756,Roses,01 Anhalt Point,Frankford,10
+646,48187,Dollar General,96 Dovetail Lane,Glen Oaks,8
+647,10002,T.J. Maxx,791 Corben Lane,Seton Business Park,10
+648,22912,Marshalls,0925 Lerdahl Lane,Central Park Heights,8
+649,21754,Ross Stores,2 Forest Dale Plaza,Better Waverly,1
+650,21730,Fred's,9667 Troy Plaza,Pulaski Industrial Area,9
+651,22633,Big Lots,715 Debra Crossing,Brooklyn,2
+652,21777,Walmart,3719 Moose Alley,Sabina-Mattfeldt,1
+653,22728,HomeSense,09719 Canary Plaza,Glenham-Belford,10
+654,22633,Big Lots,39 Crest Line Terrace,Brooklyn,8
+655,22728,HomeSense,5 Fuller Center,Glenham-Belford,4
+656,84406,BJ's Wholesale Club,3659 Longview Drive,Morrell Park,11
+657,21730,Fred's,16386 Mayer Way,Pulaski Industrial Area,7
+658,21777,Walmart,369 Fairfield Pass,Sabina-Mattfeldt,4
+659,84879,Ben Franklin,375 Elgar Parkway,Bridgeview/Greenlawn,8
+660,84406,BJ's Wholesale Club,6532 Barnett Way,Morrell Park,8
+661,22632,HomeGoods,1809 Melrose Street,Hunting Ridge,8
+662,22726,Shopko,6 Reinke Point,Millhill,2
+663,84969,Dd's Discounts,26 Ryan Avenue,Canton,2
+664,21756,Roses,22 Carberry Crossing,Frankford,9
+665,84969,Dd's Discounts,8011 Monterey Center,Canton,10
+666,85123,National Stores,6 Old Gate Junction,Bolton Hill,4
+667,22914,Five Below,22 Bartillon Junction,Washington Village,3
+668,84406,BJ's Wholesale Club,9474 Rutledge Junction,Morrell Park,8
+669,21754,Ross Stores,43642 Erie Trail,Better Waverly,10
+670,21755,Tuesday Morning,822 Vernon Point,Belair-Edison,1
+671,22632,HomeGoods,0278 Manley Terrace,Hunting Ridge,6
+672,22913,Stein Mart,3133 Farragut Center,Gay Street,8
+673,85123,National Stores,1370 Scott Alley,Bolton Hill,12
+674,22749,Gabe's,01619 Sunfield Street,Oliver,3
+675,22310,Meijer,740 Blackbird Junction,Ellwood Park/Monument,4
+676,22914,Five Below,89458 Veith Center,Washington Village,4
+677,48187,Dollar General,78 Towne Place,Glen Oaks,7
+678,21730,Fred's,98132 Sugar Hill,Pulaski Industrial Area,1
+679,22310,Meijer,4706 Dorton Hill,Ellwood Park/Monument,12
+680,22632,HomeGoods,09458 Dovetail Place,Hunting Ridge,6
+681,84969,Dd's Discounts,442 Claremont Junction,Canton,5
+682,22623,Gordmans,0 Prairieview Point,Hampden,6
+683,37444,Ollie's Bargain Outlet,8 Glendale Drive,Charles Village,4
+684,22632,HomeGoods,520 Grim Pass,Hunting Ridge,8
+685,21791,Dollar Tree,1 American Ash Court,Mondawmin,9
+686,22726,Shopko,516 Village Crossing,Millhill,5
+687,84406,BJ's Wholesale Club,666 Hoffman Drive,Morrell Park,12
+688,22960,Harbor Freight Tools,2552 Cascade Drive,Loch Raven,1
+689,10002,T.J. Maxx,040 Dexter Street,Seton Business Park,6
+690,84029,Ocean State Job Lot,1 Novick Parkway,Fells Point,10
+691,22728,HomeSense,7 Rutledge Place,Glenham-Belford,8
+692,22748,Renys,4 Swallow Junction,Port Covington,1
+693,84406,BJ's Wholesale Club,20859 Debra Point,Morrell Park,10
+694,22913,Stein Mart,09391 Vernon Terrace,Gay Street,10
+695,84879,Ben Franklin,85959 Everett Lane,Bridgeview/Greenlawn,1
+696,22727,Fred Meyer,698 Anniversary Point,Charles Village,6
+697,22726,Shopko,67421 Village Junction,Millhill,11
+698,22310,Meijer,3 Monica Way,Ellwood Park/Monument,7
+699,21755,Tuesday Morning,0284 Kipling Terrace,Belair-Edison,12
+700,21883,Bi-Mart,5557 Tennessee Avenue,Washington Village,11
+701,22749,Gabe's,6398 Badeau Park,Oliver,7
+702,21755,Tuesday Morning,9234 Schlimgen Circle,Belair-Edison,7
+703,22310,Meijer,873 Northwestern Crossing,Ellwood Park/Monument,4
+704,48187,Dollar General,89 Ramsey Plaza,Glen Oaks,9
+705,21883,Bi-Mart,0 Meadow Vale Hill,Washington Village,3
+706,22745,Burlington Coat Factory,72331 Boyd Place,Upton,1
+707,22622,Target,0431 Aberg Center,Hoes Heights,3
+708,22632,HomeGoods,6236 Delladonna Parkway,Hunting Ridge,1
+709,22752,Costco,0157 Village Avenue,Baltimore Highlands,10
+710,22745,Burlington Coat Factory,49 Donald Parkway,Upton,8
+711,22310,Meijer,34 Bayside Center,Ellwood Park/Monument,7
+712,21777,Walmart,71 Wayridge Point,Sabina-Mattfeldt,4
+713,84029,Ocean State Job Lot,5377 Burrows Hill,Fells Point,2
+714,84969,Dd's Discounts,66 Ilene Place,Canton,12
+715,22726,Shopko,953 Cody Avenue,Millhill,12
+716,10002,T.J. Maxx,002 Karstens Crossing,Seton Business Park,1
+717,22632,HomeGoods,162 Farragut Point,Hunting Ridge,10
+718,48187,Dollar General,78740 Waxwing Circle,Glen Oaks,1
+719,22623,Gordmans,27 Norway Maple Terrace,Hampden,2
+720,85123,National Stores,18533 Harbort Road,Bolton Hill,12
+721,21730,Fred's,864 Ridgeway Pass,Pulaski Industrial Area,4
+722,22726,Shopko,4 Mcbride Way,Millhill,4
+723,21755,Tuesday Morning,49 Darwin Pass,Belair-Edison,7
+724,22960,Harbor Freight Tools,901 Gale Parkway,Loch Raven,4
+725,21756,Roses,54 Emmet Point,Frankford,3
+726,22748,Renys,7183 Fairview Alley,Port Covington,5
+727,21777,Walmart,881 Lakewood Gardens Point,Sabina-Mattfeldt,9
+728,37444,Ollie's Bargain Outlet,35 Kinsman Crossing,Charles Village,7
+729,22632,HomeGoods,70872 Northland Alley,Hunting Ridge,5
+730,21755,Tuesday Morning,7 Meadow Vale Alley,Belair-Edison,7
+731,22745,Burlington Coat Factory,3 Arapahoe Plaza,Upton,8
+732,22726,Shopko,8 Fairfield Hill,Millhill,8
+733,22633,Big Lots,59492 Macpherson Center,Brooklyn,4
+734,84879,Ben Franklin,05 Graceland Court,Bridgeview/Greenlawn,3
+735,21791,Dollar Tree,12 Waubesa Park,Mondawmin,5
+736,22310,Meijer,976 Rusk Junction,Ellwood Park/Monument,9
+737,21730,Fred's,2 Buena Vista Drive,Pulaski Industrial Area,12
+738,71053,Family Dollar,81 Milwaukee Street,Ashburton,2
+739,22913,Stein Mart,01 Mallory Drive,Gay Street,8
+740,21756,Roses,64 Hazelcrest Junction,Frankford,11
+741,84879,Ben Franklin,4653 Ludington Court,Bridgeview/Greenlawn,7
+742,22749,Gabe's,4104 Kings Drive,Oliver,10
+743,22728,HomeSense,8 Sommers Way,Glenham-Belford,11
+744,22310,Meijer,3776 Rigney Road,Ellwood Park/Monument,9
+745,22633,Big Lots,4650 Linden Road,Brooklyn,3
+746,21791,Dollar Tree,3867 Arapahoe Hill,Mondawmin,4
+747,22745,Burlington Coat Factory,974 Mallory Alley,Upton,1
+748,21791,,7 Fairfield Drive,Mondawmin,1
+749,21754,Ross Stores,1891 Mallory Terrace,Better Waverly,6
+750,22632,HomeGoods,251 Mallard Trail,Hunting Ridge,3
+751,84879,Ben Franklin,30 Columbus Crossing,Bridgeview/Greenlawn,12
+752,22632,HomeGoods,504 Dorton Parkway,Hunting Ridge,6
+753,85123,National Stores,48605 Holmberg Park,Bolton Hill,7
+754,22727,Fred Meyer,2 Butternut Pass,Charles Village,12
+755,22960,Harbor Freight Tools,68238 Pierstorff Hill,Loch Raven,5
+756,22726,Shopko,008 Manley Pass,Millhill,8
+757,22310,Meijer,03754 Northport Park,Ellwood Park/Monument,7
+758,21730,Fred's,2564 Buell Park,Pulaski Industrial Area,10
+759,22912,Marshalls,05 Judy Terrace,Central Park Heights,8
+760,10002,T.J. Maxx,82 Warbler Circle,Seton Business Park,12
+761,22914,Five Below,3089 Porter Drive,Washington Village,3
+762,21730,Fred's,06 High Crossing Street,Pulaski Industrial Area,5
+763,22632,HomeGoods,811 Rockefeller Avenue,Hunting Ridge,5
+764,85123,National Stores,0 Cambridge Drive,Bolton Hill,12
+765,22728,HomeSense,52636 Roth Place,Glenham-Belford,2
+766,84406,BJ's Wholesale Club,849 Upham Road,Morrell Park,1
+767,22726,Shopko,79 Bayside Point,Millhill,8
+768,22913,Stein Mart,4 Rockefeller Point,Gay Street,4
+769,84406,BJ's Wholesale Club,27 Manitowish Terrace,Morrell Park,3
+770,22310,Meijer,117 Jay Lane,Ellwood Park/Monument,7
+771,21791,Dollar Tree,05 Schurz Circle,Mondawmin,6
+772,85123,National Stores,5883 Mcbride Alley,Bolton Hill,7
+773,84879,Ben Franklin,04357 Eliot Terrace,Bridgeview/Greenlawn,3
+774,22726,Shopko,84 Starling Junction,Millhill,10
+775,85123,National Stores,208 Sachs Plaza,Bolton Hill,9
+776,84879,Ben Franklin,580 Clove Avenue,Bridgeview/Greenlawn,8
+777,22912,Marshalls,3 Glendale Point,Central Park Heights,1
+778,22633,Big Lots,1 La Follette Drive,Brooklyn,4
+779,21724,Kmart,06 3rd Crossing,Cherry Hill,2
+780,22913,Stein Mart,26 Bobwhite Alley,Gay Street,8
+781,37444,Ollie's Bargain Outlet,6 Hoard Junction,Charles Village,3
+782,22913,Stein Mart,104 Marcy Hill,Gay Street,6
+783,22726,Shopko,0165 Forest Run Plaza,Millhill,5
+784,10002,T.J. Maxx,6 Shelley Parkway,Seton Business Park,3
+785,48187,Dollar General,22138 Lukken Point,Glen Oaks,3
+786,21035,Bargain Hunt,077 School Pass,Mount Holly,2
+787,21724,Kmart,410 Maryland Lane,Cherry Hill,9
+788,71053,Family Dollar,681 Hovde Drive,Ashburton,2
+789,22748,Renys,63739 Transport Crossing,Port Covington,11
+790,22622,Target,75984 Lerdahl Terrace,Hoes Heights,7
+791,21730,Fred's,20911 Pond Road,Pulaski Industrial Area,6
+792,21791,Dollar Tree,2 Katie Point,Mondawmin,2
+793,48187,Dollar General,99 Independence Street,Glen Oaks,3
+794,85123,National Stores,18 Vera Circle,Bolton Hill,6
+795,22623,Gordmans,03669 7th Alley,Hampden,9
+796,22633,Big Lots,1943 Sloan Circle,Brooklyn,6
+797,21754,Ross Stores,0 Monica Road,Better Waverly,8
+798,84969,Dd's Discounts,8 Scott Crossing,Canton,3
+799,22749,Gabe's,2 Emmet Place,Oliver,8
+800,22310,Meijer,3613 Columbus Road,Ellwood Park/Monument,7
+801,22912,Marshalls,31 Vera Junction,Central Park Heights,8
+802,22727,Fred Meyer,7 Chinook Drive,Charles Village,12
+803,22912,Marshalls,1 Ronald Regan Avenue,Central Park Heights,4
+804,22752,Costco,1835 Harper Parkway,Baltimore Highlands,10
+805,22726,Shopko,70 Shopko Park,Millhill,1
+806,22960,Harbor Freight Tools,07 Ridgeview Pass,Loch Raven,10
+807,22622,Target,335 Norway Maple Junction,Hoes Heights,12
+808,84879,Ben Franklin,49 Lighthouse Bay Lane,Bridgeview/Greenlawn,5
+809,21777,Walmart,0 Fairview Point,Sabina-Mattfeldt,7
+810,21755,Tuesday Morning,6246 Sugar Pass,Belair-Edison,10
+811,22912,Marshalls,38 Mosinee Pass,Central Park Heights,1
+812,84969,Dd's Discounts,274 Lukken Crossing,Canton,12
+813,22623,Gordmans,0 Manley Junction,Hampden,11
+814,21035,Bargain Hunt,51 Sunbrook Plaza,Mount Holly,3
+815,71053,Family Dollar,6 Continental Alley,Ashburton,8
+816,22623,Gordmans,324 Northport Center,Hampden,10
+817,21791,Dollar Tree,3987 Hallows Place,Mondawmin,4
+818,22748,Renys,9833 Marcy Lane,Port Covington,4
+819,37444,Ollie's Bargain Outlet,162 Laurel Street,Charles Village,3
+820,10002,T.J. Maxx,926 La Follette Parkway,Seton Business Park,8
+821,22748,Renys,759 Sutherland Terrace,Port Covington,9
+822,21755,Tuesday Morning,5 Fallview Alley,Belair-Edison,9
+823,84879,Ben Franklin,44 Morning Point,Bridgeview/Greenlawn,8
+824,71053,Family Dollar,739 Kim Drive,Ashburton,3
+825,22745,Burlington Coat Factory,789 Sachtjen Road,Upton,11
+826,10002,T.J. Maxx,330 Ludington Junction,Seton Business Park,9
+827,84029,Ocean State Job Lot,89551 Waywood Junction,Fells Point,3
+828,22623,Gordmans,0 Vermont Parkway,Hampden,4
+829,85123,National Stores,178 Derek Crossing,Bolton Hill,6
+830,84029,Ocean State Job Lot,5 Golf Center,Fells Point,7
+831,22913,Stein Mart,782 Bobwhite Drive,Gay Street,10
+832,85123,National Stores,968 Nelson Plaza,Bolton Hill,2
+833,21883,Bi-Mart,2 Stoughton Place,Washington Village,8
+834,85123,National Stores,57 Anniversary Crossing,Bolton Hill,8
+835,85123,National Stores,0 Butterfield Hill,Bolton Hill,7
+836,10002,T.J. Maxx,3068 Cardinal Park,Seton Business Park,4
+837,21755,Tuesday Morning,22591 Pine View Terrace,Belair-Edison,6
+838,84406,BJ's Wholesale Club,42 Mitchell Way,Morrell Park,11
+839,21883,Bi-Mart,36439 Brickson Park Point,Washington Village,2
+840,84406,BJ's Wholesale Club,0 Stuart Crossing,Morrell Park,8
+841,22749,Gabe's,64 Susan Parkway,Oliver,1
+842,71053,Family Dollar,357 Kings Street,Ashburton,2
+843,21754,Ross Stores,8 Dryden Park,Better Waverly,2
+844,85123,National Stores,0 Claremont Park,Bolton Hill,8
+845,22310,Meijer,42 Morrow Alley,Ellwood Park/Monument,1
+846,21730,Fred's,98 Lyons Pass,Pulaski Industrial Area,2
+847,22310,Meijer,9437 Rowland Alley,Ellwood Park/Monument,6
+848,10002,T.J. Maxx,9 Anhalt Center,Seton Business Park,5
+849,21791,Dollar Tree,9382 Stephen Trail,Mondawmin,2
+850,22912,Marshalls,59834 Forster Junction,Central Park Heights,4
+851,21724,Kmart,88136 Menomonie Terrace,Cherry Hill,3
+852,22726,Shopko,3351 John Wall Road,Millhill,1
+853,22752,Costco,383 Briar Crest Way,Baltimore Highlands,12
+854,21730,Fred's,3 Arizona Street,Pulaski Industrial Area,11
+855,22913,Stein Mart,4 New Castle Circle,Gay Street,12
+856,84969,Dd's Discounts,9610 Meadow Valley Way,Canton,3
+857,22632,HomeGoods,539 Merry Junction,Hunting Ridge,8
+858,21724,Kmart,94079 Warner Plaza,Cherry Hill,6
+859,22913,Stein Mart,4 2nd Hill,Gay Street,3
+860,22727,Fred Meyer,13298 Petterle Place,Charles Village,8
+861,22912,Marshalls,56063 La Follette Parkway,Central Park Heights,10
+862,21035,Bargain Hunt,75 Park Meadow Crossing,Mount Holly,8
+863,84406,BJ's Wholesale Club,65905 Superior Plaza,Morrell Park,2
+864,21755,Tuesday Morning,32377 Manufacturers Center,Belair-Edison,1
+865,85123,National Stores,6 Delladonna Street,Bolton Hill,8
+866,22727,Fred Meyer,878 Corry Circle,Charles Village,2
+867,21756,Roses,8427 Del Sol Lane,Frankford,2
+868,84969,Dd's Discounts,0 Elgar Road,Canton,11
+869,21724,Kmart,9306 Glacier Hill Terrace,Cherry Hill,7
+870,21724,Kmart,83079 Sutherland Pass,Cherry Hill,12
+871,48187,Dollar General,49847 Petterle Circle,Glen Oaks,7
+872,21755,Tuesday Morning,31 Killdeer Crossing,Belair-Edison,12
+873,48187,Dollar General,48816 Bartillon Place,Glen Oaks,11
+874,21035,Bargain Hunt,8 Glacier Hill Parkway,Mount Holly,11
+875,22752,Costco,77718 Randy Court,Baltimore Highlands,7
+876,84029,Ocean State Job Lot,83 Del Sol Crossing,Fells Point,3
+877,71053,Family Dollar,771 Gerald Way,Ashburton,11
+878,84879,Ben Franklin,07 Waywood Road,Bridgeview/Greenlawn,8
+879,22960,Harbor Freight Tools,7196 Morning Hill,Loch Raven,4
+880,37444,Ollie's Bargain Outlet,2377 Coolidge Road,Charles Village,7
+881,22749,Gabe's,77 Waubesa Lane,Oliver,6
+882,21791,Dollar Tree,81978 Stoughton Parkway,Mondawmin,10
+883,22622,Target,01 Delladonna Terrace,Hoes Heights,6
+884,21791,Dollar Tree,22576 Sullivan Court,Mondawmin,12
+885,22960,Harbor Freight Tools,908 Iowa Terrace,Loch Raven,2
+886,22622,Target,25 Norway Maple Plaza,Hoes Heights,11
+887,22728,HomeSense,4 Pond Terrace,Glenham-Belford,11
+888,22728,HomeSense,25258 Westport Junction,Glenham-Belford,10
+889,22912,Marshalls,9 Merry Crossing,Central Park Heights,2
+890,22745,Burlington Coat Factory,5278 La Follette Hill,Upton,11
+891,84879,Ben Franklin,794 Armistice Plaza,Bridgeview/Greenlawn,3
+892,22913,Stein Mart,31458 Calypso Alley,Gay Street,2
+893,22727,Fred Meyer,9804 American Ash Pass,Charles Village,9
+894,21883,Bi-Mart,0785 Kensington Plaza,Washington Village,10
+895,22623,Gordmans,2230 Evergreen Pass,Hampden,1
+896,22726,Shopko,17 Gateway Drive,Millhill,5
+897,21791,Dollar Tree,082 Karstens Plaza,Mondawmin,6
+898,22912,Marshalls,0140 American Park,Central Park Heights,10
+899,84406,BJ's Wholesale Club,0037 Victoria Crossing,Morrell Park,9
+900,22914,Five Below,8971 Di Loreto Point,Washington Village,2
+901,22726,Shopko,40 Graedel Hill,Millhill,1
+902,21035,Bargain Hunt,2487 Hovde Terrace,Mount Holly,1
+903,22914,Five Below,223 Sheridan Trail,Washington Village,10
+904,22960,Harbor Freight Tools,9230 Park Meadow Hill,Loch Raven,10
+905,21791,Dollar Tree,1 Eastlawn Parkway,Mondawmin,5
+906,48187,Dollar General,34 Cascade Plaza,Glen Oaks,11
+907,84969,Dd's Discounts,41701 4th Place,Canton,4
+908,71053,Family Dollar,92 Vera Parkway,Ashburton,5
+909,21883,Bi-Mart,285 Harbort Center,Washington Village,6
+910,21756,Roses,3735 Lien Drive,Frankford,2
+911,22913,Stein Mart,5 Orin Hill,Gay Street,12
+912,21035,Bargain Hunt,5 Vermont Crossing,Mount Holly,6
+913,48187,Dollar General,5693 Bultman Road,Glen Oaks,7
+914,22913,Stein Mart,2 Esch Park,Gay Street,7
+915,21777,Walmart,1311 Jenna Parkway,Sabina-Mattfeldt,6
+916,22749,Gabe's,8 Carey Court,Oliver,3
+917,21724,Kmart,532 Express Crossing,Cherry Hill,10
+918,22913,Stein Mart,4 Swallow Center,Gay Street,12
+919,22726,Shopko,2 Rockefeller Crossing,Millhill,9
+920,84029,Ocean State Job Lot,3 1st Court,Fells Point,5
+921,22623,Gordmans,1 Bartelt Road,Hampden,5
+922,22752,Costco,23 Ryan Lane,Baltimore Highlands,8
+923,10002,T.J. Maxx,24 Summit Center,Seton Business Park,7
+924,84406,BJ's Wholesale Club,759 David Point,Morrell Park,6
+925,22960,Harbor Freight Tools,58332 Talmadge Avenue,Loch Raven,4
+926,21791,Dollar Tree,67808 Spaight Pass,Mondawmin,12
+927,21791,Dollar Tree,76 Maywood Court,Mondawmin,6
+928,84029,Ocean State Job Lot,24347 Stone Corner Road,Fells Point,1
+929,22912,Marshalls,4 Katie Trail,Central Park Heights,10
+930,21724,Kmart,342 Green Drive,Cherry Hill,8
+931,37444,Ollie's Bargain Outlet,988 Michigan Avenue,Charles Village,8
+932,37444,Ollie's Bargain Outlet,5 Independence Crossing,Charles Village,6
+933,21730,Fred's,920 Larry Parkway,Pulaski Industrial Area,6
+934,22727,Fred Meyer,5 Magdeline Street,Charles Village,3
+935,21730,Fred's,4 Onsgard Way,Pulaski Industrial Area,8
+936,21777,Walmart,867 Fallview Junction,Sabina-Mattfeldt,5
+937,84969,Dd's Discounts,48 Bay Road,Canton,8
+938,21755,Tuesday Morning,08492 Vera Way,Belair-Edison,12
+939,21035,Bargain Hunt,41269 Delladonna Drive,Mount Holly,10
+940,22912,Marshalls,8 Lukken Terrace,Central Park Heights,6
+941,21755,Tuesday Morning,9952 Lindbergh Alley,Belair-Edison,2
+942,84029,Ocean State Job Lot,038 Ridgeway Circle,Fells Point,9
+943,21755,Tuesday Morning,59 Porter Crossing,Belair-Edison,2
+944,21756,Roses,52 Reinke Circle,Frankford,2
+945,21883,Bi-Mart,8614 Ridgeway Center,Washington Village,8
+946,48187,Dollar General,28 Sutteridge Alley,Glen Oaks,10
+947,22748,Renys,12101 Pawling Junction,Port Covington,7
+948,21883,Bi-Mart,6 Dottie Circle,Washington Village,1
+949,22728,HomeSense,0 Division Avenue,Glenham-Belford,2
+950,22633,Big Lots,715 Del Sol Road,Brooklyn,2
+951,10002,T.J. Maxx,10 Cascade Drive,Seton Business Park,12
+952,84406,BJ's Wholesale Club,441 Helena Place,Morrell Park,9
+953,22622,Target,02193 Mifflin Avenue,Hoes Heights,1
+954,21791,Dollar Tree,53247 Arkansas Parkway,Mondawmin,6
+955,84406,BJ's Wholesale Club,76 Pine View Plaza,Morrell Park,5
+956,48187,Dollar General,880 Fairview Avenue,Glen Oaks,5
+957,71053,Family Dollar,72 Gulseth Parkway,Ashburton,4
+958,21756,Roses,56067 Golf Way,Frankford,12
+959,48187,Dollar General,6531 Dapin Plaza,Glen Oaks,10
+960,22728,HomeSense,5 Packers Circle,Glenham-Belford,4
+961,22749,Gabe's,4 Harper Hill,Oliver,11
+962,22749,Gabe's,759 Gerald Circle,Oliver,12
+963,22913,Stein Mart,0845 Goodland Street,Gay Street,10
+964,21730,Fred's,42 Summit Alley,Pulaski Industrial Area,6
+965,22745,Burlington Coat Factory,57786 Prairieview Alley,Upton,7
+966,22623,Gordmans,168 Tomscot Junction,Hampden,4
+967,10002,T.J. Maxx,5 Hanson Court,Seton Business Park,10
+968,22726,Shopko,6359 Alpine Street,Millhill,2
+969,21777,Walmart,660 Esker Alley,Sabina-Mattfeldt,5
+970,22752,Costco,96487 Buena Vista Road,Baltimore Highlands,11
+971,71053,Family Dollar,27 South Terrace,Ashburton,6
+972,21730,Fred's,5 Waxwing Terrace,Pulaski Industrial Area,2
+973,22726,Shopko,68988 Mitchell Circle,Millhill,10
+974,21756,Roses,88 Annamark Center,Frankford,10
+975,22622,Target,1 Lien Parkway,Hoes Heights,5
+976,21777,Walmart,93318 Cascade Park,Sabina-Mattfeldt,1
+977,48187,Dollar General,77 West Lane,Glen Oaks,9
+978,22622,Target,0964 Schmedeman Drive,Hoes Heights,3
+979,21777,Walmart,29193 Lunder Lane,Sabina-Mattfeldt,2
+980,71053,Family Dollar,53033 Clyde Gallagher Crossing,Ashburton,8
+981,10002,T.J. Maxx,6 Mayfield Terrace,Seton Business Park,10
+982,22914,Five Below,4703 Blue Bill Park Point,Washington Village,11
+983,22622,Target,302 Sundown Way,Hoes Heights,5
+984,22622,Target,50768 Karstens Street,Hoes Heights,4
+985,21791,Dollar Tree,84 Superior Drive,Mondawmin,12
+986,37444,Ollie's Bargain Outlet,40 Blue Bill Park Pass,Charles Village,9
+987,10002,T.J. Maxx,98 Lake View Junction,Seton Business Park,1
+988,84879,Ben Franklin,09220 John Wall Point,Bridgeview/Greenlawn,12
+989,85123,National Stores,0 Anthes Road,Bolton Hill,8
+990,21883,Bi-Mart,2 Schmedeman Park,Washington Village,10
+991,21756,Roses,9 Randy Road,Frankford,3
+992,21755,Tuesday Morning,1557 Boyd Street,Belair-Edison,6
+993,21777,Walmart,59238 Shopko Terrace,Sabina-Mattfeldt,6
+994,22749,Gabe's,3 Tennyson Trail,Oliver,9
+995,21724,Kmart,9 Morningstar Parkway,Cherry Hill,2
+996,21777,Walmart,7 Roxbury Place,Sabina-Mattfeldt,3
+997,10002,T.J. Maxx,9476 Morrow Trail,Seton Business Park,12
+998,22745,Burlington Coat Factory,3029 Hollow Ridge Place,Upton,6
+999,21755,Tuesday Morning,496 Dapin Hill,Belair-Edison,6
+1000,22633,Big Lots,99 Granby Place,Brooklyn,2

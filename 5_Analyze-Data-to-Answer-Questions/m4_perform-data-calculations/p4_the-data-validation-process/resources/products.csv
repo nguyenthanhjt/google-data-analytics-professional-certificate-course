@@ -1,0 +1,1002 @@
+ProductId,ProductName,Supplier,ProductCost
+1,Chocolate Bar - Smarties,National Stores,1.25
+2,Pepper - Red Bell,Family Dollar,2.99
+3,Chickensplit Half,BJ's Wholesale Club,0.17
+4,Zucchini - Green,Ocean State Job Lot,5.28
+5,"Cod - Salted, Boneless",Ollie's Bargain Outlet,0.78
+6,Flower - Dish Garden,BJ's Wholesale Club,0.37
+7,"Beef - Rouladin, Sliced",BJ's Wholesale Club,1.55
+8,"Cheese - Brie, Cups 125g",Costco,1.49
+9,Clam - Cherrystone,Fred's,2.33
+10,Coffee Cup 8oz 5338cd,Big Lots,0.1
+11,Sprouts - Alfalfa,HomeGoods,0.88
+12,Flour - Semolina,HomeGoods,2.94
+13,Monkfish - Fresh,Ben Franklin,1.22
+14,Pepper - Green Thai,Ollie's Bargain Outlet,1.52
+15,Oranges,Burlington Coat Factory,5.76
+16,"Beef - Tenderlion, Center Cut",Ocean State Job Lot,1.05
+17,"Octopus - Baby, Cleaned",Renys,0.34
+18,Rootbeer,Gabe's,1.03
+19,Water - Tonic,Meijer,0.14
+20,Longos - Chicken Caeser Salad,HomeGoods,3.87
+21,Hummus - Spread,Dd's Discounts,2.45
+22,Curry Powder,Ollie's Bargain Outlet,1.56
+23,"Bread - Crumbs, Bulk",Gordmans,0.43
+24,Lamb - Loin Chops,Target,1.79
+25,Coffee Cup 16oz Foam,Family Dollar,4.83
+26,Towel Dispenser,Fred's,0.36
+27,Muskox - French Rack,Ross Stores,0.59
+28,Soup - Campbells Asian Noodle,Tuesday Morning,0.35
+29,Soup - Base Broth Beef,Walmart,2.51
+30,Cake - Lemon Chiffon,Dollar General,2.2
+31,Onions - Red Pearl,Ben Franklin,0.96
+32,Green Tea Refresher,Dd's Discounts,2.54
+33,"Rum - Coconut, Malibu",Ben Franklin,1.84
+34,Bagel - Everything,Dd's Discounts,2.27
+35,Trueblue - Blueberry 12x473ml,Harbor Freight Tools,2.22
+36,Cheese - St. Andre,Family Dollar,2.42
+37,Wine - Mondavi Coastal Private,National Stores,0.88
+38,Rice Wine - Aji Mirin,Gabe's,1.23
+39,"Vodka - Hot, Lnferno",Renys,7.08
+40,Tarragon - Fresh,Dollar General,4.23
+41,Lobster - Cooked,Harbor Freight Tools,0.79
+42,"Lemonade - Kiwi, 591 Ml",Stein Mart,4.24
+43,Crackers Cheez It,Gordmans,1.61
+44,Pomello,Marshalls,1.36
+45,Rabbit - Whole,Burlington Coat Factory,3.2
+46,Wine - Vovray Sec Domaine Huet,Stein Mart,2.01
+47,Monkfish - Fresh,Five Below,3.26
+48,Appetizer - Escargot Puff,Dd's Discounts,0.94
+49,Mustard Prepared,Roses,0.53
+50,Sherry - Dry,HomeSense,2.36
+51,Wine - Penfolds Koonuga Hill,HomeGoods,2.18
+52,"Sparkling Wine - Rose, Freixenet",Marshalls,6.05
+53,Peppercorns - Green,Fred Meyer,1.76
+54,"Arctic Char - Fresh, Whole",Shopko,2.25
+55,Cilantro / Coriander - Fresh,Costco,2.56
+56,Ecolab - Solid Fusion,National Stores,3.99
+57,Spinach - Frozen,Ross Stores,0.6
+58,Potatoes - Mini White 3 Oz,Big Lots,1.21
+59,Beets - Mini Golden,Family Dollar,1.76
+60,"Lemonade - Strawberry, 591 Ml",Renys,1.81
+61,"Rum - Cream, Amarula",Dd's Discounts,2.52
+62,Wheat - Soft Kernal Of Wheat,Tuesday Morning,2.09
+63,Bulgar,Renys,3.48
+64,"Pasta - Orzo, Dry",Kmart,1.31
+65,Tea - Lemon Scented,Meijer,1.04
+66,Tray - 12in Rnd Blk,Dollar General,0.78
+67,Peppercorns - Pink,Marshalls,6.38
+68,Sauce - Vodka Blush,Roses,2.27
+69,"Appetizer - Mini Egg Roll, Shrimp",Walmart,2.13
+70,Cheese - Fontina,BJ's Wholesale Club,0.27
+71,Cattail Hearts,Ollie's Bargain Outlet,5.49
+72,Napkin White - Starched,Target,1.65
+73,Pork - Ham Hocks - Smoked,Harbor Freight Tools,2.97
+74,"Lamb - Whole Head Off,nz",Bi-Mart,0.51
+75,Filo Dough,BJ's Wholesale Club,3.24
+76,Jerusalem Artichoke,Marshalls,0.16
+77,Cookie Dough - Chunky,Shopko,4.04
+78,Wine - Semi Dry Riesling Vineland,Meijer,1.86
+79,Spice - Pepper Portions,T.J. Maxx,2.1
+80,Aspic - Amber,Target,2.88
+81,Leeks - Large,Ben Franklin,2.42
+82,Easy Off Oven Cleaner,HomeGoods,0.56
+83,White Baguette,Fred Meyer,1.21
+84,Petit Baguette,Marshalls,2.1
+85,Chives - Fresh,Roses,2.24
+86,Tea - Herbal Sweet Dreams,National Stores,0.04
+87,Dasheen,T.J. Maxx,1.4
+88,"Nut - Walnut, Chopped",Ollie's Bargain Outlet,7.85
+89,Pop Shoppe Cream Soda,Ross Stores,9.62
+90,Island Oasis - Magarita Mix,Harbor Freight Tools,2.82
+91,Chicken - Leg / Back Attach,Fred Meyer,0.59
+92,Loquat,Costco,1.43
+93,"Wine - Red, Black Opal Shiraz",Gordmans,5.28
+94,Vacuum Bags 12x16,Big Lots,1.59
+95,Bag - Clear 7 Lb,Gordmans,0.55
+96,"Lemonade - Strawberry, 591 Ml",Stein Mart,1.56
+97,"Soup - Beef Conomme, Dry",T.J. Maxx,3.67
+98,Appetizer - Veg Assortment,Burlington Coat Factory,1.55
+99,Cookies - Englishbay Wht,Kmart,8.84
+100,Coffee - Decafenated,Dd's Discounts,2.17
+101,Fork - Plastic,BJ's Wholesale Club,0.54
+102,Foie Gras,HomeGoods,0.13
+103,Country Roll,Roses,1.16
+104,Sauerkraut,Meijer,2.82
+105,Hagen Daza - Dk Choocolate,Gabe's,1.74
+106,Red Currants,Shopko,1.25
+107,Cheese - Valancey,Family Dollar,4.92
+108,Pepper - Green Thai,T.J. Maxx,1.78
+109,Tomato - Plum With Basil,Gordmans,0.41
+110,Snapple Raspberry Tea,Burlington Coat Factory,2.29
+111,Rice Paper,Five Below,1.59
+112,Pastry - French Mini Assorted,Family Dollar,1.49
+113,Lobster - Cooked,Ocean State Job Lot,7.03
+114,Wine - Rubyport,Ben Franklin,2.64
+115,"Lemonade - Kiwi, 591 Ml",Roses,3.44
+116,"Salmon - Atlantic, No Skin",Meijer,1.79
+117,Flour - Rye,Ben Franklin,11.39
+118,Oil - Sunflower,Roses,2.45
+119,Tomatillo,Bi-Mart,1.09
+120,Flour - Chickpea,Shopko,0.39
+121,Soup - Campbells Chili,Fred Meyer,0.51
+122,Cheese - Marble,Dollar General,2.66
+123,"Capon - Breast, Double, Wing On",Roses,3.3
+124,Pernod,Five Below,4.74
+125,"Pasta - Orzo, Dry",Roses,0.28
+126,Sauce - Caesar Dressing,Family Dollar,1.68
+127,Chicken - White Meat With Tender,Marshalls,0.96
+128,"Yogurt - Raspberry, 175 Gr",Dollar Tree,2.24
+129,Compound - Orange,Dd's Discounts,0.81
+130,Calypso - Lemonade,Big Lots,0.22
+131,Sesame Seed Black,Dollar Tree,2.26
+132,"Pork - Bacon,back Peameal",HomeSense,3.35
+133,Allspice - Jamaican,Ollie's Bargain Outlet,0.71
+134,Coffee Cup 12oz 5342cd,Bargain Hunt,3.35
+135,Bread - Sour Batard,Meijer,0.81
+136,Bandage - Fexible 1x3,Family Dollar,4.17
+137,Seaweed Green Sheets,Five Below,2.28
+138,Beef - Montreal Smoked Brisket,Big Lots,4.59
+139,Lemon Pepper,Shopko,0.68
+140,Wine - Delicato Merlot,T.J. Maxx,1.14
+141,"Juice - Orange, 341 Ml",Roses,2.74
+142,Crab Brie In Phyllo,Family Dollar,2.02
+143,Muffin - Bran Ind Wrpd,BJ's Wholesale Club,0.39
+144,Kellogs Special K Cereal,Gabe's,2.52
+145,Ecolab - Mikroklene 4/4 L,Kmart,1.17
+146,Cabbage - Nappa,Roses,0.12
+147,Energy Drink Bawls,Ross Stores,0.95
+148,"Juice - Apple, 341 Ml",Dd's Discounts,5.42
+149,Paper - Brown Paper Mini Cups,HomeSense,8.07
+150,Cookies Almond Hazelnut,Bi-Mart,0.43
+151,"Chilli Paste, Ginger Garlic",Dd's Discounts,0.34
+152,Maple Syrup,Family Dollar,4.31
+153,Soup Campbells Beef With Veg,HomeGoods,1.98
+154,Milk - Buttermilk,Ross Stores,2.25
+155,"Soup - French Onion, Dry",Burlington Coat Factory,3.99
+156,Chicken - Tenderloin,Family Dollar,1.91
+157,Beer - Heinekin,Ben Franklin,0.28
+158,Browning Caramel Glace,Big Lots,1.61
+159,Tobasco Sauce,Bi-Mart,0.51
+160,Coffee - Decaffeinato Coffee,Big Lots,7.15
+161,Cheese - Brick With Pepper,Walmart,1.31
+162,Chip - Potato Dill Pickle,Stein Mart,1.92
+163,Peppercorns - Green,Costco,2.2
+164,Island Oasis - Peach Daiquiri,Meijer,0.7
+165,Sage Derby,Ocean State Job Lot,4
+166,"Pork - Bacon, Sliced",Target,1.52
+167,Goat - Whole Cut,Ollie's Bargain Outlet,2.38
+168,"Tart Shells - Sweet, 3",Gabe's,5.61
+169,Bay Leaf Fresh,Roses,2.2
+170,"Cheese - Brie,danish",HomeSense,3.24
+171,Longos - Cheese Tortellini,Walmart,4.4
+172,Sunflower Seed Raw,Gabe's,2.23
+173,Beef - Tenderloin Tails,Bargain Hunt,2.05
+174,Paper Towel Touchless,Target,2.63
+175,Muffin Mix - Carrot,Ben Franklin,0.34
+176,Sambuca Cream,Roses,0.1
+177,Plasticforkblack,Renys,3.12
+178,"Cheese - Brie,danish",T.J. Maxx,5.64
+179,"Pasta - Detalini, White, Fresh",Tuesday Morning,2.11
+180,Napkin White,Ocean State Job Lot,2.14
+181,Cup Translucent 9 Oz,Walmart,0.28
+182,"Juice - Apple, 500 Ml",Family Dollar,4.15
+183,Wine - Kwv Chenin Blanc South,Ben Franklin,1.56
+184,"Beets - Candy Cane, Organic",Ollie's Bargain Outlet,5.26
+185,Table Cloth 54x72 Colour,Bargain Hunt,2.96
+186,Flour - Teff,BJ's Wholesale Club,0.51
+187,Cheese - Pont Couvert,Shopko,4.84
+188,Chocolate Liqueur - Godet White,Burlington Coat Factory,4.51
+189,Brandy Cherry - Mcguinness,Shopko,3.05
+190,"Lemonade - Island Tea, 591 Ml",Shopko,1.07
+191,Loquat,Ollie's Bargain Outlet,0.19
+192,Beer - Blue,Walmart,3.33
+193,"Mushroom - Morels, Dry",Dollar Tree,1.23
+194,Pears - Bartlett,Roses,0.86
+195,"Tart Shells - Sweet, 4",Ocean State Job Lot,0.02
+196,"Wine - Red, Black Opal Shiraz",Walmart,1.43
+197,Yogurt - Assorted Pack,Renys,1.74
+198,Shark - Loin,Kmart,1.49
+199,Apricots - Dried,Costco,1.64
+200,Scampi Tail,Five Below,2.81
+201,Kolrabi,Fred Meyer,0.55
+202,"Garlic - Primerba, Paste",Marshalls,1.78
+203,"Pork - Tenderloin, Fresh",Tuesday Morning,1.59
+204,"Soup - Knorr, Country Bean",Ollie's Bargain Outlet,0.54
+205,Shichimi Togarashi Peppeers,Ocean State Job Lot,0.65
+206,Shortbread - Cookie Crumbs,T.J. Maxx,2.38
+207,Shrimp - Tiger 21/25,Ollie's Bargain Outlet,1.24
+208,Ice Cream Bar - Drumstick,Ocean State Job Lot,2.39
+209,Island Oasis - Ice Cream Mix,Ollie's Bargain Outlet,0.31
+210,Ice Cream Bar - Hagen Daz,Fred's,1.34
+211,Squash - Guords,Roses,0.58
+212,Tomato - Peeled Italian Canned,Meijer,1.64
+213,Chips - Doritos,Shopko,1.96
+214,Nantucket - 518ml,HomeSense,0.43
+215,Vinegar - Sherry,Bi-Mart,0.52
+216,"Beets - Candy Cane, Organic",Dollar Tree,1.02
+217,"Tarragon - Primerba, Paste",Marshalls,1.32
+218,Salt And Pepper Mix - White,BJ's Wholesale Club,0.08
+219,Whmis - Spray Bottle Trigger,Gabe's,1.58
+220,Vodka - Moskovskaya,Burlington Coat Factory,3.01
+221,Syrup - Monin - Granny Smith,Target,0.7
+222,Muffin - Carrot Individual Wrap,Gordmans,1.76
+223,Mix Pina Colada,Ocean State Job Lot,0.9
+224,"Pasta - Spaghetti, Dry",Ben Franklin,1.92
+225,Cheese - Colby,Costco,4.8
+226,"Veal - Brisket, Provimi,bnls",Stein Mart,0.88
+227,Wine - Clavet Saint Emilion,Gabe's,1.59
+228,Cake - Mini Potato Pancake,Big Lots,0.64
+229,Chevril,Fred's,0.48
+230,Peas Snow,Renys,2.56
+231,Pate Pans Yellow,Renys,1.76
+232,Bread Base - Toscano,Ben Franklin,0.6
+233,"Pasta - Fusili, Dry",Bargain Hunt,0.3
+234,Pork Ham Prager,T.J. Maxx,2.62
+235,Sauce - Balsamic Viniagrette,Family Dollar,0.18
+236,"Mushrooms - Black, Dried",Fred Meyer,0.47
+237,Bread Bowl Plain,Stein Mart,3.71
+238,"Pepper - Green, Chili",Costco,6.95
+239,Container - Foam Dixie 12 Oz,Family Dollar,4.4
+240,Lid - 3oz Med Rec,Burlington Coat Factory,4.85
+241,Tray - 16in Rnd Blk,T.J. Maxx,0.88
+242,Extract - Raspberry,Harbor Freight Tools,0.93
+243,Potato - Sweet,Big Lots,0.44
+244,Goat - Whole Cut,Harbor Freight Tools,0.59
+245,Coffee - Hazelnut Cream,Burlington Coat Factory,0.01
+246,Yoplait - Strawbrasp Peac,HomeSense,2.26
+247,Veal - Leg,Five Below,2.24
+248,Sultanas,Kmart,12.05
+249,Cake - Pancake,National Stores,2.04
+250,Chicken Thigh - Bone Out,Dd's Discounts,1.43
+251,Lettuce - Escarole,Five Below,0.86
+252,"Carrots - Purple, Organic",Harbor Freight Tools,0.12
+253,Hand Towel,Stein Mart,2.34
+254,Sprouts - Brussel,Ross Stores,0.36
+255,Beef - Prime Rib Aaa,BJ's Wholesale Club,0.86
+256,Beef - Tenderloin - Aa,Shopko,0.81
+257,Bonito Flakes - Toku Katsuo,National Stores,1.44
+258,Bagel - Sesame Seed Presliced,Stein Mart,0.76
+259,Triple Sec - Mcguinness,Ben Franklin,3.84
+260,Wine - Cousino Macul Antiguas,Fred Meyer,2.95
+261,"Lentils - Green, Dry",Gabe's,0.32
+262,Beef - Kobe Striploin,T.J. Maxx,0.66
+263,Lobster - Live,Marshalls,0.57
+264,"Wine - Magnotta - Red, Baco",National Stores,0.98
+265,Foil - 4oz Custard Cup,Kmart,1.7
+266,Ginger - Crystalized,Marshalls,1.86
+267,Eggwhite Frozen,Ben Franklin,1.68
+268,Spice - Chili Powder Mexican,Costco,0.61
+269,Sword Pick Asst,Dollar General,1.64
+270,"Tarragon - Primerba, Paste",Renys,3.1
+271,Butcher Twine 4r,Burlington Coat Factory,1.53
+272,"Wine - White, Riesling, Semi - Dry",Gordmans,4.18
+273,Bread Base - Italian,Kmart,0.19
+274,Peas - Frozen,Target,2.84
+275,Tart - Lemon,Costco,0.96
+276,Coffee - Irish Cream,Fred Meyer,2.3
+277,Kumquat,Walmart,1.98
+278,Flower - Commercial Bronze,T.J. Maxx,0.43
+279,Strawberries - California,Kmart,2.6
+280,Wine - Magnotta - Cab Franc,Gabe's,1.76
+281,Foam Tray S2,Five Below,1.93
+282,"Pork - Loin, Center Cut",Gabe's,1.13
+283,Bread - Granary Small Pull,HomeSense,0.17
+284,Five Alive Citrus,Gabe's,0.21
+285,Horseradish - Prepared,Dd's Discounts,3.17
+286,Island Oasis - Ice Cream Mix,Walmart,2.8
+287,Veal - Bones,T.J. Maxx,0.11
+288,"Crab - Claws, Snow 16 - 24",Renys,3.34
+289,Gatorade - Lemon Lime,Five Below,2.33
+290,"Jam - Raspberry,jar",Burlington Coat Factory,0.18
+291,Lettuce - Curly Endive,Fred Meyer,0.14
+292,"Quail - Whole, Boneless",National Stores,2.15
+293,Ecolab Crystal Fusion,Ben Franklin,0.17
+294,Shopper Bag - S - 4,Marshalls,0.52
+295,Muffin - Bran Ind Wrpd,BJ's Wholesale Club,0.39
+296,"Sauce - White, Mix",Gabe's,1.73
+297,Marjoram - Fresh,Fred Meyer,4.89
+298,Hog / Sausage Casing - Pork,Fred Meyer,5.68
+299,Kaffir Lime Leaves,Harbor Freight Tools,2.38
+300,Beef - Kobe Striploin,Ross Stores,0.89
+301,Wheat - Soft Kernal Of Wheat,Dollar Tree,3.35
+302,Soap - Pine Sol Floor Cleaner,Ben Franklin,1.65
+303,Scallops - Live In Shell,Kmart,4.04
+304,Rum - Mount Gay Eclipes,Meijer,0.89
+305,"Oregano - Dry, Rubbed",Burlington Coat Factory,0.19
+306,Cake - Night And Day Choclate,Ocean State Job Lot,2.71
+307,Tomatoes,Ollie's Bargain Outlet,2.36
+308,White Baguette,BJ's Wholesale Club,1.02
+309,Vaccum Bag - 14x20,Fred's,0.11
+310,Vinegar - Raspberry,HomeSense,1.48
+311,Longos - Chicken Caeser Salad,National Stores,2.19
+312,"Jam - Strawberry, 20 Ml Jar",HomeSense,2.83
+313,Wine - Merlot Vina Carmen,Burlington Coat Factory,2.72
+314,"Oil - Olive, Extra Virgin",Five Below,5.29
+315,Table Cloth 90x90 Colour,HomeGoods,0.09
+316,Cabbage - Green,Stein Mart,1.94
+317,Oil - Margarine,Burlington Coat Factory,4.03
+318,Glass Clear 7 Oz Xl,Fred's,0.64
+319,Oil - Safflower,Shopko,2.22
+320,Wine - Domaine Boyar Royal,Family Dollar,0.31
+321,Pimento - Canned,Dollar General,0.4
+322,Sauce - Sesame Thai Dressing,T.J. Maxx,2.37
+323,Jerusalem Artichoke,Stein Mart,1.38
+324,Eggplant Oriental,T.J. Maxx,0.32
+325,Versatainer Nc - 888,Dd's Discounts,2.51
+326,Juice - Orangina,Costco,1.62
+327,External Supplier,Gabe's,3.72
+328,Pan Grease,Dollar General,1.25
+329,Onions Granulated,Burlington Coat Factory,2.07
+330,Beets - Pickled,Gabe's,2.42
+331,Glass Clear 8 Oz,Ben Franklin,1.22
+332,Beer - Maudite,Ollie's Bargain Outlet,1.91
+333,Cleaner - Comet,Ross Stores,1.03
+334,Goldschalger,Roses,6.67
+335,Olives - Stuffed,Target,0.63
+336,Bouillion - Fish,Tuesday Morning,2.02
+337,Wine - Cousino Macul Antiguas,Shopko,5.25
+338,Rosemary - Fresh,Ben Franklin,1.28
+339,Brandy Apricot,Shopko,1.01
+340,Thyme - Fresh,HomeGoods,0.82
+341,Shrimp - Black Tiger 26/30,Stein Mart,0.22
+342,Longos - Burritos,Gabe's,2.36
+343,Beef - Tenderloin Tails,Gabe's,1.34
+344,Honey - Liquid,Ross Stores,0.67
+345,"Juice - Apple, 1.36l",Ollie's Bargain Outlet,0.4
+346,Plasticspoonblack,BJ's Wholesale Club,3.27
+347,Ecolab - Hobart Upr Prewash Arm,Ollie's Bargain Outlet,0.28
+348,Cheese Cloth,Ollie's Bargain Outlet,1.88
+349,Wooden Mop Handle,Ollie's Bargain Outlet,0.38
+350,Herb Du Provence - Primerba,Bargain Hunt,1.61
+351,Asparagus - Frozen,Dollar Tree,0.29
+352,Cotton Wet Mop 16 Oz,Harbor Freight Tools,0.36
+353,Momiji Oroshi Chili Sauce,HomeSense,2.9
+354,Beer - Creemore,Fred's,0.44
+355,Table Cloth 62x114 White,Meijer,2.1
+356,Sugar - Icing,Marshalls,2.28
+357,Sausage - Andouille,Fred's,3.43
+358,Wine - Riesling Dr. Pauly,BJ's Wholesale Club,2.55
+359,Bread - Rye,Harbor Freight Tools,1.9
+360,Venison - Striploin,Ross Stores,2.1
+361,Wine - Shiraz Wolf Blass Premium,T.J. Maxx,0.87
+362,Veal - Heart,Ben Franklin,0.26
+363,Emulsifier,Walmart,1.86
+364,Salami - Genova,Marshalls,1.9
+365,Raspberries - Fresh,Fred's,0.54
+366,Flavouring - Orange,Harbor Freight Tools,1.71
+367,Salmon - Fillets,Ocean State Job Lot,8.88
+368,Lotus Leaves,Renys,1.03
+369,Cheese - Marble,Dd's Discounts,2.41
+370,Red Currants,Gordmans,0.94
+371,Pepper - Cubanelle,Ben Franklin,3.66
+372,Melon - Honey Dew,Walmart,0.81
+373,Lemonade - Pineapple Passion,Family Dollar,0.65
+374,Carrots - Jumbo,National Stores,0.25
+375,Arizona - Green Tea,Dollar Tree,3.02
+376,Spic And Span All Purpose,Meijer,1.12
+377,Steamers White,Walmart,1.62
+378,"Yogurt - Cherry, 175 Gr",Fred's,2.46
+379,Crackers - Soda / Saltins,Roses,0.47
+380,Sauce - Fish 25 Ozf Bottle,Costco,0.65
+381,Cream - 10%,Stein Mart,0.75
+382,"Beef - Bones, Marrow",Costco,2.34
+383,Cotton Wet Mop 16 Oz,Ross Stores,0.73
+384,Pork - Smoked Back Bacon,Ben Franklin,2.05
+385,Wine - Montecillo Rioja Crianza,Ben Franklin,0.82
+386,Cream - 35%,Gabe's,0.75
+387,Cardamon Seed / Pod,Harbor Freight Tools,1.16
+388,Chutney Sauce,T.J. Maxx,2.72
+389,"Squash - Pattypan, Yellow",T.J. Maxx,0.17
+390,"Pork - Back, Long Cut, Boneless",Dollar Tree,2.92
+391,Ice Cream - Fudge Bars,Family Dollar,1.2
+392,"Pepper - Green, Chili",Fred's,1.41
+393,Chivas Regal - 12 Year Old,Walmart,0.42
+394,Gingerale - Diet - Schweppes,Family Dollar,1.01
+395,Onions - Cooking,Five Below,0.96
+396,Wine - Chateau Aqueria Tavel,HomeGoods,1.95
+397,"Yogurt - Banana, 175 Gr",Roses,1.44
+398,Dried Figs,Dollar General,1.76
+399,Lamb Leg - Bone - In Nz,Target,6.81
+400,Lettuce - Baby Salad Greens,Dollar General,0.39
+401,Cheese - Mozzarella,Kmart,1.05
+402,Bagel - Sesame Seed Presliced,Ollie's Bargain Outlet,1.93
+403,"Lemonade - Black Cherry, 591 Ml",Family Dollar,0.76
+404,Coffee Cup 16oz Foam,Fred Meyer,2.51
+405,"Juice - Clamato, 341 Ml",Family Dollar,2.1
+406,Bread - Multigrain,Meijer,1.9
+407,Beer - Mill St Organic,Walmart,2.33
+408,Olives - Kalamata,HomeSense,2.21
+409,"Lamb - Loin, Trimmed, Boneless",Dollar General,1.04
+410,Oil - Avocado,Ben Franklin,1.16
+411,"Cake Circle, Foil, Scallop",Walmart,0.62
+412,Table Cloth 54x72 Colour,Burlington Coat Factory,4.8
+413,Pepper - Chili Powder,Bi-Mart,2.05
+414,Beans - French,Costco,0.43
+415,Guava,Burlington Coat Factory,1.65
+416,Curry Powder,Kmart,2.5
+417,Wine - Montecillo Rioja Crianza,Ben Franklin,2.13
+418,Rice - Aborio,Gordmans,0.92
+419,"Potatoes - Instant, Mashed",Shopko,1.27
+420,"Lamb - Whole Head Off,nz",Kmart,2.24
+421,Bacardi Limon,Marshalls,1.15
+422,Devonshire Cream,Dollar General,3.02
+423,Country Roll,Dollar General,1.01
+424,"Coke - Classic, 355 Ml",Ocean State Job Lot,0.09
+425,Sauce - Hp,Fred's,1.52
+426,Table Cloth 144x90 White,National Stores,1.75
+427,Eggplant Oriental,T.J. Maxx,2.33
+428,Lettuce - Boston Bib - Organic,Walmart,1.47
+429,Black Currants,Five Below,4.53
+430,Wine - Fume Blanc Fetzer,Marshalls,2.74
+431,Mustard - Seed,Ross Stores,1.72
+432,"Stock - Chicken, White",Kmart,0.48
+433,"Quail - Whole, Bone - In",Roses,1.63
+434,"Placemat - Scallop, White",Ben Franklin,1.18
+435,Remy Red Berry Infusion,Gordmans,2.93
+436,Eggroll,Dollar General,0.65
+437,Beans - Green,Ben Franklin,0.71
+438,Bagel - Sesame Seed Presliced,Gabe's,1.95
+439,Lamb - Sausage Casings,Dollar Tree,2.96
+440,Clams - Canned,Kmart,0.51
+441,Vector Energy Bar,Walmart,0.96
+442,Chutney Sauce,Bargain Hunt,3.26
+443,Crackers - Water,Shopko,0.42
+444,Gherkin,Kmart,0.25
+445,"Nut - Hazelnut, Ground, Natural",T.J. Maxx,4.06
+446,Flower - Leather Leaf Fern,Dd's Discounts,1.56
+447,Onion Powder,Ross Stores,1.61
+448,"Turkey - Breast, Double",Gordmans,0.61
+449,Flour - Semolina,Five Below,2.3
+450,"Bread - Roll, Canadian Dinner",Ollie's Bargain Outlet,0.82
+451,"Pail - 4l White, With Handle",Costco,1.36
+452,Breadfruit,Gabe's,3.04
+453,Tomato Paste,Gordmans,2.84
+454,Cumin - Ground,Family Dollar,1.8
+455,"Juice - Grape, White",Ben Franklin,2.06
+456,Pastry - Chocolate Chip Muffin,Burlington Coat Factory,2.17
+457,Lettuce - Belgian Endive,Walmart,2.04
+458,Five Alive Citrus,Harbor Freight Tools,1.75
+459,Vol Au Vents,Meijer,0.35
+460,"Wine - White, Ej",Bargain Hunt,0.99
+461,Soup - Tomato Mush. Florentine,Renys,2.77
+462,Sambuca Cream,Roses,1.66
+463,"Veal - Chops, Split, Frenched",Ben Franklin,0.09
+464,Vinegar - Cider,Renys,1.29
+465,Daikon Radish,Dollar Tree,2.46
+466,Ginger - Ground,Walmart,1.27
+467,Squid - U - 10 Thailand,Renys,0.51
+468,Wine - Baron De Rothschild,Bargain Hunt,2.86
+469,Samosa - Veg,Shopko,0.46
+470,"Orange - Canned, Mandarin",Dollar Tree,0.76
+471,Pastry - Choclate Baked,BJ's Wholesale Club,0.02
+472,Parsley Italian - Fresh,Ben Franklin,4.77
+473,Bacardi Raspberry,Fred's,4.43
+474,"Cheese - Cheddar, Old White",T.J. Maxx,0.19
+475,Towel Dispenser,Five Below,1.59
+476,Beer - Creemore,Tuesday Morning,0.73
+477,Spice - Paprika,Bargain Hunt,0.82
+478,"Tendrils - Baby Pea, Organic",Renys,0.05
+479,"Iced Tea - Lemon, 460 Ml",Tuesday Morning,0.6
+480,Oil - Grapeseed Oil,Gabe's,4.13
+481,Lambcasing,HomeSense,0.5
+482,Eggplant Italian,Ocean State Job Lot,0.8
+483,Tea - Green,HomeGoods,1.24
+484,Potatoes - Mini Red,Dollar General,3.27
+485,Wine - Dubouef Macon - Villages,Ocean State Job Lot,2.24
+486,Ginger - Fresh,Dd's Discounts,0.71
+487,"Trout - Rainbow, Frozen",Ocean State Job Lot,2.59
+488,Wine - Riesling Dr. Pauly,Ben Franklin,0.36
+489,Oil - Olive Bertolli,Fred Meyer,1.73
+490,Banana - Green,Roses,1.11
+491,"Halibut - Whole, Fresh",Family Dollar,1.22
+492,Ham - Procutinni,Ollie's Bargain Outlet,1.71
+493,Beer - Pilsner Urquell,Dollar Tree,1.1
+494,Bag - Regular Kraft 20 Lb,National Stores,1.19
+495,Lamb - Rack,Dd's Discounts,1.11
+496,Cup - 8oz Coffee Perforated,Burlington Coat Factory,1.3
+497,Mushroom - Crimini,Target,2.02
+498,Wine - Balbach Riverside,Ross Stores,0.55
+499,French Kiss Vanilla,Renys,2.25
+500,Tea - Vanilla Chai,Marshalls,0.11
+501,"Beef - Outside, Round",Meijer,1.65
+502,Milk - Buttermilk,Ross Stores,2.94
+503,Dasheen,Tuesday Morning,1.45
+504,Chef Hat 25cm,Meijer,0.65
+505,Daves Island Stinger,Family Dollar,1.62
+506,Compound - Pear,Roses,4.54
+507,Momiji Oroshi Chili Sauce,Fred Meyer,2.47
+508,Compound - Raspberry,Meijer,1.96
+509,"Nut - Almond, Blanched, Ground",Ross Stores,1.87
+510,Blackberries,National Stores,1.07
+511,Puree - Strawberry,Walmart,3.55
+512,Gloves - Goldtouch Disposable,Renys,1.28
+513,"Lamb - Whole, Frozen",Ocean State Job Lot,0.63
+514,Canada Dry,T.J. Maxx,0.77
+515,Tumeric,Marshalls,2.29
+516,Lotus Rootlets - Canned,Walmart,0.34
+517,"Turkey - Breast, Double",Bargain Hunt,1.5
+518,Fruit Salad Deluxe,Five Below,0.5
+519,Wine - Ej Gallo Sierra Valley,HomeSense,0.97
+520,Fond - Neutral,Meijer,2.01
+521,Veal - Kidney,Shopko,2.38
+522,"Beets - Candy Cane, Organic",Kmart,0.63
+523,Appetizer - Tarragon Chicken,Five Below,3.62
+524,Garbage Bags - Black,Family Dollar,1.34
+525,Horseradish Root,Ocean State Job Lot,1.5
+526,Beef Ground Medium,HomeGoods,0.16
+527,Water - Spring 1.5lit,Five Below,1.54
+528,Cumin - Whole,Marshalls,0.52
+529,Compound - Passion Fruit,Marshalls,3.19
+530,"Pepper - Green, Chili",Renys,3.76
+531,Soup - Campbells - Tomato,Stein Mart,0.11
+532,Crab - Soft Shell,Dollar Tree,2.45
+533,Wine - Red Oakridge Merlot,Marshalls,2.15
+534,Pepper - Pablano,Ross Stores,0.49
+535,Yams,Ollie's Bargain Outlet,0.39
+536,"Crab - Back Fin Meat, Canned",HomeSense,4.06
+537,Beer - Paulaner Hefeweisse,Big Lots,3.43
+538,Chicken - Soup Base,Harbor Freight Tools,1.47
+539,Poppy Seed,Ben Franklin,0.49
+540,Table Cloth 90x90 Colour,Ross Stores,0.09
+541,Pork - Backfat,Big Lots,1.93
+542,"Squash - Pattypan, Yellow",Gordmans,1.1
+543,"Beef - Baby, Liver",Stein Mart,0.07
+544,Roe - White Fish,Gordmans,0.08
+545,Cheese - Sheep Milk,Harbor Freight Tools,0.3
+546,"Sauce - White, Mix",Meijer,1.73
+547,Praline Paste,Costco,0.67
+548,Wine - Zinfandel Rosenblum,Fred's,5.41
+549,Muffin Carrot - Individual,Five Below,0.26
+550,Chocolate Bar - Coffee Crisp,Family Dollar,3.46
+551,Cleaner - Bleach,Costco,0.26
+552,Cheese - Comte,Renys,2.01
+553,Fruit Mix - Light,T.J. Maxx,0.6
+554,"Pasta - Gnocchi, Potato",Five Below,2.41
+555,"Veal - Tenderloin, Untrimmed",Ollie's Bargain Outlet,1.61
+556,Pie Filling - Pumpkin,Burlington Coat Factory,2.72
+557,Sorrel - Fresh,Ben Franklin,2.65
+558,Eggplant - Baby,Ocean State Job Lot,3.26
+559,Pork - Side Ribs,Ollie's Bargain Outlet,0.91
+560,Wine - Marlbourough Sauv Blanc,Ross Stores,1.47
+561,Pepper - Sorrano,Walmart,1.54
+562,Liners - Baking Cups,Gabe's,0.56
+563,Coffee - French Vanilla Frothy,Bi-Mart,5.95
+564,"Water - Mineral, Carbonated",Costco,5.15
+565,Cup Translucent 9 Oz,National Stores,1.32
+566,Mini - Vol Au Vents,Burlington Coat Factory,1.91
+567,Raspberries - Fresh,Ben Franklin,0.96
+568,Parsley - Dried,Tuesday Morning,6.05
+569,"Cake Circle, Paprus",Big Lots,0.14
+570,"Sauce - Gravy, Au Jus, Mix",T.J. Maxx,2.52
+571,Juice - Orangina,Shopko,1.75
+572,Chinese Foods - Plain Fried Rice,Costco,2.71
+573,Mangoes,HomeSense,2.42
+574,Smoked Paprika,Kmart,2.27
+575,Cookies - Assorted,Burlington Coat Factory,1.75
+576,Vanilla Beans,Dd's Discounts,0.97
+577,Jack Daniels,Ben Franklin,2.38
+578,Cocoa Powder - Natural,Harbor Freight Tools,0.99
+579,Appetizer - Mango Chevre,Gabe's,1.08
+580,"Veal - Inside Round / Top, Lean",Fred's,0.76
+581,Island Oasis - Lemonade,Dd's Discounts,0.19
+582,Kumquat,HomeSense,4.08
+583,Smoked Paprika,Shopko,1.08
+584,"Doilies - 12, Paper",HomeGoods,0.04
+585,Shopper Bag - S - 4,Fred's,2.1
+586,"Sugar - Sweet N Low, Individual",Bargain Hunt,4.03
+587,Shiratamako - Rice Flour,Marshalls,2.33
+588,Wine - Tio Pepe Sherry Fino,Tuesday Morning,3.93
+589,"Chicken - Thigh, Bone In",Big Lots,0.14
+590,Wine - Wyndham Estate Bin 777,Bi-Mart,0.03
+591,Muffin Orange Individual,Burlington Coat Factory,3.99
+592,Vol Au Vents,Dollar Tree,0.98
+593,Ice Cream - Strawberry,Roses,2.18
+594,"Appetizer - Mini Egg Roll, Shrimp",Dd's Discounts,1.76
+595,Chicken - Wieners,Walmart,1.67
+596,Breadfruit,Ben Franklin,0.55
+597,Foam Dinner Plate,Bargain Hunt,1.34
+598,Lobak,Ocean State Job Lot,1.33
+599,Sauce - Salsa,Renys,2.23
+600,Nantucket Orange Juice,Costco,0.24
+601,Remy Red,Renys,0.43
+602,Jameson Irish Whiskey,Shopko,2.42
+603,Sugar - White Packet,Ollie's Bargain Outlet,1.98
+604,Nut - Pumpkin Seeds,Renys,1.34
+605,"Beans - Black Bean, Dry",Shopko,0.92
+606,Pork - Shoulder,Family Dollar,2.1
+607,"Soup - Campbells, Beef Barley",Costco,0.54
+608,"Loaf Pan - 2 Lb, Foil",Five Below,0.56
+609,Spice - Montreal Steak Spice,Gordmans,3.48
+610,Sherry - Dry,Dollar General,0.23
+611,Pie Shell - 5,Tuesday Morning,1.66
+612,"Cake Circle, Paprus",Fred Meyer,0.48
+613,Oil - Olive,Fred's,0.65
+614,"Vodka - Lemon, Absolut",Fred's,1.75
+615,Bread - Italian Sesame Poly,Renys,6.86
+616,Sole - Iqf,Dollar Tree,0.13
+617,Cup Translucent 9 Oz,Kmart,0.52
+618,"Soup - Knorr, Classic Can. Chili",Shopko,2.9
+619,"Wine - Red, Mouton Cadet",Gordmans,4.73
+620,"Bread - Multigrain, Loaf",Dollar General,0.22
+621,Tuna - Sushi Grade,Costco,3.48
+622,Truffle Paste,Renys,0.56
+623,"Pasta - Fettuccine, Dry",Dollar Tree,0.82
+624,Clams - Canned,Fred Meyer,2.34
+625,Fireball Whisky,Family Dollar,0.39
+626,Sugar - Icing,Fred Meyer,1.26
+627,Cheese - Brie,Gabe's,0.83
+628,Chicken Breast Halal,Kmart,2.39
+629,Beef - Tenderloin Tails,Meijer,2.25
+630,Eggroll,Family Dollar,2.38
+631,Duck - Legs,Walmart,2.69
+632,Oil - Margarine,HomeSense,0.37
+633,Pasta - Agnolotti - Butternut,Meijer,0.15
+634,Bols Melon Liqueur,Stein Mart,1.55
+635,Cheese - Comtomme,Target,0.69
+636,"Coconut - Shredded, Unsweet",Dd's Discounts,0.94
+637,Assorted Desserts,Bi-Mart,3.03
+638,Muffin - Banana Nut Individual,Target,2.49
+639,"Pork - Sausage, Medium",Roses,1.66
+640,Cabbage - Red,Stein Mart,0.17
+641,Fruit Mix - Light,HomeGoods,3.14
+642,Bread - Pita,Harbor Freight Tools,1.45
+643,Mushroom Morel Fresh,Stein Mart,3.24
+644,Five Alive Citrus,HomeGoods,1.59
+645,Muffin - Banana Nut Individual,Roses,1.43
+646,Fenngreek Seed,Dollar General,2.43
+647,Vanilla Beans,T.J. Maxx,0.12
+648,"Veal - Tenderloin, Untrimmed",Marshalls,0.23
+649,"Sparkling Wine - Rose, Freixenet",Ross Stores,3.36
+650,Tuna - Salad Premix,Fred's,0.49
+651,"Beans - Long, Chinese",Big Lots,1.02
+652,Sunflower Seed Raw,Walmart,2.1
+653,Napkin Colour,HomeSense,0.93
+654,"Pasta - Lasagne, Fresh",Big Lots,1.19
+655,"Pasta - Rotini, Colour, Dry",HomeSense,0.11
+656,Cake Slab,BJ's Wholesale Club,0.96
+657,"Wine - White, Mosel Gold",Fred's,2.35
+658,Wine - Carmenere Casillero Del,Walmart,1.19
+659,Chocolate - Compound Coating,Ben Franklin,0.6
+660,Cake - Bande Of Fruit,BJ's Wholesale Club,0.56
+661,"Beef - Rib Roast, Capless",HomeGoods,2.42
+662,Bread - Bistro White,Shopko,0.2
+663,Raspberries - Frozen,Dd's Discounts,2.57
+664,Cheese - Goat,Roses,1.16
+665,Tart - Pecan Butter Squares,Dd's Discounts,1.96
+666,Pectin,National Stores,4.28
+667,Beef - Top Butt Aaa,Five Below,5.04
+668,Swiss Chard - Red,BJ's Wholesale Club,0.38
+669,Scrubbie - Scotchbrite Hand Pad,Ross Stores,1.81
+670,Sauce - Vodka Blush,Tuesday Morning,7.37
+671,"Pasta - Linguini, Dry",HomeGoods,0.02
+672,Urban Zen Drinks,Stein Mart,1.64
+673,Beef - Tenderloin Tails,National Stores,2.25
+674,"Oil - Olive, Extra Virgin",Gabe's,1.13
+675,Goulash Seasoning,Meijer,4.85
+676,"Syrup - Monin, Amaretta",Five Below,2.83
+677,"Tart Shells - Sweet, 2",Dollar General,2.43
+678,Soho Lychee Liqueur,Fred's,3.28
+679,Cheese - Le Cheve Noir,Meijer,2.14
+680,Bagel - Whole White Sesame,HomeGoods,0.37
+681,Bread - Pumpernickel,Dd's Discounts,3.69
+682,"Chocolate - Milk, Callets",Gordmans,2.55
+683,Yoplait - Strawbrasp Peac,Ollie's Bargain Outlet,0.95
+684,Nut - Pumpkin Seeds,HomeGoods,0.5
+685,Muffin Puck Ww Carrot,Dollar Tree,1.34
+686,Lettuce - Romaine,Shopko,0.4
+687,Cheese - Ermite Bleu,BJ's Wholesale Club,0.19
+688,Breakfast Quesadillas,Harbor Freight Tools,0.88
+689,Kahlua,T.J. Maxx,0.5
+690,Bread - Pain Au Liat X12,Ocean State Job Lot,1.08
+691,Wine - Bouchard La Vignee Pinot,HomeSense,0.12
+692,Juice - Lemon,Renys,2.67
+693,"Wine - White, Colubia Cresh",BJ's Wholesale Club,0.61
+694,Ecolab - Solid Fusion,Stein Mart,1.51
+695,Mayonnaise,Ben Franklin,0.51
+696,Sauce - Vodka Blush,Fred Meyer,1.3
+697,Wine - German Riesling,Shopko,0.41
+698,Trueblue - Blueberry,Meijer,2.12
+699,Hand Towel,Tuesday Morning,1.93
+700,Lid Tray - 12in Dome,Bi-Mart,2.13
+701,Water Chestnut - Canned,Gabe's,0.46
+702,Container Clear 8 Oz,Tuesday Morning,1.86
+703,Wine La Vielle Ferme Cote Du,Meijer,1.46
+704,Sunflower Seed Raw,Dollar General,0.69
+705,Tray - 12in Rnd Blk,Bi-Mart,2.1
+706,Sugar - White Packet,Burlington Coat Factory,0.55
+707,Wine - Savigny - Les - Beaune,Target,0.15
+708,Sauce - Oyster,HomeGoods,3.33
+709,"Flour - Buckwheat, Dark",Costco,0.15
+710,Wine - Stoneliegh Sauvignon,Burlington Coat Factory,0.66
+711,Island Oasis - Lemonade,Meijer,4.8
+712,Daves Island Stinger,Walmart,4.93
+713,Glass Clear 7 Oz Xl,Ocean State Job Lot,1.39
+714,Melon - Cantaloupe,Dd's Discounts,1.57
+715,Cookie - Oatmeal,Shopko,0.97
+716,Squash - Butternut,T.J. Maxx,4.82
+717,Pants Custom Dry Clean,HomeGoods,1.91
+718,"Beef - Tongue, Fresh",Dollar General,6.06
+719,Yukon Jack,Gordmans,0.93
+720,Tequila - Sauza Silver,National Stores,1.81
+721,Tea - Grapefruit Green Tea,Fred's,3.91
+722,Pork - Ground,Shopko,3.01
+723,Table Cloth 62x120 Colour,Tuesday Morning,3.12
+724,Cheese - Grana Padano,Harbor Freight Tools,0.35
+725,Sambuca - Opal Nera,Roses,3.33
+726,Tart - Lemon,Renys,3.77
+727,Soup - Campbells Chili Veg,Walmart,1.59
+728,Foil Wrap,Ollie's Bargain Outlet,0.74
+729,Soup Campbells - Italian Wedding,HomeGoods,2.98
+730,Lettuce - Red Leaf,Tuesday Morning,0.68
+731,Cheese - St. Andre,Burlington Coat Factory,0.54
+732,Cheese - Cambozola,Shopko,2.12
+733,Stainless Steel Cleaner Vision,Big Lots,1.52
+734,Longos - Chicken Caeser Salad,Ben Franklin,0.06
+735,Cloves - Ground,Dollar Tree,0.09
+736,"Water, Tap",Meijer,1.28
+737,"Quail - Whole, Bone - In",Fred's,0.86
+738,Sherry - Dry,Family Dollar,0.97
+739,"Bread - Roll, Soft White Round",Stein Mart,1.3
+740,Oil - Sunflower,Roses,1.18
+741,Chicken - Whole Roasting,Ben Franklin,0.98
+742,Steam Pan - Half Size Deep,Gabe's,1.5
+743,Galliano,HomeSense,1.11
+744,Rabbit - Whole,Meijer,2.15
+745,Rice - Aborio,Big Lots,0.88
+746,The Pop Shoppe - Grape,Dollar Tree,1.91
+747,Chips Potato Salt Vinegar 43g,Burlington Coat Factory,7.79
+748,Radish - Pickled,Dollar Tree,4.95
+749,Rice - Long Grain,Ross Stores,3.94
+750,Sausage - Andouille,HomeGoods,2.11
+751,Mortadella,Ben Franklin,2.93
+752,Kellogs Special K Cereal,HomeGoods,0.81
+753,Strawberries - California,National Stores,0.42
+754,Pail With Metal Handle 16l White,Fred Meyer,1.64
+755,Leeks - Large,Harbor Freight Tools,2.38
+756,Trout Rainbow Whole,Shopko,2.01
+757,Toothpick Frilled,Meijer,3.21
+758,Onion - Dried,Fred's,0.32
+759,Quail - Jumbo,Marshalls,0.27
+760,"Pork - Bacon, Sliced",T.J. Maxx,2.58
+761,Tomatoes - Cherry,Five Below,0.67
+762,"Beef - Baby, Liver",Fred's,1.88
+763,Chicken - Soup Base,HomeGoods,0.23
+764,Rice Paper,National Stores,1.29
+765,Soup - Chicken And Wild Rice,HomeSense,0.18
+766,Rum - Mount Gay Eclipes,BJ's Wholesale Club,2.08
+767,Bread - Dark Rye,Shopko,2.98
+768,Energy - Boo - Koo,Stein Mart,0.36
+769,Beer - Labatt Blue,BJ's Wholesale Club,4.11
+770,Sage - Rubbed,Meijer,1.52
+771,Wine - Chateauneuf Du Pape,Dollar Tree,0.27
+772,"Veal - Tenderloin, Untrimmed",National Stores,3.72
+773,Sprouts - Peppercress,Ben Franklin,1.84
+774,Lid - 16 Oz And 32 Oz,Shopko,1.37
+775,Bandage - Flexible Neon,National Stores,1.06
+776,The Pop Shoppe - Root Beer,Ben Franklin,1.59
+777,Lettuce - Escarole,Marshalls,2.7
+778,"Shrimp - 16 - 20 Cooked, Peeled",Big Lots,4.84
+779,"Croissant, Raw - Mini",Kmart,2.3
+780,"Lobster - Tail, 3 - 4 Oz",Stein Mart,0.96
+781,"Wine - White, Pelee Island",Ollie's Bargain Outlet,1.28
+782,"Chicken - Base, Ultimate",Stein Mart,2.4
+783,Bandage - Fexible 1x3,Shopko,3.34
+784,"Squash - Pattypan, Yellow",T.J. Maxx,0.17
+785,Magnotta - Bel Paese White,Dollar General,2.28
+786,Dragon Fruit,Bargain Hunt,0.09
+787,"Pepper - Chillies, Crushed",Kmart,0.78
+788,Tomatoes - Roma,Family Dollar,1.16
+789,Bread - Assorted Rolls,Renys,1.63
+790,Beans - Wax,Target,1.89
+791,Pepper - Sorrano,Fred's,0.49
+792,Dr. Pepper - 355ml,Dollar Tree,5.49
+793,Beef Flat Iron Steak,Dollar General,0.52
+794,Trout - Smoked,National Stores,0.57
+795,Appetizer - Mango Chevre,Gordmans,3.29
+796,Bagel - Whole White Sesame,Big Lots,2.24
+797,"Turkey - Whole, Fresh",Ross Stores,0.35
+798,Soupfoamcont12oz 112con,Dd's Discounts,4.1
+799,Chervil - Fresh,Gabe's,1.92
+800,Pea - Snow,Meijer,2.67
+801,Bread - Granary Small Pull,Marshalls,2.66
+802,Oxtail - Cut,Fred Meyer,0.98
+803,"Tortillas - Flour, 12",Marshalls,3.18
+804,Rice Paper,Costco,1.04
+805,Chocolate - Liqueur Cups With Foil,Shopko,8.39
+806,Guinea Fowl,Harbor Freight Tools,2.55
+807,Soup - Campbells Asian Noodle,Target,1.04
+808,Lettuce - Boston Bib,Ben Franklin,2.96
+809,Samosa - Veg,Walmart,0.92
+810,Cheese - Grie Des Champ,Tuesday Morning,0.44
+811,Rice Paper,Marshalls,2.2
+812,Spice - Greek 1 Step,Dd's Discounts,0.13
+813,Oranges,Gordmans,1.55
+814,Salmon Steak - Cohoe 6 Oz,Bargain Hunt,2.07
+815,Beans - Wax,Family Dollar,0.69
+816,Lettuce - Frisee,Gordmans,2.45
+817,Tea - Green,Dollar Tree,0.1
+818,Pepper - Cubanelle,Renys,2.14
+819,Dome Lid Clear P92008h,Ollie's Bargain Outlet,0.79
+820,"Beef - Rib Roast, Capless",T.J. Maxx,3.7
+821,"Pasta - Fettuccine, Egg, Fresh",Renys,1.47
+822,Pastry - Baked Cinnamon Stick,Tuesday Morning,1.1
+823,"Wine - Red, Metus Rose",Ben Franklin,4
+824,Toamtoes 6x7 Select,Family Dollar,1.06
+825,Beans - Fava Fresh,Burlington Coat Factory,1.45
+826,Towel Dispenser,T.J. Maxx,3.61
+827,"Flour - Bran, Red",Ocean State Job Lot,1.08
+828,"Pepper - Black, Whole",Gordmans,3.82
+829,Pie Shell - 9,National Stores,2.24
+830,Piping - Bags Quizna,Ocean State Job Lot,2.23
+831,Kohlrabi,Stein Mart,1.43
+832,Squid - Tubes / Tenticles 10/20,National Stores,5.19
+833,Bread Base - Gold Formel,Bi-Mart,1.63
+834,Hot Chocolate - Individual,National Stores,0.08
+835,Plaintain,National Stores,0.72
+836,Chinese Foods - Chicken,T.J. Maxx,0.54
+837,Bag Clear 10 Lb,Tuesday Morning,1.37
+838,Wine - Alsace Gewurztraminer,BJ's Wholesale Club,1.3
+839,"Mushroom - Enoki, Fresh",Bi-Mart,1.24
+840,Soup - Campbells Tomato Ravioli,BJ's Wholesale Club,0.32
+841,Toothpick Frilled,Gabe's,2.01
+842,Onions - Cooking,Family Dollar,5.95
+843,"Wine - Magnotta, Merlot Sr Vqa",Ross Stores,3.84
+844,The Pop Shoppe Pinapple,National Stores,2.55
+845,Papadam,Meijer,8.53
+846,Calypso - Pineapple Passion,Fred's,5.26
+847,Remy Red Berry Infusion,Meijer,2.1
+848,Sausage - Meat,T.J. Maxx,1.91
+849,Beer - Upper Canada Light,Dollar Tree,1.35
+850,Wine - Prosecco Valdobienne,Marshalls,0.27
+851,Anchovy In Oil,Kmart,4.96
+852,Latex Rubber Gloves Size 9,Shopko,6.26
+853,Wine - Pinot Noir Mondavi Coastal,Costco,1.53
+854,Beef - Striploin Aa,Fred's,0.84
+855,Cream Of Tartar,Stein Mart,1.61
+856,"Spoon - Soup, Plastic",Dd's Discounts,2.58
+857,"Wine - Red, Pelee Island Merlot",HomeGoods,2.23
+858,Chicken Breast Halal,Kmart,0.28
+859,Tea - Decaf 1 Cup,Stein Mart,0.34
+860,Veal - Inside,Fred Meyer,1.52
+861,"Soup - Knorr, Classic Can. Chili",Marshalls,1.26
+862,Lemonade - Pineapple Passion,Bargain Hunt,1.1
+863,Corn - Mini,BJ's Wholesale Club,5.8
+864,Pecan Raisin - Tarts,Tuesday Morning,4.56
+865,"Coconut - Creamed, Pure",National Stores,0.3
+866,"Lamb - Whole, Fresh",Fred Meyer,1.7
+867,Orange Roughy 6/8 Oz,Roses,1.86
+868,Nantucket Cranberry Juice,Dd's Discounts,1.18
+869,Yukon Jack,Kmart,2.69
+870,Wine - Fat Bastard Merlot,Kmart,0.53
+871,"Tomatoes - Cherry, Yellow",Dollar General,1.23
+872,Soup - Campbells Mac N Cheese,Tuesday Morning,1.55
+873,Salt And Pepper Mix - Black,Dollar General,2.25
+874,Muffin - Banana Nut Individual,Bargain Hunt,2.76
+875,Muffin Mix - Blueberry,Costco,0.6
+876,Ham - Cooked Bayonne Tinned,Ocean State Job Lot,2.07
+877,Puff Pastry - Slab,Family Dollar,0.9
+878,Appetiser - Bought,Ben Franklin,3.07
+879,Wine - Masi Valpolocell,Harbor Freight Tools,2.51
+880,"Tart Shells - Sweet, 3",Ollie's Bargain Outlet,3.15
+881,Pastry - Baked Scones - Mini,Gabe's,1.77
+882,Olives - Stuffed,Dollar Tree,1.27
+883,Tea - Herbal Sweet Dreams,Target,4.21
+884,Beer - Sleeman Fine Porter,Dollar Tree,1.02
+885,Broom - Corn,Harbor Freight Tools,12.09
+886,Leeks - Large,Target,0.71
+887,Pheasants - Whole,HomeSense,0.95
+888,Oil - Avocado,HomeSense,0.91
+889,"Tea - Darjeeling, Azzura",Marshalls,2.32
+890,"Wine - Red, Concha Y Toro",Burlington Coat Factory,0.62
+891,"Soup - Campbells, Minestrone",Ben Franklin,5.91
+892,Muffin Hinge - 211n,Stein Mart,0.23
+893,Cherries - Frozen,Fred Meyer,0.68
+894,"Soup - Knorr, Ministrone",Bi-Mart,0.37
+895,"Wine - Red, Antinori Santa",Gordmans,0.02
+896,Gatorade - Lemon Lime,Shopko,1.82
+897,"Lamb - Whole, Fresh",Dollar Tree,2.94
+898,"Bread - Pumpernickle, Rounds",Marshalls,0.36
+899,Relish,BJ's Wholesale Club,0.62
+900,Chives - Fresh,Five Below,2.89
+901,Oil - Olive,Shopko,1.98
+902,Veal - Heart,Bargain Hunt,1.83
+903,Water - Aquafina Vitamin,Five Below,0.07
+904,"Lemonade - Strawberry, 591 Ml",Harbor Freight Tools,0.58
+905,Sour Puss Sour Apple,Dollar Tree,0.93
+906,Macaroons - Homestyle Two Bit,Dollar General,0.71
+907,Mix - Cocktail Ice Cream,Dd's Discounts,3.3
+908,"Pasta - Lasagne, Fresh",Family Dollar,1.16
+909,"Oranges - Navel, 72",Bi-Mart,1.88
+910,Wine - Rhine Riesling Wolf Blass,Roses,2.57
+911,Sugar - Palm,Stein Mart,0.67
+912,Coffee - Hazelnut Cream,Bargain Hunt,0.18
+913,Persimmons,Dollar General,4.22
+914,Sprouts - Bean,Stein Mart,0.13
+915,Fondant - Icing,Walmart,0.21
+916,"Pepper - Black, Ground",Gabe's,2.84
+917,Flavouring - Orange,Kmart,1.89
+918,"Wine - White, Riesling, Semi - Dry",Stein Mart,1.35
+919,Sea Bass - Fillets,Shopko,1.46
+920,Sun - Dried Tomatoes,Ocean State Job Lot,2.07
+921,Parasol Pick Stir Stick,Gordmans,3.53
+922,Beer - Tetleys,Costco,0.45
+923,Bread - Raisin,T.J. Maxx,2.95
+924,Truffle - Peelings,BJ's Wholesale Club,2.06
+925,"Wine - White, Riesling, Henry Of",Harbor Freight Tools,2.93
+926,Ecolab - Hobart Upr Prewash Arm,Dollar Tree,1.56
+927,"Tomatoes - Diced, Canned",Dollar Tree,1.64
+928,Cake - Pancake,Ocean State Job Lot,2.83
+929,Fenngreek Seed,Marshalls,1.73
+930,Wine - Rhine Riesling Wolf Blass,Kmart,2.45
+931,Pears - Anjou,Ollie's Bargain Outlet,2.79
+932,Milk - 1%,Ollie's Bargain Outlet,1.12
+933,Soup - French Can Pea,Fred's,1.07
+934,V8 Splash Strawberry Banana,Fred Meyer,1.94
+935,Tobasco Sauce,Fred's,0.79
+936,Breakfast Quesadillas,Walmart,0.45
+937,Puree - Raspberry,Dd's Discounts,2.09
+938,"Veal - Shank, Pieces",Tuesday Morning,0.86
+939,Cookies Cereal Nut,Bargain Hunt,1.82
+940,Soup Campbells - Tomato Bisque,Marshalls,2.77
+941,Ham - Procutinni,Tuesday Morning,3.74
+942,Bandage - Fexible 1x3,Ocean State Job Lot,2.01
+943,Cake - Pancake,Tuesday Morning,1.76
+944,Puff Pastry - Sheets,Roses,2.58
+945,Lettuce - Treviso,Bi-Mart,0.89
+946,Muffin - Banana Nut Individual,Dollar General,1.19
+947,Beer - Tetleys,Renys,1.91
+948,Cheese - Parmigiano Reggiano,Bi-Mart,0.75
+949,Extract - Lemon,HomeSense,2.76
+950,Muffin Mix - Oatmeal,Big Lots,3.96
+951,Wine - Savigny - Les - Beaune,T.J. Maxx,1.44
+952,"Pepper - Black, Ground",BJ's Wholesale Club,0.14
+953,Cheese - Cream Cheese,Target,0.61
+954,Nacho Chips,Dollar Tree,2.03
+955,Peppercorns - Green,BJ's Wholesale Club,0.94
+956,Chicken - Whole,Dollar General,1.47
+957,"Lamb - Pieces, Diced",Family Dollar,2.44
+958,"Cup - 3.5oz, Foam",Roses,0.7
+959,Chef Hat 25cm,Dollar General,2.04
+960,Pineapple - Golden,HomeSense,2.18
+961,Petite Baguette,Gabe's,0.74
+962,Rice - Aborio,Gabe's,1.2
+963,Beer - True North Strong Ale,Stein Mart,1.73
+964,Chicken Thigh - Bone Out,Fred's,2.11
+965,Ginger - Ground,Burlington Coat Factory,0.09
+966,"Capon - Breast, Wing On",Gordmans,3.12
+967,Wine - Magnotta - Belpaese,T.J. Maxx,1.94
+968,Longos - Chicken Curried,Shopko,1.26
+969,Spice - Paprika,Walmart,1.7
+970,Tamarillo,Costco,1.54
+971,Cakes Assorted,Family Dollar,0.68
+972,Brandy - Bar,Fred's,0.91
+973,"Sauce - Black Current, Dry Mix",Shopko,0.91
+974,Muffin Orange Individual,Roses,0.68
+975,The Pop Shoppe - Grape,Target,4.45
+976,"Soup - Campbells, Creamy",Walmart,7.79
+977,Sole - Fillet,Dollar General,1.25
+978,Banana Turning,Target,3.55
+979,"Beans - Turtle, Black, Dry",Walmart,0.27
+980,Cup - Translucent 7 Oz Clear,Family Dollar,1.25
+981,Tofu - Firm,T.J. Maxx,1.07
+982,Bread - Mini Hamburger Bun,Five Below,1.34
+983,Flour - Pastry,Target,4.07
+984,Cabbage - Red,Target,1.25
+985,Chinese Foods - Plain Fried Rice,Dollar Tree,1.53
+986,"Wine - Red, Marechal Foch",Ollie's Bargain Outlet,1.09
+987,Salmon - Fillets,T.J. Maxx,1.67
+988,Wine - Manischewitz Concord,Ben Franklin,0.02
+989,Ecolab Crystal Fusion,National Stores,2.12
+990,Coffee - Decafenated,Bi-Mart,1.23
+991,"Seedlings - Buckwheat, Organic",Roses,1.09
+992,Bok Choy - Baby,Tuesday Morning,2.71
+993,Turkey - Ground. Lean,Walmart,1.43
+994,"Basil - Dry, Rubbed",Gabe's,1.04
+995,Wine - Pinot Noir Stoneleigh,Kmart,4.17
+996,Okra,Walmart,0.99
+997,Pork - Smoked Back Bacon,T.J. Maxx,1.45
+998,Flounder - Fresh,Burlington Coat Factory,1.8
+999,Bread - Wheat Baguette,Tuesday Morning,0.41
+1000,"Soup - Knorr, French Onion",Big Lots,4.42
+NA,NA,NA,NA
