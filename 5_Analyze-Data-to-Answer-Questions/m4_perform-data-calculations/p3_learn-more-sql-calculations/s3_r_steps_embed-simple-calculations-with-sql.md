@@ -1,12 +1,12 @@
 # Step-by-Step: Embed Simple Calculations with SQL
 
-This reading outlines the steps the instructor performs in the next video, **Embed simple calculations with SQL**. In this video, the goal is to find out the total number of bags of avocados sold on each date at each location using the dataset you loaded to BigQuery.
+This reading outlines the steps the instructor performs in the next video, [**Embed simple calculations with SQL**](./s3_r_steps_embed-simple-calculations-with-sql.md). In this video, the goal is to find out the total number of bags of avocados sold on each date at each location using the dataset you loaded to BigQuery.
 
 Keep this step-by-step guide open as you watch the video. It can serve as a helpful reference if you need additional context or clarification while following the video steps. This is not a graded activity, but you can complete these steps to practice the skills demonstrated in the video.
 
 ## What you’ll need
 
-In order to follow along with the instructor, you will need the [avocado dataset](link_to_avocado_dataset) uploaded into your project space. If you haven’t already uploaded this data, follow the instructions in the [Upload the avocado dataset to BigQuery](link_to_upload_avocado_dataset) reading.
+In order to follow along with the instructor, you will need the [avocado dataset on kaggle](https://www.kaggle.com/datasets/neuromusic/avocado-prices) or file [avocado-prices-in-us.zip](./resources/avocado-prices-in-us.zip)uploaded into your project space. If you haven’t already uploaded this data, follow the instructions in the [Upload the avocado dataset to BigQuery](./s4_v_embed-simple-calculations-with-sql.md) reading.
 
 ### Example 1: Verify the total number of bags
 
