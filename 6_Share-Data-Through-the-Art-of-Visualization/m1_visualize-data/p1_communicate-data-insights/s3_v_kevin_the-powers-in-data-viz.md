@@ -32,7 +32,7 @@ Video transcript
 - I'm Kevin.
 - I'm director of analytics here at Google.
 
-## Key Points from the Video - Kevin: The Power's in the Data Viz:
+## Key Points from the Video - Kevin: The Power's in the Data Viz
 
 1. **Definition of Data Analytics:**
    - Data Analytics involves the collection, analysis, and utilization of data to tell stories using charts and visualizations. The goal is to enable businesses to make better decisions.
