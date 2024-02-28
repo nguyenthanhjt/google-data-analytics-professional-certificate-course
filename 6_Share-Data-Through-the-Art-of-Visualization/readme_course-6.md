@@ -1,34 +1,40 @@
-# Course 5: Analyze Data to Answer Questions
+# Course 6: Share Data Through the Art of Visualization
 
 This course is part of Google Data Analytics Professional Certificate
 
 ## What you'll learn
 
-- Discuss the importance of organizing your data before analysis by using sorts and filters.
-- Convert and format data.
-- Apply the use of functions and syntax to create SQL queries to combine data from multiple database tables.
-- Describe the use of functions to conduct basic calculations on data in spreadsheets.
+- Describe the use of data visualizations to talk about data and the results of data analysis.
+- Identify Tableau as a data visualization tool and understand its uses.
+- Explain what data driven stories are including reference to their importance and their attributes.
+- Explain principles and practices associated with effective presentations.
 
 ## Skills you'll gain
 
-- Data Aggregation
-- Spreadsheet
+- Business Communication
 - Data Analysis
-- Data Calculations
-- SQL
 
 ## Overview
 
 There are 4 modules in this course
 
-This is the fifth course in the Google Data Analytics Certificate. In this course, you’ll explore what it means to actually analyze your data. You’ll take what you’ve learned up to this point and apply it to make sense of the data you’ve collected. You’ll learn how to organize and format your data using spreadsheets and SQL to help you look at and think about your data in different ways. You’ll also find out how to perform complex calculations with your data to address business objectives. You’ll learn how to use formulas, functions, and SQL queries as you conduct your analysis. Current Google data analysts will continue to instruct and provide you with hands-on ways to accomplish common data analyst tasks with the best tools and resources.
+This is the sixth course in the Google Data Analytics Certificate. You’ll learn how to visualize and present your data findings as you complete the data analysis process. This course will show you how data visualizations, such as visual dashboards, can help bring your data to life. You’ll also explore Tableau, a data visualization platform that will help you create effective visualizations for your presentations. Current Google data analysts will continue to instruct and provide you with hands-on ways to accomplish common data analyst tasks with the best tools and resources.
 
 Learners who complete this certificate program will be equipped to apply for introductory-level jobs as data analysts. No previous experience is necessary.
 
-- By the end of this course, you will:
-  - Learn how to organize data for analysis.
-  - Understand the processes for formatting and adjusting data.
-  - Explore how to aggregate data in spreadsheets and by using SQL.
-  - Use formulas and functions in spreadsheets to make data calculations.
-  - Learn how to complete calculations using SQL queries.
+By the end of this course, learners will:
 
+- Understand the importance of data visualization.
+- Learn how to form a compelling narrative through data stories.
+- Gain an understanding of how to use Tableau to create dashboards and dashboard filters.
+- Discover how to use Tableau to create effective visualizations.
+- Explore the principles and practices involved with effective presentations.
+- Learn how to consider potential limitations associated with the data in your presentations.
+- Understand how to apply best practices to a Q&A with your audience.
+
+### Course structure
+
+1. Module 1:Visualize data
+2. Module 2: Create data visualizations with Tableau
+3. Module 3: Craft data stories
+4. Module 4: Develop presentations and slideshows
