@@ -1,8 +1,11 @@
 # Refresher: Your Google Data Analytics Certificate roadmap
 
 Preview each course
+
 Infographic
+
 Your Google Data Analytics Certificate roadmap
+
 Use this guide to review the topics covered, tools used, and skills you will use in each course.
 
 ## Which course?

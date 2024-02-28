@@ -1,8 +1,11 @@
-# Refresher: Your data analytics certificate roadmap
+# Refresher: Your Google Data Analytics Certificate roadmap
 
 Preview each course
+
 Infographic
+
 Your Google Data Analytics Certificate roadmap
+
 Use this guide to review the topics covered, tools used, and skills you will use in each course.
 
 ## Which course?
@@ -37,10 +40,12 @@ For details on topics covered, tools used, and skills you will build, select the
   - Structuring how you think
   - Summarizing data
   - Putting things into context
+  - Managing team and stakeholder expectations
+  - Problem-solving and conflict-resolution
 
 ### 3. Prepare
 
-- What you will learn
+- What you will learn:
   - How data is generated
   - Features of different data types, fields, and values
   - Database structures
@@ -103,7 +108,7 @@ For details on topics covered, tools used, and skills you will build, select the
   - Presenting to others about data
   - Answering questions about data
 
-### 7. Act
+### 7. Share
 
 - What you will learn:
   - Programming languages and environments
@@ -121,10 +126,9 @@ For details on topics covered, tools used, and skills you will build, select the
   - Generating data visualizations in R
   - Reporting on data analysis to stakeholders
 
-### 8. Capstone
+### 8. What you will learn
 
-- What you will learn:
-  - How a data analytics portfolio distinguishes you from other candidates
+- How a data analytics portfolio distinguishes you from other candidates
   - Practical, real-world problem-solving
   - Strategies for extracting insights from data
   - Clear presentation of data findings
