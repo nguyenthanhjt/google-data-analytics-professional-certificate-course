@@ -38,7 +38,7 @@ WITH plant_variety AS (
 ## **Question 4:**Why might a data professional add a CREATE TABLE statement to a temporary table?
 
 - Automate calculations in the table
-- Give multiple people access to the table
+- `Give multiple people access to the table`
 - Include metadata about the data in the table
 - Create a second table within the temporary table
 
