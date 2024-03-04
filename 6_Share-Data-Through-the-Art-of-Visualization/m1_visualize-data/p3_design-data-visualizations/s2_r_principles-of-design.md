@@ -42,4 +42,14 @@ These first six principles of design are key considerations that you can make wh
 
 Being a data analyst means learning to think in a lot of different ways. These nine principles of design can help guide you as you create effective and interesting visualizations.
 
+## **Key Points:**
 
+- The reading introduces nine basic principles of design for creating effective and visually appealing data visualizations.
+- The nine principles are: Balance, Emphasis, Movement, Pattern, Repetition, Proportion, Rhythm, Variety, and Unity.
+- **Balance:** Achieved when key visual elements are distributed evenly, creating a sense of symmetry without distracting from the main message.
+- **Emphasis:** Involves highlighting the most important data using techniques like color and value to guide the audience's attention.
+- **Movement:** Refers to the path the viewer's eye travels, created through design elements or animations to guide understanding.
+- **Pattern:** Creation of patterns using similar shapes and colors to highlight similarities or emphasize specific elements in the data.
+- **Repetition:** Repeating chart types, shapes, or colors enhances the effectiveness and cohesiveness of visualizations.
+- **Proportion:** Demonstrates the importance of specific data by using various colors and sizes to call attention to certain visuals.
+- **Rhythm, Variety, and Unity:** These principles serve as checks once the visualization is finished, ensuring a sense of movement, engagement through variety, and overall cohesiveness.

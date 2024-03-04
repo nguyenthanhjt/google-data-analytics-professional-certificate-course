@@ -34,10 +34,10 @@ Video transcript
 - As data analysts, we can use our understanding of the human visual system to produce better visuals.
 - When we create visualizations, we can do so in a way that helps the audience process the information and helps them remember what they're seeing.
 - Visual journalists Dona Wong proposes that effective visuals, like the database we've been discussing here have three essential elements.
-- The first is clear meaning, good visualizations clearly communicate their intended insight.
-- The second is a sophisticated use of contrast, which helps separate the most important data from the rest using visual context that our brains naturally look for.
+- The first is `clear meaning, good visualizations clearly communicate their intended insight`.
+- The second is a `sophisticated use of contrast, which helps separate the most important data from the rest using visual context that our brains naturally look for.`
 - The third essential element for effective visuals is refined execution.
-- Visuals with refined execution include deep attention to detail, using visual elements like lines, shapes, colors, value, space and movement.
+- Visuals with `refined execution include deep attention to detail`, using visual elements like lines, shapes, colors, value, space and movement.
 - In other words, the elements of art that we talked about earlier.
 - The first rule in most businesses is to satisfy the customer, it's no different with data analytics.
 - While your customers will probably be managers and other stakeholders, you should always think of them first when creating data visualizations.
@@ -45,3 +45,32 @@ Video transcript
 - If you make your data viz easy to look at and understand quickly, then you have done your job and then you'll be satisfied just like your customers.
 - Coming up we'll talk about design, thinking and data visualizations.
 - See you soon.
+
+## Questions & Notes
+
+- Which one will make it easiest for the user to understand the point you're trying to make?
+- Data composition: combining the individual parts in a visualization and displaying them together as a whole
+- Elements for effective visuals
+  - Clear meaning: good visualizations clearly communicate their intended insight
+  - Sophisticated use of contrast: `sophisticated use of contrast, which helps separate the most important data from the rest using visual context that our brains naturally look for
+  - Refined excecution: include deep attention to detail, using visual elements like lines, shapes, colors, value, space and movement.
+
+### Question 1: Data visualizations have three essential elements: clear meaning, a sophisticated use of contrast, and refined execution. What is refined execution?
+
+- Clearly communicating insights
+- Deep attention to detail
+- Providing visual context
+- Separating the most important data from the rest
+
+> Correct: Refined execution means paying deep attention to detail. This is done by using visual elements such as lines, shapes, colors, value, space, and movement. 
+
+## **Key Points:**
+
+- The video emphasizes the importance of choosing the right visualization to make data understandable for the audience.
+- The selection of visualizations depends on the specific needs of the analysis and the audience.
+- Different types of charts are suitable for various scenarios, such as line graphs for comparing data over time, ordered bar and group bar graphs for comparing distinct objects, and stack bars, donuts, pie charts, etc., for data composition.
+- Charts like scatterplots and bubble charts, column/line charts, and heatmaps are effective for showing relationships in data.
+- Understanding the audience's perspective is crucial, and effective visuals should have clear meaning, sophisticated use of contrast, and refined execution.
+- Visualizations should consider the human visual system, helping the audience process information and remember insights.
+- Effective visuals have three essential elements: clear meaning, sophisticated use of contrast, and refined execution.
+- Satisfaction of the audience, which includes managers and stakeholders, is a key goal in data analytics.
