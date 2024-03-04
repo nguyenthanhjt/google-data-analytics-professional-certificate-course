@@ -52,7 +52,7 @@ Video transcript
 - Data composition: combining the individual parts in a visualization and displaying them together as a whole
 - Elements for effective visuals
   - Clear meaning: good visualizations clearly communicate their intended insight
-  - Sophisticated use of contrast: `sophisticated use of contrast, which helps separate the most important data from the rest using visual context that our brains naturally look for
+  - Sophisticated use of contrast: sophisticated use of contrast, which helps separate the most important data from the rest using visual context that our brains naturally look for
   - Refined excecution: include deep attention to detail, using visual elements like lines, shapes, colors, value, space and movement.
 
 ### Question 1: Data visualizations have three essential elements: clear meaning, a sophisticated use of contrast, and refined execution. What is refined execution?
