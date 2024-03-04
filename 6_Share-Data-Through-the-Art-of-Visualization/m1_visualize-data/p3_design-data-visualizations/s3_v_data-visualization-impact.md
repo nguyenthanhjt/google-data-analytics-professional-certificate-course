@@ -62,7 +62,7 @@ Video transcript
 - Providing visual context
 - Separating the most important data from the rest
 
-> Correct: Refined execution means paying deep attention to detail. This is done by using visual elements such as lines, shapes, colors, value, space, and movement. 
+> Correct: Refined execution means paying deep attention to detail. This is done by using visual elements such as lines, shapes, colors, value, space, and movement.
 
 ## **Key Points:**
 
