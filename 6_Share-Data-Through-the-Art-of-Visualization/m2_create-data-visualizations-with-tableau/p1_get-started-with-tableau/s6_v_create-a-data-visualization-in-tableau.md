@@ -79,3 +79,49 @@ Click on the template preview link: [CO2 Dataset](./resources/co2-dataset.xlsx)
 If you do not have a Google account, click on the attachment below to download the CO2 Dataset:
 
 [co2-dataset.xlsx](./resources/co2-dataset.xlsx)
+
+## Key Points from the Video:
+
+### Steps to Create a Data Visualization in Tableau:
+
+1. **Download the Dataset:**
+   - Download the CO2 dataset using the provided link or attachment.
+
+2. **Access Tableau Public:**
+   - Log in to Tableau Public or create an account if you haven't already.
+   - Go to your profile and select "Create a Viz."
+
+3. **Connect to Data:**
+   - In the "Connect to Data" window, upload the CO2 dataset.
+   - Choose the sheet "CO2 data cleaned."
+
+4. **Explore Data Types:**
+   - Tableau interprets data types using icons (e.g., # for numeric, abc for string, globe for geographic).
+
+5. **Create a CO2 Emissions Map:**
+   - Go to "Sheet 1."
+   - Double-click the "Country Name" dimension to create a map.
+   - Double-click or drag the "CO2 kilotons" measure to adjust dot sizes based on CO2 emissions.
+
+6. **Customize Visualization:**
+   - Use the middle column to customize aspects like color, size, and labels.
+   - Drag measures to color, size, or label marks to change visualization attributes.
+   - Experiment with different color options.
+
+7. **Explore Data Trends:**
+   - Visualize CO2 emissions per country on the map.
+
+8. **Switch Dimensions and Measures:**
+   - Experiment by visualizing CO2 per capita per region.
+   - Double-click "Region" for dimension and "CO2 Per Capita" for the measure.
+
+9. **Edit and Delete Charts:**
+   - Edit chart titles by hovering over the title box.
+   - To delete a chart, select the Clear Sheet button.
+   - Use the back button to reverse changes.
+
+10. **Save and Publish:**
+    - Save your progress by hovering over the file tab and selecting "Publish As."
+
+11. **Advanced Tools:**
+    - Acknowledge that this is just the beginning, and more advanced tools in Tableau will be explored.
