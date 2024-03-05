@@ -161,3 +161,18 @@ In this activity, you used Tableau to create a visualization out of a dataset. I
 
 - What elements can you change to customize a chart in Tableau?
 - What other kinds of visualizations could you create in Tableau?
+
+Key customizable elements include color, size, labels, and tooltips. By dragging and dropping measures onto different areas, such as the Color or Size in the Marks card, you can dynamically adjust the visual attributes of your chart. Additionally, titles and chart types can be edited to improve clarity and convey specific insights.
+
+- Line Charts: Illustrating trends over time.
+- Bar Charts: Comparing values across different categories.
+- Heat Maps: Visualizing concentration or intensity of data points.
+- Scatter Plots: Showing relationships between two numerical variables.
+- Gantt Charts: Displaying durations of events on a timeline.
+- Box Plots: Illustrating the distribution of values along an axis.
+- Symbol Maps: Marking specific points on a geographical map.
+- Bubble
+
+> A successful response might include how Tableau allows you to create in-depth visualizations for data and customize the colors, labels, sizing and more.
+>
+> Moreover, some versions of the program are available at no charge. Because of these advantages, many data analysts use it extensively. With the information in this activity, you can prepare for upcoming activities where you will learn more about what you can do in Tableau.
