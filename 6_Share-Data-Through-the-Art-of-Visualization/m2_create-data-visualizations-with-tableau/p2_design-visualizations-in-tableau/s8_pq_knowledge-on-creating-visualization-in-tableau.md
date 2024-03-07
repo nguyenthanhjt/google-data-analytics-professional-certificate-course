@@ -16,7 +16,7 @@
 - Orange and brown
 - Blue and gray
 
-> Many people associate green with positive results and red with negative results. They could be misleading in this data visualization because green might falsely represent a trade surplus for the EU and red might falsely represent a trade deficit for Australia. 
+> Many people associate green with positive results and red with negative results. They could be misleading in this data visualization because green might falsely represent a trade surplus for the EU and red might falsely represent a trade deficit for Australia.
 
 ## Question 3: In this visualization, what steps could you take to adjust the labels in order to make the visualization more effective? Select all that apply
 
