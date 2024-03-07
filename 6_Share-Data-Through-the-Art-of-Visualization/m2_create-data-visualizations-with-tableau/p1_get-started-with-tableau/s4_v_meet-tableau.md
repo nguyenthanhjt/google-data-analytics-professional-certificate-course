@@ -97,9 +97,9 @@ Video transcript
 - **Gallery** is now Discover in the top navigation bar.
 
 - You can click the link below to follow along: [Google Career Certificates](https://public.tableau.com/profile/grow.with.google#!/)
-  - **Note**: If you're not already logged in to Tableau Public, log in before you click the link. Or, copy the link and paste it into the address bar after you have logged in to Tableau Public. In either case, you will land on the Google Career Certificates page with access to the World Happiness data and workbooks used in this video. 
+  - **Note**: If you're not already logged in to Tableau Public, log in before you click the link. Or, copy the link and paste it into the address bar after you have logged in to Tableau Public. In either case, you will land on the Google Career Certificates page with access to the World Happiness data and workbooks used in this video.
 
-## Keypoints - Video Summary:
+## Keypoints - Video Summary
 
 1. **Introduction to Tableau:**
    - Tableau is positioned as the intersection of analytics and art, where data analysts transform data into meaningful visuals.
