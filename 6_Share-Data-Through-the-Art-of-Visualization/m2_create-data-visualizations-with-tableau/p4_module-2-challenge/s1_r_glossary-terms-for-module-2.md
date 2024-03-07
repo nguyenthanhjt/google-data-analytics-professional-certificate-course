@@ -37,6 +37,7 @@
 ## Terms and definitions from previous modules
 
 ### A
+
 - **A/B testing**: The process of testing two variations of the same web page to determine which page is more successful at attracting user traffic and generating revenue
 
 - **Absolute reference**: A reference within a function that is locked so that rows and columns won’t change if the function is copied
@@ -76,6 +77,7 @@
 - **AVERAGEIF**: A spreadsheet function that returns the average of all cell values from a given range that meet a specified condition
 
 ### B
+
 - **Bad data source**: A data source that is not reliable, original, comprehensive, current, and cited (ROCCC)
 
 - **Balance**: The design principle of creating aesthetic appeal and clarity in a data visualization by evenly distributing visual elements
@@ -93,6 +95,7 @@
 - **Business task**: The question or problem data analysis resolves for a business
 
 ### C
+
 - **Calculated field**: A new field within a pivot table that carries out certain calculations based on the values of other fields
 
 - **Calculus**: A branch of mathematics that involves the study of rates of change and the changes between values that are related by a function
@@ -168,6 +171,7 @@
 - **Currency**: The aspect of data ethics that presumes individuals should be aware of financial transactions resulting from the use of their personal data and the scale of those transactions
 
 ### D
+
 - **Dashboard**: A tool that monitors live, incoming data
 
 - **Data**: A collection of facts
@@ -277,6 +281,7 @@
 - **Dynamic visualizations**: Data visualizations that are interactive or change over time
 
 ### E
+
 - **Emphasis**: The design principle of arranging visual elements to focus the audience’s attention on important information in a data visualization
 
 - **Equation**: A calculation that involves addition, subtraction, multiplication, or division (also called a math expression)
@@ -288,7 +293,9 @@
 - **Experimenter bias**: The tendency for different people to observe things differently (Refer to Observer bias)
 
 - **External data**: Data that lives, and is generated, outside of an organization
+
 ### F
+
 - **Fairness**: A quality of data analysis that does not create or reinforce bias
 - **Field**: A single piece of information from a row or column of a spreadsheet; in a data table, typically a column in the table
 - **Field length**: A tool for determining how many characters can be keyed into a spreadsheet field
@@ -303,13 +310,15 @@
 - **Function**: A preset command that automatically performs a specified process or task using the data in a spreadsheet
 
 ### G
+
 - **Gap analysis**: A method for examining and evaluating the current state of a process in order to identify opportunities for improvement in the future
 - **General Data Protection Regulation of the European Union (GDPR)**: Policy-making body in the European Union created to help protect people and their data
 - **Geolocation**: The geographical location of a person or device by means of digital information
 - **Good data source**: A data source that is reliable, original, comprehensive, current, and cited (ROCCC)
-- **GROUP BY**: A SQL clause that groups rows that have the same values from a table into summary rows 
+- **GROUP BY**: A SQL clause that groups rows that have the same values from a table into summary rows
 
 ### H
+
 - **HAVING**: A SQL clause that adds a filter to a query instead of the underlying table that can only be used with aggregate functions
 - **Header**: The first row in a spreadsheet that labels the type of data in each column
 - **Headline**: Text at the top of a visualization that communicates the data being presented
@@ -318,6 +327,7 @@
 - **Hypothesis testing**: A process to determine if a survey or experiment has meaningful results
 
 ### I
+
 - **Incomplete data**: Data that is missing important fields
 - **Inconsistent data**: Data that uses different formats to represent the same thing
 - **Incorrect/inaccurate data**: Data that is complete but inaccurate
@@ -327,15 +337,18 @@
 - **Interpretation bias**: The tendency to interpret ambiguous situations in a positive or negative way
 
 ### J
+
 - **JOIN**: A SQL function that is used to combine rows from two or more tables based on a related column
 
 ### K
+
 - *(No terms listed)*
 
 ### L
+
 - **Label**: Text in a visualization that identifies a value or describes a scale
-- **Leading question**: A question that steers people toward a certain response 
-- **LEFT**: A function that returns a set number of characters from the left side of a text string 
+- **Leading question**: A question that steers people toward a certain response
+- **LEFT**: A function that returns a set number of characters from the left side of a text string
 - **LEFT JOIN**: A SQL function that will return all the records from the left table and only the matching records from the right table
 - **Legend**: A tool that identifies the meaning of various elements in a data visualization
 - **LEN**: A function that returns the length of a text string by counting the number of characters it contains
@@ -345,6 +358,7 @@
 - **Long data**: A dataset in which each row is one time point per subject, so each subject has data in multiple rows
 
 ### M
+
 - **Mandatory**: A data value that cannot be left blank or empty
 - **Map**: A data visualization that organizes data geographically
 - **Margin of error**: The maximum amount that sample results are expected to differ from those of the actual population
@@ -360,7 +374,7 @@
 - **Merger**: An agreement that unites two organizations into a single new one
 - **Metadata**: Data about data
 - **Metadata repository**: A database created to store metadata
-- **Metric**: A single, quantifiable type of data that is used for measurement 
+- **Metric**: A single, quantifiable type of data that is used for measurement
 - **Metric goal**: A measurable goal set by a company and evaluated using metrics
 - **MID**: A function that returns a segment from the middle of a text string
 - **MIN**: A spreadsheet function that returns the smallest numeric value from a range of cells
@@ -369,6 +383,7 @@
 - **Movement**: The design principle of arranging visual elements to guide the audience’s eyes from one part of a data visualization to another
 
 ### N
+
 - **Naming conventions**: Consistent guidelines that describe the content, creation date, and version of a file in its name
 - **Narrative**: (Refer to story)
 - **Networking**: Building relationships by meeting people both in person and online
@@ -378,9 +393,159 @@
 - **Null**: An indication that a value does not exist in a dataset
 
 ### O
+
 - **Observation**: The attributes that describe a piece of data contained in a row of a table
 - **Observer bias**: The tendency for different people to observe things differently (also called experimenter bias)
 - **Open data**: Data that is available to the public
 - **Openness**: The aspect of data ethics that promotes the free access, usage, and sharing of data
 - **Operator**: A symbol that names the operation or calculation to be performed
-- **ORDER BY**: A SQL clause
+- **ORDER BY**: A SQL clause that sorts results returned in a query
+- **Order of operations**: Using parentheses to group together spreadsheet values in order to clarify the order in which operations should be performed
+- **Ordinal data**: Qualitative data with a set order or scale
+- **Outdated data**: Any data that has been superseded by newer and more accurate information
+- **OUTER JOIN**: A SQL function that combines RIGHT and LEFT JOIN to return all matching records in both tables
+- **Outer query**: A SQL statement containing a subquery
+- **Ownership**: The aspect of data ethics that presumes individuals own the raw data they provide and have primary control over its usage, processing, and sharing
+
+### P
+
+- **Pattern**: The design principle of using similar visual elements to demonstrate trends and relationships in a data visualization
+- **Pie chart**: A data visualization that uses segments of a circle to represent the proportions of each data category compared to the whole
+- **Pivot chart**: A chart created from the fields in a pivot table
+- **Pivot table**: A data summarization tool used to sort, reorganize, group, count, total, or average data
+- **Pixel**: In digital imaging, a small area of illumination on a display screen that, when combined with other adjacent areas, forms a digital image
+- **Population**: In data analytics, all possible data values in a dataset
+- **Pre-attentive attributes**: The elements of a data visualization that an audience recognizes automatically without conscious effort
+- **Primary key**: An identifier in a database that references a column in which each value is unique (Refer to foreign key)
+- **Problem domain**: The area of analysis that encompasses every activity affecting or affected by a problem
+- **Problem types**: The various problems that data analysts encounter, including categorizing things, discovering connections, finding patterns, identifying themes, making predictions, and spotting something unusual
+- **Profit margin**: A percentage that indicates how many cents of profit has been generated for each dollar of sale
+- **Proportion**: The design principle of using the relative size and arrangement of visual elements to demonstrate information in a data visualization
+
+### Q
+
+- **Qualitative data**: A subjective and explanatory measure of a quality or characteristic
+- **Quantitative data**: A specific and objective measure, such as a number, quantity, or range
+- **Query**: A request for data or information from a database
+- **Query language**: A computer programming language used to communicate with a database
+
+### R
+
+- **R**: A programming language used for statistical analysis, visualization, and other data analysis
+- **Random sampling**: A way of selecting a sample from a population so that every possible type of the sample has an equal chance of being chosen
+- **Range**: A collection of two or more cells in a spreadsheet
+- **Ranking**: A system to position values of a dataset within a scale of achievement or status
+- **Record**: A collection of related data in a data table, usually synonymous with row
+- **Redundancy**: When the same piece of data is stored in two or more places
+- **Reframing**: The process of restating a problem or challenge, then redirecting it toward a potential resolution
+- **Regular expression (RegEx)**: A rule that says the values in a table must match a prescribed pattern
+- **Relational database**: A database that contains a series of tables that can be connected to form relationships
+- **Relativity**: The process of considering observations in relation or proportion to something else
+- **Relevant question**: A question that has significance to the problem to be solved
+- **Remove duplicates**: A spreadsheet tool that automatically searches for and eliminates duplicate entries from a spreadsheet
+- **Repetition**: The design principle of repeating visual elements to demonstrate meaning in a data visualization
+- **Report**: A static collection of data periodically given to stakeholders
+- **Return on investment (ROI)**: A formula that uses the metrics of investment and profit to evaluate the success of an investment
+- **Revenue**: The total amount of income generated by the sale of goods or services
+- **Rhythm**: The design principle of creating movement and flow in a data visualization to engage an audience
+- **RIGHT**: A function that returns a set number of characters from the right side of a text string
+- **RIGHT JOIN**: A SQL function that will return all records from the right table and only the matching records from the left.
+- **Root cause**: The reason why a problem occurs
+- **ROUND**: A SQL function that returns a number rounded to a certain number of decimal places
+
+### S
+
+- **Sample**: In data analytics, a segment of a population that is representative of the entire population
+- **Sampling bias**: Overrepresenting or underrepresenting certain members of a population as a result of working with a sample that is not representative of the population as a whole
+- **Scatterplot**: A data visualization that represents relationships between different variables with individual data points without a connecting line
+- **Schema**: A way of describing how something, such as data, is organized
+- **Scope of work (SOW)**: An agreed-upon outline of the tasks to be performed during a project
+- **Second-party data**: Data collected by a group directly from its audience and then sold
+- **SELECT**: The section of a query that indicates from which column(s) to extract the data
+- **SELECT INTO**: A SQL clause that copies data from one table into a temporary table without adding the new table to the database
+- **Small data**: Small, specific data points typically involving a short period of time, which are useful for making day-to-day decisions
+- **SMART methodology**: A tool for determining a question’s effectiveness based on whether it is specific, measurable, action-oriented, relevant, and time-bound
+- **Social media**: Websites and applications through which users create and share content or participate in social networking
+- **Soft skills**: Nontechnical traits and behaviors that relate to how people work
+- **Sort range**: A spreadsheet menu function that sorts a specified range and preserves the cells outside the range
+- **Sort sheet**: A spreadsheet menu function that sorts all data by the ranking of a specific sorted column and keeps data together across rows
+- **Sorting**: The process of arranging data into a meaningful order to make it easier to understand, analyze, and visualize
+- **Specific question**: A question that is simple, significant, and focused on a single topic or a few closely related ideas
+- **SPLIT**: A spreadsheet function that divides text around a specified character and puts each fragment into a new, separate cell
+- **Sponsor**: A professional advocate who is committed to moving forward the career of another
+- **Spreadsheet**: A digital worksheet
+- **SQL**: (Refer to Structured Query Language)
+- **Stakeholders**: People who invest time and resources into a project and are interested in its outcome
+
+- **Static visualization**: A data visualization that does not change over time unless it is edited
+- **Statistical power**: The probability that a test of significance will recognize an effect that is present
+- **Statistical significance**: The probability that sample results are not due to random chance
+- **Statistics**: The study of how to collect, analyze, summarize, and present data
+- **Story**: The narrative of a data presentation that makes it meaningful and interesting
+- **String data type**: A sequence of characters and punctuation that contains textual information (also called text data type)
+- **Structural metadata**: Metadata that indicates how a piece of data is organized and whether it is part of one or more than one data collection
+- **Structured data**: Data organized in a certain format such as rows and columns
+- **Structured Query Language**: A computer programming language used to communicate with a database
+- **Structured thinking**: The process of recognizing the current problem or situation, organizing available information, revealing gaps and opportunities, and identifying options
+- **Subquery**: A SQL query that is nested inside a larger query
+- **SUBSTR**: A SQL function that extracts a substring from a string variable
+- **Substring**: A subset of a text string
+- **Subtitle**: Text that supports a headline by adding context and description
+- **SUM**: A function that adds the values of a selected range of cells
+- **SUMIF**: A spreadsheet function that adds numeric data based on one condition
+- **Summary table**: A table used to summarize statistical information about data
+- **SUMPRODUCT**: A function that multiplies arrays and returns the sum of those products
+- **Syntax**: The predetermined structure of a language that includes all required words, symbols, and punctuation, as well as their proper placement
+
+### T
+
+- **Tableau**: A business intelligence and analytics platform that helps people visualize, understand, and make decisions with data
+- **Technical mindset**: The ability to break things down into smaller steps or pieces and work with them in an orderly and logical way
+- **Temporary table**: A database table that is created and exists temporarily on a database server
+- **Text data type**: A sequence of characters and punctuation that contains textual information (also called string data type)
+- **Text string**: A group of characters within a cell, most often composed of letters
+- **Third-party data**: Data provided from outside sources who didn’t collect it directly
+- **Time-bound question**: A question that specifies a timeframe to be studied
+- **Transaction transparency**: The aspect of data ethics that presumes all data-processing activities and algorithms should be explainable and understood by the individual who provides the data
+- **Transferable skills**: Skills and qualities that can transfer from one job or industry to another
+- **TRIM**: A function that removes leading, trailing, and repeated spaces in data
+- **Turnover rate**: The rate at which employees voluntarily leave a company
+- **Typecasting**: Converting data from one type to another
+
+### U
+
+- **Unbiased sampling**: When the sample of the population being measured is representative of the population as a whole
+- **Underscores**: Lines used to underline words and connect text characters
+- **Unfair question**: A question that makes assumptions or is difficult to answer honestly
+- **Unique**: A value that can’t have a duplicate
+- **United States Census Bureau**: An agency in the U.S. Department of Commerce that serves as the nation’s leading provider of quality data about its people and economy
+- **Unity**: The design principle of using visual elements that complement each other to create aesthetic appeal and clarity in a data visualization
+- **Unstructured data**: Data that is not organized in any easily identifiable manner
+
+### V
+
+- **Validity**: The degree to which data conforms to constraints when it is input, collected, or created
+- **VALUE**: A spreadsheet function that converts a text string that represents a number to a numeric value
+- **Variety**: The design principle of using different kinds of visual elements in a data visualization to engage an audience
+- **Verification**: A process to confirm that a data-cleaning effort was well executed and the resulting data is accurate and reliable
+- **Video file**: A collection of images, audio files, and other data usually encoded in a compressed format such as MP4, MV4, MOV, AVI, or FLV
+- **Visual form**: The appearance of a data visualization that gives it structure and aesthetic appeal
+- **Visualization**: (Refer to Data visualization)
+- **VLOOKUP**: A spreadsheet function that vertically searches for a certain value in a column to return a corresponding piece of information
+
+### W
+
+- **WHERE**: The section of a query that specifies criteria that the requested data must meet
+- **Wide data**: A dataset in which every data subject has a single row with multiple columns to hold the values of various attributes of the subject
+- **WITH**: A SQL clause that creates a temporary table that can be queried multiple times
+- **World Health Organization**: An organization whose primary role is to direct and coordinate international health within the United Nations system
+
+### X
+
+- **X-axis**: The horizontal line of a graph usually placed at the bottom, which is often used to represent time scales and discrete categories
+
+### Y
+
+- **Y-axis**: The vertical line of a graph usually placed to the left, which is often used to represent frequencies and other numerical variables
+
+### Z
