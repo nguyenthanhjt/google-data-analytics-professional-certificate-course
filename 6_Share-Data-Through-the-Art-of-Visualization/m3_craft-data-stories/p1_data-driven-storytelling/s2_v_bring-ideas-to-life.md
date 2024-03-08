@@ -56,10 +56,10 @@ Video transcript
 - Stephen Few, an innovator, author, a teacher, and data visualization expert, once said: `Numbers have an important story to tell. They rely on you to give them a clear and convincing voice.`
 - Data storytelling: communicating the meaning of a dataset with visuals and a narrative that are customized for each particular audience.
 - 3 data storytelling steps:
-  - Engage your audience:
+  - 1. Engage your audience:
     - Engagement: capturing and holding someone's interest and attention
-  - Create compelling visual
-  - Tell the story in an interesting narrative
+  - 2. Create compelling visual
+  - 3. Tell the story in an interesting narrative
 - Word cloud: a pretty simple visualization of data, these words are presented in different sizes based on how often they appear in your dataset.
 
 ## **Key Points:**
