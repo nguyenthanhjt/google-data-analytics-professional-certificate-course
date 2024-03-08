@@ -66,7 +66,7 @@ Video transcrit
 ### Questions 1: Fill in the blank: A data analyst wants to pinpoint the most relevant data derived from their analysis and eliminate the less important details. They use _____ to scan the data and quickly identify the most important insights
 
 - annotating
-- spotlighting
+- `spotlighting`
 - engaging
 - messaging
 
