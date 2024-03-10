@@ -8,7 +8,7 @@ Dashboards are important in data analysis because they enable people to visualiz
 
 ## Open Tableau
 
-You'll need to navigate and sign-in to the [Tableau Public](https://public.tableau.com/app/discover) online app. You may also refer back to the reading on how to create an account, a profile, loading, and linking datasets using the Tableau public app - [Using Tableau Public]([link-to-the-reading](https://www.coursera.org/learn/visualize-data/supplement/bMjvq)).
+You'll need to navigate and sign-in to the [Tableau Public](https://public.tableau.com/app/discover) online app. You may also refer back to the reading on how to create an account, a profile, loading, and linking datasets using the Tableau public app - [Using Tableau Public](../../m2_create-data-visualizations-with-tableau/p1_get-started-with-tableau/s8_r_optional_using-tableau-desktop.md).
 
 ## Accessing the Dataset
 
@@ -16,9 +16,11 @@ Click on the link to create your own copy of the [CO2 Dataset](https://docs.goog
 
 If you do not have a Google account, you may directly download the CO2 dataset by clicking below:
 
+[CO2-Dataset.xlsx](./resources/c6-m3-p2-s6_CO2-Dataset.xlsx)
+
 ## Load the Dataset
 
-Now that you have logged into Tableau Public, access the data source dashboard by clicking on the Create tab, then the Web Authoring option at the top of the landing page. Next, click on the center button, Upload from computer, and select the CO2 Dataset that has been downloaded to your device.
+Now that you have logged into Tableau Public, access the data source dashboard by clicking on the **Create tab**, then the **Web Authoring** option at the top of the landing page. Next, click on the center button, **Upload from computer**, and select the CO2 Dataset that has been downloaded to your device.
 
 Once the dataset has been loaded, direct your attention to the bottom of the data source tabs in the bottom left corner of the window. This opens the data sources folder Tableau public has created on your machine by default. Going forward, you should save any datasets you're working with to the data sources folder. Keeping your data files in one place is a best practice that will keep you organized.
 
@@ -40,6 +42,6 @@ You may also do a preliminary analysis of the number of categories, rows, data r
 
 ## Create Additional Dashboards
 
-Directions on how to create additional dashboard types with Tableau are [here](link-to-directions).
+Directions on how to create additional dashboard types with Tableau are [here](https://help.tableau.com/current/pro/desktop/en-us/dashboards_create.htm).
 
 Great, you've created your first basic dashboard!
