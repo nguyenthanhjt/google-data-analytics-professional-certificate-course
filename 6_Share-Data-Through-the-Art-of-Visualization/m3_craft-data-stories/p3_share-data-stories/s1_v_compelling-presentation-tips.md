@@ -27,8 +27,7 @@ Video transcript
 - Narrative share with stakeholders needs:
   - **Characters**: characters are the people affected by your story, this could be your stakeholders, customers, clients, and others.
   - **Setting**: which describes what's going on, how often it's happening, what tasks are involved, and other background information about the data project that describes the current situation.
-  - **Plot**: sometimes called the conflict, is what creates tension in the current situation.
-- This could be a challenge from a competitor, an inefficient process that needs to be fixed, or a new opportunity that the company just can't pass up. This complication of the current situation should reveal the problem your analysis is solving and compel the characters to act.
+  - **Plot**: sometimes called the conflict, is what creates tension in the current situation. This could be a challenge from a competitor, an inefficient process that needs to be fixed, or a new opportunity that the company just can't pass up. This complication of the current situation should reveal the problem your analysis is solving and compel the characters to act.
   - **Big Reveal**: or resolution, is how the data has shown that you can solve the problem the characters are facing by becoming more competitive, improving a process, inventing a new system, or whatever the ultimate goal of your data project may be.
   - **Aha moment**: is when you share your recommendations and explain why you think they'll help your company be successful.
 
