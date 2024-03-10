@@ -1,5 +1,3 @@
-- Help me to wrap key points, definitions, explanation, answer questions, or give responses for required stuff if they give in section's content.
-section 1:
 # Video: Tableau dashboard basics
 
 Video transcript
