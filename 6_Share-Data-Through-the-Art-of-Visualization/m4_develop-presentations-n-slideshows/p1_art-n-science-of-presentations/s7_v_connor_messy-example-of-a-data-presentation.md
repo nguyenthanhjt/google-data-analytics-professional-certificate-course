@@ -54,23 +54,37 @@ Video transcript
 - They didn't know that this was the end of the presentation, that this is where they should be trying to put all the pieces together.
 - Coming up, we're going to discuss how we can improve this presentation, as well as dive into what the presentation will actually look like when we're trying to explain how health and happiness are correlated.
 
+## Question & Note
+
+- What was wrong?
+  - No story, no logical flow
+  - No titles
+  - Too much text
+  - Hard to understand
+  - Uneven and inconsistent format, no theme
+  - No conclusion or recommendation slide
+
 ## Key Points from Connor's Analysis
 
 1. **Title Slide:**
+   ![x](./resources/img-1.png)
    - Lengthy title with a generic world image.
    - Lack of a compelling introduction.
 
 2. **First Data Slide:**
+   ![x](./resources/img-2.png)
    - Immediate presentation of complex data without a statement of purpose or introduction.
    - Absence of a title, subtitle, or information about the presenter.
    - Audience might feel lost and struggle to understand the visuals.
 
 3. **Second Data Slide:**
+   ![x](./resources/img-3.png)
    - Improved visual with a map and clear color representation.
    - Excessive words without a title, making it challenging for the audience to grasp the main message.
    - Lack of a consistent theme in slide design.
 
 4. **Conclusion Slide:**
+   ![x](./resources/img-4.png)
    - Title present but lacks a logical flow leading to it.
    - The overall presentation lacks a story, logical flow, and a guiding theme.
    - Uneven and inconsistent placement of data visuals.
