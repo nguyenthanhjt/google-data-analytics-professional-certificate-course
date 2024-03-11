@@ -1,6 +1,6 @@
 # Video: Connor: Messy example of a data presentation
 
-Video transcript
+[Video](./resources/s7_v_connor_messy-example-of-a-data-presentation.mp4) & [transcript](./resources/s7_v_connor_messy-example-of-a-data-presentation.txt)
 
 - So we're going to dive into specific examples that we have.
 - So we've built what we call a messy example of a data presentation.
