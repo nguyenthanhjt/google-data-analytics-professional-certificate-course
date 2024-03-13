@@ -57,3 +57,26 @@ Now, write 2-3 sentences (40-60 words) in response to each of these questions. E
 
 What do you think?
 Your answer cannot be more than 10000 characters.
+
+### My response
+
+My personal favorite presentation on Angela Lee Duckworth's "Grit: the Power of Passion and Perseverance" might include the following characteristics:
+
+My personal preferences for the favorite presentation on Angela Lee Duckworth's "Grit: the Power of Passion and Perseverance" might include the following characteristics:
+
+1. **Resonance with Truth and Personal Experience:**
+   - The speaker shares her personal journey, from leaving a high-flying job to teaching middle school students. This authenticity and relatability create a strong connection with the audience.
+
+2. **Exploration of the "Grit" Concept:**
+   - The presentation explains and vividly illustrates the concept of "grit" and how it can predict success. Clarity and insight into the topic create information and awareness.
+
+3. **Encouragement and Inspiration:**
+   - The speaker not only presents a theory but also encourages and inspires the audience. The presentation may have prompted viewers to explore more about the "grit" concept and how it can be applied in daily life.
+
+These features could make the presentation one of the favorite English talks for viewers, creating a meaningful experience and leaving an impression about "grit" and perseverance.
+
+> Correct
+>
+> Great work reinforcing your learning with a thoughtful self-reflection! A good reflection on this topic would describe which presentation was your favorite, why it was your favorite, and how it uses best practices from the McCandless method. 
+>
+> As you learn more about how to craft effective presentations, you will get better at identifying why they are effective. Earlier, you learned about the McCandless method and how to bring your presentation from general ideas to specific information. Now, you will be able to identify examples of this in real presentations. Going forward, you can apply the principles you’ve learned to create your own great presentations as a data analyst.
