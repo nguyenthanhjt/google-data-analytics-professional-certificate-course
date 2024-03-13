@@ -84,7 +84,7 @@ Video transcript
   - 5. Tell your audience why it matters:
     - Present the possible business impact of the solution and clear actions stakeholders can take.
 
-## Key Points:
+## Key Points
 
 1. **Integrating Data into Presentations:** Discusses how to effectively incorporate data into presentations to enhance audience understanding and interpretation.
 2. **Understanding Available Data:** Emphasizes the importance of communicating what data was available during collection, including any new relevant data or the need for different data.
