@@ -50,6 +50,10 @@ Video transcript
 
 ## Questions and Notes
 
+- Two key responsibilities of data analyst:
+  - Analyze the data
+  - Present your findings effectively
+
 Try to keep in mind that
 
 - Your audience:
@@ -67,3 +71,32 @@ Try to keep in mind that
     - Make positive eye contact
   - Remember that these are skills that you can practice with every presentation
   - Seek out feedbacks from people you trust: feedback is a gift and an opportunity to grow
+
+## **Key Points from "Present like a Pro" Video:**
+
+1. **Audience Consideration:**
+   - Importance of considering the audience's perspective during presentations.
+   - Acknowledgment that not everyone experiences presentations the same way.
+
+2. **Focus on Audience Needs:**
+   - The curse of knowledge: The presenter's challenge of assuming everyone has the same context.
+   - Importance of focusing on providing the necessary information for the audience to reach the same conclusions.
+   - Recommendations to answer basic questions about data origin, collection methods, time frames, and guiding hypotheses.
+
+3. **Keeping Audience Engaged:**
+   - Recognition that the audience might have various things on their minds, making it crucial to keep presentations focused and to the point.
+   - Advice against telling unrelated stories or delving into excessive detail that doesn't concern the audience.
+
+4. **Avoiding Distractions:**
+   - The inclusion of too much information in charts can lead to distractions; sharing the right amount of content is crucial.
+
+5. **Best Practices for Delivering Presentations:**
+   - Paying attention to speaking style: using short sentences, avoiding unnecessarily long words, and incorporating intentional pauses.
+   - Keeping the pitch of sentences level to avoid confusion.
+   - Being mindful of nervous habits and minimizing distractions (e.g., staying still, purposeful movement, good posture).
+   - Practicing positive eye contact with the audience.
+   - Emphasizing the importance of continuous improvement through practice and seeking feedback.
+   - Highlighting feedback as a valuable opportunity for growth.
+
+6. **Summary of Learned Presentation Skills:**
+   - Recap of presentation skills learned in the module, including the use of frameworks, incorporating data, and applying best practices during presentations.
