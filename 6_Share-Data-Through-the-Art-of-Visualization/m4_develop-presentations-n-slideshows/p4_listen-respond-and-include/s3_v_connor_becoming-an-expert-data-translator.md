@@ -22,6 +22,15 @@ Video transcript
 - So the visuals that you choose, the theme that you have for the overall presentation should be appealing, and it should draw people in so that they know exactly what they're getting out of the presentation.
 - All of these things roll up to the one main concept that you should be thinking about when building a presentation, which is, how easy is it to understand? You are trying to make something that is very technical data analysis and simplify it down so that it doesn't matter what the technical background or even business background of the person, but they understand what it is that you are trying to explain to them.
 
+## Question & Notes
+
+- Important aspects to a presentation:
+  - Define your purpose
+  - Keep it concise
+  - Have some logical flow to your presentation
+  - Make the presentation visually compelling
+  - How easy is it to understand?
+
 ## Keypoints
 
 1. **Importance of Presentation Skills:** Connor underscores that presenting data is a vital aspect of being a data analyst. This resonates with my understanding that technical proficiency alone is insufficient; the ability to convey findings in a comprehensible manner is equally paramount.
