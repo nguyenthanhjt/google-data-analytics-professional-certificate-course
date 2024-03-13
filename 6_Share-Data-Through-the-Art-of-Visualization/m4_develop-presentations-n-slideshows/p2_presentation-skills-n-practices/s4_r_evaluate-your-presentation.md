@@ -1,6 +1,6 @@
 # Evaluate Your Presentation
 
-Earlier in this course, you practiced creating, giving, and evaluating your own presentation for the [**Hands-on Activity: Presenting practice**](../../../m3_craft-data-stories/p3_share-data-stories/s3_pq_activity_practice-presenting.md). You also learned some best practices for slide presentations and how you can evaluate presentations using them. In this reading, you will take a moment to reflect on how much your presentation skills have developed and create a presentation checklist for yourself to use in the future. This will help you prepare for future presentations as a data analyst and give you a tool to review your own work.
+Earlier in this course, you practiced creating, giving, and evaluating your own presentation for the [**Hands-on Activity: Presenting practice**](../../m3_craft-data-stories/p3_share-data-stories/s3_pq_activity_practice-presenting.md). You also learned some best practices for slide presentations and how you can evaluate presentations using them. In this reading, you will take a moment to reflect on how much your presentation skills have developed and create a presentation checklist for yourself to use in the future. This will help you prepare for future presentations as a data analyst and give you a tool to review your own work.
 
 ## Presentation Evaluation Checklist
 
