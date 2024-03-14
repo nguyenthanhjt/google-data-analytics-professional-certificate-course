@@ -16,7 +16,7 @@
 - [ ] transition
 - [ ] title
 
-> A presentation’s appendix slide is a place to include information that is too detailed for the presentation, but could be useful for answering people’s questions. 
+> A presentation’s appendix slide is a place to include information that is too detailed for the presentation, but could be useful for answering people’s questions.
 
 ## Question 3: What steps can you take to ensure you answer questions thoroughly? Select all that apply
 
