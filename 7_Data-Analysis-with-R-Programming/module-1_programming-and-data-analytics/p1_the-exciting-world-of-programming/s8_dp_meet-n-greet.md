@@ -1,6 +1,6 @@
 # Discussion Promot: Meet and greet
 
-In this course, you’ll learn how to use R to supercharge your data analysis. You’re about to embark on an exciting and rewarding learning journey! 
+In this course, you’ll learn how to use R to supercharge your data analysis. You’re about to embark on an exciting and rewarding learning journey!
 
 Please write 2-3 sentences (20-60 words total) to check in with your fellow learners, exchange ideas, and introduce yourself if you’re new to the course. Feel free to craft your own response, or use the following questions for prompts:
 
