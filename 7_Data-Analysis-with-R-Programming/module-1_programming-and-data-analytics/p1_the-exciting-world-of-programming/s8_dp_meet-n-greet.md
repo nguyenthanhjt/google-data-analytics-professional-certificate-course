@@ -17,7 +17,7 @@ Background in programming:
 
 If you are new to programming, what are your feelings about learning how to program using R—are you excited, a little nervous, or both? 
 
-Finally, visit the [discussion forum]() to read what other learners have written, engage with two or more posts, and share your feedback.
+Finally, visit the [discussion forum](https://www.coursera.org/learn/data-analysis-r/discussions) to read what other learners have written, engage with two or more posts, and share your feedback.
 
 > Participation is optional
 
