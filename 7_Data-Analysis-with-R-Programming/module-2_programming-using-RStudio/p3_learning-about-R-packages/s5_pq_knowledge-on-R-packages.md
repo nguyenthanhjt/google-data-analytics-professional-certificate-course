@@ -7,7 +7,7 @@
 - [ ] Selects the best packages to use based on an analyst’s current needs
 - [x] Presents a list of packages currently installed in an RStudio session
 
-> Correct: The installed.packages() function shows a list of packages currently installed in an RStudio session. You can then locate the names of the packages and what’s needed to use functions from the package. 
+> Correct: The installed.packages() function shows a list of packages currently installed in an RStudio session. You can then locate the names of the packages and what’s needed to use functions from the package.
 
 ## Question 2: In data analytics, what is CRAN?
 
