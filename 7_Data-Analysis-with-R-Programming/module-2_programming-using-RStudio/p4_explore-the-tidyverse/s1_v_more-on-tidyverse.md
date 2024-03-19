@@ -95,3 +95,15 @@ Great, you're back.
 - [x] False
 
 > Correct: The read_csv() function is a part of the readr package. It imports a .CSV file for use in R.
+
+## **Key Points:**
+
+- The video introduces the viewer to the tidyverse, a collection of R packages designed for data manipulation, exploration, and visualization.
+- Core packages of tidyverse include ggplot2, dplyr, tidyr, readr, tibble, purrr, stringr, and forcats.
+- These packages streamline various data analysis tasks, such as visualization, data cleaning, data importing, and data manipulation.
+- Each package serves a specific purpose within the data analysis workflow, contributing to making R programming more straightforward and efficient.
+
+**Definitions:**
+
+- **Tidyverse:** A collection of R packages with a common design philosophy for data manipulation, exploration, and visualization.
+- **Vignette:** Documentation that serves as a guide to an R package, providing details about the problem the package solves and how its functions can be utilized.
