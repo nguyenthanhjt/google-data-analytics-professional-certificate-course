@@ -110,7 +110,7 @@ The basic concepts of R:
 - **Vectors**: a group of data element of the same type stored in a sequence in R
 - **Pipes**: a tool in R for expressing a sequence of multiple operations, represented with `%>%`
 
-### Question 1: Fill in the blank: In R, the _____ is information that a function needs to run.
+### Question 1: Fill in the blank: In R, the _____ is information that a function needs to run
 
 - [x] `argument`
 - [ ] operator
