@@ -82,9 +82,16 @@ Great, you're back.
 
 ### Question 1: Which tidyverse package is used for data visualization?
 
-- tidyr
-- readr
-- ggplot2
-- dplyr
+- [ ] tidyr
+- [ ] readr
+- [x] ggplot2
+- [ ] dplyr
 
 > Correct: The ggplot2 package is used for data visualization, specifically plots. You can use ggplot2 to create a lot of different visualizations by applying different properties to the data variables.
+
+### Question 2: The read_csv() function is a part of the dplyr package
+
+- [ ] True
+- [x] False
+
+> Correct: The read_csv() function is a part of the readr package. It imports a .CSV file for use in R.
