@@ -29,6 +29,8 @@ Carefully read the instructions in the comments of the Rmd file and complete eac
 In Step 5 of this activity, you created the `number_canceled` column to represent the total number of canceled bookings. What value was returned in this column?
 
 - [ ] 40234
-- [ ] 44224
+- [x] 44224
 - [ ] 49550
 - [ ] 52965
+
+> Correct: The number returned in this number_canceled column should be 44,224, which represents the total number of canceled hotel bookings. By cleaning and manipulating the data, you were able to answer an important question about it. Going forward, you can use what you know about data cleaning from past courses to help you learn how to clean data in R.
