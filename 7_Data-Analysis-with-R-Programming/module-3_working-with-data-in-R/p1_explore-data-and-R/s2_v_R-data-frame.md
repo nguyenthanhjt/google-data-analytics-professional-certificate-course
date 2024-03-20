@@ -79,9 +79,11 @@ Hey, welcome back.
 
 - Tidy data (R): a way of standardizing the organization of data within R
 - Tidy data standards
-  - organizing variables into columns
+  - variables are organized into columns
+  - observations area organized into rows
+  - each value must have its own cell
 
-### Question: Fill in the blank: A data frame is a collection of _____
+### Question 1: Fill in the blank: A data frame is a collection of _____
 
 - [x] columns
 - [ ] cells
@@ -89,6 +91,15 @@ Hey, welcome back.
 - [ ] data
 
 > Correct: A data frame is a collection of columns. It is similar to a table in spreadsheets or SQL.
+
+### Question 2: Which of the following are standards of tidy data? Select all that apply.
+
+- [ ] Columns are named
+- [x] Variables are organized into columns
+- [x] Observations are organized into rows
+- [x] Each value has its own cell
+
+> Correct: Variables are organized into columns, observations are organized into rows, and each value must have its own cell.
 
 ## **Key Points:**
 
@@ -99,4 +110,7 @@ Hey, welcome back.
 - Tibbles, found in the tidyverse, are enhanced versions of data frames that maintain input data types, variable names, and do not create row names.
 - Tibbles also have better printing capabilities, displaying only the first 10 rows and fitting as many columns as possible on screen to avoid overloading the console.
 - Consistent use of data frames and tibbles facilitates effective communication, sharing of data, and reproducibility of analyses.
-- Tidy data principles involve organizing variables into columns, observations into rows, and ensuring each value has its own cell, thus standardizing data organization within R.
+- Tidy data principles involve:
+  - organizing variables into columns
+  - observations into rows, and
+  - ensuring each value has its own cell, thus standardizing data organization within R.
