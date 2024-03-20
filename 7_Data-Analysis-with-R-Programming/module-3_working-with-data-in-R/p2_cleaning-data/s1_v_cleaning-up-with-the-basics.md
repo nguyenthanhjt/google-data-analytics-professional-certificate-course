@@ -82,7 +82,9 @@ Hi again.
 - But we're just scratching the surface of what you might want to do in R.
 - We'll start with the: Added to Selection.
 
-## Question: Which of the following functions returns a summary of the data frame, including the number of columns and rows? Select all that apply
+## Questions & Notes
+
+### Question 1: Which of the following functions returns a summary of the data frame, including the number of columns and rows? Select all that apply
 
 - [x] glimpse()
 - [ ] clean_names()
@@ -90,6 +92,13 @@ Hi again.
 - [ ] rename()
 
 > Correct: The skim_without_charts() and glimpse() functions both return a summary of the data frame, including the number of columns and rows.
+
+### Question 2: The rename_with() function can be used to reformat column names to be upper or lower case.
+
+- [x] True
+- [ ] False
+
+> orrect: The rename_with() function can be used to reformat column names to be upper or lower case.
 
 ## Keypoints
 
