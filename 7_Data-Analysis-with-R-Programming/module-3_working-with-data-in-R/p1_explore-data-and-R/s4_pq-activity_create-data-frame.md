@@ -14,9 +14,13 @@ To start, log into your RStudio (Posit) Cloud account. Open the project you will
 
 If you have trouble finding the correct activity, check out this [step-by-step guide](step-by-step guide link) on how to navigate in RStudio Cloud. Make sure to select the correct R markdown (.Rmd) file. The other .Rmd files will be used in different activities.
 
-If you are using RStudio (Posit) Desktop, you can download the .Rmd file [here](desktop link).
+If you are using RStudio (Posit) Desktop, you can download the .Rmd file
 
-You can also find the .Rmd file with the solutions for this activity [here](solutions link).
+If you are using RStudio Desktop, you can download the Rmd file and the data for this activity directly here:
+
+- [Lesson2_Dataframe.md](./resources/Lesson2_Dataframe.md)
+- [Lesson2_Dataframe_Solutions.Rmd](./resources/Lesson2_Dataframe_Solutions.md)
+- [hotel_bookings.csv](../p1_explore-data-and-R/resources/hotel_bookings.csv)
 
 Carefully read the instructions in the comments of the .Rmd file and complete each step. Some steps may be as simple as running pre-written code, while others may require you to write your own functions. After you finish the steps in the .Rmd file, return here to confirm that your work is complete.
 
