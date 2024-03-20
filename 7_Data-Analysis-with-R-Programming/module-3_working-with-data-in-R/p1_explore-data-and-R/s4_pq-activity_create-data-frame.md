@@ -20,6 +20,41 @@ You can also find the .Rmd file with the solutions for this activity [here](solu
 
 Carefully read the instructions in the comments of the .Rmd file and complete each step. Some steps may be as simple as running pre-written code, while others may require you to write your own functions. After you finish the steps in the .Rmd file, return here to confirm that your work is complete.
 
+```r
+install.packages("tidyverse")
+
+library(tidyverse)
+
+names <- c("jt", "trangle", "thutrang", "jay")
+
+age <- c(10, 13, 12, 16)
+
+people <- data.frame(names, age)
+
+# inspect the data frame
+
+head(people)
+
+str(people)
+
+glimpse(people)
+
+colnames(people)
+
+mutate(people, age_in_later_20_years = age + 20)
+
+############PRACTICE########
+
+fruits <- c("apple", "orange", "banana", "mango", "watermelon")
+
+fruit_rank <- c("2", "3", "5", "4", "1")
+
+my_fruits <- data.frame(fruits, fruit_rank)
+
+head(my_fruits)
+
+```
+
 ## Confirmation
 
 Which summary functions can you use to preview data frames in R? Select all that apply.
@@ -31,3 +66,5 @@ Which summary functions can you use to preview data frames in R? Select all that
 - [x] `glimpse()`
 
 - [ ] `mutate()`
+
+> Correct: The `head()`, `glimpse()`, and `str()` summary functions allow you to preview data frames in R. The `head()` function returns the columns and the first several rows of data.The `mutate()` function lets you change the data frame, not preview it. Going forward, you can use summary functions to inspect the data frames you create in your career as a data analyst

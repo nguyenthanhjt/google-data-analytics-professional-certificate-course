@@ -15,7 +15,7 @@ There are three common sources for data:
 
 Wherever data comes from, you will almost always want to store it in a data frame object to work with it. Now, you can start creating and exploring data frames with the code chunks in the RMD space. To interact with the code chunk, click the green arrow in the top-right corner of the chunk. The executed code will appear in the RMD space and your console.
 
-Throughout this activity, you will also have the opportunity to practice writing your own code by making changes to the code chunks yourself. If you encounter an error or get stuck, you can always check the Lesson2_Dataframe_Solutions .rmd file in the Solutions folder under Week 3 for the complete, correct code.
+Throughout this activity, you will also have the opportunity to practice writing your own code by making changes to the code chunks yourself. If you encounter an error or get stuck, you can always check the [Lesson2_Dataframe_Solutions.rmd](Lesson2_Dataframe_Solutions.md) file in the Solutions folder under Week 3 for the complete, correct code.
 
 ## Step 1: Load packages
 
@@ -87,7 +87,7 @@ mutate(people, age_in_20 = age + 20)
 
 ## Step 4: Try it yourself
 
-To get more familiar with creating and using data frames, use the code chunks below to create your own custom data frame.
+To get more familiar with creating and using data frames, use the code chunks below to create your own custom data frame.Pp
 
 First, create a vector of any five different fruits. You can type directly into the code chunk below; just place your cursor in the box and click to type. Once you have input the fruits you want in your data frame, run the code chunk.
 
