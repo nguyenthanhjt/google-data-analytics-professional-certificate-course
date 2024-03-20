@@ -44,3 +44,19 @@ These resources include more info about some of the file naming standards discus
 
 - [How to name files](https://speakerdeck.com/jennybc/how-to-name-files): this resource from Speaker Deck is a playful take on file naming. It includes several slides with tips and examples for how to accurately name lots of different types of files. You will learn why filenames should be both machine readable and human readable.
 - [File naming and structure](https://www.tikar.or.id/?q=node/205): this resource from the Princeton University Library provides an easy-to-scan list of best practices, considerations, and examples for developing file naming conventions.
+
+## My Wrapped Keypoints
+
+In this section, the focus is on establishing effective file-naming conventions for data files. Here's a summary of the key points covered:
+
+1. **Importance of Naming Conventions:** Clear and consistent file names are essential for organizing and locating data files efficiently, especially when collaborating with others.
+
+2. **Guidelines for File Naming:**
+   - **Do:** Keep filenames concise, use underscores or hyphens for readability, start or end filenames with letters/numbers, employ standard date formats, and use filenames that facilitate logical ordering.
+   - **Don't:** Include unnecessary characters, use spaces or special symbols, start or end filenames with symbols, employ inconsistent date formats, or use filenames that hinder logical ordering.
+
+3. **Examples:** Clear examples of good and bad filenames are provided to illustrate the recommended practices and the pitfalls to avoid.
+
+4. **Additional Resources:** Links to external resources are provided for further exploration of file naming standards and best practices, including tips on making filenames machine-readable and human-readable, and considerations for developing comprehensive file naming conventions.
+
+By following these guidelines, analysts can ensure that their data files are accurately named, facilitating easy retrieval and enhancing overall data organization and management.
