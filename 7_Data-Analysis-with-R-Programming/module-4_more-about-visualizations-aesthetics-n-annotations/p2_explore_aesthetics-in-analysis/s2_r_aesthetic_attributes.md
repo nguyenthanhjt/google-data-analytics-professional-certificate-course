@@ -27,5 +27,5 @@ By applying these aesthetic attributes to your work with ggplot2, you can create
 
 For more information about aesthetic attributes, check out these resources:
 
-- [Data visualization with ggplot2 cheat sheet](https://rstudio.com/resources/cheatsheets/): RStudio’s cheat sheet is a great reference to use while working with ggplot2. It has tons of helpful information, including explanations of how to use geoms and examples of the different visualizations that you can create.
-- [RDocumentation aes function](link_to_aes_function_guide): This guide describes the syntax of the aes function and explains what each argument does.
+- [Data visualization with ggplot2 cheat sheet](https://ggplot2.tidyverse.org/): RStudio’s cheat sheet is a great reference to use while working with ggplot2. It has tons of helpful information, including explanations of how to use geoms and examples of the different visualizations that you can create.
+- [RDocumentation aes function](https://www.rdocumentation.org/packages/ggplot2/versions/3.3.3/topics/aes): This guide describes the syntax of the aes function and explains what each argument does.
