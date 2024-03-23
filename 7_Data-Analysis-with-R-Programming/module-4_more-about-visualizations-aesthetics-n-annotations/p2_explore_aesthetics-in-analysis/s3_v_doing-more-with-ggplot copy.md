@@ -83,6 +83,30 @@ Video transcript
 - Coming up, we'll learn how to use the facet functions to display our data in different ways.
 - Bye for now.
 
+## Quetions & Notes
+
+- Geom (R): the geometrical object ued to represent your data
+- Geom functions:
+  - geom_point
+  - geom_bar
+  - geom_line
+  - geom_smooth
+  - geom_...
+- aesthetic:
+  - color
+  - size
+  - shape
+  - fill
+
+### Question 1: Which of the following items can you create with the geom_point() function?
+
+- [ ] Bar chart
+- [x] Scatterplot
+- [ ] Line diagram
+- [ ] Boxplot
+
+> Correct: You can create a scatterplot with the geom_point() function.
+
 ## My wrapped keypoints
 
 Section 3 of the course covers "Doing more with ggplot," focusing on the utilization of different geom functions to create various types of plots in R. Here's a breakdown of the key points from the video transcript:
