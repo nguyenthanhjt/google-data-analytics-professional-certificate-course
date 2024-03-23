@@ -84,6 +84,15 @@ ggplot(data = penguins) +
 ggsave("three penguin species.png")
 ```
 
+### Question 1: Where in RStudio can you find the export menu for saving plots?
+
+- [x] The plots tab
+- [ ] The source editor pane
+- [ ] The R console pane
+- [ ] The environment pane
+
+> Correct: In RStudio, you can find the export menu for saving plots in the plots tab.
+
 ## My wrapper keypoints
 
 1. **Importance of Saving Plots**: Saving plots is crucial for accessing and sharing your work later on. It allows you to continue working on your analysis, collaborate with teammates, and share your findings with others.
