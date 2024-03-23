@@ -8,11 +8,11 @@ By the end of this activity, you will be able to use R to create bar charts, upd
 
 ## Working in RStudio Cloud
 
-To start, log into your RStudio (Posit) Cloud account. Open the project you will work on in the activity with [this link](link), which opens in a new tab. If you haven't gone through this process already, at the top right portion of the screen you will see a "red stamp" indicating this project as a Temporary Copy. Click on the adjacent button, Save a Permanent Copy, and the project will be saved in your main dashboard for use with future lessons. Once that is completed, navigate to the file explorer in the bottom right and click on the following: Course 7 -> Week 4 -> Lesson3_Aesthetics.Rmd.
+To start, log into your RStudio (Posit) Cloud account. Open the project you will work on in the activity with [this link](https://posit.cloud/content/6208304), which opens in a new tab. If you haven't gone through this process already, at the top right portion of the screen you will see a "red stamp" indicating this project as a Temporary Copy. Click on the adjacent button, Save a Permanent Copy, and the project will be saved in your main dashboard for use with future lessons. Once that is completed, navigate to the file explorer in the bottom right and click on the following: Course 7 -> Week 4 -> Lesson3_Aesthetics.Rmd.
 
 The .csv file that you will need, hotel_bookings.csv, is also located in this folder.
 
-If you have trouble finding the correct activity, check out this [step-by-step guide](guide link) on how to navigate in RStudio (Posit) Cloud. Make sure to select the correct R markdown (Rmd) file. The other Rmd files will be used in different activities.
+If you have trouble finding the correct activity, check out this [step-by-step guide]([guide link](https://scribehow.com/shared/Access_and_Install_Course_Material_for_Lesson_3__JGhlL8PLSxuqtK2KRWZkJw)) on how to navigate in RStudio (Posit) Cloud. Make sure to select the correct R markdown (Rmd) file. The other Rmd files will be used in different activities.
 
 If you are using RStudio Desktop, you can download the Rmd file and the data for this activity directly here:
 
