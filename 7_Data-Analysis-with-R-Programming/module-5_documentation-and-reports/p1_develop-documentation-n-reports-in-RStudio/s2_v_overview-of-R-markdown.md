@@ -38,6 +38,7 @@ Video transcript
 ## Questions & Notes
 
 - **Markdown**: a syntax for formatting plain text files
+- **R Markdown**: is a file format for making dynamic documents with R
 - **R Notebook**: lets users run the code and show the graphs and charts that visualize the code
 - Convert to other file format:
   - HTML, PDF, and Word documents
@@ -48,6 +49,13 @@ Video transcript
   - Jupytoer
   - Kaggle
   - Google Colab
+
+### Question 1:Fill in the blank: R Markdown is a _____ for making dynamic documents with R
+
+- [ ] visualization tool
+- [ ] coding language
+- [x] file format
+- [ ] style guide
 
 ## My Wrapped Keypoints
 
