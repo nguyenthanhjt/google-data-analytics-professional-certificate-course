@@ -57,6 +57,13 @@ Video transcript
 - [x] file format
 - [ ] style guide
 
+### Question 2: R notebooks allow other users to run your code and display graphs and charts that visualize that code
+
+- [x] True
+- [ ] False
+
+> Correct:R notebooks are an interactive R Markdown option that allows other users to run your code and display graphs and charts that visualize that code.
+
 ## My Wrapped Keypoints
 
 1. **Introduction to R Markdown**: R Markdown is a file format used for creating dynamic documents with R. It allows users to integrate code and text in a single document, facilitating documentation of analysis workflows.
