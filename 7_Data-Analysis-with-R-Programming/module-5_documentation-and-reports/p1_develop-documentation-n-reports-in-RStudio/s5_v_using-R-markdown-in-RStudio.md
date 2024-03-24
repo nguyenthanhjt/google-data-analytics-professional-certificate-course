@@ -61,6 +61,15 @@ Video transcript
 
 > Correct: The knit button creates a shareable HTML report of the R Markdown file.
 
+### Question 3: A data analyst has code chunks in their R Markdown file. How do they appear in an HTML report?
+
+- [ ] Plain text
+- [x] Generated output
+- [ ] Attachments
+- [ ] HTML code
+
+> Correct: The code chunks are run and the output appears in the HTML report.
+
 ## My wrapped keypoints
 
 In this section, we learned how to use R Markdown in RStudio. Here are the key points from the video transcript:
