@@ -47,3 +47,12 @@ Video transcript
 - [x] False
 
 > Correct: This syntax is incorrect. The analyst should enclose the text that they want to appear in the document in brackets. The URL should be in parenthesis after that. This data analyst has switched the formatting. It should be [click here](rstudio.com).
+
+## Question 2: A data analyst wants to include the caption example 1 below an image (image URL: r-project.org/logo/Rlogo.png). What is the correct syntax for adding an image with this caption in an RMarkdown document?
+
+- [ ] +[example 1](r-project.org/logo/Rlogo.png)
+- [x] ![example 1](r-project.org/logo/Rlogo.png)
+- [ ] %>%[example 1](r-project.org/logo/Rlogo.png)
+- [ ] =[example 1](r-project.org/logo/Rlogo.png)
+
+> Correct: The correct syntax for adding an image with the caption example 1 to an RMarkdown file is ![example 1](r-project.org/logo/Rlogo.png). The syntax is an exclamation mark followed by the caption in brackets and the image URL or pathway in parentheses.
