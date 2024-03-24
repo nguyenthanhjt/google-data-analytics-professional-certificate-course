@@ -1,5 +1,7 @@
 # Course 7: Data Analysis with R Programming
 
+[My Certificate](./Google_Data-Analytics_Course-7_Data-Analysis-with-R-Programming_certificate.pdf)
+
 This course is part of Google Data Analytics Professional Certificate
 
 ## What you'll learn
