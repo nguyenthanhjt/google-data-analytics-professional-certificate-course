@@ -1,4 +1,4 @@
-# Course 7: Google Data Analytics Capstone: Complete a Case Study
+# Course 8: Google Data Analytics Capstone: Complete a Case Study
 
 This course is part of Google Data Analytics Professional Certificate
 
