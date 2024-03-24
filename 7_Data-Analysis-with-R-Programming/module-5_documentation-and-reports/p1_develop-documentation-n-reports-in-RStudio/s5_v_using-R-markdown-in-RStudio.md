@@ -54,6 +54,13 @@ Video transcript
 
 > Correct: Hashtags are used for headers; for example, ### Results indicates that Results is a Header 3 style heading because there three hashtags.
 
+### Question 2: The knit button can be used to save an R Markdown document as a shareable HTML report
+
+- [x] True
+- [ ] False
+
+> Correct: The knit button creates a shareable HTML report of the R Markdown file.
+
 ## My wrapped keypoints
 
 In this section, we learned how to use R Markdown in RStudio. Here are the key points from the video transcript:
