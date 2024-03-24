@@ -1,5 +1,7 @@
 # Course 6: Share Data Through the Art of Visualization
 
+[My Certificate](./Google_Data-Analytics_Course-6_Share-Data-Through-the-Art-of-Visualization_certificate.pdf)
+
 This course is part of Google Data Analytics Professional Certificate
 
 ## What you'll learn

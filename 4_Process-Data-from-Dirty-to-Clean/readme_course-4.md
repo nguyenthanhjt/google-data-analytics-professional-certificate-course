@@ -1,5 +1,7 @@
 # Course 4: Process Data from Dirty to Clean
 
+[My Certificate](./Google_Data_Analytics_Course-4_Process-Data-From-Dirty-to-Clean_certificate.pdf)
+
 This course is part of Google Data Analytics Professional Certificate
 
 ## What you'll learn

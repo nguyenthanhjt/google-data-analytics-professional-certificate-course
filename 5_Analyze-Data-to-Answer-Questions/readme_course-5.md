@@ -1,5 +1,7 @@
 # Course 5: Analyze Data to Answer Questions
 
+[My Certificate](./Google_Data-Analytics_Course-5_Analyze-Data-to-Answer-Questions_certificate.pdf)
+
 This course is part of Google Data Analytics Professional Certificate
 
 ## What you'll learn
