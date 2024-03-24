@@ -57,8 +57,6 @@
 
    Add the code chunk that lets you find the minimum value for the variable bill_depth_mm.
 
-   1 point
-
    ```R
    summarize(min_bill_depth = min(bill_depth_mm))
    ```
