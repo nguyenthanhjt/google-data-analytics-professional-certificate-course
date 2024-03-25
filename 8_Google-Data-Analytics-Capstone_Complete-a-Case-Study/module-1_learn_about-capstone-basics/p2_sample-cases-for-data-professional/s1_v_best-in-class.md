@@ -74,6 +74,7 @@ Video transcript
 - Make sure your case study answers the questions being asked
 - Make sure that you're communicateing the steps you've taken and the assumptions you've made
 - The best portfolio area personal, unique, and simple
+- Make sure that your portfolio is relevant and presentable
 
 ## My wrapped keypoints
 
