@@ -38,14 +38,14 @@ week is a reasonable goal.
 Now, prepare your data for analysis using the following Case Study Roadmap as a guide:
 
 - Guiding questions
-  - Where is your data located?: `The data has been made available by Motivate International Inc.`
-  - How is the data organized? `The data is organized by quarters in the year from 2013 to 2019 and by month from 2020 to 2024.`
+  - Where is your data located?: `Cyclistic's historical data - which is open to the public and kept on cloud. The data has been made available by Motivate International Inc.`
+  - How is the data organized? `The data is organized by quarters in the year from 2013 to 2019 and by month from 2020 to 2024. Each CSV file structured utilizing rows and columns`
   - Are there issues with bias or credibility in this data? Does your data ROCCC?
-    - `The data is Reliable: data is issued Data License Agreement`
-    - `The data is original: it was created by Motivate International Inc. as the primary party`
-    - Comprehensive
+    - `The data is Reliable: data is provided by Lyft Bikes and Scooter company which operate the City of Chicago's Divvy bicycle sharing service.`
+    - `The data is original: it was created by Motivate International Inc. as the primary party that was validated as the orginal source.`
+    - `Comprehensive: data contain completed information for analysis`
     - `Current: data is up-to-date until the current time in 2024`
-    - `Cited: Lyft Bikes and Scooters, LLC (“Bikeshare”) operates the City of Chicago’s (“City”) Divvy bicycle sharing service. Bikeshare and the City are committed to supporting bicycling as an alternative transportation option. As part of that commitment, the City permits Bikeshare to make certain Divvy system data owned by the City (“Data”) available to the public, subject to the terms and conditions of this License Agreement (“Agreement”). By accessing or using any of the Data, you agree to all of the terms and conditions of this Agreement.`
+    - `Cited: Lyft Bikes and Scooters, LLC (“Bikeshare”) operates the City of Chicago’s (“City”) Divvy bicycle sharing service. Bikeshare and the City are committed to supporting bicycling as an alternative transportation option. As part of that commitment, the City permits Bikeshare to make certain Divvy system data owned by the City (“Data”) available to the public.`
   - How are you addressing licensing, privacy, security, and accessibility?: `Follow the issued Data License Agreement on https://divvybikes.com/data-license-agreement`
   - How did you verify the data’s integrity?
   - How does it help you answer your question?
@@ -57,3 +57,25 @@ Now, prepare your data for analysis using the following Case Study Roadmap as a 
   - Determine the credibility of the data.
 - Deliverable
   - A description of all data sources used
+
+## PROCESS
+
+Then, process your data for analysis using the following Case Study Roadmap as a guide:
+
+- Guiding questions
+  - What tools are you choosing and why?
+    - Utilize EXCEL for data processing
+    - Utilize SQL for data processing(BigQuery)
+    - Utilize R and R Studio for data processing
+  - Have you ensured your data’s integrity?
+  - What steps have you taken to ensure that your data is clean?
+  - How can you verify that your data is clean and ready to analyze?
+  - Have you documented your cleaning process so you can review and share those
+  - results?
+- Key tasks
+  - Check the data for errors.
+  - Choose your tools.
+  - Transform the data so you can work with it effectively.
+  - Document the cleaning process.
+- Deliverable
+  - Documentation of any cleaning or manipulation of data
