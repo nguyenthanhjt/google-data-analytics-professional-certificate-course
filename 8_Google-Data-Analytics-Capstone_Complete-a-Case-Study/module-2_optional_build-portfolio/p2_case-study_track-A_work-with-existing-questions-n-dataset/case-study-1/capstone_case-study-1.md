@@ -1,6 +1,6 @@
 # Capstone: Case Study 1
 
-## ASK
+## Step 1: ASK
 
 Three questions will guide the future marketing program:
 
@@ -23,15 +23,19 @@ Use the following Case Study Roadmap as a guide. Note: Completing this case stud
 week is a reasonable goal.
 
 - Guiding questions
-  - What is the problem you are trying to solve?: `How do annual members and casual riders use Cyclistic bikes differently?`
+  - What is the problem you are trying to solve?:
+    - Answer the question `How do annual members and casual riders use Cyclistic bikes differently?` to find out the information to create a marketing strategy to support in turning casual dirver into annual members
   - How can your insights drive business decisions?: `Figure out the difference between Annual Members and Casual Riders when they use the Cyclistic bikes to define strategy and design the marketing campaign to attract more members. By doing so,  profit can increase quickly`
 - Key tasks:
   - Identify the business task: `What attracts casual members to become annual members?`
-  - Consider key stakeholders: `Direct|Manager - Moreno, Executives teams, (Analytics teams)`
+  - Consider key stakeholders: 
+    - `Direct of Marketing|Manager - Moreno`: who is responsible for the development of campaigns and initiatives to promote the bike-share program.
+    - `Executives teams`: The notoriously detail-oriented executive team will decide whether to approve the recommended marketing program.
+    - `(Analytics teams)`: the team which are responsible for collecting, analyzing, and reporting data that helps guide Cyclistic marketing strategy.
 - Deliverable:
   - A clear statement of the business task: `The key things to attract rider become annual members`
 
-## PREPARE
+## Step 2: PREPARE
 
 [Download the previous 12 months of Cyclistic trip data here](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
@@ -41,15 +45,18 @@ Now, prepare your data for analysis using the following Case Study Roadmap as a 
   - Where is your data located?: `Cyclistic's historical data - which is open to the public and kept on cloud. The data has been made available by Motivate International Inc.`
   - How is the data organized? `The data is organized by quarters in the year from 2013 to 2019 and by month from 2020 to 2024. Each CSV file structured utilizing rows and columns`
   - Are there issues with bias or credibility in this data? Does your data ROCCC?
-    - `The data is Reliable: data is provided by Lyft Bikes and Scooter company which operate the City of Chicago's Divvy bicycle sharing service.`
+    - `The data is Reliable: data is provided by the first party - Lyft Bikes and Scooter company which operate the City of Chicago's Divvy bicycle sharing service.`
     - `The data is original: it was created by Motivate International Inc. as the primary party that was validated as the orginal source.`
     - `Comprehensive: data contain completed information for analysis`
     - `Current: data is up-to-date until the current time in 2024`
-    - `Cited: Lyft Bikes and Scooters, LLC (“Bikeshare”) operates the City of Chicago’s (“City”) Divvy bicycle sharing service. Bikeshare and the City are committed to supporting bicycling as an alternative transportation option. As part of that commitment, the City permits Bikeshare to make certain Divvy system data owned by the City (“Data”) available to the public.`
-  - How are you addressing licensing, privacy, security, and accessibility?: `Follow the issued Data License Agreement on https://divvybikes.com/data-license-agreement`
-  - How did you verify the data’s integrity?
+    - `Cited: The data is cited & credible which from Lyft Bikes and Scooters, LLC (“Bikeshare”) operates the City of Chicago’s (“City”) Divvy bicycle sharing service. Bikeshare and the City are committed to supporting bicycling as an alternative transportation option. As part of that commitment, the City permits Bikeshare to make certain Divvy system data owned by the City (“Data”) available to the public.`
+  - How are you addressing licensing, privacy, security, and accessibility?:
+    - `The data is open and , is maintained & made available by Motivate International Inc, and follow the issued Data License Agreement on https://divvybikes.com/data-license-agreement`
+  - How did you verify the data’s integrity?: `The data is integrity with the consistency of column (name, quantity,.. ), data type  `
   - How does it help you answer your question?
+    - The information can be found in the data will examine annual members and casual riders to determine their main characteristics such as: rider's bike type, trip info, riding time,... which
   - Are there any problems with the data?
+    - It can be better if the data provides more information regarding measuring unit of time, stations,... 
 - Key tasks
   - Download data and store it appropriately.
   - Identify how it’s organized.
@@ -58,7 +65,7 @@ Now, prepare your data for analysis using the following Case Study Roadmap as a 
 - Deliverable
   - A description of all data sources used
 
-## PROCESS
+## Step 3: PROCESS
 
 Then, process your data for analysis using the following Case Study Roadmap as a guide:
 
