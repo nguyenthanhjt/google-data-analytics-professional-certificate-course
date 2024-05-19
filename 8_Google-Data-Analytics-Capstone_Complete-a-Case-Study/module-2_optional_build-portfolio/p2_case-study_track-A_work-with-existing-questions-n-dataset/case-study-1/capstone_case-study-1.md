@@ -43,7 +43,7 @@ Now, prepare your data for analysis using the following Case Study Roadmap as a 
 
 - Guiding questions
   - Where is your data located?: `Cyclistic's historical data - which is open to the public and kept on cloud. The data has been made available by Motivate International Inc.`
-  - How is the data organized? `The data is organized by quarters in the year from 2013 to 2019 and by month from 2020 to 2024. Each CSV file structured utilizing rows and columns`
+  - How is the data organized? `The data consists of 10 csv files, is organized by quarters in the year from 2013 to 2019 and by month from 2020 to 2024. Each CSV file structured utilizing rows and columns`
   - Are there issues with bias or credibility in this data? Does your data ROCCC?
     - `The data is Reliable: data is provided by the first party - Lyft Bikes and Scooter company which operate the City of Chicago's Divvy bicycle sharing service.`
     - `The data is original: it was created by Motivate International Inc. as the primary party that was validated as the orginal source.`
@@ -52,11 +52,11 @@ Now, prepare your data for analysis using the following Case Study Roadmap as a 
     - `Cited: The data is cited & credible which from Lyft Bikes and Scooters, LLC (“Bikeshare”) operates the City of Chicago’s (“City”) Divvy bicycle sharing service. Bikeshare and the City are committed to supporting bicycling as an alternative transportation option. As part of that commitment, the City permits Bikeshare to make certain Divvy system data owned by the City (“Data”) available to the public.`
   - How are you addressing licensing, privacy, security, and accessibility?:
     - `The data is open and , is maintained & made available by Motivate International Inc, and follow the issued Data License Agreement on https://divvybikes.com/data-license-agreement`
-  - How did you verify the data’s integrity?: `The data is integrity with the consistency of column (name, quantity,.. ), data type  `
+  - How did you verify the data’s integrity?: `The data is integrity with the consistency of column (name, quantity,.. ), data type`
   - How does it help you answer your question?
     - The information can be found in the data will examine annual members and casual riders to determine their main characteristics such as: rider's bike type, trip info, riding time,... which
   - Are there any problems with the data?
-    - It can be better if the data provides more information regarding measuring unit of time, stations,... 
+    - It can be better if the data provides more information regarding measuring unit of time, stations,...
 - Key tasks
   - Download data and store it appropriately.
   - Identify how it’s organized.
