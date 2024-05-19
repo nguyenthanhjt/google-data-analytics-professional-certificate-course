@@ -87,3 +87,75 @@ Then, process your data for analysis using the following Case Study Roadmap as a
   - [x] Document the cleaning process.
 - Deliverable
   - Documentation of any cleaning or manipulation of data
+
+```r
+library(tidyverse)
+library(janitor)
+library(lubridate)
+library(ggplot2)
+
+m01<- read.csv("202301-divvy-tripdata.csv")
+m02<- read.csv("202302-divvy-tripdata.csv")
+m03<- read.csv("202303-divvy-tripdata.csv")
+m04<- read.csv("202304-divvy-tripdata.csv")
+m05<- read.csv("202305-divvy-tripdata.csv")
+m06<- read.csv("202306-divvy-tripdata.csv")
+m07<- read.csv("202307-divvy-tripdata.csv")
+m08<- read.csv("202308-divvy-tripdata.csv")
+m09<- read.csv("202309-divvy-tripdata.csv")
+m10<- read.csv("2023010-divvy-tripdata.csv")
+m11<- read.csv("2023011-divvy-tripdata.csv")
+m12<- read.csv("2023012-divvy-tripdata.csv")
+
+# concatenate into 1 DF
+# csv_files <- list.files(path = "../input-data", recursive = TRUE, full.names=TRUE)
+# cyclistic_merged <- do.call(rbind, lapply(csv_files, read.csv))
+# head(cyclistic_merged)
+
+# examine
+str(m01)
+str(m02)
+str(m03)
+str(m04)
+str(m05)
+str(m06)
+str(m07)
+str(m08)
+str(m09)
+str(m10)
+str(m11)
+str(m12)
+
+bike_trip <- rbind(m01,m02,m03,m04,m05,m06,m07,m08,m09,m10,m11,m12)
+remove(m01,m02,m03,m04,m05,m06,m07,m08,m09,m10,m11,m12)
+# determine number of rows before perform data cleaning
+orgRowNum <- nrow(bike_trip)
+
+# cleaning
+## remove duplicated rows
+
+## remove NA value
+## remove trip duration with negative value
+## remove unnecessary columns
+## create new columns for analysis
+## determine number of rows after perform data cleaning
+rowNum <- nrow(bike_trip)
+```
+
+## Step 4: ANALYZE
+
+Now that data is stored appropriately and has been prepared for analysis, start puing it to work. Use the following Case Study Roadmap as a guide:
+
+- Guiding questions
+  - How should you organize your data to perform analysis on it?
+  - Has your data been properly formatted?
+  - What surprises did you discover in the data?
+  - What trends or relationships did you find in the data?
+  - How will these insights help answer your business questions?
+- Key tasks
+  - Aggregate your data so it’s useful and accessible.
+  - Organize and format your data.
+  - Perform calculations.
+  - Identify trends and relationships.
+- Deliverable
+  - A summary of your analysis
