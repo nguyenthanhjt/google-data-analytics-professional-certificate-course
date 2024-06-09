@@ -21,6 +21,7 @@ This article would be sharing how I approached and completed the Case Study 1 wh
     - [Background](#background)
     - [1. ASK](#1-ask)
     - [2. PREPAE](#2-prepae)
+      - [Data Organization](#data-organization)
     - [3. PROCESS](#3-process)
     - [4. ANALYZE](#4-analyze)
     - [5. SHARE](#5-share)
@@ -28,6 +29,8 @@ This article would be sharing how I approached and completed the Case Study 1 wh
   - [Case Study 2](#case-study-2)
 
 ## Case Study 1: How does a bike-share navigate speedy success?
+
+I will utilize R and RStudio for data analysis processing. I am using R because the dataset is too large for spreadsheets, and R allows for in-depth analysis and manipulation.
 
 ### Scenario
 
@@ -104,6 +107,20 @@ The data consists of 10 csv files, is organized by quarters in the year from 201
 
 At the time I perform this analysis June 2024, I use Cyclistic’s historical trip data in 2023 to analyze.
 
+#### Data Organization
+
+There are 12 files with naming convention of `YYYYMM-divvy-tripdata.csv` and each file includes information for one month:
+
+- Ride id: ride_id
+- Bike type: rideable_type
+- Start time: started_at
+- End time: ended_at
+- Start station: start_station_id, start_station_name, start_lat, start_lng
+- End station: end_station_id, end_station_name, end_lat, end_lng
+- Start location:
+- End location:
+- Whether the rider is a member or not: member_casual
+
 Guiding questions:
 
 - Are there issues with bias or credibility in this data? Does your data ROCCC?
@@ -128,12 +145,11 @@ Guiding questions:
   - [x] Transform the data so you can work with it effectively.
   - [x] Document the cleaning process.
 
-I will utilize R and RStudio for data processing
-
-I am using R because the dataset is too large for spreadsheets, and R allows for in-depth analysis and manipulation.
+As mentioned above, I will utilize R & RStudio for data processing.
 
 I examined the columns after making changes and confirmed that the data types remained consistent following manipulation.
-To ensure that the data is clean and ready to analyze, I will make steps:
+
+To ensure that the data is clean and ready to analyze, I will do steps with some R packages(tidyverse, dplyr):
 
 - Remove NA and duplicated
 - The data columns with dates and time format will be formatted
@@ -144,7 +160,7 @@ The cleaning process has been thoroughly documented.
 ### 4. ANALYZE
 
 - Key tasks
-  - [x] Aggregate your data so it’s useful and accessible.
+  - [x] Aggregate the data so it’s useful and accessible.
   - [x] Organize and format your data.
   - [x] Perform calculations.
   - [x] Identify trends and relationships.
