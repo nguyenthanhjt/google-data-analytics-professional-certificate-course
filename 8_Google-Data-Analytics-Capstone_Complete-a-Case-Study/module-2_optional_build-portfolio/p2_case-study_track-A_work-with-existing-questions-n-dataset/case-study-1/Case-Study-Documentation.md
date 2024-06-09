@@ -124,11 +124,9 @@ Guiding questions:
 
 - Key tasks
   - [x] Check the data for errors.
-  - [x] Choose your tools.
+  - [x] Choose tools.
   - [x] Transform the data so you can work with it effectively.
   - [x] Document the cleaning process.
-- Deliverable
-  - Documentation of any cleaning or manipulation of data
 
 I will utilize R and RStudio for data processing
 
@@ -140,12 +138,32 @@ To ensure that the data is clean and ready to analyze, I will make steps:
 - Remove NA and duplicated
 - The data columns with dates and time format will be formatted
 - Create new aggregation columns for analysis
-- The cleaning process has been thoroughly documented.
+
+The cleaning process has been thoroughly documented.
 
 ### 4. ANALYZE
 
+- Key tasks
+  - [x] Aggregate your data so it’s useful and accessible.
+  - [x] Organize and format your data.
+  - [x] Perform calculations.
+  - [x] Identify trends and relationships.
+
 ### 5. SHARE
 
+- Key tasks
+  - [x] Determine the best way to share your findings.
+  - [x] Create effective data visualizations.
+  - [x] Present your findings.
+  - [x] Ensure your work is accessible
+
 ### 6. ACT
+
+- Key tasks
+  - [x] Determine the best way to share your ndings.
+  - [x] Create eective data visualizations.
+  - [x] Present your ndings.
+  - [x] Ensure your work is accessible.
+
 
 ## Case Study 2
