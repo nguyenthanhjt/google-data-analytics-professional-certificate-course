@@ -17,8 +17,8 @@ This article would be sharing how I approached and completed the Case Study 1 wh
 - [Google Data Analytics Capstone Project - Case Study](#google-data-analytics-capstone-project---case-study)
   - [Table of Contents](#table-of-contents)
   - [Case Study 1: How does a bike-share navigate speedy success?](#case-study-1-how-does-a-bike-share-navigate-speedy-success)
-    - [Background](#background)
     - [Scenario](#scenario)
+    - [Background](#background)
     - [1. ASK](#1-ask)
     - [2. PREPAE](#2-prepae)
     - [3. PROCESS](#3-process)
@@ -29,11 +29,22 @@ This article would be sharing how I approached and completed the Case Study 1 wh
 
 ## Case Study 1: How does a bike-share navigate speedy success?
 
+### Scenario
+
+I am assuming to be/play the role as a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, my team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, my team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve our recommendations, so they must be backed up with compelling data insights and professional data visualizations.
+
 ### Background
 
 Cyclistic
 
 A bike-share program that features more than 5,800 bicycles and 600 docking stations. Cyclistic sets itself apart by also offering reclining bikes, hand tricycles, and cargo bikes, making bike-share more inclusive to people with disabilities and riders who can’t use a standard two-wheeled bike. The majority of riders opt for traditional bikes; about 8% of riders use the assistive options. Cyclistic users are more likely to ride for leisure, but about 30% use them to commute to work each day.
+
+About the company
+
+In 2016, Cyclistic launched a successful bike-share oering. Since then, the program has grown
+to a eet of 5,824 bicycles that are geotracked and locked into a network of 692 stations
+across Chicago. The bikes can be unlocked from one station and returned to any other station
+in the system anytime.
 
 Until now, Cyclistic’s marketing strategy relied on building general awareness and appealing to broad consumer segments. One approach that helped make these things possible was the flexibility of its pricing plans: single-ride passes, full-day passes, and annual memberships. Customers who purchase single-ride or full-day passes are referred to as casual riders. Customers who purchase annual memberships are Cyclistic members.
 
@@ -41,11 +52,16 @@ Cyclistic’s finance analysts have concluded that annual members are much more 
 
 Moreno has set a clear goal: Design marketing strategies aimed at converting casual riders into annual members. In order to do that, however, the marketing analyst team needs to better understand how annual members and casual riders differ, why casual riders would buy a membership, and how digital media could affect their marketing tactics. Moreno and her team are interested in analyzing the Cyclistic historical bike trip data to identify trends.
 
-### Scenario
-
-I am assuming to be a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, my team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, my team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve our recommendations, so they must be backed up with compelling data insights and professional data visualizations.
-
 ### 1. ASK
+
+- Key tasks:
+  - [x] Identify the business task: `What attracts casual members to become annual members?`
+  - [x] Consider key stakeholders:
+    - `Direct of Marketing|Manager - Moreno`: who is responsible for the development of campaigns and initiatives to promote the bike-share program.
+    - `Executives teams`: The notoriously detail-oriented executive team will decide whether to approve the recommended marketing program.
+    - `(Analytics teams)`: the team which are responsible for collecting, analyzing, and reporting data that helps guide Cyclistic marketing strategy.
+- Deliverable:
+  - A clear statement of the business task: `The key things to attract rider become annual members`
 
 Three questions will guide the future marketing program:
 
@@ -56,7 +72,7 @@ Three questions will guide the future marketing program:
 Moreno has assigned me the first question to answer: How do annual members and casual
 riders use Cyclistic bikes differently?
 
-You will produce a report with the following deliverables:
+The report will produce the following deliverables:
 
 1. A clear statement of the business task
 2. A description of all data sources used
@@ -67,22 +83,64 @@ You will produce a report with the following deliverables:
 Use the following Case Study Roadmap as a guide. Note: Completing this case study within a
 week is a reasonable goal.
 
-- Guiding questions
-  - What is the problem you are trying to solve?:
-    - Answer the question `How do annual members and casual riders use Cyclistic bikes differently?` to find out the information to create a marketing strategy to support in turning casual dirver into annual members
-  - How can your insights drive business decisions?: `Figure out the difference between Annual Members and Casual Riders when they use the Cyclistic bikes to define strategy and design the marketing campaign to attract more members. By doing so,  profit can increase quickly`
-- Key tasks:
-  - [x] Identify the business task: `What attracts casual members to become annual members?`
-  - [x] Consider key stakeholders:
-    - `Direct of Marketing|Manager - Moreno`: who is responsible for the development of campaigns and initiatives to promote the bike-share program.
-    - `Executives teams`: The notoriously detail-oriented executive team will decide whether to approve the recommended marketing program.
-    - `(Analytics teams)`: the team which are responsible for collecting, analyzing, and reporting data that helps guide Cyclistic marketing strategy.
-- Deliverable:
-  - A clear statement of the business task: `The key things to attract rider become annual members`
+Guiding questions:
+
+- What is the problem you are trying to solve?: Answer the question `How do annual members and casual riders use Cyclistic bikes differently?` to find out the information to create a marketing strategy to support in turning casual dirver into annual members
+- How can your insights drive business decisions?: `Figure out the difference between Annual Members and Casual Riders when they use the Cyclistic bikes to define strategy and design the marketing campaign to attract more members. By doing so,  profit can increase quickly`
 
 ### 2. PREPAE
 
+- Key tasks
+  - [x] Download data and store it appropriately.
+  - [x] Identify how it’s organized.
+  - [x] Sort and filter the data.
+  - [x] Determine the credibility of the data.
+
+Cyclistic's historical data - which is open to the public and kept on cloud. The data has been made available by Motivate International Inc.
+
+The Cyclistic trip data is available [here](https://divvy-tripdata.s3.amazonaws.com/index.html) that are historical trip data from 2013 to 2024.
+
+The data consists of 10 csv files, is organized by quarters in the year from 2013 to 2019 and by month from 2020 to 2024. Each CSV file structured utilizing rows and columns
+
+At the time I perform this analysis June 2024, I use Cyclistic’s historical trip data in 2023 to analyze.
+
+Guiding questions:
+
+- Are there issues with bias or credibility in this data? Does your data ROCCC?
+  - `The data is Reliable: data is provided by the first party - Lyft Bikes and Scooter company which operate the City of Chicago's Divvy bicycle sharing service.`
+  - `The data is original: it was created by Motivate International Inc. as the primary party that was validated as the orginal source.`
+  - `Comprehensive: data contain completed information for analysis`
+  - `Current: data is up-to-date until the current time in 2024`
+  - `Cited: The data is cited & credible which from Lyft Bikes and Scooters, LLC (“Bikeshare”) operates the City of Chicago’s (“City”) Divvy bicycle sharing service. Bikeshare and the City are committed to supporting bicycling as an alternative transportation option. As part of that commitment, the City permits Bikeshare to make certain Divvy system data owned by the City (“Data”) available to the public.`
+- How are you addressing licensing, privacy, security, and accessibility?:
+  - `The data is open and , is maintained & made available by Motivate International Inc, and follow the issued Data License Agreement on https://divvybikes.com/data-license-agreement`
+- How did you verify the data’s integrity?: `The data was examined and integrity with the consistency of column (name, quantity,.. ), data type`
+- How does it help you answer your question? `The data will enable us to analyze both annual members and casual riders to identify any significant traits related to the riders, their bike usage, and their requirements.`
+  - The information can be found in the data will examine annual members and casual riders to determine their main characteristics such as: rider's bike type, trip info, riding time,... which
+- Are there any problems with the data?
+  - `It can be better if the data provides more information regarding measuring unit of time, stations,...`
+
 ### 3. PROCESS
+
+- Key tasks
+  - [x] Check the data for errors.
+  - [x] Choose your tools.
+  - [x] Transform the data so you can work with it effectively.
+  - [x] Document the cleaning process.
+- Deliverable
+  - Documentation of any cleaning or manipulation of data
+
+I will utilize R and RStudio for data processing
+
+I am using R because the dataset is too large for spreadsheets, and R allows for in-depth analysis and manipulation.
+
+I examined the columns after making changes and confirmed that the data types remained consistent following manipulation.
+To ensure that the data is clean and ready to analyze, I will make steps:
+
+- Remove NA and duplicated
+- The data columns with dates and time format will be formatted
+- Create new aggregation columns for analysis
+- The cleaning process has been thoroughly documented.
 
 ### 4. ANALYZE
 
