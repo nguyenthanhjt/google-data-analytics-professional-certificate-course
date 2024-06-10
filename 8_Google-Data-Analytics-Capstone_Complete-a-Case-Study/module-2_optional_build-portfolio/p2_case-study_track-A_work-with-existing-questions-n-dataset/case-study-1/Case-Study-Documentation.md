@@ -17,8 +17,9 @@ This article would be sharing how I approached and completed the Case Study 1 wh
 - [Google Data Analytics Capstone Project - Case Study](#google-data-analytics-capstone-project---case-study)
   - [Table of Contents](#table-of-contents)
   - [Case Study 1: How does a bike-share navigate speedy success?](#case-study-1-how-does-a-bike-share-navigate-speedy-success)
-    - [Scenario](#scenario)
-    - [Background](#background)
+    - [Introduction](#introduction)
+      - [Scenario](#scenario)
+      - [Background](#background)
     - [1. ASK](#1-ask)
     - [2. PREPAE](#2-prepae)
       - [Data Organization](#data-organization)
@@ -31,13 +32,13 @@ This article would be sharing how I approached and completed the Case Study 1 wh
 
 ## Case Study 1: How does a bike-share navigate speedy success?
 
-I will utilize R and RStudio for data analysis processing. I am using R because the dataset is too large for spreadsheets, and R allows for in-depth analysis and manipulation.
+### Introduction
 
-### Scenario
+#### Scenario
 
 I am assuming to be/play the role as a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, my team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, my team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve our recommendations, so they must be backed up with compelling data insights and professional data visualizations.
 
-### Background
+#### Background
 
 Cyclistic
 
@@ -56,15 +57,15 @@ Cyclistic’s finance analysts have concluded that annual members are much more 
 
 Moreno has set a clear goal: Design marketing strategies aimed at converting casual riders into annual members. In order to do that, however, the marketing analyst team needs to better understand how annual members and casual riders differ, why casual riders would buy a membership, and how digital media could affect their marketing tactics. Moreno and her team are interested in analyzing the Cyclistic historical bike trip data to identify trends.
 
+This case study will be analyzed using 6 steps of Data Analysis process: ASK, PREPARE, PROCESS, ANALYZE, SHARE, and ACT.
+
+I will utilize R and RStudio for data analysis processing. I am using R because the dataset is too large for spreadsheets, and R allows for in-depth analysis and manipulation.
+
 ### 1. ASK
 
-These are the questions/business task that would guide the future of the marketing program:
+> Main objective for this project: To understand how casual riders and annual members use Cyclistic bikes differently.
 
-1. How do annual members and casual riders use Cyclistic bikes differently?
-2. Why would casual riders buy Cyclistic annual memberships?
-3. How can Cyclistic use digital media to influence casual riders to become members?
-
-Moreno has assigned me the first question to answer: 1. How do annual members and casual riders use Cyclistic bikes differently?
+In the “Ask” phase, these are the questions/business task that would guide the future of the marketing program:
 
 - Key tasks:
   - [x] Identify the business task: `What attracts casual members to become annual members?`
@@ -79,17 +80,13 @@ Moreno has assigned me the first question to answer: 1. How do annual members an
 
 ### 2. PREPAE
 
-- Key tasks
+- In the “Prepare” phase, there are some key tasks need to be completed
   - [x] Download data and store it appropriately.
   - [x] Identify how it’s organized.
   - [x] Sort and filter the data.
   - [x] Determine the credibility of the data.
 
-Cyclistic's historical data - which is open to the public and kept on cloud. The data has been made available by Motivate International Inc.
-
-The Cyclistic trip data is available [here](https://divvy-tripdata.s3.amazonaws.com/index.html) that are historical trip data from 2013 to 2024.
-
-The data consists of 10 csv files, is organized by quarters in the year from 2013 to 2019 and by month from 2020 to 2024. Each CSV file structured utilizing rows and columns
+Answer some guiding questions before delve into the data to ensure the data is ready for analysis:
 
 - Are there issues with bias or credibility in this data? Does your data ROCCC?
   - `The data is Reliable: data is provided by the first party - Lyft Bikes and Scooter company which operate the City of Chicago's Divvy bicycle sharing service.`
@@ -105,7 +102,15 @@ The data consists of 10 csv files, is organized by quarters in the year from 201
 - Are there any problems with the data?
   - `It can be better if the data provides more information regarding measuring unit of time, stations,...`
 
+Cyclistic's historical data - which is open to the public and kept on cloud. The data has been made available by Motivate International Inc.
+
+The Cyclistic trip data is available [here](https://divvy-tripdata.s3.amazonaws.com/index.html) that are historical trip data from 2013 to 2024.
+
 #### Data Organization
+
+The data consists of csv files, is organized by quarters in the year from 2013 to 2019 and by month from 2020 to 2024. Each CSV file structured utilizing rows and columns
+
+At the time I perform this analysis June 2024, I use Cyclistic’s historical trip data in 2023 to analyze.
 
 There are 12 files with naming convention of `YYYYMM-divvy-tripdata.csv` and each file includes information for one month:
 
@@ -120,8 +125,6 @@ There are 12 files with naming convention of `YYYYMM-divvy-tripdata.csv` and eac
 - Whether the rider is a member or not: member_casual
 
 #### PREPARE: step by step
-
-At the time I perform this analysis June 2024, I use Cyclistic’s historical trip data in 2023 to analyze.
 
 - Firstly, we would need to install & load the packages required for this process, which in this case will be: Tidyverse, Janitor & Lubridate.
 
