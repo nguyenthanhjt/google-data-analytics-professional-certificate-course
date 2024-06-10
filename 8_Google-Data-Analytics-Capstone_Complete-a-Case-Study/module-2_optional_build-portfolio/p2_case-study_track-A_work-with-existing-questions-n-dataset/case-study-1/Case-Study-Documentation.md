@@ -22,6 +22,7 @@ This article would be sharing how I approached and completed the Case Study 1 wh
     - [1. ASK](#1-ask)
     - [2. PREPAE](#2-prepae)
       - [Data Organization](#data-organization)
+      - [PREPARE: step by step](#prepare-step-by-step)
     - [3. PROCESS](#3-process)
     - [4. ANALYZE](#4-analyze)
     - [5. SHARE](#5-share)
@@ -90,24 +91,6 @@ The Cyclistic trip data is available [here](https://divvy-tripdata.s3.amazonaws.
 
 The data consists of 10 csv files, is organized by quarters in the year from 2013 to 2019 and by month from 2020 to 2024. Each CSV file structured utilizing rows and columns
 
-At the time I perform this analysis June 2024, I use Cyclistic’s historical trip data in 2023 to analyze.
-
-#### Data Organization
-
-There are 12 files with naming convention of `YYYYMM-divvy-tripdata.csv` and each file includes information for one month:
-
-- Ride id: ride_id
-- Bike type: rideable_type
-- Start time: started_at
-- End time: ended_at
-- Start station: start_station_id, start_station_name, start_lat, start_lng
-- End station: end_station_id, end_station_name, end_lat, end_lng
-- Start location:
-- End location:
-- Whether the rider is a member or not: member_casual
-
-Answer guiding questions:
-
 - Are there issues with bias or credibility in this data? Does your data ROCCC?
   - `The data is Reliable: data is provided by the first party - Lyft Bikes and Scooter company which operate the City of Chicago's Divvy bicycle sharing service.`
   - `The data is original: it was created by Motivate International Inc. as the primary party that was validated as the orginal source.`
@@ -121,6 +104,58 @@ Answer guiding questions:
   - The information can be found in the data will examine annual members and casual riders to determine their main characteristics such as: rider's bike type, trip info, riding time,... which
 - Are there any problems with the data?
   - `It can be better if the data provides more information regarding measuring unit of time, stations,...`
+
+#### Data Organization
+
+There are 12 files with naming convention of `YYYYMM-divvy-tripdata.csv` and each file includes information for one month:
+
+- Ride id: ride_id - the identity of each data record
+- Bike type: rideable_type
+- Start time: started_at
+- End time: ended_at
+- Start station: start_station_id, start_station_name, start_lat, start_lng
+- End station: end_station_id, end_station_name, end_lat, end_lng
+- Start location:
+- End location:
+- Whether the rider is a member or not: member_casual
+
+#### PREPARE: step by step
+
+At the time I perform this analysis June 2024, I use Cyclistic’s historical trip data in 2023 to analyze.
+
+- Firstly, we would need to install & load the packages required for this process, which in this case will be: Tidyverse, Janitor & Lubridate.
+
+  ```R
+  install.packages('tidyverse')
+  install.packages('janitor')
+  install.packages('lubridate')
+  ```
+
+- Subsequently, We need to take a step to collect data from downloaded data files. The data is stored in .zip files, so we have to extract them, as I chose the 2023 dataset, then I will get 12 .csv files, one file represent one month of trip data.
+- We will use function `read.csv()` of package:utils to import csv into RStudio, before this we must know the working directory to input the right path of csv files as paramter to `read.csv()`
+
+  ```R
+  #=====================
+  # STEP 1: COLLECT DATA
+  #=====================
+  getwd() # Get working directory
+  setwd("./input-data/") # Set working directory
+
+  m01 <- read.csv("./input-data/202301-divvy-tripdata.csv")
+  m02 <- read.csv("./input-data/202302-divvy-tripdata.csv")
+  m03 <- read.csv("./input-data/202303-divvy-tripdata.csv")
+  m04 <- read.csv("./input-data/202304-divvy-tripdata.csv")
+  m05 <- read.csv("./input-data/202305-divvy-tripdata.csv")
+  m06 <- read.csv("./input-data/202306-divvy-tripdata.csv")
+  m07 <- read.csv("./input-data/202307-divvy-tripdata.csv")
+  m08 <- read.csv("./input-data/202308-divvy-tripdata.csv")
+  m09 <- read.csv("./input-data/202309-divvy-tripdata.csv")
+  m10 <- read.csv("./input-data/202310-divvy-tripdata.csv")
+  m11 <- read.csv("./input-data/202311-divvy-tripdata.csv")
+  m12 <- read.csv("./input-data/202312-divvy-tripdata.csv")
+  ```
+
+- Merge the 12 into 1 data frame
 
 ### 3. PROCESS
 
@@ -141,6 +176,7 @@ To ensure that the data is clean and ready to analyze, I will do steps with some
 - Create new aggregation columns for analysis
 
 The cleaning process has been thoroughly documented.
+
 
 ### 4. ANALYZE
 
