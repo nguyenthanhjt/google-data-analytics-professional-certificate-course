@@ -57,6 +57,14 @@ Moreno has set a clear goal: Design marketing strategies aimed at converting cas
 
 ### 1. ASK
 
+These are the questions/business task that would guide the future of the marketing program:
+
+1. How do annual members and casual riders use Cyclistic bikes differently?
+2. Why would casual riders buy Cyclistic annual memberships?
+3. How can Cyclistic use digital media to influence casual riders to become members?
+
+Moreno has assigned me the first question to answer: 1. How do annual members and casual riders use Cyclistic bikes differently?
+
 - Key tasks:
   - [x] Identify the business task: `What attracts casual members to become annual members?`
   - [x] Consider key stakeholders:
@@ -65,31 +73,8 @@ Moreno has set a clear goal: Design marketing strategies aimed at converting cas
     - `(Analytics teams)`: the team which are responsible for collecting, analyzing, and reporting data that helps guide Cyclistic marketing strategy.
 - Deliverable:
   - A clear statement of the business task: `The key things to attract rider become annual members`
-
-Three questions will guide the future marketing program:
-
-1. How do annual members and casual riders use Cyclistic bikes differently?
-2. Why would casual riders buy Cyclistic annual memberships?
-3. How can Cyclistic use digital media to influence casual riders to become members?
-
-Moreno has assigned me the first question to answer: How do annual members and casual
-riders use Cyclistic bikes differently?
-
-The report will produce the following deliverables:
-
-1. A clear statement of the business task
-2. A description of all data sources used
-3. Documentation of any cleaning or manipulation of data
-4. A summary of your analysis
-5. Supporting visualizations and key findings
-6. Your top three recommendations based on your analysis
-Use the following Case Study Roadmap as a guide. Note: Completing this case study within a
-week is a reasonable goal.
-
-Guiding questions:
-
-- What is the problem you are trying to solve?: Answer the question `How do annual members and casual riders use Cyclistic bikes differently?` to find out the information to create a marketing strategy to support in turning casual dirver into annual members
-- How can your insights drive business decisions?: `Figure out the difference between Annual Members and Casual Riders when they use the Cyclistic bikes to define strategy and design the marketing campaign to attract more members. By doing so,  profit can increase quickly`
+  - What is the problem you are trying to solve?: Answer the question `How do annual members and casual riders use Cyclistic bikes differently?` to find out the information to create a marketing strategy to support in turning casual dirver into annual members
+  - How can your insights drive business decisions?: `Figure out the difference between Annual Members and Casual Riders when they use the Cyclistic bikes to define strategy and design the marketing campaign to attract more members. By doing so,  profit can increase quickly`
 
 ### 2. PREPAE
 
@@ -121,7 +106,7 @@ There are 12 files with naming convention of `YYYYMM-divvy-tripdata.csv` and eac
 - End location:
 - Whether the rider is a member or not: member_casual
 
-Guiding questions:
+Answer guiding questions:
 
 - Are there issues with bias or credibility in this data? Does your data ROCCC?
   - `The data is Reliable: data is provided by the first party - Lyft Bikes and Scooter company which operate the City of Chicago's Divvy bicycle sharing service.`
