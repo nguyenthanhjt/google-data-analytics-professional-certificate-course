@@ -21,7 +21,7 @@ This article would be sharing how I approached and completed the Case Study 1 wh
       - [Scenario](#scenario)
       - [Background](#background)
     - [1. ASK](#1-ask)
-    - [2. PREPAE](#2-prepae)
+    - [2. PREPARE](#2-prepare)
       - [Data Organization](#data-organization)
       - [PREPARE: step by step](#prepare-step-by-step)
     - [3. PROCESS](#3-process)
@@ -46,10 +46,7 @@ A bike-share program that features more than 5,800 bicycles and 600 docking stat
 
 About the company
 
-In 2016, Cyclistic launched a successful bike-share oering. Since then, the program has grown
-to a eet of 5,824 bicycles that are geotracked and locked into a network of 692 stations
-across Chicago. The bikes can be unlocked from one station and returned to any other station
-in the system anytime.
+In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system anytime.
 
 Until now, Cyclistic’s marketing strategy relied on building general awareness and appealing to broad consumer segments. One approach that helped make these things possible was the flexibility of its pricing plans: single-ride passes, full-day passes, and annual memberships. Customers who purchase single-ride or full-day passes are referred to as casual riders. Customers who purchase annual memberships are Cyclistic members.
 
@@ -57,7 +54,7 @@ Cyclistic’s finance analysts have concluded that annual members are much more 
 
 Moreno has set a clear goal: Design marketing strategies aimed at converting casual riders into annual members. In order to do that, however, the marketing analyst team needs to better understand how annual members and casual riders differ, why casual riders would buy a membership, and how digital media could affect their marketing tactics. Moreno and her team are interested in analyzing the Cyclistic historical bike trip data to identify trends.
 
-This case study will be analyzed using 6 steps of Data Analysis process: ASK, PREPARE, PROCESS, ANALYZE, SHARE, and ACT.
+This case study will be analyzed using 6 steps of the Data Analysis process: ASK, PREPARE, PROCESS, ANALYZE, SHARE, and ACT.
 
 I will utilize R and RStudio for data analysis processing. I am using R because the dataset is too large for spreadsheets, and R allows for in-depth analysis and manipulation.
 
@@ -65,42 +62,42 @@ I will utilize R and RStudio for data analysis processing. I am using R because 
 
 > Main objective for this project: To understand how casual riders and annual members use Cyclistic bikes differently.
 
-In the “Ask” phase, these are the questions/business task that would guide the future of the marketing program:
+In the “Ask” phase, these are the questions/business tasks that would guide the future of the marketing program:
 
 - Key tasks:
   - [x] Identify the business task: `What attracts casual members to become annual members?`
   - [x] Consider key stakeholders:
-    - `Direct of Marketing|Manager - Moreno`: who is responsible for the development of campaigns and initiatives to promote the bike-share program.
+    - `Director of Marketing/Manager - Moreno`: who is responsible for the development of campaigns and initiatives to promote the bike-share program.
     - `Executives teams`: The notoriously detail-oriented executive team will decide whether to approve the recommended marketing program.
-    - `(Analytics teams)`: the team which are responsible for collecting, analyzing, and reporting data that helps guide Cyclistic marketing strategy.
+    - `Analytics teams`: The team responsible for collecting, analyzing, and reporting data that helps guide Cyclistic marketing strategy.
 - Deliverable:
-  - A clear statement of the business task: `The key things to attract rider become annual members`
-  - What is the problem you are trying to solve?: Answer the question `How do annual members and casual riders use Cyclistic bikes differently?` to find out the information to create a marketing strategy to support in turning casual dirver into annual members
-  - How can your insights drive business decisions?: `Figure out the difference between Annual Members and Casual Riders when they use the Cyclistic bikes to define strategy and design the marketing campaign to attract more members. By doing so,  profit can increase quickly`
+  - A clear statement of the business task: `The key things to attract riders to become annual members`
+  - What is the problem you are trying to solve?: Answer the question `How do annual members and casual riders use Cyclistic bikes differently?` to create a marketing strategy to convert casual riders into annual members.
+  - How can your insights drive business decisions?: `Identify the differences between Annual Members and Casual Riders when they use the Cyclistic bikes to define strategy and design the marketing campaign to attract more members. By doing so, profit can increase quickly.`
 
-### 2. PREPAE
+### 2. PREPARE
 
-- In the “Prepare” phase, there are some key tasks need to be completed
+- In the “Prepare” phase, there are some key tasks need to be completed:
   - [x] Download data and store it appropriately.
   - [x] Identify how it’s organized.
   - [x] Sort and filter the data.
   - [x] Determine the credibility of the data.
 
-Answer some guiding questions before delve into the data to ensure the data is ready for analysis:
+Answer some guiding questions before delving into the data to ensure the data is ready for analysis:
 
 - Are there issues with bias or credibility in this data? Does your data ROCCC?
   - `The data is Reliable: data is provided by the first party - Lyft Bikes and Scooter company which operate the City of Chicago's Divvy bicycle sharing service.`
-  - `The data is original: it was created by Motivate International Inc. as the primary party that was validated as the orginal source.`
-  - `Comprehensive: data contain completed information for analysis`
-  - `Current: data is up-to-date until the current time in 2024`
-  - `Cited: The data is cited & credible which from Lyft Bikes and Scooters, LLC (“Bikeshare”) operates the City of Chicago’s (“City”) Divvy bicycle sharing service. Bikeshare and the City are committed to supporting bicycling as an alternative transportation option. As part of that commitment, the City permits Bikeshare to make certain Divvy system data owned by the City (“Data”) available to the public.`
+  - `The data is Original: it was created by Motivate International Inc. as the primary party that was validated as the original source.`
+  - `Comprehensive: data contains complete information for analysis.`
+  - `Current: data is up-to-date until the current time in 2024.`
+  - `Cited: The data is cited & credible, which comes from Lyft Bikes and Scooters, LLC (“Bikeshare”), which operates the City of Chicago’s (“City”) Divvy bicycle sharing service. Bikeshare and the City are committed to supporting bicycling as an alternative transportation option. As part of that commitment, the City permits Bikeshare to make certain Divvy system data owned by the City (“Data”) available to the public.`
 - How are you addressing licensing, privacy, security, and accessibility?:
-  - `The data is open and , is maintained & made available by Motivate International Inc, and follow the issued Data License Agreement on https://divvybikes.com/data-license-agreement`
-- How did you verify the data’s integrity?: `The data was examined and integrity with the consistency of column (name, quantity,.. ), data type`
+  - `The data is open and is maintained & made available by Motivate International Inc., and follows the issued Data License Agreement on https://divvybikes.com/data-license-agreement.`
+- How did you verify the data’s integrity?: `The data was examined and verified for integrity with the consistency of columns (name, quantity,.. ), data type.`
 - How does it help you answer your question? `The data will enable us to analyze both annual members and casual riders to identify any significant traits related to the riders, their bike usage, and their requirements.`
   - The information can be found in the data will examine annual members and casual riders to determine their main characteristics such as: rider's bike type, trip info, riding time,... which
 - Are there any problems with the data?
-  - `It can be better if the data provides more information regarding measuring unit of time, stations,...`
+  - `It can be better if the data provides more information regarding the measuring unit of time, stations,...`
 
 Cyclistic's historical data - which is open to the public and kept on cloud. The data has been made available by Motivate International Inc.
 
@@ -108,11 +105,11 @@ The Cyclistic trip data is available [here](https://divvy-tripdata.s3.amazonaws.
 
 #### Data Organization
 
-The data consists of csv files, is organized by quarters in the year from 2013 to 2019 and by month from 2020 to 2024. Each CSV file structured utilizing rows and columns
+The data consists of CSV files and is organized by quarters in the year from 2013 to 2019 and by month from 2020 to 2024. Each CSV file is structured utilizing rows and columns.
 
-At the time I perform this analysis June 2024, I use Cyclistic’s historical trip data in 2023 to analyze.
+At the time I perform this analysis in June 2024, I use Cyclistic’s historical trip data in 2023 to analyze.
 
-There are 12 files with naming convention of `YYYYMM-divvy-tripdata.csv` and each file includes information for one month:
+There are 12 files with the naming convention of `YYYYMM-divvy-tripdata.csv` and each file includes information for one month:
 
 - Ride id: ride_id - the identity of each data record
 - Bike type: rideable_type
@@ -134,8 +131,8 @@ There are 12 files with naming convention of `YYYYMM-divvy-tripdata.csv` and eac
   install.packages('lubridate')
   ```
 
-- Subsequently, We need to take a step to collect data from downloaded data files. The data is stored in .zip files, so we have to extract them, as I chose the 2023 dataset, then I will get 12 .csv files, one file represent one month of trip data.
-- We will use function `read.csv()` of package:utils to import csv into RStudio, before this we must know the working directory to input the right path of csv files as paramter to `read.csv()`
+- Subsequently, we need to collect data from downloaded data files. The data is stored in .zip files, so we have to extract them. As I chose the 2023 dataset, I will get 12 .csv files, one file representing one month of trip data.
+- We will use the function `read.csv()` of package:utils to import CSV files into RStudio. Before this, we must know the working directory to input the right path of CSV files as parameters to `read.csv()`
 
   ```R
   #=====================
@@ -158,7 +155,39 @@ There are 12 files with naming convention of `YYYYMM-divvy-tripdata.csv` and eac
   m12 <- read.csv("./input-data/202312-divvy-tripdata.csv")
   ```
 
-- Merge the 12 into 1 data frame
+- Examine datasets: all datasets have the same column names & data types
+
+  ```R
+  str(m01)
+  str(m02)
+  str(m03)
+  str(m04)
+  str(m05)
+  str(m06)
+  str(m07)
+  str(m08)
+  str(m09)
+  str(m10)
+  str(m11)
+  str(m12)
+  ```
+
+- All 12 datasets have 13 columns with the same data types:
+  - `ride_id`           : character
+  - `rideable_type`     : character
+  - `started_at`        : character
+  - `ended_at`          : character
+  - `start_station_name`: character
+  - `start_station_id`  : character
+  - `end_station_name`  : character
+  - `end_station_id`    : character
+  - `start_lat`         : number
+  - `start_lng`         : number
+  - `end_lat`           : number
+  - `end_lng`           : number
+  - `member_casual`     : character
+
+- Merge the 12 datasets into one data frame
 
 ### 3. PROCESS
 
@@ -172,14 +201,43 @@ As mentioned above, I will utilize R & RStudio for data processing.
 
 I examined the columns after making changes and confirmed that the data types remained consistent following manipulation.
 
-To ensure that the data is clean and ready to analyze, I will do steps with some R packages(tidyverse, dplyr):
+To ensure that the data is clean and ready to analyze, I will perform the following steps using some R packages (**tidyverse**, **dplyr**):
 
-- Remove NA and duplicated
-- The data columns with dates and time format will be formatted
-- Create new aggregation columns for analysis
+- Remove NA and duplicate values.
+- Format the data columns with dates and times.
+- Create new aggregation columns for analysis.
 
 The cleaning process has been thoroughly documented.
 
+  ```R
+  library(tidyverse)
+  library(janitor)
+  library(lubridate)
+  library(ggplot2)
+
+  # Combine all data frames into one
+  cyclistic_data <- bind_rows(m01, m02, m03, m04, m05, m06, m07, m08, m09, m10, m11, m12)
+
+  # Clean column names
+  cyclistic_data <- clean_names(cyclistic_data)
+
+  # Convert date columns to datetime
+  cyclistic_data <- cyclistic_data %>%
+    mutate(started_at = ymd_hms(started_at),
+           ended_at = ymd_hms(ended_at))
+
+  # Calculate ride length and day of the week
+  cyclistic_data <- cyclistic_data %>%
+    mutate(ride_length = as.numeric(difftime(ended_at, started_at, units = "mins")),
+           day_of_week = wday(started_at, label = TRUE))
+
+  # Remove any NA or negative ride lengths
+  cyclistic_data <- cyclistic_data %>%
+    filter(!is.na(ride_length) & ride_length > 0)
+
+  # Examine the cleaned data
+  glimpse(cyclistic_data)
+  ```
 
 ### 4. ANALYZE
 
@@ -189,21 +247,100 @@ The cleaning process has been thoroughly documented.
   - [x] Perform calculations.
   - [x] Identify trends and relationships.
 
+In this phase, I will perform the following analyses:
+
+- Descriptive analysis: Calculate the average ride length by member type.
+- Analyze ride counts by day of the week.
+- Examine start and end station usage to identify popular stations for both member types.
+
+  ```R
+  # Descriptive analysis: average ride length by member type
+  avg_ride_length <- cyclistic_data %>%
+    group_by(member_casual) %>%
+    summarise(mean_ride_length = mean(ride_length),
+              median_ride_length = median(ride_length),
+              max_ride_length = max(ride_length),
+              min_ride_length = min(ride_length))
+
+  print(avg_ride_length)
+
+  # Ride count by day of the week
+  ride_count_by_day <- cyclistic_data %>%
+    group_by(member_casual, day_of_week) %>%
+    summarise(number_of_rides = n(),
+              average_ride_length = mean(ride_length)) %>%
+    arrange(member_casual, day_of_week)
+
+  print(ride_count_by_day)
+
+  # Analyze start and end station usage
+  station_usage <- cyclistic_data %>%
+    group_by(member_casual, start_station_name, end_station_name) %>%
+    summarise(number_of_rides = n(),
+              average_ride_length = mean(ride_length)) %>%
+    arrange(desc(number_of_rides))
+
+  print(head(station_usage, 20))
+  ```
+
 ### 5. SHARE
 
 - Key tasks
   - [x] Determine the best way to share your findings.
   - [x] Create effective data visualizations.
   - [x] Present your findings.
-  - [x] Ensure your work is accessible
+  - [x] Ensure your work is accessible.
+
+In this phase, I will create visualizations to share the findings effectively:
+
+- **Visualization: Average Ride Length by Member Type**: A bar chart to compare the average ride length between casual and annual members.
+- **Visualization: Ride Count by Day of the Week**: A bar chart to visualize ride activity across the week for both member types.
+- **Visualization: Popular Start and End Stations**: A bar chart to show the top 10 start stations for each member type, giving insights into which stations are most frequently used.
+
+  ```R
+  # Visualization: Average ride length by member type
+  ggplot(avg_ride_length, aes(x = member_casual, y = mean_ride_length, fill = member_casual)) +
+    geom_bar(stat = "identity", position = "dodge") +
+    labs(title = "Average Ride Length by Member Type",
+         x = "Member Type",
+         y = "Average Ride Length (minutes)") +
+    theme_minimal()
+
+  # Visualization: Ride count by day of the week
+  ggplot(ride_count_by_day, aes(x = day_of_week, y = number_of_rides, fill = member_casual)) +
+    geom_bar(stat = "identity", position = "dodge") +
+    labs(title = "Ride Count by Day of the Week",
+         x = "Day of the Week",
+         y = "Number of Rides") +
+    theme_minimal()
+
+  # Visualization: Popular start and end stations by member type
+  top_stations <- station_usage %>% 
+    filter(member_casual %in% c("member", "casual")) %>%
+    group_by(member_casual) %>%
+    top_n(10, number_of_rides)
+
+  ggplot(top_stations, aes(x = reorder(start_station_name, -number_of_rides), y = number_of_rides, fill = member_casual)) +
+    geom_bar(stat = "identity", position = "dodge") +
+    coord_flip() +
+    labs(title = "Top Start Stations by Member Type",
+         x = "Start Station",
+         y = "Number of Rides") +
+    theme_minimal()
+  ```
 
 ### 6. ACT
 
 - Key tasks
-  - [x] Determine the best way to share your ndings.
-  - [x] Create eective data visualizations.
-  - [x] Present your ndings.
+  - [x] Determine the best way to share your findings.
+  - [x] Create effective data visualizations.
+  - [x] Present your findings.
   - [x] Ensure your work is accessible.
 
+In the "Act" phase, I will:
+
+- Prepare a comprehensive report with all findings, insights, and visualizations.
+- Create a presentation to share with key stakeholders, ensuring the data is accessible and understandable.
+- Use the insights gained to make actionable recommendations for the marketing strategy aimed at converting casual riders into annual members.
 
 ## Case Study 2
