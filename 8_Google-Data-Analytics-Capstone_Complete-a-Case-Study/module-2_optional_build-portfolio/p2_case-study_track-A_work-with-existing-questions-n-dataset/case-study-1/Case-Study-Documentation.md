@@ -27,6 +27,8 @@ This article would be sharing how I approached and completed the Case Study 1 wh
     - [3. PROCESS](#3-process)
     - [4. ANALYZE](#4-analyze)
     - [5. SHARE](#5-share)
+      - [Sharing Findings](#sharing-findings)
+      - [Presentation of Findings](#presentation-of-findings)
     - [6. ACT](#6-act)
   - [Case Study 2](#case-study-2)
 
@@ -328,6 +330,41 @@ In this phase, I will create visualizations to share the findings effectively:
          y = "Number of Rides") +
     theme_minimal()
   ```
+
+#### Sharing Findings
+
+Based on the analysis and visualizations, here are the key findings:
+
+1. **Average Ride Length by Member Type**:
+   - Casual riders have a significantly longer average ride length (28.3 minutes) compared to annual members (12.5 minutes). This indicates that casual riders might be using the bikes for leisure or longer trips, while annual members likely use them for shorter, more frequent trips such as commuting.
+
+   ![Average Ride Length by Member Type](./visualiztions/case-study-1_average-ride-length-by-member-type.png)
+
+2. **Ride Count by Day of the Week**:
+   - Casual riders have higher ride counts on weekends, especially on Saturdays and Sundays. In contrast, annual members have a more consistent ride count throughout the week, with a slight increase on weekdays, particularly on Tuesdays and Wednesdays.
+
+   ![Ride Count by Day of the Week](./visualiztions/case-study-1_ride-count-by-day-of-the-week.png)
+
+3. **Popular Start and End Stations by Member Type**:
+   - The most popular start and end stations vary significantly between casual riders and annual members. Some stations, like "DuSable Lake Shore Dr & Monroe St" and "Streeter Dr & Grand Ave," are highly frequented by casual riders. On the other hand, annual members show a more distributed usage across various stations.
+
+   ![Popular Start and End Stations by Member Type](./visualiztions/case-study-1_popular-start-n-end-stations-by-member-type.png)
+
+#### Presentation of Findings
+
+To present these findings:
+
+1. **Slide Deck**:
+   - Create a PowerPoint or Google Slides presentation highlighting the key findings with the visualizations.
+   - Include an executive summary at the beginning, followed by detailed slides on each analysis.
+   - Conclude with actionable recommendations based on the insights.
+
+2. **Report**:
+   - Write a detailed report that includes the introduction, methodology, analysis, visualizations, and conclusions.
+   - Provide appendices with the R code used for the analysis for transparency and reproducibility.
+
+3. **Interactive Dashboard**:
+   - Consider creating an interactive dashboard using tools like Tableau or Power BI to allow stakeholders to explore the data further.
 
 ### 6. ACT
 
