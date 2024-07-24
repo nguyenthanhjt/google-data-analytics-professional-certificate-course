@@ -233,6 +233,14 @@ cyclistic_data <- cyclistic_data %>%
 cyclistic_data <- cyclistic_data %>%
   filter(!is.na(ride_length) & ride_length > 0)
 
+cyclistic_data <- drop_na(cyclistic_data)
+
+# Remove duplicate rows based on ride_id
+initial_rows <- nrow(cyclistic_data)
+cyclistic_data <- cyclistic_data[!duplicated(cyclistic_data$ride_id), ]
+final_rows <- nrow(cyclistic_data)
+print(paste("Removed", initial_rows - final_rows, "duplicate rows"))
+
 # Examine the cleaned data
 glimpse(cyclistic_data)
 ```
