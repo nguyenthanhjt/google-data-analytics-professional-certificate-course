@@ -32,7 +32,6 @@ This article would be sharing how I approached and completed the Case Study 1 wh
     - [6. ACT](#6-act)
       - [Recommendations and Actions](#recommendations-and-actions)
       - [Implementation Plan](#implementation-plan)
-  - [Case Study 2](#case-study-2)
 
 ## Case Study 1: How does a bike-share navigate speedy success?
 
@@ -420,5 +419,3 @@ Based on the insights from the analysis, here are the actionable recommendations
 4. **Feedback Loop**:
    - Collect feedback from riders through surveys and social media to continuously improve the bike-share program.
    - Use the feedback to refine marketing messages, improve station amenities, and enhance the overall rider experience.
-
-## Case Study 2
