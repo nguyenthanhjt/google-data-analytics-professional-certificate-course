@@ -40,6 +40,53 @@ To share the code you wrote in this course, choose a Kaggle Notebook that suppor
 
     ![x](./resources/img-3.png)
 
-7. Repeat steps 2-6 to upload your portfolio pieces to their own Kaggle notebooks. 
+7. Repeat steps 2-6 to upload your portfolio pieces to their own Kaggle notebooks.
 
 You have now created (or duplicated) your portfolio in Kaggle! Your next step is to publish your portfolio.
+
+## Step 3: Publishe portfolio
+
+Now it’s time to publicly publish your portfolio on Kaggle. This will allow peers, hiring managers, and potential employers to view your skill set and provide feedback.
+
+Note: When you publish your portfolio, you will also need to publicize all documents associated with it. For example, if you include a link to a document on Google Drive, you will need to ensure it is also publicly viewable.
+
+1. To begin, navigate to the Your work tab on the Code screen to bring you to the list of your notebooks and scripts.
+
+    ![x](./resources/img-4.png)
+
+2. Select the first notebook or script you’d like to publicize. At the top right-hand corner, click the Share button.
+
+    ![x](./resources/img-5.png)
+
+3. If the Share window indicates that the document is private, click the button next to the Public option. 
+
+    ![x](./resources/img-6.png)
+
+    Once your project is public, you’ll be able to add relevant tags or any collaborators who contributed to the document. You can use tags to describe the topics your work relates to. [Click here](https://www.kaggle.com/tags) to learn more about which tags you can use on Kaggle.
+
+4. Repeat these steps until you’ve made each piece in your portfolio public on Kaggle. 
+
+    You have now uploaded your portfolio to Kaggle and can share your accomplishments with colleagues, hiring managers, and potential employers. You can update your portfolio as your skills as a data analyst continue to grow.
+
+    Now, share your portfolio by going to the Your work tab on Kaggle, selecting the project you’d like to share, and copying the URL from the address bar. Share this link to show the world your hard work!
+
+## Reflection
+
+### Question 1: Suppose you want to add a description of your code to your Kaggle notebook. What button will enable you to create the proper cell?
+
+- [ ] Description
+- [ ] Code
+- [ ] Markdown
+- [ ] Text
+
+### Question 2: In this activity, you created or duplicated your portfolio on Kaggle. In the text box below, write 2-3 sentences (40-60 words) in response to each of the following questions:
+
+- What is an advantage of using Kaggle as a platform for your portfolio?
+- Is there another platform you will use as well as or instead of Kaggle?
+- Now that you are about to finish the final course in the Google Data Analytics Certificate, which activities and projects from the course will be most effective for your portfolio?
+
+An advantage of using Kaggle as a platform for my portfolio is that it allows me to showcase my data analysis skills in an interactive environment, making it easier for potential employers to view and run the code. Additionally, Kaggle’s community features enable you to gain visibility and feedback from other data professionals.
+
+Besides Kaggle, I plan to use GitHub to host my portfolio. GitHub is widely recognized in the industry and allows me to manage and version control my projects effectively. Using both platforms will help me reach a broader audience and demonstrate my versatility.
+
+The most effective activities and projects for my portfolio will be the capstone project and the case studies. These projects provide comprehensive examples of my ability to analyze data, derive insights, and present findings, which are critical skills for a data analyst role.
