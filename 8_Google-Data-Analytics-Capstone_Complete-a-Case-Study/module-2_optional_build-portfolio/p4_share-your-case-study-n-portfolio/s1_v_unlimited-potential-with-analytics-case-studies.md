@@ -1,0 +1,5 @@
+# Video: Unlimited potential with analytics case studies
+
+## Transcript
+
+Congratulations, you've officially completed your personal case study and started building your portfolio. That's an amazing accomplishment. And it's all because of the hard work you've put into practicing your data analyst skills. If you really enjoyed this process, feel free to try a different track or choose another business scenario. The guide you used to finish your first case study can be used over and over again. And the more you use it, the more you'll find yourself improving in some unexpected ways. Plus, adding more case studies to your portfolio will make it even stronger. Coming up, we'll change gears a little. Now that you've got a portfolio over the completed case study, we can start talking about how to discuss your portfolio with recruiters, and some ways you can highlight your skills. This is where we start really putting the portfolio to good use. And you'll have a lot of opportunities to practice this. Great job, and I'll see you next time.
