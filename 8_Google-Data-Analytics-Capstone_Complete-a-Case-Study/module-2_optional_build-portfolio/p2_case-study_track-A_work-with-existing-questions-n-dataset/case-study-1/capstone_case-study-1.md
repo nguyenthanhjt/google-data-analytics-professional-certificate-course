@@ -1,5 +1,36 @@
 # Capstone - Case Study 1: How does a bike-share navigate speedy success?
 
+## Table of Contents
+
+- [Capstone - Case Study 1: How does a bike-share navigate speedy success?](#capstone---case-study-1-how-does-a-bike-share-navigate-speedy-success)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+    - [Scenario](#scenario)
+    - [Background](#background)
+      - [**Cyclistic Overview**](#cyclistic-overview)
+      - [**Company History**](#company-history)
+      - [**Marketing Strategy**](#marketing-strategy)
+      - [**Objective**](#objective)
+  - [Data Analysis Process](#data-analysis-process)
+  - [1. ASK](#1-ask)
+    - [**Main Objective**](#main-objective)
+    - [**Business Tasks**](#business-tasks)
+    - [**Deliverables**](#deliverables)
+  - [2. PREPARE](#2-prepare)
+    - [**\[PREPARE\] Key Tasks**](#prepare-key-tasks)
+    - [**Guiding Questions**](#guiding-questions)
+    - [Data Organization](#data-organization)
+  - [3. PROCESS](#3-process)
+    - [**\[PROCESS\] Key Tasks**](#process-key-tasks)
+    - [**Steps:**](#steps)
+  - [4. ANALYZE](#4-analyze)
+    - [**\[ANALYZE\] Key Tasks**](#analyze-key-tasks)
+  - [5. SHARE](#5-share)
+    - [**\[SHARE\] Key Tasks**](#share-key-tasks)
+    - [**Visualizations:**](#visualizations)
+  - [6. ACT](#6-act)
+    - [**\[ACT\] Key Tasks**](#act-key-tasks)
+
 ## Introduction
 
 ### Scenario
