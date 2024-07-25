@@ -1,7 +1,7 @@
 # Video: Scenario video: Introductions
 
-[Video](./resources/s3_v_scenario-video-introductions.mp4)
-[Transcript](./resources/s3_v_scenario-video-introductions.vtt)
+- [Video](./resources/s3_v_scenario-video-introductions.mp4)
+- [Transcript](./resources/s3_v_scenario-video-introductions.vtt)
 
 ## Video transcript
 
