@@ -8,23 +8,27 @@ Potential interviewers will ask you lots of different types of questions to ensu
 
 To use the template for the job application posting, click the link below and select “Use Template.”
 
-[Link to template: Job application posting](#)
+[Link to template: Job application posting](https://docs.google.com/document/d/1wJh2mlh-baGQw0i6Uh_up-yQmq9EvibyFSK3mTmb0JE/template/preview)
 
 Or, if you don’t have a Google account, you can download the file directly from the attachment below.
+
+[junior-data-analyst-job-application.docx](./resources/junior-data-analyst-job-application.docx)
 
 ## 1. Introduction
 
-The purpose of this first video lesson in the series titled, **Scenario video: Introductions** is for Jordan to get to know Sally and gain insight into her personality and background. This is the part of the interview when the interviewer usually answers questions about the company and the position. It’s also an opportunity for the applicant to outline how the skills they used in past roles can translate into the position they are applying for.
+The purpose of this first video lesson in the series titled, [**Scenario video: Introductions**](s3_v_scenario-video-introductions.md) is for Jordan to get to know Sally and gain insight into her personality and background. This is the part of the interview when the interviewer usually answers questions about the company and the position. It’s also an opportunity for the applicant to outline how the skills they used in past roles can translate into the position they are applying for.
 
 ## 2. Case study
 
-In this next video lesson titled, **Scenario video: Case study**, Sally is tasked with solving an assigned challenge of improving student grades by communicating a plan to outline her thinking, ask key questions, recommend solutions to parents, and more.
+In this next video lesson titled, [**Scenario video: Case study**](s5_v_scenario-video-case-study.md), Sally is tasked with solving an assigned challenge of improving student grades by communicating a plan to outline her thinking, ask key questions, recommend solutions to parents, and more.
 
 To use the PowerPoint template for the case study presentation, click the link below and select “Use Template.”
 
-[Link to PowerPoint template: Case study presentation example](#)
+[Link to PowerPoint template: Case study presentation example](https://docs.google.com/presentation/d/1sGM5w0zbf_5HS2aiTLFZEaVfIfn0Yea8zkQ5O5eTIfc/template/preview)
 
 Or, if you don’t have a Google account, you can download the file directly from the attachment below.
+
+[bridging-the-communication-gap-between-teachers-parents.pptx](./resources/bridging-the-communication-gap-between-teachers-parents.pptx)
 
 ## 3. Solving problems
 
