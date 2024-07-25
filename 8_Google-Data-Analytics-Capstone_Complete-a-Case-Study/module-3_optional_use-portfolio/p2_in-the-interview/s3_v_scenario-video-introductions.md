@@ -1,5 +1,8 @@
 # Video: Scenario video: Introductions
 
+[Video](./resources/s3_v_scenario-video-introductions.mp4)
+[Transcript](./resources/s3_v_scenario-video-introductions.vtt)
+
 ## Video transcript
 
 - Hi Jordan, how are you? Hi, Sally
@@ -97,3 +100,37 @@
 - Have a great week
 - You too
 - Bye
+
+## Key Points from "Scenario video: Introductions" Video Transcript
+
+- **Introduction:**
+  - Sally and Jordan meet and greet each other, setting a positive tone for the interview.
+  - Sally expresses her excitement and nervousness, and Jordan reassures her.
+
+- **About Sally:**
+  - Sally shares her background: initially pursuing teaching, then working in retail, and eventually transitioning to data analytics through the Google Data Analytics Certificate Program.
+  - Sally highlights her interest in data analytics, comparing it to solving puzzles that help companies make smarter business decisions.
+
+- **Skills and Experiences:**
+  - Sally provides an example from her teaching experience where she took initiative to solve budgeting issues, demonstrating her problem-solving and leadership skills.
+  - Sally discusses her ability to work both independently and collaboratively, drawing on experiences from teaching and retail.
+
+- **Adapting to a New Field:**
+  - Sally explains how her skills from teaching (simplifying complex information) and retail (communication and people management) would translate well to a data analyst role.
+  - She emphasizes her adaptability and willingness to learn.
+
+- **Motivation:**
+  - Sally shares that her motivation comes from the people she works with, valuing relationships and the impact of her work on others.
+
+- **Questions for the Interviewer:**
+  - Sally asks about the typical work week, day-to-day responsibilities, and what the next steps in the interview process are.
+  - Jordan provides detailed answers, emphasizing the importance of open communication and collaboration within the company.
+  - Jordan explains the next steps, including a case study assignment and a follow-up interview.
+
+- **Closing:**
+  - Both Sally and Jordan express their appreciation for the interview, leaving on a positive note.
+  - Jordan confirms that Sally will be contacted within a week with further instructions.
+
+### Summary
+
+The transcript highlights key elements of an introductory interview, where Sally effectively communicates her background, skills, and motivation. She asks insightful questions about the role and the company, demonstrating her preparedness and interest. Jordan provides valuable information about the company culture and next steps, ensuring a clear and positive conclusion to the interview.
