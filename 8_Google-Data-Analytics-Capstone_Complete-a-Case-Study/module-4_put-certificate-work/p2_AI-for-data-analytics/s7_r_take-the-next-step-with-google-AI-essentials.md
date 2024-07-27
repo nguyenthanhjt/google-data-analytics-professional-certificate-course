@@ -4,7 +4,7 @@ Congratulations on completing the AI for data analytics lesson! You've explored 
 
 If you’re ready to hone your skills and take your AI expertise to the next level — the Google AI Essentials course is the perfect next step!
 
-**Google AI Essentials** is a self-paced course designed to help people across roles and industries get essential AI skills to boost their productivity, zero experience required. The course is taught by AI experts at Google who are working to make the technology helpful for everyone. In under 10 hours, they’ll do more than teach you about AI — they’ll show you how to actually use it in your day-to-day work.
+[**Google AI Essentials**](https://www.coursera.org/learn/google-ai-essentials?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_google-ai-essentials_google_FTCOF_learn_country-US-country-CA&campaignid=21236345441&adgroupid=164614892067&device=c&keyword=google%20ai%20essentials%20course&matchtype=b&network=g&devicemodel=&adposition=&creativeid=697863018869&hide_mobile_promo&gad_source=1&gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8s1l186GIRMCcSWV4KKLmoSqHw94e76-8710eny44cBQQxAabTrf7EaAi8BEALw_wcB) is a self-paced course designed to help people across roles and industries get essential AI skills to boost their productivity, zero experience required. The course is taught by AI experts at Google who are working to make the technology helpful for everyone. In under 10 hours, they’ll do more than teach you about AI — they’ll show you how to actually use it in your day-to-day work.
 
 - **Stuck at the beginning of a project?** You’ll learn how to use AI tools to generate ideas and content.
 - **Planning an event?** You’ll use AI tools to help research, organize, and make more informed decisions.
