@@ -5,6 +5,7 @@ Since preparation is key to nailing interviews and landing a new job, we’ve wo
 We’re excited to be able to offer you 12 months of free access (originally a $79/month value) as part of the Google Data Analytics Certificate! You’ve earned it.
 
 On Big Interview you can:
+
 - Practice answering interview questions in a recorded environment that allows you to get feedback and hone your interviewing skills.
 - Prepare a resume using their resume-building tool.
 
