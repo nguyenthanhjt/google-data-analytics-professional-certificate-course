@@ -14,8 +14,6 @@ Sure! Here are some sample responses to the questions:
 
 ### What was your favorite part about the Google Data Analytics Certificate?
 
-My favorite part about the Google Data Analytics Certificate was the hands-on projects and case studies. They provided real-world scenarios that allowed me to apply the theoretical knowledge I gained throughout the courses. Specifically, working on data cleaning and visualization projects helped me understand the practical aspects of data analysis and prepared me for real job tasks.
-
 My favorite part of the Google Data Analytics Certificate was the hands-on projects, especially the capstone project. These projects provided me with real-world experience in data analysis, allowing me to apply the skills I learned throughout the courses. Working on actual datasets and solving problems helped solidify my understanding and gave me a sense of accomplishment.
 
 ### What are you most looking forward to as you graduate from this certificate program?
