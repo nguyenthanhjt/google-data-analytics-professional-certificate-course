@@ -2,7 +2,7 @@
 
 Academic integrity is important to Coursera and our institutional partners. Your commitment to academic integrity shows respect for your own work and the work of your peers.
 
-## Honor code - Mã danh dự
+## Honor code
 
 - You need to follow Coursera’s Honor Code to uphold Coursera's standard of academic integrity:
 
@@ -11,7 +11,7 @@ Academic integrity is important to Coursera and our institutional partners. Your
 - You may not share your solutions to homework, quizzes, or exams with anyone else unless explicitly permitted by the instructor. This includes anything written by you, as well as any official solutions provided by the course staff.
 - You may not engage in any other activities that will dishonestly improve your results or dishonestly improve or damage the results of others.
 
-## Plagiarism - Đạo văn
+## Plagiarism
 
 - Plagiarism is when you copy or reproduce words, ideas, or any other materials from another source without giving credit to the original author. Plagiarism also includes the practice of employing or allowing another person to alter or revise your work, and then submitting the work as your own. Students may discuss assignments among themselves, or with an instructor or tutor‚ but all assignment submissions must be original works done independently by the student. Plagiarism is unacceptable in any academic environment, and is a serious violation of the Coursera Honor Code.
 - If some or all of your assignment is identified as plagiarism, the following actions may be taken:
