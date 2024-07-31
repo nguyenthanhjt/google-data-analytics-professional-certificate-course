@@ -2,7 +2,11 @@
 
 ![x](./Google_Data-Analytics_certificate.png)
 
+----
+
 Welcome to my learning repository for the Google Data Analytics Professional Certificate. This repository is created to document and track my progress as I journey through the courses. Whether you're a fellow learner, a potential employer, or someone interested in data analytics, feel free to explore the content and contribute.
+
+----
 
 ## Purpose
 
