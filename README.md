@@ -1,5 +1,7 @@
 # README: [Google Data Analytics Professional Certificate] documentation
 
+[**My Certificate Credential URL**](https://www.coursera.org/account/accomplishments/professional-cert/SY8LSLZAKWMZ)
+
 ![x](./Google_Data-Analytics_certificate.png)
 
 ----
