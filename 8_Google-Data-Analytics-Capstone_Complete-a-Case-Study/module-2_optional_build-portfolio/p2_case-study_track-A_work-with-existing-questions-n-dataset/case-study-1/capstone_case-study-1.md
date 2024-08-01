@@ -265,7 +265,7 @@ The data consists of CSV files organized by quarters from 2013 to 2019 and by mo
       theme_minimal()
     ```
 
-    ![Average Ride Length by Member Type](./visualiztions/case-study-1_average-ride-length-by-member-type.png)
+    ![Average Ride Length by Member Type](./visualizations/case-study-1_average-ride-length-by-member-type.png)
 
 2. **Ride Count by Day of the Week:**
 
@@ -278,7 +278,7 @@ The data consists of CSV files organized by quarters from 2013 to 2019 and by mo
       theme_minimal()
     ```
 
-    ![Ride Count by Day of the Week](./visualiztions/case-study-1_ride-count-by-day-of-the-week.png)
+    ![Ride Count by Day of the Week](./visualizations/case-study-1_ride-count-by-day-of-the-week.png)
 
 3. **Popular Start and End Stations:**
 
@@ -297,7 +297,7 @@ The data consists of CSV files organized by quarters from 2013 to 2019 and by mo
       theme_minimal()
     ```
 
-    ![Popular Start and End Stations](./visualiztions/case-study-1_popular-start-n-end-stations-by-member-type.png)
+    ![Popular Start and End Stations](./visualizations/case-study-1_popular-start-n-end-stations-by-member-type.png)
 
 **Sharing Findings:**
 
