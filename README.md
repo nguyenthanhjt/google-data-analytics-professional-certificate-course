@@ -20,6 +20,13 @@ This repository serves several purposes:
 
 - Self-Documentation: Keypoints and insights are captured based on my understanding. This self-documentation aids in reinforcing concepts, making it a valuable resource for personal review.
 
+## Quick Link
+
+- [Case study documentation](./Case-Study-Documentation.md)
+  - [Case Study 1: R NoteBook](./8_Google-Data-Analytics-Capstone_Complete-a-Case-Study/module-2_optional_build-portfolio/p2_case-study_track-A_work-with-existing-questions-n-dataset/case-study-1/case-study-1_RNoteBook.rmd)
+  - [Case Study 1: Kaggle Notebook](https://www.kaggle.com/code/thanhbuinguyen/google-data-analytics-capstone-case-study-1/edit)
+  - [Case Study 1: Github Repository](https://github.com/nguyenthanhjt/google-data-analytics-certificate-capstone-case-study-1-cyclistic)
+
 ## Table of Contents
 
 Professional Certificate - 8-course series
