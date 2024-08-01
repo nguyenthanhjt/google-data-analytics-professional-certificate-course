@@ -2,7 +2,7 @@
 
 Hi there, over the few months, I've been working on the Google Data Analytics Professional Certificate through Coursera.
 
-With 8 courses including, Google team takes me through the Data analytics phases:
+With 8 courses including, Google team takes me through the Data analytics phases.
 
 At the last course, we have capstone projects which are required as a part of the certificate - junior data analyst skill.
 
@@ -22,7 +22,9 @@ This article would be sharing how I approached and completed the Case Studies wh
 
 ## Case Study 1
 
-[Case Study 1: R NoteBook](./8_Google-Data-Analytics-Capstone_Complete-a-Case-Study/module-2_optional_build-portfolio/p2_case-study_track-A_work-with-existing-questions-n-dataset/case-study-1/case-study-1_RNoteBook.rmd)
+- [Case Study 1: R NoteBook](./8_Google-Data-Analytics-Capstone_Complete-a-Case-Study/module-2_optional_build-portfolio/p2_case-study_track-A_work-with-existing-questions-n-dataset/case-study-1/case-study-1_RNoteBook.rmd)
+- [Kaggle Notebook](https://www.kaggle.com/code/thanhbuinguyen/google-data-analytics-capstone-case-study-1/edit)
+- [Github Repository](https://github.com/nguyenthanhjt/google-data-analytics-certificate-capstone-case-study-1-cyclistic)
 
 ## Case Study 2
 
