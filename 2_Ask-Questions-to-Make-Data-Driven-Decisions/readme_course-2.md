@@ -26,6 +26,7 @@ This is the second course in the Google Data Analytics Certificate. You’ll bui
 Learners who complete this certificate program will be equipped to apply for introductory-level jobs as data analysts. No previous experience is necessary.
 
 By the end of this course, you will:
+
 - Learn about effective questioning techniques that can help guide analysis. 
 - Gain an understanding of data-driven decision-making and how data analysts present findings.
 - Explore a variety of real-world business scenarios as an example of questioning and decision-making.
