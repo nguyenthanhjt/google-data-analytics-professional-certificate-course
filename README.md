@@ -23,6 +23,7 @@ This repository serves several purposes:
 ## Quick Link
 
 - [Case study documentation](./Case-Study-Documentation.md)
+- Case study 1:  **Cyclistic bike-share analysis case study: How does a bike-share navigate speedy success?**
   - [Case Study 1: R NoteBook](./8_Google-Data-Analytics-Capstone_Complete-a-Case-Study/module-2_optional_build-portfolio/p2_case-study_track-A_work-with-existing-questions-n-dataset/case-study-1/case-study-1_RNoteBook.rmd)
   - [Case Study 1: Kaggle Notebook](https://www.kaggle.com/code/thanhbuinguyen/google-data-analytics-capstone-case-study-1/edit)
   - [Case Study 1: Github Repository](https://github.com/nguyenthanhjt/google-data-analytics-certificate-capstone-case-study-1-cyclistic)
