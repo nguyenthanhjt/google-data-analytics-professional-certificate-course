@@ -36,7 +36,7 @@ By the end of this course, learners will:
 
 ### Course structure
 
-1. Module 1:Visualize data
+1. Module 1: Visualize data
 2. Module 2: Create data visualizations with Tableau
 3. Module 3: Craft data stories
 4. Module 4: Develop presentations and slideshows
