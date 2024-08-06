@@ -4,39 +4,40 @@
 
 ## What you'll learn
 
-- Define and explain key concepts involved in data analytics including data, data analysis, and data ecosystems.
-- Conduct an analytical thinking self assessment giving specific examples of the application of analytical thinking.
-- Discuss the role of spreadsheets, query languages, and data visualization tools in data analytics.
-- Describe the role of a data analyst with specific reference to jobs.
+- Explain what factors to consider when making decisions about data collection.
+- Discuss the difference between biased and unbiased data.
+- Describe databases with references to their functions and components.
 
 ## Skills you'll gain
 
+- Data Collection
 - Spreadsheet
-- Data Analysis
+- Metadata
 - SQL
-- Data Visualization
-- Data Cleansing
+- Data Ethics
 
 ## Overview
 
-***There are 4 modules in this course***
+***There are 5 modules in this course***
 
-This is the first course in the Google Data Analytics Certificate. Organizations of all kinds need data analysts to help them improve their processes, identify opportunities and trends, launch new products, and make thoughtful decisions. In this course, you’ll be introduced to the world of data analytics through hands-on curriculum developed by Google. The material shared covers plenty of key data analytics topics, and it’s designed to give you an overview of what’s to come in the Google Data Analytics Certificate. Current Google data analysts will instruct and provide you with hands-on ways to accomplish common data analyst tasks using the best tools and resources.
+This is the third course in the Google Data Analytics Certificate. As you continue to build on your understanding of the topics from the first two courses, you’ll be introduced to new topics that will help you gain practical data analytics skills. You’ll learn how to use tools like spreadsheets and SQL to extract and make use of the right data for your objectives, and how to organize and protect your data. Current Google data analysts will continue to instruct and provide you with hands-on ways to accomplish common data analyst tasks with the best tools and resources.
 
 Learners who complete this certificate program will be equipped to apply for introductory-level jobs as data analysts. No previous experience is necessary.
 
 By the end of this course, learners will:
 
-- Gain an understanding of the practices and processes employed by a junior or associate data analyst in their day-to-day job.
-- Learn about key analytical skills (data cleaning, data analysis, data visualization) and tools (spreadsheets, SQL, R programming, Tableau) that you can add to your professional toolbox.
-- Discover a wide variety of terms and concepts relevant to the role of a junior data analyst, such as the data life cycle and the data analysis process.
-- Evaluate the role of analytics in the data ecosystem.
-- Conduct an analytical thinking self-assessment.
-- Explore job opportunities available to you upon program completion, and learn about best practices you can leverage during your job search.
+- Find out how analysts decide what data to collect for analysis.
+- Learn about structured and unstructured data, data types, and data formats.
+- Discover how to identify different types of bias in data to help ensure data credibility. 
+- Explore how analysts use spreadsheets and SQL within databases and data sets.
+- Examine open data and the relationship between, and importance of, data ethics and data privacy.
+- Gain an understanding of how to access databases and extract, filter, and sort the data they contain.
+- Learn best practices for organizing data and keeping it secure.
 
 ### Course structure
 
-1. Module 1: Introducing data analytics and analytical thinking
-2. Module 2: The wonderful world of data
-3. Module 3: Set up your data analytics toolbox
-4. Module 4: Become a fair and impactful data professional
+1. Module 1: Data types and structures
+2. Module 2: Data Responsibility
+3. Module 3: Database essentials
+4. Module 4: Organize and protect data
+5. Module 5: Engage in the data community
