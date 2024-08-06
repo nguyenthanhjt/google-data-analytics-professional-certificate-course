@@ -21,7 +21,7 @@ This course is part of Google Data Analytics Professional Certificate
 
 ## Overview
 
-There are 4 modules in this course
+- **There are 4 modules in this course**
 
 This is the fifth course in the Google Data Analytics Certificate. In this course, you’ll explore what it means to actually analyze your data. You’ll take what you’ve learned up to this point and apply it to make sense of the data you’ve collected. You’ll learn how to organize and format your data using spreadsheets and SQL to help you look at and think about your data in different ways. You’ll also find out how to perform complex calculations with your data to address business objectives. You’ll learn how to use formulas, functions, and SQL queries as you conduct your analysis. Current Google data analysts will continue to instruct and provide you with hands-on ways to accomplish common data analyst tasks with the best tools and resources.
 
@@ -34,3 +34,9 @@ Learners who complete this certificate program will be equipped to apply for int
   - Use formulas and functions in spreadsheets to make data calculations.
   - Learn how to complete calculations using SQL queries.
 
+### Course Structure
+
+1. Module 1: Organize data for more effective analysis
+2. Module 2: Format and adjust data
+3. Module 3: Aggredate data for analysis
+4. Module 4: Perform data calculations
