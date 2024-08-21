@@ -6,7 +6,11 @@
 
 ----
 
-Welcome to my learning repository for the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics). This repository is created to document and track my progress as I journey through the courses. Whether you're a fellow learner, a potential employer, or someone interested in data analytics, feel free to explore the content and contribute.
+Welcome to my learning repository for the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics).
+
+This repository is created to document and track my progress as I journey through the courses.
+
+Whether you're a fellow learner, a potential employer, or someone interested in data analytics, feel free to explore the content and contribute.
 
 ----
 
