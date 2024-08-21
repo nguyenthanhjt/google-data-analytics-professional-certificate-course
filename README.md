@@ -103,9 +103,9 @@ Contributions are highly encouraged! If you've gone through the same courses or 
 To contribute:
 
 1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/new-feature`.
-3. Make and commit your changes: `git commit -m 'Add a new feature'`.
-4. Push to the branch: `git push origin feature/new-feature`.
+2. Create a new branch: `git checkout -b pr/update-xxx`.
+3. Make and commit your changes: `git commit -m 'Add a new update xxx'`.
+4. Push to the branch: `git push origin pr/update-xxx`.
 5. Open a pull request.
 
 ## Acknowledgements
