@@ -110,7 +110,7 @@ To contribute:
 
 ## Acknowledgements
 
-I'd like to express my gratitude to the creators of the Google Data Analytics Professional Certificate and the supportive community of learners. Special thanks to anyone who contributes to this repository.
+I'd like to express my gratitude to the creators of the [Google Data Analytics Professional Certificate] and the supportive community of learners. Special thanks to anyone who contributes to this repository.
 
 Feel free to reach out if you have any questions or suggestions!
 
